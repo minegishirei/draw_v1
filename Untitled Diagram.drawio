@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-28T12:39:36.354Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="skWrmZnbYTrqP9ksJvIL" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-28T12:39:44.307Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="5OcoPjc5KIVfr0DqGxTj" version="20.2.7" type="github" pages="2">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1186" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -92,6 +92,10 @@
         <mxCell id="Dx-FZ579uy77j5tFRDLg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Dx-FZ579uy77j5tFRDLg-2" target="Dx-FZ579uy77j5tFRDLg-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="830" y="599" />
+              <mxPoint x="830" y="640" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Dx-FZ579uy77j5tFRDLg-2" value="語彙力" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
