@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-02T10:11:37.888Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="qS8CQC4__zm-gwy_e2E9" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-02T10:13:54.213Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="gWzNcx9hdiy5yjjSiGvh" version="20.2.7" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1581" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -571,28 +571,25 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ENQCwKnhcIKwDzOBuOjb-1" value="交換可能性" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="760" y="80" width="190" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="iwA_sl3hqQtMLk3dEJCW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.753;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="762.5" y="210" as="sourcePoint" />
-            <mxPoint x="762.9500000000003" y="220.01999999999998" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="760" y="80" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XzCDOkTWsSv0MiCmVPAK-1" value="常に後戻りできる" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="960" y="200" width="190" height="80" as="geometry" />
+          <mxGeometry x="960" y="200" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Mr0UB_C8Mv64-vhFzspC-1" value="100円の財布と&#xa;1000円の財布&#xa;どっちが価値があると思う？" style="rounded=1;fillColor=#60BBFF;gradientColor=none;strokeColor=none;fontColor=black;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="530" y="200" width="190" height="80" as="geometry" />
+          <mxGeometry x="520" y="200" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Mr0UB_C8Mv64-vhFzspC-2" value="" style="rounded=1;fillColor=#60BBFF;gradientColor=none;strokeColor=none;fontColor=black;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="530" y="320" width="190" height="80" as="geometry" />
+        <mxCell id="Mr0UB_C8Mv64-vhFzspC-2" value="石ころを100円で売る&#xa;このプロセスに価値がある" style="rounded=1;fillColor=#60BBFF;gradientColor=none;strokeColor=none;fontColor=black;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="520" y="300" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Mr0UB_C8Mv64-vhFzspC-3" value="" style="rounded=1;fillColor=#60BBFF;gradientColor=none;strokeColor=none;fontColor=black;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="1460" width="190" height="80" as="geometry" />
+          <mxGeometry x="1480" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Mr0UB_C8Mv64-vhFzspC-4" value="常に後戻りできる" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="1460" y="120" width="190" height="80" as="geometry" />
+          <mxGeometry x="1480" y="120" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mr0UB_C8Mv64-vhFzspC-5" value="" style="rounded=1;fillColor=#60BBFF;gradientColor=none;strokeColor=none;fontColor=black;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="520" y="400" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
