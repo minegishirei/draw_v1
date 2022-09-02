@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-02T10:13:54.213Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="gWzNcx9hdiy5yjjSiGvh" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-02T10:17:30.526Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="TOafzGS6Z75bg6Gkc2bd" version="20.2.7" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1581" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -573,9 +573,6 @@
         <mxCell id="ENQCwKnhcIKwDzOBuOjb-1" value="交換可能性" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="760" y="80" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XzCDOkTWsSv0MiCmVPAK-1" value="常に後戻りできる" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="960" y="200" width="200" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="Mr0UB_C8Mv64-vhFzspC-1" value="100円の財布と&#xa;1000円の財布&#xa;どっちが価値があると思う？" style="rounded=1;fillColor=#60BBFF;gradientColor=none;strokeColor=none;fontColor=black;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="520" y="200" width="200" height="80" as="geometry" />
         </mxCell>
@@ -585,11 +582,17 @@
         <mxCell id="Mr0UB_C8Mv64-vhFzspC-3" value="" style="rounded=1;fillColor=#60BBFF;gradientColor=none;strokeColor=none;fontColor=black;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="1480" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Mr0UB_C8Mv64-vhFzspC-4" value="常に後戻りできる" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="Mr0UB_C8Mv64-vhFzspC-4" value="" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="1480" y="120" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Mr0UB_C8Mv64-vhFzspC-5" value="" style="rounded=1;fillColor=#60BBFF;gradientColor=none;strokeColor=none;fontColor=black;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="Mr0UB_C8Mv64-vhFzspC-5" value="コードは書かないほうがいい" style="rounded=1;fillColor=#60BBFF;gradientColor=none;strokeColor=none;fontColor=black;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="280" y="400" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mr0UB_C8Mv64-vhFzspC-6" value="車輪の再発明" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="520" y="400" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mr0UB_C8Mv64-vhFzspC-7" value="The Zen Programmer" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="760" y="400" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
