@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T11:33:32.771Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="qhRts-5oI1AEVp79FASw" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T11:34:03.385Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="qk12evYNEQccB10Roz13" version="20.2.8" type="github">
   <diagram id="0yLo_oqusycYQGxysIEg" name="Page-1">
     <mxGraphModel dx="1977" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -21,9 +21,6 @@
         </mxCell>
         <mxCell id="leWbqYneiwipQv3hau3y-10" value="&lt;h1&gt;期間を見極める&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="800" width="440" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="leWbqYneiwipQv3hau3y-11" value="&lt;h1&gt;トレードオフスライダー&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="800" width="440" height="200" as="geometry" />
         </mxCell>
         <mxCell id="leWbqYneiwipQv3hau3y-12" value="&lt;h1&gt;何がどれだけ必要か？&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="800" width="440" height="200" as="geometry" />
@@ -68,7 +65,7 @@
           <mxGeometry y="90" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lgWVWN7HaNwSlFGaL6JE-75" value="トレード・オフ・スライダー" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="850" width="250" height="257" as="geometry" />
+          <mxGeometry x="1000" y="800" width="250" height="257" as="geometry" />
         </mxCell>
         <mxCell id="lgWVWN7HaNwSlFGaL6JE-76" value="スコープ" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=18;" parent="lgWVWN7HaNwSlFGaL6JE-75" vertex="1">
           <mxGeometry y="26" width="250" height="26" as="geometry" />
