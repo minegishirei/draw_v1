@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T11:29:02.123Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Gx-fMrpgEkUPWuMr3ekw" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T11:33:32.771Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="qhRts-5oI1AEVp79FASw" version="20.2.8" type="github">
   <diagram id="0yLo_oqusycYQGxysIEg" name="Page-1">
     <mxGraphModel dx="1977" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -104,16 +104,19 @@
           <mxGeometry y="231" width="250" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jPFxV-o6CuYVyW_ULAPX-2" value="関連部署一覧" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="520" y="600" width="360" height="120" as="geometry" />
+          <mxGeometry x="520" y="600" width="360" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="jPFxV-o6CuYVyW_ULAPX-3" value="既存の道路交通留めシステムとの連携" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;" vertex="1" parent="jPFxV-o6CuYVyW_ULAPX-2">
+        <mxCell id="jPFxV-o6CuYVyW_ULAPX-3" value="通販事業部" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;" vertex="1" parent="jPFxV-o6CuYVyW_ULAPX-2">
           <mxGeometry y="30" width="360" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jPFxV-o6CuYVyW_ULAPX-4" value="オフラインでの利用" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;" vertex="1" parent="jPFxV-o6CuYVyW_ULAPX-2">
+        <mxCell id="jPFxV-o6CuYVyW_ULAPX-4" value="広告宣伝部" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;" vertex="1" parent="jPFxV-o6CuYVyW_ULAPX-2">
           <mxGeometry y="60" width="360" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jPFxV-o6CuYVyW_ULAPX-5" value="印刷機能の追加" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;" vertex="1" parent="jPFxV-o6CuYVyW_ULAPX-2">
+        <mxCell id="jPFxV-o6CuYVyW_ULAPX-5" value="貿易改革室" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;" vertex="1" parent="jPFxV-o6CuYVyW_ULAPX-2">
           <mxGeometry y="90" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jPFxV-o6CuYVyW_ULAPX-6" value="O2O推進室" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;" vertex="1" parent="jPFxV-o6CuYVyW_ULAPX-2">
+          <mxGeometry y="120" width="360" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
