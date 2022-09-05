@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T10:48:16.114Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="sPve2aYM3gUZzdxFRvBm" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T10:50:08.547Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ZmMMYFG0JGCtb_WB9Sp8" version="20.2.8" type="github">
   <diagram id="0yLo_oqusycYQGxysIEg" name="Page-1">
     <mxGraphModel dx="1694" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="leWbqYneiwipQv3hau3y-4" value="&lt;h1&gt;エレベーターピッチ&lt;/h1&gt;&lt;p&gt;・[建設現場の作業を把握]したい&lt;/p&gt;&lt;p&gt;・[現場責任者]向けの、&lt;/p&gt;&lt;p&gt;・[CSWP]というプロダクトは、&lt;/p&gt;&lt;p&gt;・[危険作業許可証発行システム]である。&lt;/p&gt;&lt;p&gt;・これは[作業許可証を親戚・追跡・監査する]ことができ、&lt;/p&gt;&lt;p&gt;・[原稿の紙ベースのシステム]とは違って、&lt;/p&gt;&lt;p&gt;・[ウェブ経由で、いつでもどこからでも利用できる機能]が備わっている。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="80" width="440" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="leWbqYneiwipQv3hau3y-6" value="&lt;h1&gt;やらないことリスト&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="leWbqYneiwipQv3hau3y-6" value="&lt;h1&gt;やらないことリスト&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="320" width="440" height="200" as="geometry" />
         </mxCell>
         <mxCell id="leWbqYneiwipQv3hau3y-7" value="&lt;h1&gt;ご近所さんを探す&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
@@ -54,6 +54,18 @@
         </mxCell>
         <mxCell id="lgWVWN7HaNwSlFGaL6JE-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://s3-ap-northeast-1.amazonaws.com/production-switch/uploads/article_eyecatch/file/17075/cropped_1603960237-13232-0687-1067.jpeg;" vertex="1" parent="lgWVWN7HaNwSlFGaL6JE-12">
           <mxGeometry x="36" y="115" width="228.57" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lgWVWN7HaNwSlFGaL6JE-14" value="やらないこと" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="50" y="370" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lgWVWN7HaNwSlFGaL6JE-15" value="既存の道路交通留めシステムとの連携" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;" vertex="1" parent="lgWVWN7HaNwSlFGaL6JE-14">
+          <mxGeometry y="30" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lgWVWN7HaNwSlFGaL6JE-16" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;" vertex="1" parent="lgWVWN7HaNwSlFGaL6JE-14">
+          <mxGeometry y="60" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lgWVWN7HaNwSlFGaL6JE-17" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;" vertex="1" parent="lgWVWN7HaNwSlFGaL6JE-14">
+          <mxGeometry y="90" width="360" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
