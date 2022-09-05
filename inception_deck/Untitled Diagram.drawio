@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T11:07:40.796Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="_BaahnsjdvMC_js41bvB" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T11:08:15.086Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="nngcH6Ndyg7xEGXYeMc_" version="20.2.8" type="github">
   <diagram id="0yLo_oqusycYQGxysIEg" name="Page-1">
     <mxGraphModel dx="1395" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           <mxGeometry x="1040" y="910" width="150" height="15" as="geometry" />
         </mxCell>
         <mxCell id="lgWVWN7HaNwSlFGaL6JE-75" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="700" width="230" height="186" as="geometry" />
+          <mxGeometry x="1440" y="700" width="230" height="238" as="geometry" />
         </mxCell>
         <mxCell id="lgWVWN7HaNwSlFGaL6JE-76" value="スコープ" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=18;" vertex="1" parent="lgWVWN7HaNwSlFGaL6JE-75">
           <mxGeometry y="26" width="230" height="26" as="geometry" />
@@ -90,6 +90,12 @@
         </mxCell>
         <mxCell id="lgWVWN7HaNwSlFGaL6JE-83" value="使い勝手&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=18;" vertex="1" parent="lgWVWN7HaNwSlFGaL6JE-75">
           <mxGeometry y="160" width="230" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lgWVWN7HaNwSlFGaL6JE-84" value="とにかくシンプルに！&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=18;" vertex="1" parent="lgWVWN7HaNwSlFGaL6JE-75">
+          <mxGeometry y="186" width="230" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lgWVWN7HaNwSlFGaL6JE-85" value="詳細な監査ログ&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=18;" vertex="1" parent="lgWVWN7HaNwSlFGaL6JE-75">
+          <mxGeometry y="212" width="230" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
