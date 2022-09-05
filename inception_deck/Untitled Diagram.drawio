@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T10:33:57.419Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="6oMmnaZsySa8CmZSNrmN" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T10:36:33.288Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="98ppVWdLqYg4IU8cSYCv" version="20.2.8" type="github">
   <diagram id="0yLo_oqusycYQGxysIEg" name="Page-1">
-    <mxGraphModel dx="1825" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1130" dy="1637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="leWbqYneiwipQv3hau3y-1" value="&lt;h1&gt;我々はなぜここにいるのか？&lt;/h1&gt;&lt;p&gt;建設現場での作業を安全に追跡・監視するため&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="80" width="440" height="200" as="geometry" />
-        </mxCell>
         <mxCell id="leWbqYneiwipQv3hau3y-4" value="&lt;h1&gt;エレベーターピッチ&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="320" width="440" height="200" as="geometry" />
         </mxCell>
@@ -33,6 +30,15 @@
         </mxCell>
         <mxCell id="leWbqYneiwipQv3hau3y-12" value="&lt;h1&gt;何がどれだけ必要か？&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="800" width="440" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="leWbqYneiwipQv3hau3y-14" value="" style="group;direction=south;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="154.375" y="-34.375" width="211.25" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="leWbqYneiwipQv3hau3y-1" value="&lt;h1&gt;我々はなぜここにいるのか？&lt;/h1&gt;&lt;p&gt;建設現場での作業を安全に追跡・監視するため&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="leWbqYneiwipQv3hau3y-14">
+          <mxGeometry width="440" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="leWbqYneiwipQv3hau3y-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://s3-ap-northeast-1.amazonaws.com/production-switch/uploads/article_eyecatch/file/17075/cropped_1603960237-13232-0687-1067.jpeg;" vertex="1" parent="leWbqYneiwipQv3hau3y-14">
+          <mxGeometry x="190" y="80" width="250" height="131.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
