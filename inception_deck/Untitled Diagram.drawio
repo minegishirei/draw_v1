@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T11:40:01.227Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="VtE1vvDTpb0XJjfELnPZ" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T11:41:06.761Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Bgaywh5CbPTZxb0MygC4" version="20.2.8" type="github">
   <diagram id="0yLo_oqusycYQGxysIEg" name="Page-1">
     <mxGraphModel dx="2372" dy="1242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -18,12 +18,6 @@
         </mxCell>
         <mxCell id="leWbqYneiwipQv3hau3y-9" value="&lt;h1&gt;プロジェクトのリスク&lt;/h1&gt;&lt;p&gt;・現場監督に時間を割いてもらえない&lt;/p&gt;&lt;p&gt;・チームの作業場所が分散している&lt;/p&gt;&lt;p&gt;・初挑戦のセキュリティアーキテクチャ&lt;/p&gt;&lt;p&gt;・物流追跡システムの切り替えタイミング&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="560" width="440" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="leWbqYneiwipQv3hau3y-10" value="&lt;h1&gt;何がどれだけ必要か&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="520" y="800" width="440" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="leWbqYneiwipQv3hau3y-12" value="&lt;h1&gt;ざっくりとしたタイムライン&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="800" width="440" height="200" as="geometry" />
         </mxCell>
         <mxCell id="leWbqYneiwipQv3hau3y-14" value="" style="group;direction=west;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="40" y="80" width="440" height="200" as="geometry" />
@@ -115,8 +109,17 @@
         <mxCell id="jPFxV-o6CuYVyW_ULAPX-6" value="O2O推進室" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;" vertex="1" parent="jPFxV-o6CuYVyW_ULAPX-2">
           <mxGeometry y="120" width="360" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jPFxV-o6CuYVyW_ULAPX-11" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="40" y="920" width="320" height="80" as="geometry" />
+        <mxCell id="jPFxV-o6CuYVyW_ULAPX-21" value="&lt;h1&gt;トレード・オフ・スライダー&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="560" width="440" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="jPFxV-o6CuYVyW_ULAPX-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="800" width="440" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="leWbqYneiwipQv3hau3y-12" value="&lt;h1&gt;ざっくりとしたタイムライン&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="jPFxV-o6CuYVyW_ULAPX-22" vertex="1">
+          <mxGeometry width="440" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="jPFxV-o6CuYVyW_ULAPX-11" value="" style="group" vertex="1" connectable="0" parent="jPFxV-o6CuYVyW_ULAPX-22">
+          <mxGeometry y="120" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jPFxV-o6CuYVyW_ULAPX-8" value="~3ヶ月" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="jPFxV-o6CuYVyW_ULAPX-11">
           <mxGeometry width="120" height="80" as="geometry" />
@@ -127,20 +130,47 @@
         <mxCell id="jPFxV-o6CuYVyW_ULAPX-10" value="1週間" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="jPFxV-o6CuYVyW_ULAPX-11">
           <mxGeometry x="200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jPFxV-o6CuYVyW_ULAPX-12" value="構築" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="100" y="860" width="80" height="60" as="geometry" />
+        <mxCell id="jPFxV-o6CuYVyW_ULAPX-12" value="構築" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="jPFxV-o6CuYVyW_ULAPX-22">
+          <mxGeometry x="60" y="60" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jPFxV-o6CuYVyW_ULAPX-13" value="受入テスト" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="200" y="860" width="80" height="60" as="geometry" />
+        <mxCell id="jPFxV-o6CuYVyW_ULAPX-13" value="受入テスト" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="jPFxV-o6CuYVyW_ULAPX-22">
+          <mxGeometry x="160" y="60" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jPFxV-o6CuYVyW_ULAPX-14" value="トレーニング" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="300" y="860" width="80" height="60" as="geometry" />
+        <mxCell id="jPFxV-o6CuYVyW_ULAPX-14" value="トレーニング" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="jPFxV-o6CuYVyW_ULAPX-22">
+          <mxGeometry x="260" y="60" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jPFxV-o6CuYVyW_ULAPX-19" value="リリース" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="920" width="120" height="80" as="geometry" />
+        <mxCell id="jPFxV-o6CuYVyW_ULAPX-19" value="リリース" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="jPFxV-o6CuYVyW_ULAPX-22">
+          <mxGeometry x="300" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jPFxV-o6CuYVyW_ULAPX-21" value="&lt;h1&gt;トレード・オフ・スライダー&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="560" width="440" height="200" as="geometry" />
+        <mxCell id="jPFxV-o6CuYVyW_ULAPX-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="520" y="800" width="440" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="jPFxV-o6CuYVyW_ULAPX-24" value="&lt;h1&gt;ざっくりとしたタイムライン&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="jPFxV-o6CuYVyW_ULAPX-23">
+          <mxGeometry width="440" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="jPFxV-o6CuYVyW_ULAPX-25" value="" style="group" vertex="1" connectable="0" parent="jPFxV-o6CuYVyW_ULAPX-23">
+          <mxGeometry y="120" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jPFxV-o6CuYVyW_ULAPX-26" value="~3ヶ月" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="jPFxV-o6CuYVyW_ULAPX-25">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jPFxV-o6CuYVyW_ULAPX-27" value="1週間" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="jPFxV-o6CuYVyW_ULAPX-25">
+          <mxGeometry x="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jPFxV-o6CuYVyW_ULAPX-28" value="1週間" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="jPFxV-o6CuYVyW_ULAPX-25">
+          <mxGeometry x="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jPFxV-o6CuYVyW_ULAPX-29" value="構築" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="jPFxV-o6CuYVyW_ULAPX-23">
+          <mxGeometry x="60" y="60" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jPFxV-o6CuYVyW_ULAPX-30" value="受入テスト" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="jPFxV-o6CuYVyW_ULAPX-23">
+          <mxGeometry x="160" y="60" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jPFxV-o6CuYVyW_ULAPX-31" value="トレーニング" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="jPFxV-o6CuYVyW_ULAPX-23">
+          <mxGeometry x="260" y="60" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jPFxV-o6CuYVyW_ULAPX-32" value="リリース" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="jPFxV-o6CuYVyW_ULAPX-23">
+          <mxGeometry x="300" y="120" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
