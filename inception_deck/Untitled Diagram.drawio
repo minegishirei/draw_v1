@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T10:31:06.498Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="AO6YPfASoNMwUr0IodaV" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T10:31:32.878Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="tFX25UtSvs47T02xvWsj" version="20.2.8" type="github">
   <diagram id="0yLo_oqusycYQGxysIEg" name="Page-1">
     <mxGraphModel dx="1825" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="40" y="80" width="440" height="200" as="geometry" />
         </mxCell>
         <mxCell id="leWbqYneiwipQv3hau3y-4" value="&lt;h1&gt;エレベーターピッチ&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="80" width="440" height="200" as="geometry" />
+          <mxGeometry x="520" y="320" width="440" height="200" as="geometry" />
         </mxCell>
         <mxCell id="leWbqYneiwipQv3hau3y-5" value="&lt;h1&gt;パッケージデザイン&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1000" y="80" width="440" height="200" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="40" y="320" width="440" height="200" as="geometry" />
         </mxCell>
         <mxCell id="leWbqYneiwipQv3hau3y-7" value="&lt;h1&gt;ご近所さんを探す&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="320" width="440" height="200" as="geometry" />
+          <mxGeometry x="520" y="560" width="440" height="200" as="geometry" />
         </mxCell>
         <mxCell id="leWbqYneiwipQv3hau3y-8" value="&lt;h1&gt;解決案を探す&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1000" y="320" width="440" height="200" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="40" y="560" width="440" height="200" as="geometry" />
         </mxCell>
         <mxCell id="leWbqYneiwipQv3hau3y-10" value="&lt;h1&gt;期間を見極める&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="560" width="440" height="200" as="geometry" />
+          <mxGeometry x="520" y="800" width="440" height="200" as="geometry" />
         </mxCell>
         <mxCell id="leWbqYneiwipQv3hau3y-11" value="&lt;h1&gt;何を諦めるかはっきりする&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1000" y="560" width="440" height="200" as="geometry" />
