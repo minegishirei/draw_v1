@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T10:44:10.163Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="TqHjMIUf1gE2huwhQ1PE" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T10:44:19.322Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="J_ch46enw6nmY58zCEw9" version="20.2.8" type="github">
   <diagram id="0yLo_oqusycYQGxysIEg" name="Page-1">
     <mxGraphModel dx="1483" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="leWbqYneiwipQv3hau3y-4" value="&lt;h1&gt;エレベーターピッチ&lt;/h1&gt;&lt;p&gt;・[建設現場の作業を把握]したい&lt;/p&gt;&lt;p&gt;・[現場責任者]向けの、&lt;/p&gt;&lt;p&gt;・[CSWP]というプロダクトは、&lt;/p&gt;&lt;p&gt;・[危険作業許可証発行システム]である。&lt;/p&gt;&lt;p&gt;・これは[作業許可証を親戚・追跡・監査する]ことができ、&lt;/p&gt;&lt;p&gt;・[原稿の紙ベースのシステム]とは違って、&lt;/p&gt;&lt;p&gt;・[ウェブ経由で、いつでもどこからでも利用できる機能]が備わっている。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="80" width="440" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="leWbqYneiwipQv3hau3y-5" value="&lt;h1&gt;パッケージデザイン&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="leWbqYneiwipQv3hau3y-5" value="&lt;h1&gt;パッケージデザイン&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1000" y="80" width="440" height="200" as="geometry" />
         </mxCell>
         <mxCell id="leWbqYneiwipQv3hau3y-6" value="&lt;h1&gt;やらないことリスト&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
