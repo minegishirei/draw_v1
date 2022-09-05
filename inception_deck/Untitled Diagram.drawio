@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T11:39:38.561Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="CWF7xgUMpVEGfbif97WX" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T11:40:01.227Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="VtE1vvDTpb0XJjfELnPZ" version="20.2.8" type="github">
   <diagram id="0yLo_oqusycYQGxysIEg" name="Page-1">
     <mxGraphModel dx="2372" dy="1242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
           <mxGeometry y="90" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lgWVWN7HaNwSlFGaL6JE-75" value="トレードオフ・スライダー" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="800" width="250" height="257" as="geometry" />
+          <mxGeometry x="1000" y="603" width="250" height="257" as="geometry" />
         </mxCell>
         <mxCell id="lgWVWN7HaNwSlFGaL6JE-76" value="スコープ" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=18;" parent="lgWVWN7HaNwSlFGaL6JE-75" vertex="1">
           <mxGeometry y="26" width="250" height="26" as="geometry" />
@@ -138,6 +138,9 @@
         </mxCell>
         <mxCell id="jPFxV-o6CuYVyW_ULAPX-19" value="リリース" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="920" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jPFxV-o6CuYVyW_ULAPX-21" value="&lt;h1&gt;トレード・オフ・スライダー&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="560" width="440" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
