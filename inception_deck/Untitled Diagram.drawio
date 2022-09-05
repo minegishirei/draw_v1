@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T11:43:54.870Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="-91ibFyFsT5Ho2olettp" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T11:45:01.776Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Tvj5ss2hPrVNjdv59prq" version="20.2.8" type="github">
   <diagram id="0yLo_oqusycYQGxysIEg" name="Page-1">
-    <mxGraphModel dx="1694" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1825" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="520" y="560" width="440" height="200" as="geometry" />
         </mxCell>
         <mxCell id="leWbqYneiwipQv3hau3y-8" value="&lt;h1&gt;アーキテクチャ図&lt;/h1&gt;&lt;p&gt;(省略する)&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="520" y="320" width="440" height="200" as="geometry" />
+          <mxGeometry x="40" y="800" width="440" height="200" as="geometry" />
         </mxCell>
         <mxCell id="leWbqYneiwipQv3hau3y-9" value="&lt;h1&gt;プロジェクトのリスク&lt;/h1&gt;&lt;p&gt;・現場監督に時間を割いてもらえない&lt;/p&gt;&lt;p&gt;・チームの作業場所が分散している&lt;/p&gt;&lt;p&gt;・初挑戦のセキュリティアーキテクチャ&lt;/p&gt;&lt;p&gt;・物流追跡システムの切り替えタイミング&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="560" width="440" height="200" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry x="1000" y="560" width="440" height="200" as="geometry" />
         </mxCell>
         <mxCell id="jPFxV-o6CuYVyW_ULAPX-22" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="40" y="800" width="440" height="200" as="geometry" />
+          <mxGeometry x="520" y="320" width="440" height="200" as="geometry" />
         </mxCell>
         <mxCell id="leWbqYneiwipQv3hau3y-12" value="&lt;h1&gt;ざっくりとしたタイムライン&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="jPFxV-o6CuYVyW_ULAPX-22" vertex="1">
           <mxGeometry width="440" height="200" as="geometry" />
