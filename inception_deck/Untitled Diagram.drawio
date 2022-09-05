@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T11:28:01.451Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="CuQazJXVUgo85nZ495UO" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T11:28:25.967Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="QdB0x4ByUiax3KYwyNR1" version="20.2.8" type="github">
   <diagram id="0yLo_oqusycYQGxysIEg" name="Page-1">
     <mxGraphModel dx="1977" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="leWbqYneiwipQv3hau3y-7" value="&lt;h1&gt;ご近所さんを探す&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="560" width="440" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="leWbqYneiwipQv3hau3y-8" value="&lt;h1&gt;解決案を探す&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="leWbqYneiwipQv3hau3y-8" value="&lt;h1&gt;解決案を探す&lt;/h1&gt;&lt;p&gt;(省略する)&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1000" y="560" width="440" height="200" as="geometry" />
         </mxCell>
         <mxCell id="leWbqYneiwipQv3hau3y-9" value="&lt;h1&gt;プロジェクトのリスク&lt;/h1&gt;&lt;p&gt;・現場監督に時間を割いてもらえない&lt;/p&gt;&lt;p&gt;・チームの作業場所が分散している&lt;/p&gt;&lt;p&gt;・初挑戦のセキュリティアーキテクチャ&lt;/p&gt;&lt;p&gt;・物流追跡システムの切り替えタイミング&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
