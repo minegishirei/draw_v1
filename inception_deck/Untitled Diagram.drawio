@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T11:03:48.550Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="fsBiy1iJrmByBx9Yaz34" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T11:05:51.005Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="5hCEJci8t-q57Vmwopen" version="20.2.8" type="github">
   <diagram id="0yLo_oqusycYQGxysIEg" name="Page-1">
     <mxGraphModel dx="1395" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -66,6 +66,27 @@
         </mxCell>
         <mxCell id="lgWVWN7HaNwSlFGaL6JE-61" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7ui.slider;barPos=20;strokeColor=#0080f0;strokeColor2=#a0a0a0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1040" y="910" width="150" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="lgWVWN7HaNwSlFGaL6JE-75" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="760" width="230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="lgWVWN7HaNwSlFGaL6JE-76" value="スコープ" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=18;" vertex="1" parent="lgWVWN7HaNwSlFGaL6JE-75">
+          <mxGeometry y="26" width="230" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lgWVWN7HaNwSlFGaL6JE-80" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7ui.slider;barPos=40.03;strokeColor=#0080f0;strokeColor2=#a0a0a0;fontSize=18;" vertex="1" parent="lgWVWN7HaNwSlFGaL6JE-75">
+          <mxGeometry y="52" width="230" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="lgWVWN7HaNwSlFGaL6JE-77" value="予算" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=18;" vertex="1" parent="lgWVWN7HaNwSlFGaL6JE-75">
+          <mxGeometry y="67" width="230" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lgWVWN7HaNwSlFGaL6JE-82" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7ui.slider;barPos=20;strokeColor=#0080f0;strokeColor2=#a0a0a0;fontSize=18;" vertex="1" parent="lgWVWN7HaNwSlFGaL6JE-75">
+          <mxGeometry y="93" width="230" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="lgWVWN7HaNwSlFGaL6JE-78" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=18;" vertex="1" parent="lgWVWN7HaNwSlFGaL6JE-75">
+          <mxGeometry y="108" width="230" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lgWVWN7HaNwSlFGaL6JE-81" value="スコープ" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=18;" vertex="1" parent="lgWVWN7HaNwSlFGaL6JE-75">
+          <mxGeometry y="134" width="230" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
