@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T08:55:51.208Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="VRHtSx2Pzca2Tu5bhuAv" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-21T08:57:09.823Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="VhgpozNM_C-Q79Olcr2m" version="20.5.3" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="1185" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -88,8 +88,14 @@
         <mxCell id="inZSbyZmvKbImGeBFs-A-38" value="アーキテクチャ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="680" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="inZSbyZmvKbImGeBFs-A-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="inZSbyZmvKbImGeBFs-A-39" target="inZSbyZmvKbImGeBFs-A-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="inZSbyZmvKbImGeBFs-A-39" value="駆け引き/交渉" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inZSbyZmvKbImGeBFs-A-40" value="読み取り不可能性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
