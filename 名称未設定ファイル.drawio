@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T08:54:53.786Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="sSMG9l4eZvX6-n9QcFuN" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-21T08:55:30.271Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ji-5_bWConFJaE2ok2x6" version="20.5.3" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="1185" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -81,6 +81,15 @@
         </mxCell>
         <mxCell id="inZSbyZmvKbImGeBFs-A-29" value="目標" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="inZSbyZmvKbImGeBFs-A-37" value="状態確認 / 判別式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inZSbyZmvKbImGeBFs-A-38" value="アーキテクチャ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inZSbyZmvKbImGeBFs-A-39" value="駆け引き" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
