@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T01:05:05.970Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="LmAwh1suHsgeyRLOQNx_" version="20.7.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-22T01:05:44.119Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="kalcLpKHwPDE26L77XPN" version="20.7.4" type="github" pages="3">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="1193" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -208,7 +208,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="a4J_tD9FHK3xgemTOsCV-1" value="読み取り不可能性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="400" width="600" height="60" as="geometry" />
+          <mxGeometry x="80" y="400" width="640" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6W3VLkoeGb5MHxH7wNwg-1" value="駆け引き/交渉" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="240" width="120" height="60" as="geometry" />
@@ -262,7 +262,7 @@
           <mxGeometry x="130" y="70" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_B46zmNz50q9xHwY8EBf-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="80" y="120" width="200" height="200" as="geometry" />
+          <mxGeometry x="80" y="65" width="200" height="370" as="geometry" />
         </mxCell>
         <mxCell id="_B46zmNz50q9xHwY8EBf-2" value="PSY" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="_B46zmNz50q9xHwY8EBf-1">
           <mxGeometry width="200" height="150" as="geometry" />
@@ -276,8 +276,8 @@
         <mxCell id="_B46zmNz50q9xHwY8EBf-5" value="ボディーランゲージ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_B46zmNz50q9xHwY8EBf-1">
           <mxGeometry x="35" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4AGg_c0wZisxlfH79rik-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="320" y="120" width="200" height="200" as="geometry" />
+        <mxCell id="4AGg_c0wZisxlfH79rik-1" value="" style="group" vertex="1" connectable="0" parent="_B46zmNz50q9xHwY8EBf-1">
+          <mxGeometry y="170" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="4AGg_c0wZisxlfH79rik-2" value="人材業界" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="4AGg_c0wZisxlfH79rik-1">
           <mxGeometry width="200" height="150" as="geometry" />
