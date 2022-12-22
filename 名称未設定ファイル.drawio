@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T00:58:22.104Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Nyjl_LIGlaUFToPGHGyy" version="20.7.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-22T00:59:53.697Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="44ltDUsnc7NxKfEPkOEo" version="20.7.4" type="github" pages="3">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="1193" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -175,6 +175,21 @@
         <mxCell id="Nrn3Vzutgz3Ykv-2pz5x-3" value="職業知識" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nrn3Vzutgz3Ykv-2pz5x-6">
           <mxGeometry x="35" y="60" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LVHz5VqLMdy4M4Zj_pwN-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="1100" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="LVHz5VqLMdy4M4Zj_pwN-2" value="PSY" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="LVHz5VqLMdy4M4Zj_pwN-1">
+          <mxGeometry width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="LVHz5VqLMdy4M4Zj_pwN-3" value="職業知識" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LVHz5VqLMdy4M4Zj_pwN-2">
+          <mxGeometry x="15" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVHz5VqLMdy4M4Zj_pwN-4" value="職業知識" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LVHz5VqLMdy4M4Zj_pwN-1">
+          <mxGeometry x="25" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVHz5VqLMdy4M4Zj_pwN-5" value="ボディーランゲージ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LVHz5VqLMdy4M4Zj_pwN-1">
+          <mxGeometry x="35" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -218,6 +233,23 @@
             <mxPoint x="5" y="520" as="sourcePoint" />
             <mxPoint x="835" y="520" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="X95ieRdKmyKC1UsvLONj" name="ページ3">
+    <mxGraphModel dx="1193" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="czhqWBCHm7vE-1ItIUB3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="czhqWBCHm7vE-1ItIUB3-1" target="czhqWBCHm7vE-1ItIUB3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="czhqWBCHm7vE-1ItIUB3-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="czhqWBCHm7vE-1ItIUB3-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
