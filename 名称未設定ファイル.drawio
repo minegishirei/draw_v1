@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T00:59:53.697Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="44ltDUsnc7NxKfEPkOEo" version="20.7.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-22T01:01:06.818Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="4aeyG7JaThH0zp74YIj1" version="20.7.4" type="github" pages="3">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="1193" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -161,7 +161,7 @@
           <mxGeometry x="280" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nrn3Vzutgz3Ykv-2pz5x-6" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="350" y="950" width="200" height="200" as="geometry" />
+          <mxGeometry x="360" y="1100" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="yquI6ktLGYZuGbfQ7vaa-7" value="人材業界" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="Nrn3Vzutgz3Ykv-2pz5x-6">
           <mxGeometry width="200" height="200" as="geometry" />
@@ -189,6 +189,9 @@
         </mxCell>
         <mxCell id="LVHz5VqLMdy4M4Zj_pwN-5" value="ボディーランゲージ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LVHz5VqLMdy4M4Zj_pwN-1">
           <mxGeometry x="35" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVHz5VqLMdy4M4Zj_pwN-6" value="ブランド" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
