@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T01:37:34.522Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="XoWVGmhqqbB4jxsMeJVf" version="20.7.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-22T01:38:06.501Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="n1n6hAmYoHJuN5cmY19-" version="20.7.4" type="github" pages="3">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="1193" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -324,7 +324,7 @@
         <mxCell id="y6o9rw01HhzRwaWWrSIZ-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="y6o9rw01HhzRwaWWrSIZ-18">
           <mxGeometry width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="y6o9rw01HhzRwaWWrSIZ-20" value="&lt;h1&gt;ジョブ&lt;/h1&gt;&lt;p&gt;トランザクションキープ。処理内容をロストしてはいけない。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="y6o9rw01HhzRwaWWrSIZ-18">
+        <mxCell id="y6o9rw01HhzRwaWWrSIZ-20" value="&lt;h1&gt;ジョブ&lt;/h1&gt;&lt;p&gt;トランザクションキープ&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="y6o9rw01HhzRwaWWrSIZ-18">
           <mxGeometry x="5" y="10" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="QGN3rfFHwMuUhLYEolWD-2" value="中盤/イベント駆動アーキテクチャ" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
