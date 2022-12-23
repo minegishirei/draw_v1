@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-23T11:44:58.339Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="JiNmCVjMRKKCOgVJPbx0" version="20.7.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-23T11:45:26.760Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="xV4-HyR4iGwceV2xXijD" version="20.7.4" type="github" pages="3">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="1193" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -362,7 +362,7 @@
         <mxCell id="OWafoXtwRn1rCCrCmbJ9-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="OWafoXtwRn1rCCrCmbJ9-14" vertex="1">
           <mxGeometry width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="OWafoXtwRn1rCCrCmbJ9-16" value="&lt;h1&gt;PSY&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;トランザクション運び。&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;他二つにない情報を生み出せる。リスクを負ってもいい。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="OWafoXtwRn1rCCrCmbJ9-14" vertex="1">
+        <mxCell id="OWafoXtwRn1rCCrCmbJ9-16" value="&lt;h1&gt;PSY&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;トランザクション運び。&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;予測すること。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="OWafoXtwRn1rCCrCmbJ9-14" vertex="1">
           <mxGeometry x="5" y="10" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OWafoXtwRn1rCCrCmbJ9-17" value="中盤/イベント駆動アーキテクチャ" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
