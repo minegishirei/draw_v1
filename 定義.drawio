@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T00:47:52.124Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="0GDcqJU7z2rKKwlBXxdV" version="20.8.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-01-24T00:48:24.516Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="mSPBjM6yJW_e77uWjbXr" version="20.8.3" type="github" pages="6">
   <diagram name="ver4" id="imDBrGnMGFNfz4Mmu_-v">
     <mxGraphModel dx="1194" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="xT7gQaACSE8CI_xEkgXx-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xT7gQaACSE8CI_xEkgXx-1">
           <mxGeometry width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="xT7gQaACSE8CI_xEkgXx-3" value="&lt;h1&gt;Typing&lt;/h1&gt;&lt;p&gt;行動予測と深層心理把握、パーソナリティ理解&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="xT7gQaACSE8CI_xEkgXx-1">
+        <mxCell id="xT7gQaACSE8CI_xEkgXx-3" value="&lt;h1&gt;Typing&lt;/h1&gt;&lt;p&gt;寿司打、vim、ショートカットキー&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="xT7gQaACSE8CI_xEkgXx-1">
           <mxGeometry x="5" y="7.142857142857143" width="190" height="85.71428571428572" as="geometry" />
         </mxCell>
       </root>
