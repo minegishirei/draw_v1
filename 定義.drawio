@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-25T01:22:27.294Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="xlF_HvA-o-lcC5VlbVag" version="20.8.10" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-01-25T01:24:26.942Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="PFAXxc2iWyzZQtSHUCJC" version="20.8.10" type="github" pages="7">
   <diagram name="ver4" id="imDBrGnMGFNfz4Mmu_-v">
     <mxGraphModel dx="1194" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -75,7 +75,7 @@
         <mxCell id="0Lp3fLVRh4IkwuIqzBpp-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0Lp3fLVRh4IkwuIqzBpp-4">
           <mxGeometry width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0Lp3fLVRh4IkwuIqzBpp-2" value="&lt;h1&gt;速さとは何か？&lt;/h1&gt;&lt;p&gt;人間が一度にできる操作については限界がある。ターン制のこと。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="0Lp3fLVRh4IkwuIqzBpp-4">
+        <mxCell id="0Lp3fLVRh4IkwuIqzBpp-2" value="&lt;h1&gt;速さとは何か？&lt;/h1&gt;&lt;p&gt;人間が一度にできる操作については限界がある。ターン制のこと。将棋には一度に一つの手しか打てない&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="0Lp3fLVRh4IkwuIqzBpp-4">
           <mxGeometry width="190" height="120" as="geometry" />
         </mxCell>
       </root>
