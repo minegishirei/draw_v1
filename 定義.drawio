@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-25T01:25:03.080Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="X-7o7UvLPjUSL6YpMoLB" version="20.8.10" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-01-25T01:25:47.277Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="eMvQcgsqtP9QrX3R_yAX" version="20.8.10" type="github" pages="7">
   <diagram name="ver4" id="imDBrGnMGFNfz4Mmu_-v">
     <mxGraphModel dx="1194" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -58,8 +58,8 @@
         <mxCell id="mebeEe5JR-ruzXooyLbb-6" value="&lt;h1&gt;Memonic&lt;/h1&gt;&lt;p&gt;インフラストラクチャ、アーキテクチャ、デザインパターン&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="mebeEe5JR-ruzXooyLbb-4" vertex="1">
           <mxGeometry x="10.952380952380953" y="7.14" width="416.1904761904762" height="82.86" as="geometry" />
         </mxCell>
-        <mxCell id="aJ3aL-59ZiZUYZuPgpux-0" value="&lt;b&gt;Shogi&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RWxobbVKRT-F5udP4Qzh-1">
-          <mxGeometry x="680" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="aJ3aL-59ZiZUYZuPgpux-0" value="&lt;b&gt;Shogi&lt;br&gt;&lt;/b&gt;&lt;br&gt;ターン制、手筋、詰めろ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RWxobbVKRT-F5udP4Qzh-1">
+          <mxGeometry x="680" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
