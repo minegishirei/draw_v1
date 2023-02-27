@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T01:15:55.523Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="PsAAmZAPHOxakAXuNKYt" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T01:19:05.302Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="n2MQIVFjmpczwgMTe37u" version="20.8.15" type="github">
   <diagram name="ページ1" id="Jqa1Tx-s0KO5ZwJz1B_P">
     <mxGraphModel dx="1592" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -30,6 +30,30 @@
         </mxCell>
         <mxCell id="-V-a0cZUHH01xrUINYRx-10" value="&lt;b&gt;SaaS&lt;/b&gt; &amp;gt; 実装" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="100" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-V-a0cZUHH01xrUINYRx-11" value="&lt;b&gt;スキル充足&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="200" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-V-a0cZUHH01xrUINYRx-12" value="&lt;b&gt;Noと言わない&lt;br&gt;しかし出来ないものにYesとも言わない&lt;br&gt;&lt;br&gt;AIは魔法じゃないことを&lt;br&gt;上手く伝えていく&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="300" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-V-a0cZUHH01xrUINYRx-14" value="&lt;b&gt;運用をする上で&lt;br&gt;ユーザーを巻き込んだ&lt;br&gt;運用工数を削減したシステム運用&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="480" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-V-a0cZUHH01xrUINYRx-15" value="&lt;b&gt;スピード感を意識して&lt;br&gt;具現化する&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="30" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-V-a0cZUHH01xrUINYRx-16" value="&lt;b&gt;スキルマップ&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="200" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-V-a0cZUHH01xrUINYRx-17" value="&lt;b&gt;工数管理システムの&lt;br&gt;導入&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="200" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-V-a0cZUHH01xrUINYRx-18" value="&lt;b&gt;価値ある無駄のないシステム&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="360" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-V-a0cZUHH01xrUINYRx-19" value="&lt;b&gt;ニアゼロメンテナンス&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="470" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
