@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T05:14:13.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="X6Ik7aqpItGt_KZhccef" version="20.7.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-03-24T05:14:29.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="q-X9UUKD50tlFV55hyww" version="20.7.4" type="github" pages="8">
   <diagram name="ver4" id="imDBrGnMGFNfz4Mmu_-v">
     <mxGraphModel dx="1674" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -623,7 +623,7 @@
         <mxCell id="2cmOuW_sZFmFdFxKvgbc-5" value="Psychology" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="720" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="2cmOuW_sZFmFdFxKvgbc-19" value="Read" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="2cmOuW_sZFmFdFxKvgbc-5">
+        <mxCell id="2cmOuW_sZFmFdFxKvgbc-19" value="Read State" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="2cmOuW_sZFmFdFxKvgbc-5">
           <mxGeometry x="20" y="40" width="240" height="280" as="geometry" />
         </mxCell>
         <mxCell id="2cmOuW_sZFmFdFxKvgbc-24" value="精神年齢" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2cmOuW_sZFmFdFxKvgbc-19">
