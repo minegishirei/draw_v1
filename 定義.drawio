@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-25T01:26:45.491Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="BWGpZRYUWQ08fi-y1ijA" version="20.8.10" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-03-24T00:08:26.998Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="mQ2WKanWUO1670_H5rg6" version="20.7.4" type="github" pages="8">
   <diagram name="ver4" id="imDBrGnMGFNfz4Mmu_-v">
-    <mxGraphModel dx="1194" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="RWxobbVKRT-F5udP4Qzh-0" />
         <mxCell id="RWxobbVKRT-F5udP4Qzh-1" parent="RWxobbVKRT-F5udP4Qzh-0" />
@@ -58,7 +58,7 @@
         <mxCell id="mebeEe5JR-ruzXooyLbb-6" value="&lt;h1&gt;Memonic&lt;/h1&gt;&lt;p&gt;インフラストラクチャ、アーキテクチャ、デザインパターン&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="mebeEe5JR-ruzXooyLbb-4" vertex="1">
           <mxGeometry x="10.952380952380953" y="7.14" width="416.1904761904762" height="82.86" as="geometry" />
         </mxCell>
-        <mxCell id="aJ3aL-59ZiZUYZuPgpux-0" value="&lt;b&gt;Shogi&lt;br&gt;&lt;/b&gt;&lt;br&gt;ターン制、手筋、詰めろ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RWxobbVKRT-F5udP4Qzh-1">
+        <mxCell id="aJ3aL-59ZiZUYZuPgpux-0" value="&lt;b&gt;Shogi&lt;br&gt;&lt;/b&gt;&lt;br&gt;ターン制、手筋、詰めろ" style="rounded=1;whiteSpace=wrap;html=1;" parent="RWxobbVKRT-F5udP4Qzh-1" vertex="1">
           <mxGeometry x="680" y="370" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
@@ -606,6 +606,23 @@
         </mxCell>
         <mxCell id="s55uWYcOpkRgiLQDPcXj-4" value="Mediatorは後から" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="s55uWYcOpkRgiLQDPcXj-1" vertex="1">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_N1ysPWspxZEBPwWvocT" name="Page-8">
+    <mxGraphModel dx="1674" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2cmOuW_sZFmFdFxKvgbc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="2cmOuW_sZFmFdFxKvgbc-5" target="2cmOuW_sZFmFdFxKvgbc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2cmOuW_sZFmFdFxKvgbc-5" value="Psychology" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="680" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="2cmOuW_sZFmFdFxKvgbc-6" value="Target" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="405" y="10" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
