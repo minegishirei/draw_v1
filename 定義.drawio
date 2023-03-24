@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T06:53:00.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="NQV5g5B3DsCHaD1iI_dg" version="20.7.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-03-24T06:53:51.033Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Yg9S_c-XLr61G5sjJbxu" version="20.7.4" type="github" pages="8">
   <diagram id="_N1ysPWspxZEBPwWvocT" name="ver5">
     <mxGraphModel dx="1674" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
           <mxGeometry x="660" y="620" width="77" height="72.39" as="geometry" />
         </mxCell>
         <mxCell id="2cmOuW_sZFmFdFxKvgbc-69" value="Engine Candidate" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="635" y="700" width="145" height="210" as="geometry" />
+          <mxGeometry x="635" y="700" width="145" height="240" as="geometry" />
         </mxCell>
         <mxCell id="2cmOuW_sZFmFdFxKvgbc-70" value="機械学習プロセス?&lt;br&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="2cmOuW_sZFmFdFxKvgbc-69" vertex="1">
           <mxGeometry y="30" width="145" height="30" as="geometry" />
@@ -134,11 +134,14 @@
         <mxCell id="2cmOuW_sZFmFdFxKvgbc-73" value="Googleのソフトウェア&lt;br&gt;エンジニアリング" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="2cmOuW_sZFmFdFxKvgbc-69" vertex="1">
           <mxGeometry y="120" width="145" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qIljfPdR7o0x7k48kbyo-2" value="レベルアップの&lt;br&gt;ゲームデザイン" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2cmOuW_sZFmFdFxKvgbc-69">
+        <mxCell id="qIljfPdR7o0x7k48kbyo-3" value="タイピング" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2cmOuW_sZFmFdFxKvgbc-69">
           <mxGeometry y="150" width="145" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qIljfPdR7o0x7k48kbyo-3" value="タイピング" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2cmOuW_sZFmFdFxKvgbc-69">
+        <mxCell id="qIljfPdR7o0x7k48kbyo-2" value="レベルアップの&lt;br&gt;ゲームデザイン" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2cmOuW_sZFmFdFxKvgbc-69">
           <mxGeometry y="180" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V6bxOTom4xZyvoSVG6j9-1" value="アーキテクチャ" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2cmOuW_sZFmFdFxKvgbc-69">
+          <mxGeometry y="210" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qIljfPdR7o0x7k48kbyo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2cmOuW_sZFmFdFxKvgbc-18" target="2cmOuW_sZFmFdFxKvgbc-58">
           <mxGeometry relative="1" as="geometry" />
@@ -655,7 +658,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ページ3のコピー" id="PWtH4Kki3CE_ixgM0-FU">
-    <mxGraphModel dx="1194" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="8ipQx6bS6f_A3CZj-Sfe-0" />
         <mxCell id="8ipQx6bS6f_A3CZj-Sfe-1" parent="8ipQx6bS6f_A3CZj-Sfe-0" />
