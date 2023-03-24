@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T05:11:31.304Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Gzio5F2mFaNaCeeNVt91" version="20.7.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-03-24T05:13:58.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="m3pOVNs_Edghfl9tJ5iu" version="20.7.4" type="github" pages="8">
   <diagram name="ver4" id="imDBrGnMGFNfz4Mmu_-v">
     <mxGraphModel dx="1674" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -627,7 +627,7 @@
           <mxGeometry x="20" y="40" width="240" height="280" as="geometry" />
         </mxCell>
         <mxCell id="2cmOuW_sZFmFdFxKvgbc-24" value="ミラーリング" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2cmOuW_sZFmFdFxKvgbc-19">
-          <mxGeometry x="20" y="40" width="100" height="60" as="geometry" />
+          <mxGeometry x="10" y="40" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2cmOuW_sZFmFdFxKvgbc-18" value="Write" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="2cmOuW_sZFmFdFxKvgbc-5">
           <mxGeometry x="430" y="40" width="270" height="280" as="geometry" />
@@ -666,17 +666,47 @@
         <mxCell id="2cmOuW_sZFmFdFxKvgbc-16" value="&lt;h1&gt;Psychology&lt;/h1&gt;&lt;p&gt;ケース別で大量のカードを用意できている。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="-150" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="2cmOuW_sZFmFdFxKvgbc-26" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="-50" width="120" height="80" as="geometry" />
+        <mxCell id="2cmOuW_sZFmFdFxKvgbc-34" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="470" y="-20" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="2cmOuW_sZFmFdFxKvgbc-27" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="-20" width="20" height="40" as="geometry" />
+        <mxCell id="2cmOuW_sZFmFdFxKvgbc-32" value="CASE RELATION" style="group" vertex="1" connectable="0" parent="2cmOuW_sZFmFdFxKvgbc-34">
+          <mxGeometry width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2cmOuW_sZFmFdFxKvgbc-28" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="-20" width="20" height="40" as="geometry" />
+        <mxCell id="2cmOuW_sZFmFdFxKvgbc-26" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="2cmOuW_sZFmFdFxKvgbc-32">
+          <mxGeometry width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2cmOuW_sZFmFdFxKvgbc-31" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-20" width="20" height="40" as="geometry" />
+        <mxCell id="2cmOuW_sZFmFdFxKvgbc-27" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="2cmOuW_sZFmFdFxKvgbc-32">
+          <mxGeometry x="30" y="30" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2cmOuW_sZFmFdFxKvgbc-28" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="2cmOuW_sZFmFdFxKvgbc-32">
+          <mxGeometry x="60" y="30" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2cmOuW_sZFmFdFxKvgbc-31" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="2cmOuW_sZFmFdFxKvgbc-32">
+          <mxGeometry x="90" y="30" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2cmOuW_sZFmFdFxKvgbc-33" value="CASEA &lt;br&gt;信頼関係構築" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2cmOuW_sZFmFdFxKvgbc-34">
+          <mxGeometry x="20" y="80" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2cmOuW_sZFmFdFxKvgbc-35" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="610" y="-20" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2cmOuW_sZFmFdFxKvgbc-36" value="CASE RELATION" style="group" vertex="1" connectable="0" parent="2cmOuW_sZFmFdFxKvgbc-35">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2cmOuW_sZFmFdFxKvgbc-37" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="2cmOuW_sZFmFdFxKvgbc-36">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2cmOuW_sZFmFdFxKvgbc-38" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="2cmOuW_sZFmFdFxKvgbc-36">
+          <mxGeometry x="30" y="30" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2cmOuW_sZFmFdFxKvgbc-39" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="2cmOuW_sZFmFdFxKvgbc-36">
+          <mxGeometry x="60" y="30" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2cmOuW_sZFmFdFxKvgbc-40" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="2cmOuW_sZFmFdFxKvgbc-36">
+          <mxGeometry x="90" y="30" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2cmOuW_sZFmFdFxKvgbc-41" value="CASEB&lt;br&gt;プレゼン" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2cmOuW_sZFmFdFxKvgbc-35">
+          <mxGeometry x="20" y="80" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
