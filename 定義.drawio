@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T01:23:53.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Au8avmLW4OBnEaK3Ql1w" version="20.7.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-03-24T02:27:22.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="z6-r2Recqn8p4ReW0hon" version="20.7.4" type="github" pages="8">
   <diagram name="ver4" id="imDBrGnMGFNfz4Mmu_-v">
     <mxGraphModel dx="1674" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -619,29 +619,38 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2cmOuW_sZFmFdFxKvgbc-5" value="Psychology" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="120" width="360" height="200" as="geometry" />
+          <mxGeometry x="40" y="120" width="720" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="2cmOuW_sZFmFdFxKvgbc-19" value="Read" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="2cmOuW_sZFmFdFxKvgbc-5">
+          <mxGeometry x="20" y="40" width="190" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="2cmOuW_sZFmFdFxKvgbc-18" value="Write" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="2cmOuW_sZFmFdFxKvgbc-5">
+          <mxGeometry x="480" y="40" width="200" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="2cmOuW_sZFmFdFxKvgbc-14" value="Engine" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://tistatech.com/wp-content/uploads/2016/03/agile-icon-blue.png;" vertex="1" parent="2cmOuW_sZFmFdFxKvgbc-5">
+          <mxGeometry x="270" y="120" width="147" height="138.19" as="geometry" />
         </mxCell>
         <mxCell id="2cmOuW_sZFmFdFxKvgbc-6" value="Target" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="405" y="10" width="30" height="60" as="geometry" />
+          <mxGeometry x="370" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2cmOuW_sZFmFdFxKvgbc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2cmOuW_sZFmFdFxKvgbc-8" target="2cmOuW_sZFmFdFxKvgbc-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="520" as="targetPoint" />
+            <mxPoint x="360" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2cmOuW_sZFmFdFxKvgbc-8" value="Engineer" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="640" width="160" height="200" as="geometry" />
+          <mxGeometry x="380" y="790" width="160" height="200" as="geometry" />
         </mxCell>
         <mxCell id="2cmOuW_sZFmFdFxKvgbc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2cmOuW_sZFmFdFxKvgbc-12" target="2cmOuW_sZFmFdFxKvgbc-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="520" as="targetPoint" />
+            <mxPoint x="360" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2cmOuW_sZFmFdFxKvgbc-12" value="Brand" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2cmOuW_sZFmFdFxKvgbc-14" value="Engine" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://tistatech.com/wp-content/uploads/2016/03/agile-icon-blue.png;" vertex="1" parent="1">
-          <mxGeometry x="346.5" y="370" width="147" height="138.19" as="geometry" />
+        <mxCell id="2cmOuW_sZFmFdFxKvgbc-16" value="&lt;h1&gt;Psychology&lt;/h1&gt;&lt;p&gt;ケース別で大量のカードを用意できているのが大きな強み。確実ではないにせよ、かなりの確率で読み取り、操作が可能になる。&lt;/p&gt;&lt;p&gt;どんなプロセスにせよ、どんな仕事、ミッションにせよ、結局は人&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="120" width="190" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
