@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T05:08:34.331Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="KYgwbuAOURlZze5hNlrJ" version="20.7.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-03-24T05:09:01.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="rDGA1iV0H2JwGWg7SsvE" version="20.7.4" type="github" pages="8">
   <diagram name="ver4" id="imDBrGnMGFNfz4Mmu_-v">
     <mxGraphModel dx="1674" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -623,6 +623,12 @@
         </mxCell>
         <mxCell id="2cmOuW_sZFmFdFxKvgbc-19" value="Read" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="2cmOuW_sZFmFdFxKvgbc-5">
           <mxGeometry x="20" y="40" width="190" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="2cmOuW_sZFmFdFxKvgbc-20" value="ミラーリング" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2cmOuW_sZFmFdFxKvgbc-19">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2cmOuW_sZFmFdFxKvgbc-21" value="ラベリング" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2cmOuW_sZFmFdFxKvgbc-19">
+          <mxGeometry x="20" y="119.10000000000002" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2cmOuW_sZFmFdFxKvgbc-18" value="Write" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="2cmOuW_sZFmFdFxKvgbc-5">
           <mxGeometry x="480" y="40" width="200" height="280" as="geometry" />
