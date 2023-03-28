@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T00:13:55.885Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="qkPDhARABf2VK2xmT9W9" version="21.1.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-03-28T00:26:09.212Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="9mFfm781HovRTO0Mg-k1" version="21.1.1" type="github" pages="8">
   <diagram id="_N1ysPWspxZEBPwWvocT" name="ver5">
     <mxGraphModel dx="1674" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
           <mxGeometry x="220" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2cmOuW_sZFmFdFxKvgbc-16" value="&lt;h1&gt;Psychology&lt;/h1&gt;&lt;p&gt;ケース別で大量のカードを用意できている。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="171" width="190" height="80" as="geometry" />
+          <mxGeometry x="570" y="160" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2cmOuW_sZFmFdFxKvgbc-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2cmOuW_sZFmFdFxKvgbc-58" target="2cmOuW_sZFmFdFxKvgbc-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -126,7 +126,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fY3ltkSZ-e_MuCH-b3Xl-8" value="&lt;h1&gt;Engine&lt;/h1&gt;&lt;p&gt;無限にある手札という最大限のリソースを効果的に引き出す。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="530" y="740" width="190" height="120" as="geometry" />
+          <mxGeometry x="530" y="620" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
