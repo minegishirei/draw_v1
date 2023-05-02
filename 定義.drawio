@@ -1,6 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T08:35:30.943Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="fTy0rmXQJSjGGrR0xgzS" version="21.2.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-05-02T00:40:19.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="vBex5QSWZBEUbPcaPNHO" version="21.2.3" type="github" pages="9">
+  <diagram id="VOO1Z1n8YV3KfVRlvYHQ" name="ver6">
+    <mxGraphModel dx="1434" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="_N1ysPWspxZEBPwWvocT" name="ver5">
-    <mxGraphModel dx="1674" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,7 +140,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ver4" id="imDBrGnMGFNfz4Mmu_-v">
-    <mxGraphModel dx="1674" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="RWxobbVKRT-F5udP4Qzh-0" />
         <mxCell id="RWxobbVKRT-F5udP4Qzh-1" parent="RWxobbVKRT-F5udP4Qzh-0" />
@@ -197,27 +205,27 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kp53YjnDnrVVReKoVNK4" name="ページ7">
-    <mxGraphModel dx="1194" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0Lp3fLVRh4IkwuIqzBpp-1" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0Lp3fLVRh4IkwuIqzBpp-1" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="30" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0Lp3fLVRh4IkwuIqzBpp-4" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="0Lp3fLVRh4IkwuIqzBpp-4" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="320" y="40" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0Lp3fLVRh4IkwuIqzBpp-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0Lp3fLVRh4IkwuIqzBpp-4">
+        <mxCell id="0Lp3fLVRh4IkwuIqzBpp-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="0Lp3fLVRh4IkwuIqzBpp-4" vertex="1">
           <mxGeometry width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0Lp3fLVRh4IkwuIqzBpp-2" value="&lt;h1&gt;速さとは何か？&lt;/h1&gt;&lt;p&gt;人間が一度にできる操作については限界がある。ターン制のこと。将棋には一度に一つの手しか打てない&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="0Lp3fLVRh4IkwuIqzBpp-4">
+        <mxCell id="0Lp3fLVRh4IkwuIqzBpp-2" value="&lt;h1&gt;速さとは何か？&lt;/h1&gt;&lt;p&gt;人間が一度にできる操作については限界がある。ターン制のこと。将棋には一度に一つの手しか打てない&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="0Lp3fLVRh4IkwuIqzBpp-4" vertex="1">
           <mxGeometry width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
-    <mxGraphModel dx="1674" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -420,7 +428,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nyPZuWi61jV4sUHr3D2n" name="ページ2">
-    <mxGraphModel dx="1194" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -560,7 +568,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X95ieRdKmyKC1UsvLONj" name="ページ3">
-    <mxGraphModel dx="1674" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -640,7 +648,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ページ3のコピー" id="PWtH4Kki3CE_ixgM0-FU">
-    <mxGraphModel dx="1674" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="8ipQx6bS6f_A3CZj-Sfe-0" />
         <mxCell id="8ipQx6bS6f_A3CZj-Sfe-1" parent="8ipQx6bS6f_A3CZj-Sfe-0" />
@@ -720,7 +728,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Xxg2kINWPw-Xd-zzLjKB" name="PSY">
-    <mxGraphModel dx="1194" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
