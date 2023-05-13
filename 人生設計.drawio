@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T06:22:43.202Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="NJdN8w0SDUSuThjij2DS" version="21.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-13T06:24:19.377Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="TBKG_ZQjA6R_-BuVbcWa" version="21.3.0" type="github" pages="2">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1592" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="18" value="Dockerハンズオン&#xa;10回" style="rounded=1;fillColor=#9999FF;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="230" y="740" width="370" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="23" value="Udemy" style="rounded=1;fillColor=#FF66B3;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="23" value="Udemy講師になる" style="rounded=1;fillColor=#FF66B3;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="620" y="740" width="400" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xF6ZWOKInyqR6n-Y7WRU-57" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
