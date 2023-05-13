@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T09:40:33.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="f3hZD99hNO9o1tYu4SfL" version="21.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-05-13T09:46:49.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="QPhQp1-0NGNMvQCnqQ1U" version="21.2.9" type="github" pages="4">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1434" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -262,12 +262,6 @@
             <mxPoint x="720" y="89" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pFjA3HuHM5ShIPEZKDiv-11" value="docker&#xa;compose&#xa;徹底解説" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="pFjA3HuHM5ShIPEZKDiv-1" vertex="1">
-          <mxGeometry x="240" y="119" width="68" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pFjA3HuHM5ShIPEZKDiv-13" value="Django&#xa;Nginx&#xa;Compose" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="pFjA3HuHM5ShIPEZKDiv-1" vertex="1">
-          <mxGeometry x="320" y="119" width="68" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="pFjA3HuHM5ShIPEZKDiv-14" value="ECS(Fargate)、ECRによる&#xa;Dockerコンテナ開発" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="pFjA3HuHM5ShIPEZKDiv-1" vertex="1">
           <mxGeometry x="160" y="309" width="310" height="70" as="geometry" />
         </mxCell>
@@ -279,9 +273,6 @@
         </mxCell>
         <mxCell id="pFjA3HuHM5ShIPEZKDiv-17" value="&lt;h1&gt;テーマ：実践レベルのDockerfile&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="pFjA3HuHM5ShIPEZKDiv-1" vertex="1">
           <mxGeometry x="240" y="14" width="480" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="pFjA3HuHM5ShIPEZKDiv-19" value="Word&#xa;press" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="pFjA3HuHM5ShIPEZKDiv-1" vertex="1">
-          <mxGeometry x="402" y="119" width="68" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pFjA3HuHM5ShIPEZKDiv-21" value="記事数&lt;br&gt;8→12" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="pFjA3HuHM5ShIPEZKDiv-1" vertex="1">
           <mxGeometry x="720" y="119" width="80" height="41" as="geometry" />
