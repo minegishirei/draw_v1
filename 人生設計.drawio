@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T09:49:09.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="4GP2qQLQCmNAAwoF0NTU" version="21.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-05-13T09:49:19.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="WCPWCXJ-YoMEd5aNTx3r" version="21.2.9" type="github" pages="4">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1434" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -232,7 +232,7 @@
       <root>
         <mxCell id="pFjA3HuHM5ShIPEZKDiv-0" />
         <mxCell id="pFjA3HuHM5ShIPEZKDiv-1" parent="pFjA3HuHM5ShIPEZKDiv-0" />
-        <mxCell id="pFjA3HuHM5ShIPEZKDiv-2" value="実践レベル&#xa;OSS&#xa;Dockerfile" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="pFjA3HuHM5ShIPEZKDiv-1" vertex="1">
+        <mxCell id="pFjA3HuHM5ShIPEZKDiv-2" value="実践レベル&#xa;Redmine&#xa;Dockerfile" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="pFjA3HuHM5ShIPEZKDiv-1" vertex="1">
           <mxGeometry x="160" y="119" width="68" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pFjA3HuHM5ShIPEZKDiv-3" value="火" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="pFjA3HuHM5ShIPEZKDiv-1" vertex="1">
@@ -279,9 +279,6 @@
         </mxCell>
         <mxCell id="pFjA3HuHM5ShIPEZKDiv-22" value="イメージ数&lt;br&gt;4→7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="pFjA3HuHM5ShIPEZKDiv-1" vertex="1">
           <mxGeometry x="720" y="160" width="80" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="J7HvgXWZu59n3NcYT-Fq-0" value="Redmine" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="pFjA3HuHM5ShIPEZKDiv-1">
-          <mxGeometry x="240" y="119" width="68" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
