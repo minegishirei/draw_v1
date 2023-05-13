@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T06:40:17.924Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="rAT78GKD4O_lZ2NuAxt1" version="21.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-13T06:42:18.613Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="AcBq8owPeNAbUmhPSydE" version="21.3.0" type="github" pages="3">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1592" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -140,6 +140,12 @@
         </mxCell>
         <mxCell id="YfpS8ggx-ZcZnwqrGNAQ-3" value="&lt;h1&gt;DockerのPythonイメージを極める週&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="5" width="430" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GKY9bzwdysOG-uuzM1cc-1" value="&lt;h1&gt;次やること&lt;/h1&gt;&lt;p&gt;「dockerを極める」という言葉通りの行動を起こせたこと。&lt;/p&gt;&lt;p&gt;イベントやブログを見てくれる人が良いプレッシャーとなったこと&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="400" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WvxYukVhRGBxMqUSq1eG-1" value="ハンズオン&#xa;Django" style="rounded=1;fillColor=#9999FF;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="640" y="110" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
