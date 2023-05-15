@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T09:03:15.491Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="SDKr7fs40aldqsDQqkWg" version="21.3.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-15T09:04:20.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="kTh3Sq2YKufp8UnCMA3a" version="21.3.0" type="github" pages="5">
   <diagram id="ziVh8wxVr6DFUzRhKqDj" name="自己紹介">
     <mxGraphModel dx="1674" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -181,6 +181,9 @@
         </mxCell>
         <mxCell id="gM4agHjGpIaAaUTVzUF1-1" value="ハンズオン&lt;br&gt;2回目" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="720" y="159.5" width="80" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="R_88vZ8xz2McswVpAV5v-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="1">
+          <mxGeometry x="640" y="145" width="20" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
