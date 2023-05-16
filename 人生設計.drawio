@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T06:15:55.523Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ibo85pmRExNPoUkqZ7d-" version="21.3.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-16T08:53:01.743Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="dwv32Abz0Umo51XvOVL9" version="21.3.2" type="github" pages="5">
   <diagram id="ziVh8wxVr6DFUzRhKqDj" name="自己紹介">
     <mxGraphModel dx="1674" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -239,7 +239,7 @@
           <mxGeometry x="120" y="19" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hk9pVeJTwvU5YPsQml7d-19" value="&lt;h1&gt;予定&lt;/h1&gt;&lt;p&gt;週の前半ではNginxについて&lt;/p&gt;&lt;p&gt;週の後半ではdocker-compose&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="Hk9pVeJTwvU5YPsQml7d-1" vertex="1">
-          <mxGeometry x="160" y="480" width="190" height="120" as="geometry" />
+          <mxGeometry x="160" y="680" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Hk9pVeJTwvU5YPsQml7d-20" value="&lt;h1&gt;テーマ：Docker-compose&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="Hk9pVeJTwvU5YPsQml7d-1" vertex="1">
           <mxGeometry x="240" y="14" width="480" height="40" as="geometry" />
@@ -265,14 +265,17 @@
         <mxCell id="S3llnuwgeC9rCu-zn0-w-5" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="Hk9pVeJTwvU5YPsQml7d-1" vertex="1">
           <mxGeometry x="160" y="201" width="20" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="7I2Q6iphAH70UtHSqbQp-0" value="OSS" style="rounded=1;fillColor=#4D4D4D;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Hk9pVeJTwvU5YPsQml7d-1">
+        <mxCell id="7I2Q6iphAH70UtHSqbQp-0" value="OSS" style="rounded=1;fillColor=#4D4D4D;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Hk9pVeJTwvU5YPsQml7d-1" vertex="1">
           <mxGeometry x="154" y="380" width="400" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7I2Q6iphAH70UtHSqbQp-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="Hk9pVeJTwvU5YPsQml7d-1">
+        <mxCell id="7I2Q6iphAH70UtHSqbQp-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="Hk9pVeJTwvU5YPsQml7d-1" vertex="1">
           <mxGeometry x="160" y="290" width="20" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="7I2Q6iphAH70UtHSqbQp-2" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="Hk9pVeJTwvU5YPsQml7d-1">
+        <mxCell id="7I2Q6iphAH70UtHSqbQp-2" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="Hk9pVeJTwvU5YPsQml7d-1" vertex="1">
           <mxGeometry x="240" y="119" width="20" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="OuYYi-8MPwsP4qSSNTu3-1" value="PMO&#xa;就任" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Hk9pVeJTwvU5YPsQml7d-1">
+          <mxGeometry x="320" y="470" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
