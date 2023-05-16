@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T04:42:01.122Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="KAyAEqxTQIm_I1UrZRi0" version="21.3.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-16T04:42:26.396Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="cZP8YFd12Z6DHv801IOg" version="21.3.0" type="github" pages="5">
   <diagram id="ziVh8wxVr6DFUzRhKqDj" name="自己紹介">
     <mxGraphModel dx="1674" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -224,13 +224,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Hk9pVeJTwvU5YPsQml7d-12" value="docker&#xa;compose&#xa;徹底解説" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Hk9pVeJTwvU5YPsQml7d-1" vertex="1">
-          <mxGeometry x="240" y="119" width="68" height="60" as="geometry" />
+          <mxGeometry x="240" y="119" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hk9pVeJTwvU5YPsQml7d-13" value="Nginx&#xa;静的サイト" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Hk9pVeJTwvU5YPsQml7d-1" vertex="1">
           <mxGeometry x="160" y="199" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Hk9pVeJTwvU5YPsQml7d-16" value="Django&#xa;Nginx&#xa;Compose" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Hk9pVeJTwvU5YPsQml7d-1" vertex="1">
-          <mxGeometry x="320" y="119" width="68" height="60" as="geometry" />
+          <mxGeometry x="402" y="119" width="68" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hk9pVeJTwvU5YPsQml7d-17" value="ECS&#xa;実践" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Hk9pVeJTwvU5YPsQml7d-1" vertex="1">
           <mxGeometry x="160" y="290" width="70" height="70" as="geometry" />
@@ -245,13 +245,13 @@
           <mxGeometry x="240" y="14" width="480" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XxWkW4DouzqRmkUsaa6--0" value="Compose" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Hk9pVeJTwvU5YPsQml7d-1" vertex="1">
-          <mxGeometry x="318" y="201" width="70" height="70" as="geometry" />
+          <mxGeometry x="400" y="201" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XxWkW4DouzqRmkUsaa6--1" value="Word&#xa;press" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Hk9pVeJTwvU5YPsQml7d-1" vertex="1">
-          <mxGeometry x="404" y="119" width="68" height="60" as="geometry" />
+          <mxGeometry x="486" y="119" width="68" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XxWkW4DouzqRmkUsaa6--2" value="Word&#xa;press" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Hk9pVeJTwvU5YPsQml7d-1" vertex="1">
-          <mxGeometry x="402" y="201" width="70" height="70" as="geometry" />
+          <mxGeometry x="484" y="201" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_ZXb6s39T44SkoncYWK_-0" value="記事数&lt;br&gt;8→12" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Hk9pVeJTwvU5YPsQml7d-1" vertex="1">
           <mxGeometry x="720" y="119" width="80" height="41" as="geometry" />
