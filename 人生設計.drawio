@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T03:43:08.856Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="W9q5MhWsgyZSLip4h3GB" version="21.3.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-17T03:43:45.298Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="eVDqg68BpSZkQWz-MDRU" version="21.3.2" type="github" pages="5">
   <diagram id="ziVh8wxVr6DFUzRhKqDj" name="自己紹介">
     <mxGraphModel dx="1674" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -289,8 +289,8 @@
         <mxCell id="OZMwAMQygSzF3nfgP-QT-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="Hk9pVeJTwvU5YPsQml7d-1">
           <mxGeometry x="320" y="201" width="20" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="OZMwAMQygSzF3nfgP-QT-2" value="&lt;h1&gt;水曜日&lt;/h1&gt;&lt;p&gt;なんやかんやテックリードになれる未来が見えた。ラベリングとしてテックリードをこのまま続けることが立ち回りとして大事。&lt;/p&gt;&lt;p&gt;OSSは動きなし。なんじゃこりゃ&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="Hk9pVeJTwvU5YPsQml7d-1">
-          <mxGeometry x="560" y="560" width="190" height="150" as="geometry" />
+        <mxCell id="OZMwAMQygSzF3nfgP-QT-2" value="&lt;h1&gt;水曜日&lt;/h1&gt;&lt;p&gt;なんやかんやテックリードになれる未来が見えた。ラベリングとしてテックリードをこのまま続けることが立ち回りとして大事。&lt;/p&gt;&lt;p&gt;OSSは動きなし。なんじゃこりゃ&lt;/p&gt;&lt;p&gt;あとApexが楽しすぎて仕事出来ん&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="Hk9pVeJTwvU5YPsQml7d-1">
+          <mxGeometry x="560" y="560" width="190" height="240" as="geometry" />
         </mxCell>
         <mxCell id="OZMwAMQygSzF3nfgP-QT-3" value="&lt;h1&gt;月曜日&lt;/h1&gt;&lt;p&gt;ECSを作ることに成功している。DockerのコンテナをFargateを用いて動かすという実績はかなり強いものがある。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="Hk9pVeJTwvU5YPsQml7d-1">
           <mxGeometry x="160" y="560" width="190" height="120" as="geometry" />
