@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T07:01:08.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="t2px38B_wz4A3yUaY8EF" version="21.3.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-19T07:01:20.955Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="NSda4s9cIEgkHgG6XJ3b" version="21.3.2" type="github" pages="5">
   <diagram id="ziVh8wxVr6DFUzRhKqDj" name="自己紹介">
     <mxGraphModel dx="1674" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -323,6 +323,9 @@
         </mxCell>
         <mxCell id="mGVJl3ffd9t1FJHtWQNY-4" value="休日" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Hk9pVeJTwvU5YPsQml7d-1">
           <mxGeometry x="560" y="119" width="149" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mGVJl3ffd9t1FJHtWQNY-5" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="Hk9pVeJTwvU5YPsQml7d-1">
+          <mxGeometry x="482" y="199" width="20" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
