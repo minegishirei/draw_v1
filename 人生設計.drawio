@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T00:35:20.752Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="JpWMF1xj8qfzhyl2g86p" version="21.3.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-22T00:35:45.450Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="hJRnSySga5TusKYnBp1o" version="21.3.2" type="github" pages="5">
   <diagram id="ziVh8wxVr6DFUzRhKqDj" name="自己紹介">
     <mxGraphModel dx="1674" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -380,9 +380,6 @@
         <mxCell id="pFjA3HuHM5ShIPEZKDiv-15" value="5/22の週 行動記録" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="pFjA3HuHM5ShIPEZKDiv-1" vertex="1">
           <mxGeometry x="120" y="19" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pFjA3HuHM5ShIPEZKDiv-16" value="&lt;h1&gt;予定&lt;/h1&gt;&lt;p&gt;週の前半ではNginxについて&lt;/p&gt;&lt;p&gt;週の後半ではdocker-compose&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="pFjA3HuHM5ShIPEZKDiv-1" vertex="1">
-          <mxGeometry x="160" y="409" width="190" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="pFjA3HuHM5ShIPEZKDiv-17" value="&lt;h1&gt;テーマ：実践レベルのDockerfile&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="pFjA3HuHM5ShIPEZKDiv-1" vertex="1">
           <mxGeometry x="240" y="14" width="480" height="40" as="geometry" />
         </mxCell>
@@ -397,6 +394,9 @@
         </mxCell>
         <mxCell id="_EYSugAqBIOA0fhJTVce-0" value="実践レベル&#xa;Redmine&#xa;Dockerfile" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="pFjA3HuHM5ShIPEZKDiv-1">
           <mxGeometry x="480" y="119" width="70" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="9x0CWGKLdMJ5QpBRUfd7-0" value="&lt;h1&gt;予定&lt;/h1&gt;&lt;p&gt;週の前半ではNginxについて&lt;/p&gt;&lt;p&gt;週の後半ではdocker-compose&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="pFjA3HuHM5ShIPEZKDiv-1">
+          <mxGeometry x="599" y="240" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
