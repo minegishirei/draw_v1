@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T00:36:03.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="07yNtdj_LtrzQvg4zwVL" version="21.3.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-22T00:36:43.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="-4o1YwuJPFCOpmqCRWs6" version="21.3.2" type="github" pages="5">
   <diagram id="ziVh8wxVr6DFUzRhKqDj" name="自己紹介">
     <mxGraphModel dx="1674" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -333,7 +333,7 @@
         <mxCell id="JorLwqY7i7PVq4IBybx8-0" value="&lt;h1&gt;結果&lt;/h1&gt;&lt;p&gt;docker-composeを極めに行く試みはよかった。awsomedockerのOSSについては引き続きみねぎしれいのブランド力が問題となる。&lt;/p&gt;&lt;p&gt;仕事は超順調。&lt;/p&gt;&lt;p&gt;次週は実践レベルのDockerfileを見ていくことにする。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="Hk9pVeJTwvU5YPsQml7d-1">
           <mxGeometry x="599" y="399" width="190" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="JorLwqY7i7PVq4IBybx8-1" value="&lt;h1&gt;次週の予定&lt;/h1&gt;&lt;p&gt;・実践レベルのOSSのDockerfileを見ること。動作を確認すること。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="Hk9pVeJTwvU5YPsQml7d-1">
+        <mxCell id="JorLwqY7i7PVq4IBybx8-1" value="&lt;h1&gt;次週の予定&lt;/h1&gt;&lt;p&gt;・実践レベルのOSSのDockerfileを見ること。動作を確認すること。&lt;/p&gt;&lt;p&gt;・（未定）コミュニティの集客につながる行動をしたい&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="Hk9pVeJTwvU5YPsQml7d-1">
           <mxGeometry x="600" y="598" width="190" height="190" as="geometry" />
         </mxCell>
       </root>
