@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T00:33:45.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="J-tues4hJUvtylmShA1z" version="21.3.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-22T00:35:02.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="uHvxfokOILoMjXal39ac" version="21.3.2" type="github" pages="5">
   <diagram id="ziVh8wxVr6DFUzRhKqDj" name="自己紹介">
     <mxGraphModel dx="1674" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -345,7 +345,7 @@
         <mxCell id="pFjA3HuHM5ShIPEZKDiv-0" />
         <mxCell id="pFjA3HuHM5ShIPEZKDiv-1" parent="pFjA3HuHM5ShIPEZKDiv-0" />
         <mxCell id="pFjA3HuHM5ShIPEZKDiv-2" value="実践レベル&#xa;Redmine&#xa;Dockerfile" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="pFjA3HuHM5ShIPEZKDiv-1" vertex="1">
-          <mxGeometry x="160" y="119" width="68" height="60" as="geometry" />
+          <mxGeometry x="160" y="119" width="70" height="71" as="geometry" />
         </mxCell>
         <mxCell id="pFjA3HuHM5ShIPEZKDiv-3" value="火" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="pFjA3HuHM5ShIPEZKDiv-1" vertex="1">
           <mxGeometry x="219" y="59" width="60" height="30" as="geometry" />
@@ -392,11 +392,11 @@
         <mxCell id="pFjA3HuHM5ShIPEZKDiv-22" value="イメージ数&lt;br&gt;4→7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="pFjA3HuHM5ShIPEZKDiv-1" vertex="1">
           <mxGeometry x="720" y="160" width="80" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="qWIvzj8XD37y9z3v9c4Q-0" value="実践レベル&#xa;Wordpress&#xa;Dockerfile" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="pFjA3HuHM5ShIPEZKDiv-1" vertex="1">
-          <mxGeometry x="240" y="119" width="68" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="qWIvzj8XD37y9z3v9c4Q-1" value="Hagging&#xa;Chat&#xa;OSS化" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="pFjA3HuHM5ShIPEZKDiv-1" vertex="1">
-          <mxGeometry x="402" y="119" width="68" height="60" as="geometry" />
+          <mxGeometry x="400" y="119" width="70" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="_EYSugAqBIOA0fhJTVce-0" value="実践レベル&#xa;Redmine&#xa;Dockerfile" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="pFjA3HuHM5ShIPEZKDiv-1">
+          <mxGeometry x="480" y="119" width="70" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
