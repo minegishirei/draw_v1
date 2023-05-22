@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T00:36:43.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="-4o1YwuJPFCOpmqCRWs6" version="21.3.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-22T00:37:02.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="rFGs4UEmK_aR7fTAFcTK" version="21.3.2" type="github" pages="5">
   <diagram id="ziVh8wxVr6DFUzRhKqDj" name="自己紹介">
     <mxGraphModel dx="1674" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -395,11 +395,11 @@
         <mxCell id="_EYSugAqBIOA0fhJTVce-0" value="実践レベル&#xa;Redmine&#xa;Dockerfile" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="pFjA3HuHM5ShIPEZKDiv-1">
           <mxGeometry x="480" y="119" width="70" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="9x0CWGKLdMJ5QpBRUfd7-0" value="&lt;h1&gt;予定&lt;/h1&gt;&lt;p&gt;週の前半ではNginxについて&lt;/p&gt;&lt;p&gt;週の後半ではdocker-compose&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="pFjA3HuHM5ShIPEZKDiv-1">
-          <mxGeometry x="599" y="240" width="190" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="GjuztNWM5xZ75RfQ0v6X-0" value="実践レベル&#xa;Knowledge&#xa;Dockerfile" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="pFjA3HuHM5ShIPEZKDiv-1">
           <mxGeometry x="160" y="199" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="e3Ji-xMDS4SNTaUIPKz8-1" value="&lt;h1&gt;次週の予定&lt;/h1&gt;&lt;p&gt;・実践レベルのOSSのDockerfileを見ること。動作を確認すること。&lt;/p&gt;&lt;p&gt;・（未定）コミュニティの集客につながる行動をしたい&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="pFjA3HuHM5ShIPEZKDiv-1">
+          <mxGeometry x="599" y="240" width="190" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
