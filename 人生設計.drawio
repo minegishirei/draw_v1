@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T01:15:22.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="9ApSreKGv7ZMbCN_swCm" version="21.3.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-05-23T01:17:22.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="6kMZJoUZi64f9OI8bPX4" version="21.3.2" type="github" pages="6">
   <diagram id="ziVh8wxVr6DFUzRhKqDj" name="自己紹介">
     <mxGraphModel dx="1674" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
           <mxGeometry x="160" y="470" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4BP0SrxgOCKBO0YS85qr-24" value="日本語ドキュメント&#xa;https://docs.docker.jp/about.html" style="rounded=1;fillColor=#4D4D4D;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="690" y="290" width="240" height="70" as="geometry" />
+          <mxGeometry x="480" y="200" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QxE2RGYagGy3tvdvQrlY-23" value="&lt;h1&gt;4月：落ち着いたエンジニア&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-160" y="560" width="190" height="120" as="geometry" />
@@ -116,6 +116,9 @@
         </mxCell>
         <mxCell id="wME3YywJDaO5Y4TE0Xyb-46" value="Docker&#xa;OSS&#xa;Project" style="rounded=1;fillColor=#4D4D4D;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="240" y="470" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="meQvsrhxQ2nUZEpvDNBp-23" value="Docker&#xa;ハンズオン" style="rounded=1;fillColor=#9999FF;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="480" y="380" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
