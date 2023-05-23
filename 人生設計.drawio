@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T01:20:19.327Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="bITf4kmscomTnSZePGGn" version="21.3.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-05-23T01:22:13.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="tWLurKQQV3xKZU5fBvzy" version="21.3.2" type="github" pages="6">
   <diagram id="ziVh8wxVr6DFUzRhKqDj" name="自己紹介">
     <mxGraphModel dx="1674" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,11 +63,8 @@
         <mxCell id="Gdgko9D3i1UR2ON9QMaX-30" value="Docker OSS読み込み" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1120" y="200" width="1270" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Gdgko9D3i1UR2ON9QMaX-35" value="Dockerの&lt;b&gt;使い方&lt;/b&gt;を極める" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;" parent="1" vertex="1">
+        <mxCell id="Gdgko9D3i1UR2ON9QMaX-35" value="Dockerの&lt;b&gt;使い方&lt;/b&gt;を極める" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#E5CCFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="160" y="80" width="350" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Gdgko9D3i1UR2ON9QMaX-36" value="Dockerの&lt;b&gt;内側の理解&lt;/b&gt;を深める" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;" parent="1" vertex="1">
-          <mxGeometry x="480" y="80" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="biAWk2xDUx3XPj78VRRz-23" value="Docker&#xa;OSS&#xa;Project" style="rounded=1;fillColor=#4D4D4D;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="160" y="470" width="70" height="70" as="geometry" />
@@ -119,6 +116,12 @@
         </mxCell>
         <mxCell id="meQvsrhxQ2nUZEpvDNBp-23" value="Docker&#xa;ハンズオン" style="rounded=1;fillColor=#9999FF;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="480" y="380" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="meQvsrhxQ2nUZEpvDNBp-25" value="Dockerの&lt;b&gt;使い方&lt;/b&gt;を極める" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#E5CCFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="meQvsrhxQ2nUZEpvDNBp-26" value="Dockerの内側が分かる" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#CC99FF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="800" y="80" width="350" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
