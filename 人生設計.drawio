@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T06:00:09.289Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="2Dq8oG2qOhYOtEBSaL_Y" version="21.3.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-26T06:20:41.159Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="4C-rySx4_nCcLtUYYR4R" version="21.3.3" type="github" pages="5">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -389,6 +389,9 @@
         </mxCell>
         <mxCell id="mOU3N2Upa3s5rd7hq-a0-0" value="非公式&#xa;Docker OSS&#xa;Redmine ver" style="rounded=1;fillColor=#4D4D4D;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="pFjA3HuHM5ShIPEZKDiv-1" vertex="1">
           <mxGeometry x="240" y="200" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="32QGTQ_FH9NUCSCbl6eO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="pFjA3HuHM5ShIPEZKDiv-1" source="QQQMK61vPrv40cqXtFSU-0" target="32QGTQ_FH9NUCSCbl6eO-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QQQMK61vPrv40cqXtFSU-0" value="Oreilly&#xa;Japanの&#xa;翻訳者&#xa;になりたい" style="rounded=1;fillColor=#4D4D4D;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="pFjA3HuHM5ShIPEZKDiv-1" vertex="1">
           <mxGeometry x="240" y="360" width="70" height="70" as="geometry" />
