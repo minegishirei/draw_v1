@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T05:58:11.358Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="OVC9dFw5Hv97siT9zkNC" version="21.3.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-26T05:58:50.049Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="XvQTbWuX_gggT80dVLqK" version="21.3.3" type="github" pages="5">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -391,7 +391,7 @@
           <mxGeometry x="240" y="200" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QQQMK61vPrv40cqXtFSU-0" value="Oreilly&#xa;Japanの&#xa;翻訳者&#xa;になりたい" style="rounded=1;fillColor=#4D4D4D;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="pFjA3HuHM5ShIPEZKDiv-1" vertex="1">
-          <mxGeometry x="240" y="280" width="70" height="70" as="geometry" />
+          <mxGeometry x="240" y="360" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7XvDL8hXi33gfauYfPdz-0" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="pFjA3HuHM5ShIPEZKDiv-1" vertex="1">
           <mxGeometry x="160" y="119" width="20" height="21" as="geometry" />
@@ -406,13 +406,13 @@
           <mxGeometry x="240" y="200" width="20" height="21" as="geometry" />
         </mxCell>
         <mxCell id="7XvDL8hXi33gfauYfPdz-4" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="pFjA3HuHM5ShIPEZKDiv-1" vertex="1">
-          <mxGeometry x="240" y="280" width="20" height="21" as="geometry" />
+          <mxGeometry x="240" y="360" width="20" height="21" as="geometry" />
         </mxCell>
         <mxCell id="7XvDL8hXi33gfauYfPdz-5" value="Githubの&#xa;整理" style="rounded=1;fillColor=#FFFFCC;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#black;fontSize=14;" parent="pFjA3HuHM5ShIPEZKDiv-1" vertex="1">
-          <mxGeometry x="240" y="360" width="70" height="70" as="geometry" />
+          <mxGeometry x="240" y="281" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7XvDL8hXi33gfauYfPdz-6" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="pFjA3HuHM5ShIPEZKDiv-1" vertex="1">
-          <mxGeometry x="240" y="360" width="20" height="21" as="geometry" />
+          <mxGeometry x="240" y="281" width="20" height="21" as="geometry" />
         </mxCell>
         <mxCell id="PTG65maKhLSbZA-58uSf-0" value="マグネット&#xa;ケーブルを&#xa;まとめる" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="pFjA3HuHM5ShIPEZKDiv-1" vertex="1">
           <mxGeometry x="640" y="119" width="70" height="70" as="geometry" />
@@ -434,6 +434,9 @@
         </mxCell>
         <mxCell id="32QGTQ_FH9NUCSCbl6eO-1" value="本番環境&#xa;実行" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="pFjA3HuHM5ShIPEZKDiv-1">
           <mxGeometry x="480" y="280" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="32QGTQ_FH9NUCSCbl6eO-2" value="Oreilly&#xa;Japanの&#xa;翻訳者&#xa;返答有" style="rounded=1;fillColor=#4D4D4D;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="pFjA3HuHM5ShIPEZKDiv-1">
+          <mxGeometry x="480" y="360" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
