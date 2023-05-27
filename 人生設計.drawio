@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T07:08:04.141Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="MYieJD6enzrBX7g7B7gA" version="21.3.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-27T07:12:51.444Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Gaut8q0qlY4rN2YmPL0l" version="21.3.4" type="github" pages="5">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -524,7 +524,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mHroHlIMSgffxkng1tZs-3" value="若い&#xa;オタク" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="QuYTmQsASE0ylIsxL22J-1">
-          <mxGeometry x="40" y="560" width="70" height="71" as="geometry" />
+          <mxGeometry x="54.5" y="560" width="70" height="71" as="geometry" />
         </mxCell>
         <mxCell id="mHroHlIMSgffxkng1tZs-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="QuYTmQsASE0ylIsxL22J-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
