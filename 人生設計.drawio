@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-28T08:59:53.082Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="kzQdSZUcXQldLxog61kQ" version="21.3.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-28T09:04:31.254Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Kd4VCOR6IW52IYktV5GJ" version="21.3.4" type="github" pages="5">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -520,6 +520,9 @@
             <mxPoint x="40" y="520" as="sourcePoint" />
             <mxPoint x="760" y="520" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dTwrlUwpO5kOM5664hTP-0" value="GitLab" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="QuYTmQsASE0ylIsxL22J-1">
+          <mxGeometry x="160" y="359" width="70" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
