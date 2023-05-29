@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-28T09:06:54.105Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="fRSMHgxKc5JGDZWriWv1" version="21.3.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-29T06:47:16.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="5n4UZSKcaowenenggdUt" version="21.3.5" type="github" pages="5">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="2947.5" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3427.5" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -457,7 +457,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20230529" id="kFQlIz0hONF1jXLXugoQ">
-    <mxGraphModel dx="1194" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="QuYTmQsASE0ylIsxL22J-0" />
         <mxCell id="QuYTmQsASE0ylIsxL22J-1" parent="QuYTmQsASE0ylIsxL22J-0" />
@@ -521,11 +521,14 @@
             <mxPoint x="760" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dTwrlUwpO5kOM5664hTP-0" value="GitLab" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="QuYTmQsASE0ylIsxL22J-1">
+        <mxCell id="dTwrlUwpO5kOM5664hTP-0" value="GitLab" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="QuYTmQsASE0ylIsxL22J-1" vertex="1">
           <mxGeometry x="160" y="359" width="70" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="hdFs8mmjGSZDmnaK367I-0" value="GitLab" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="QuYTmQsASE0ylIsxL22J-1">
+        <mxCell id="hdFs8mmjGSZDmnaK367I-0" value="GitLab" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="QuYTmQsASE0ylIsxL22J-1" vertex="1">
           <mxGeometry x="160" y="440" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dr_uhL3zTLK0xyozDjvf-0" value="Step&#xa;Functions&#xa;ECS&#xa;夜間停止" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="QuYTmQsASE0ylIsxL22J-1">
+          <mxGeometry x="160" y="520" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
