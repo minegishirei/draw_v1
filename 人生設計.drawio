@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T21:00:50.304Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="kj0tCJO6vaifz1YG7Evp" version="21.3.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-06-07T21:02:05.508Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="GQ5KEO9d2SVcwi1nCQOc" version="21.3.5" type="github" pages="7">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -615,6 +615,9 @@
         </mxCell>
         <mxCell id="J0V7iJSm9CkRTK9tmX1K-25" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
           <mxGeometry x="159" y="360" width="20" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="-YRzkNHd7CiVb0YrBrWZ-0" value="人物分析&#xa;M" style="rounded=1;fillColor=#6666FF;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
+          <mxGeometry x="159" y="600" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
