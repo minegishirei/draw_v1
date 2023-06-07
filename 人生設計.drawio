@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T09:33:49.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="sjFr0-fCghoWh6MwXFXQ" version="21.3.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-06-07T20:59:55.751Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="upCn5YaJOXkqkiSGARRr" version="21.3.5" type="github" pages="7">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="3427.5" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2947.5" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -326,7 +326,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20230522" id="_NhJenFsWyfq9aFl6Ssr">
-    <mxGraphModel dx="1674" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="pFjA3HuHM5ShIPEZKDiv-0" />
         <mxCell id="pFjA3HuHM5ShIPEZKDiv-1" parent="pFjA3HuHM5ShIPEZKDiv-0" />
@@ -457,7 +457,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20230529" id="kFQlIz0hONF1jXLXugoQ">
-    <mxGraphModel dx="1674" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="QuYTmQsASE0ylIsxL22J-0" />
         <mxCell id="QuYTmQsASE0ylIsxL22J-1" parent="QuYTmQsASE0ylIsxL22J-0" />
@@ -527,18 +527,112 @@
         <mxCell id="hdFs8mmjGSZDmnaK367I-0" value="GitLab" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="QuYTmQsASE0ylIsxL22J-1" vertex="1">
           <mxGeometry x="160" y="521" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dr_uhL3zTLK0xyozDjvf-0" value="Step&#xa;Functions&#xa;ECS&#xa;夜間停止" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="QuYTmQsASE0ylIsxL22J-1">
+        <mxCell id="dr_uhL3zTLK0xyozDjvf-0" value="Step&#xa;Functions&#xa;ECS&#xa;夜間停止" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="QuYTmQsASE0ylIsxL22J-1" vertex="1">
           <mxGeometry x="160" y="280" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MIiL4yXBrNOS8Pm2CSe7-0" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="QuYTmQsASE0ylIsxL22J-1">
+        <mxCell id="MIiL4yXBrNOS8Pm2CSe7-0" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="QuYTmQsASE0ylIsxL22J-1" vertex="1">
           <mxGeometry x="159" y="280" width="20" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="MIiL4yXBrNOS8Pm2CSe7-1" value="Lambda&#xa;による&#xa;ip制限" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="QuYTmQsASE0ylIsxL22J-1">
+        <mxCell id="MIiL4yXBrNOS8Pm2CSe7-1" value="Lambda&#xa;による&#xa;ip制限" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="QuYTmQsASE0ylIsxL22J-1" vertex="1">
           <mxGeometry x="159" y="360" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MIiL4yXBrNOS8Pm2CSe7-2" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="QuYTmQsASE0ylIsxL22J-1">
+        <mxCell id="MIiL4yXBrNOS8Pm2CSe7-2" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="QuYTmQsASE0ylIsxL22J-1" vertex="1">
           <mxGeometry x="159" y="360" width="20" height="21" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="20230605" id="sy-coyIF5O6OnjACvdsD">
+    <mxGraphModel dx="1194" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="J0V7iJSm9CkRTK9tmX1K-0" />
+        <mxCell id="J0V7iJSm9CkRTK9tmX1K-1" parent="J0V7iJSm9CkRTK9tmX1K-0" />
+        <mxCell id="J0V7iJSm9CkRTK9tmX1K-2" value="Docker CookBook（英語版）&#xa;読み込み" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
+          <mxGeometry x="160" y="119" width="390" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="J0V7iJSm9CkRTK9tmX1K-3" value="火" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
+          <mxGeometry x="219" y="59" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J0V7iJSm9CkRTK9tmX1K-4" value="水" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
+          <mxGeometry x="299" y="59" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J0V7iJSm9CkRTK9tmX1K-5" value="木" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
+          <mxGeometry x="379" y="59" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J0V7iJSm9CkRTK9tmX1K-6" value="金" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
+          <mxGeometry x="459" y="59" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J0V7iJSm9CkRTK9tmX1K-7" value="土" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
+          <mxGeometry x="539" y="59" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J0V7iJSm9CkRTK9tmX1K-8" value="日" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
+          <mxGeometry x="619" y="59" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J0V7iJSm9CkRTK9tmX1K-9" value="月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
+          <mxGeometry x="139" y="59" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J0V7iJSm9CkRTK9tmX1K-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="129" y="89" as="sourcePoint" />
+            <mxPoint x="720" y="89" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J0V7iJSm9CkRTK9tmX1K-11" value="ECS(Fargate)、ECRによる&#xa;Dockerコンテナ開発" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
+          <mxGeometry x="160" y="201" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J0V7iJSm9CkRTK9tmX1K-12" value="5/22の週 行動記録" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
+          <mxGeometry x="120" y="19" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J0V7iJSm9CkRTK9tmX1K-13" value="&lt;h1&gt;テーマ：実践レベルのDockerfile&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
+          <mxGeometry x="240" y="14" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J0V7iJSm9CkRTK9tmX1K-14" value="記事数&lt;br&gt;8→12" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
+          <mxGeometry x="720" y="119" width="80" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="J0V7iJSm9CkRTK9tmX1K-15" value="イメージ数&lt;br&gt;4→7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
+          <mxGeometry x="720" y="160" width="80" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="J0V7iJSm9CkRTK9tmX1K-16" value="&lt;h1&gt;次週の予定&lt;/h1&gt;&lt;p&gt;・実践レベルのOSSのDockerfileを見ること。動作を確認すること。&lt;/p&gt;&lt;p&gt;・（未定）コミュニティの集客につながる行動をしたい&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
+          <mxGeometry x="599" y="240" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="J0V7iJSm9CkRTK9tmX1K-17" value="一貫性の&#xa;原理" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
+          <mxGeometry x="240" y="280" width="70" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="J0V7iJSm9CkRTK9tmX1K-18" value="若い&#xa;オタク" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
+          <mxGeometry x="54.5" y="680" width="70" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="J0V7iJSm9CkRTK9tmX1K-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="640" as="sourcePoint" />
+            <mxPoint x="760" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J0V7iJSm9CkRTK9tmX1K-20" value="GitLab" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
+          <mxGeometry x="160" y="440" width="70" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="J0V7iJSm9CkRTK9tmX1K-21" value="GitLab" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
+          <mxGeometry x="160" y="521" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J0V7iJSm9CkRTK9tmX1K-22" value="Step&#xa;Functions&#xa;ECS&#xa;夜間停止" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
+          <mxGeometry x="160" y="280" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J0V7iJSm9CkRTK9tmX1K-23" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
+          <mxGeometry x="159" y="280" width="20" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="J0V7iJSm9CkRTK9tmX1K-24" value="Lambda&#xa;による&#xa;ip制限" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
+          <mxGeometry x="159" y="360" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J0V7iJSm9CkRTK9tmX1K-25" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
+          <mxGeometry x="159" y="360" width="20" height="21" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="hPazm-GFqP_Pr7ka4U1J" name="ページ6">
+    <mxGraphModel dx="1194" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
