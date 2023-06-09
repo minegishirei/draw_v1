@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T01:11:09.943Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="AtTChZTQwekjd-CCp-Sm" version="21.3.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-06-09T01:30:35.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="SupPgEZIJnKmxKULfdmx" version="21.3.7" type="github" pages="7">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -605,7 +605,7 @@
           <mxGeometry x="401" y="180" width="70" height="71" as="geometry" />
         </mxCell>
         <mxCell id="hpNkOrJdOfPg7oPPTDBo-0" value="React&#xa;ソース&#xa;解読" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="J0V7iJSm9CkRTK9tmX1K-1" vertex="1">
-          <mxGeometry x="480" y="420" width="70" height="70" as="geometry" />
+          <mxGeometry x="480" y="450" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hpNkOrJdOfPg7oPPTDBo-1" value="人物分析&#xa;O・S" style="rounded=1;fillColor=#6666FF;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="J0V7iJSm9CkRTK9tmX1K-1" vertex="1">
           <mxGeometry x="481" y="260" width="70" height="70" as="geometry" />
@@ -626,10 +626,16 @@
           <mxGeometry x="480" y="180" width="20" height="21" as="geometry" />
         </mxCell>
         <mxCell id="8StaCtwPKAI3WOgyaeae-3" value="React&#xa;Redux" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
-          <mxGeometry x="321" y="420" width="70" height="150" as="geometry" />
+          <mxGeometry x="321" y="450" width="70" height="150" as="geometry" />
         </mxCell>
         <mxCell id="8StaCtwPKAI3WOgyaeae-4" value="React&#xa;バグ修正" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
-          <mxGeometry x="401" y="420" width="70" height="70" as="geometry" />
+          <mxGeometry x="401" y="450" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="y80OLAV5I5sXh5J9cru1-0" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="J0V7iJSm9CkRTK9tmX1K-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="45" y="440" as="sourcePoint" />
+            <mxPoint x="765" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
