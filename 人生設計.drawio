@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T07:29:25.010Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="wlIrUPvPqMT4O_Rdpyio" version="21.3.8" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-06-12T07:29:40.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="61CqJ5oD7sgZMLyD2aGe" version="21.3.8" type="github" pages="9">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -686,9 +686,6 @@
         </mxCell>
         <mxCell id="5Ub92rPhqd7fS23Ur_HJ-14" value="&lt;h1&gt;次週の予定&lt;/h1&gt;&lt;p&gt;・実践レベルのOSSのDockerfileを見ること。動作を確認すること。&lt;/p&gt;&lt;p&gt;・（未定）コミュニティの集客につながる行動をしたい&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="5Ub92rPhqd7fS23Ur_HJ-1">
           <mxGeometry x="599" y="240" width="190" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="5Ub92rPhqd7fS23Ur_HJ-15" value="scanner" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="5Ub92rPhqd7fS23Ur_HJ-1">
-          <mxGeometry x="160" y="100" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5Ub92rPhqd7fS23Ur_HJ-16" value="人物分析&#xa;M・D" style="rounded=1;fillColor=#6666FF;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="5Ub92rPhqd7fS23Ur_HJ-1">
           <mxGeometry x="321" y="260" width="151" height="70" as="geometry" />
