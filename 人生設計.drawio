@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T00:43:18.197Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="io9PtNDik3u_ZBBfCQFe" version="21.5.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-06-21T00:43:58.757Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tuxdbq5X2mm49fM8nN2o" version="21.5.0" type="github" pages="11">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -757,7 +757,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20230619" id="l2_igz7AIeBTPiqn2olN">
-    <mxGraphModel dx="1194" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="6n8hwcWJeNO0nh-Y7RRh-0" />
         <mxCell id="6n8hwcWJeNO0nh-Y7RRh-1" parent="6n8hwcWJeNO0nh-Y7RRh-0" />
@@ -904,11 +904,11 @@
         <mxCell id="l_byWUxC6Z6r7BdbJn3Z-10" value="高速操作" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="242" width="151" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="l_byWUxC6Z6r7BdbJn3Z-4" value="Vim" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="l_byWUxC6Z6r7BdbJn3Z-10">
-          <mxGeometry y="30" width="70" height="71" as="geometry" />
+        <mxCell id="uAJc8EEEIQgvdg-64iSm-1" value="Vim" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="l_byWUxC6Z6r7BdbJn3Z-10">
+          <mxGeometry y="31" width="69" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="l_byWUxC6Z6r7BdbJn3Z-7" value="SCK" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="l_byWUxC6Z6r7BdbJn3Z-10">
-          <mxGeometry x="81" y="30" width="70" height="71" as="geometry" />
+        <mxCell id="uAJc8EEEIQgvdg-64iSm-2" value="SCK" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="l_byWUxC6Z6r7BdbJn3Z-10">
+          <mxGeometry x="82" y="31" width="69" height="70" as="geometry" />
         </mxCell>
         <mxCell id="l_byWUxC6Z6r7BdbJn3Z-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l_byWUxC6Z6r7BdbJn3Z-17" target="6DER2NBjo8lyH0btWppo-1">
           <mxGeometry relative="1" as="geometry" />
@@ -926,7 +926,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FurSQQG-q0J78RB6uXnF" name="read-face">
-    <mxGraphModel dx="1194" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
