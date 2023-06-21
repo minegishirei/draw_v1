@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T00:40:10.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZJx4hlaeZl4NQxTQmS2V" version="21.5.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-06-21T00:40:40.774Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="rG4MS7bqDktPj0oGlCQj" version="21.5.0" type="github" pages="11">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -851,33 +851,33 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6DER2NBjo8lyH0btWppo-1" value="膨大な時間" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="321" y="100" width="480" height="71" as="geometry" />
+          <mxGeometry x="331" y="171" width="480" height="71" as="geometry" />
         </mxCell>
         <mxCell id="yont88vSL6wd9-LgRNuT-1" value="⚫︎" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="380" y="59" width="60" height="30" as="geometry" />
+          <mxGeometry x="390" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yont88vSL6wd9-LgRNuT-2" value="⚫︎" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="460" y="59" width="60" height="30" as="geometry" />
+          <mxGeometry x="470" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yont88vSL6wd9-LgRNuT-3" value="⚫︎" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="540" y="59" width="60" height="30" as="geometry" />
+          <mxGeometry x="550" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yont88vSL6wd9-LgRNuT-4" value="⚫︎" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="620" y="59" width="60" height="30" as="geometry" />
+          <mxGeometry x="630" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yont88vSL6wd9-LgRNuT-5" value="⚫︎" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="700" y="59" width="60" height="30" as="geometry" />
+          <mxGeometry x="710" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yont88vSL6wd9-LgRNuT-6" value="⚫︎" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="780" y="59" width="60" height="30" as="geometry" />
+          <mxGeometry x="790" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yont88vSL6wd9-LgRNuT-7" value="⚫︎" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="300" y="59" width="60" height="30" as="geometry" />
+          <mxGeometry x="310" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yont88vSL6wd9-LgRNuT-8" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="89" as="sourcePoint" />
-            <mxPoint x="881" y="89" as="targetPoint" />
+            <mxPoint x="300" y="160" as="sourcePoint" />
+            <mxPoint x="891" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l_byWUxC6Z6r7BdbJn3Z-1" value="仕事" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -899,7 +899,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l_byWUxC6Z6r7BdbJn3Z-10" value="時間圧縮" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="400" width="151" height="200" as="geometry" />
+          <mxGeometry x="130" y="400" width="151" height="200" as="geometry" />
         </mxCell>
         <mxCell id="l_byWUxC6Z6r7BdbJn3Z-4" value="Vim" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="l_byWUxC6Z6r7BdbJn3Z-10">
           <mxGeometry y="30" width="70" height="71" as="geometry" />
