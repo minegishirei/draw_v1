@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T07:25:37.133Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="wfKVoFINvD9mqhhCl6kF" version="21.5.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-06-21T07:27:06.036Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="SuVsLQ4agkDruD0JJI12" version="21.5.0" type="github" pages="10">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -989,6 +989,9 @@
         </mxCell>
         <mxCell id="X97ZgkV6rLMnitGxcStl-1" value="眼球の&#xa;専門家" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="80" y="160" width="70" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="zAMTq7yZO4eh6B9L7fJB-1" value="分析" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="480" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
