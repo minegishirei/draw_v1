@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T01:40:25.178Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="edXl56RGHRmYyr7-diN_" version="21.5.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-06-21T01:41:09.593Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="O-N2j0k1ZQSQzariXF_P" version="21.5.0" type="github" pages="9">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -906,28 +906,6 @@
         </mxCell>
         <mxCell id="l_byWUxC6Z6r7BdbJn3Z-20" value="Linux&#xa;Kernel&#xa;ソース" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="l_byWUxC6Z6r7BdbJn3Z-17">
           <mxGeometry y="30" width="70" height="71" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="FurSQQG-q0J78RB6uXnF" name="read-face">
-    <mxGraphModel dx="1674" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="bhInce9eZ-V4okbB1S5F-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://us.123rf.com/450wm/nerthuz/nerthuz1308/nerthuz130800026/21459798-%E4%BA%BA%E9%96%93%E3%81%AE%E9%A1%94%E3%81%AE%E8%A7%A3%E5%89%96%E5%AD%A6.jpg;" parent="1" vertex="1">
-          <mxGeometry x="160" y="120" width="480" height="480" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="-mrfIurfT6vzM0Kbfaob" name="read-eye">
-    <mxGraphModel dx="1194" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="FA7RRV1I_y35dHhDJp-r-1" value="瞳孔" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="120" y="120" width="99" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
