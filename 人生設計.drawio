@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T12:42:55.564Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Bv0MH7bIlTc1Cs-Nx1Vj" version="21.5.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-06-23T12:43:04.513Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="umFvdxtcBg-tzBOTHade" version="21.5.0" type="github" pages="12">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2703.5" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -915,12 +915,6 @@
         </mxCell>
         <mxCell id="P2IMjM7Nsxn39RSJvUYz-11" value="&lt;h1&gt;テーマ：ソース読解&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="P2IMjM7Nsxn39RSJvUYz-1">
           <mxGeometry x="140" y="40" width="480" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="P2IMjM7Nsxn39RSJvUYz-12" value="記事数&lt;br&gt;8→12" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="P2IMjM7Nsxn39RSJvUYz-1">
-          <mxGeometry x="620" y="145" width="80" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="P2IMjM7Nsxn39RSJvUYz-13" value="イメージ数&lt;br&gt;4→7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="P2IMjM7Nsxn39RSJvUYz-1">
-          <mxGeometry x="620" y="186" width="80" height="41" as="geometry" />
         </mxCell>
         <mxCell id="P2IMjM7Nsxn39RSJvUYz-14" value="&lt;h1&gt;次週の予定&lt;/h1&gt;&lt;p&gt;・実践レベルのOSSのDockerfileを見ること。動作を確認すること。&lt;/p&gt;&lt;p&gt;・（未定）コミュニティの集客につながる行動をしたい&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="P2IMjM7Nsxn39RSJvUYz-1">
           <mxGeometry x="499" y="266" width="190" height="190" as="geometry" />
