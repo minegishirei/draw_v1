@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T08:03:47.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZqXKiEoyx4jia0X5MhLE" version="21.5.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-06-23T08:04:45.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1vG2fR26bj15znJ-d-2j" version="21.5.0" type="github" pages="11">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1060,13 +1060,13 @@
         <mxCell id="cARggWmo2Y0f1Pg3JBUJ-1" value="瞬きの数を確認する&#xa;→会話中にはずっと" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="120" y="250" width="230" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="_DLJvWzmt58Gez2twclq-1" value="眉の&#xa;上下" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="_DLJvWzmt58Gez2twclq-1" value="眉の&#xa;上下" style="rounded=1;fillColor=#9933FF;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="120" y="160" width="70" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="_DLJvWzmt58Gez2twclq-2" value="瞳孔の&#xa;開き" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="_DLJvWzmt58Gez2twclq-2" value="瞳孔の&#xa;開き" style="rounded=1;fillColor=#9933FF;strokeColor=#B266FF;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="200" y="160" width="70" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="_DLJvWzmt58Gez2twclq-3" value="目の&#xa;開き" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="_DLJvWzmt58Gez2twclq-3" value="目の&#xa;開き" style="rounded=1;fillColor=#9933FF;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="70" height="71" as="geometry" />
         </mxCell>
       </root>
