@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T01:25:34.881Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jSETzjJ0fMiX5bidz_Ru" version="21.5.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-06-25T01:26:15.606Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="FmBmKenusNZHBPZISVF9" version="21.5.0" type="github" pages="11">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1071,6 +1071,18 @@
         <mxCell id="t7c_XNA5K67EQppMGRPG-9" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#99FFCC;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="t7c_XNA5K67EQppMGRPG-2" vertex="1">
           <mxGeometry x="40.5" y="31" width="20" height="21" as="geometry" />
         </mxCell>
+        <mxCell id="8eOgZ9boppayExkvont7-5" value="瞬きの数を確認する&#xa;→会話中にはずっと" style="rounded=1;fillColor=#007FFF;strokeColor=#3399FF;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="770" width="230" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="8eOgZ9boppayExkvont7-6" value="眉の&#xa;上方向の&#xa;移動" style="rounded=1;fillColor=#9933FF;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="680" width="70" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="8eOgZ9boppayExkvont7-7" value="瞳孔の&#xa;広がり" style="rounded=1;fillColor=#9933FF;strokeColor=#B266FF;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="120" y="680" width="70" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="8eOgZ9boppayExkvont7-8" value="目の&#xa;開き" style="rounded=1;fillColor=#9933FF;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="200" y="680" width="70" height="71" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -1079,18 +1091,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cARggWmo2Y0f1Pg3JBUJ-1" value="瞬きの数を確認する&#xa;→会話中にはずっと" style="rounded=1;fillColor=#007FFF;strokeColor=#3399FF;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="120" y="250" width="230" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="_DLJvWzmt58Gez2twclq-1" value="眉の&#xa;上方向の&#xa;移動" style="rounded=1;fillColor=#9933FF;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="120" y="160" width="70" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="_DLJvWzmt58Gez2twclq-2" value="瞳孔の&#xa;広がり" style="rounded=1;fillColor=#9933FF;strokeColor=#B266FF;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="200" y="160" width="70" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="_DLJvWzmt58Gez2twclq-3" value="目の&#xa;開き" style="rounded=1;fillColor=#9933FF;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="280" y="160" width="70" height="71" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
