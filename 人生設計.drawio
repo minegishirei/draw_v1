@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T01:05:48.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_AXLGTA_36xJ4sZ-Vd9F" version="21.5.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-06-26T01:06:40.177Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="r7TbHeUWGtt01KUC4MKs" version="21.5.0" type="github" pages="11">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -904,12 +904,6 @@
         <mxCell id="P2IMjM7Nsxn39RSJvUYz-8" value="月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="P2IMjM7Nsxn39RSJvUYz-1" vertex="1">
           <mxGeometry x="19" y="75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P2IMjM7Nsxn39RSJvUYz-9" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;exitX=0.35;exitY=1.233;exitDx=0;exitDy=0;exitPerimeter=0;" parent="P2IMjM7Nsxn39RSJvUYz-1" edge="1" source="P2IMjM7Nsxn39RSJvUYz-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="339" y="105" as="sourcePoint" />
-            <mxPoint x="600" y="110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="P2IMjM7Nsxn39RSJvUYz-10" value="6/12の週 行動記録" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="P2IMjM7Nsxn39RSJvUYz-1" vertex="1">
           <mxGeometry y="45" width="120" height="30" as="geometry" />
         </mxCell>
@@ -919,8 +913,14 @@
         <mxCell id="P2IMjM7Nsxn39RSJvUYz-14" value="&lt;h1&gt;次週の予定&lt;/h1&gt;&lt;p&gt;・実践レベルのOSSのDockerfileを見ること。動作を確認すること。&lt;/p&gt;&lt;p&gt;・（未定）コミュニティの集客につながる行動をしたい&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="P2IMjM7Nsxn39RSJvUYz-1" vertex="1">
           <mxGeometry x="590" y="260" width="190" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="qp1fiZk7NlGGmiupWXGr-0" value="linux &#xa;kernel&#xa;filesystem" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="P2IMjM7Nsxn39RSJvUYz-1">
+        <mxCell id="qp1fiZk7NlGGmiupWXGr-0" value="kernel&#xa;" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="P2IMjM7Nsxn39RSJvUYz-1">
           <mxGeometry x="41" y="120" width="69" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="7B0AROH9bej8xET7WYha-0" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" edge="1" parent="P2IMjM7Nsxn39RSJvUYz-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="41" y="110" as="sourcePoint" />
+            <mxPoint x="632" y="110" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
