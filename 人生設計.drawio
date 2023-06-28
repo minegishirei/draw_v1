@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T07:53:05.759Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="hiwDQlWULwJT_cVN70yI" version="21.5.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-06-28T07:53:10.542Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jj0SwYbfd52xTvrWikWQ" version="21.5.1" type="github" pages="11">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -968,7 +968,7 @@
           <mxGeometry x="120" y="200" width="20" height="21" as="geometry" />
         </mxCell>
         <mxCell id="NCg6emJCvGuiJi-BloUI-2" value="あらゆることを&#xa;短い時間で&#xa;学習する方法&#xa;TED" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="P2IMjM7Nsxn39RSJvUYz-1" vertex="1">
-          <mxGeometry x="360" y="391" width="149" height="71" as="geometry" />
+          <mxGeometry x="201" y="360" width="149" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Cxo-0ba_4mkcEPBsDZXW-0" value="React&#xa;Redux" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="P2IMjM7Nsxn39RSJvUYz-1" vertex="1">
           <mxGeometry x="200" y="121" width="70" height="69" as="geometry" />
