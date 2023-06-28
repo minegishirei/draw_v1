@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T08:25:19.483Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="U4zFOqLdDG-myuHxXEX-" version="21.5.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-06-28T08:26:26.685Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Q59iH1CUq3X3E4Dt0HEA" version="21.5.1" type="github" pages="12">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1210,7 +1210,7 @@
         <mxCell id="5sjPCCEnPytMFU9mw-ub-6" value="情報源の&#xa;収集" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="80" y="240" width="70" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="5sjPCCEnPytMFU9mw-ub-8" value="正確に何ができるようになりたいか決めたらそれを分解すること。&lt;br&gt;&lt;br&gt;私たちがスキルとして考えるものは、様々な異なるスキルから構成される。&lt;br&gt;分解してくと、どの部分が自分の目指す方向に効果があるかがわかる。&lt;br&gt;重要なところから練習していけば、最小の時間で上達できる。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5sjPCCEnPytMFU9mw-ub-8" value="うまくなるためにやるべきことが書いてある指南書、DVD、ウェブサイトを探すこと。&lt;br&gt;&lt;br&gt;ここの情報は吸収率に影響を及ぼす。&lt;br&gt;&lt;br&gt;ただし、これを先延ばしの理由にしてはいけない。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="200" width="250" height="160" as="geometry" />
         </mxCell>
       </root>
