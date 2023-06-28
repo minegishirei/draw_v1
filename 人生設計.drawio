@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T08:42:11.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qHcL4N9U4weAunwLQV4P" version="21.5.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-06-28T08:42:21.774Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="EebE1taQZIVdQBoVY-rH" version="21.5.1" type="github" pages="12">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1238,7 +1238,7 @@
           <mxGeometry x="440" y="40" width="250" height="160" as="geometry" />
         </mxCell>
         <mxCell id="5sjPCCEnPytMFU9mw-ub-14" value="ウクレレを手に入れること" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="360" width="250" height="160" as="geometry" />
+          <mxGeometry x="440" y="360" width="250" height="160" as="geometry" />
         </mxCell>
         <mxCell id="5sjPCCEnPytMFU9mw-ub-15" value="ネット上からデータを手に入れる&lt;br&gt;&lt;br&gt;ウクレレのコード集を見ると、大量の音符が並んでいる。これはとても威圧的に見えるかもしれないが、実際には同じようなコードが4~5種類並んでいるだけだった。&lt;br&gt;&lt;br&gt;また、確かに難しいコード進行もあるが、POPソングは上記のコードのみで構成されていることが分かった。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="200" width="250" height="160" as="geometry" />
