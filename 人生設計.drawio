@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T08:32:20.466Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9P-msWi5wIWvTKVMG7C4" version="21.5.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-06-28T08:34:02.633Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5yW9ejM7wVQscHB9MANn" version="21.5.1" type="github" pages="12">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1225,13 +1225,13 @@
         <mxCell id="5sjPCCEnPytMFU9mw-ub-12" value="20時間&#xa;学ぶ" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="80" y="564.5" width="70" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="5sjPCCEnPytMFU9mw-ub-13" value="20時間は学ぶこと" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5sjPCCEnPytMFU9mw-ub-13" value="ウクレレはコード進行が命" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="40" width="250" height="160" as="geometry" />
         </mxCell>
         <mxCell id="5sjPCCEnPytMFU9mw-ub-14" value="ウクレレを手に入れること" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="360" width="250" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="5sjPCCEnPytMFU9mw-ub-15" value="ネット上からデータを手に入れる&lt;br&gt;&lt;br&gt;ウクレレのコード集を見ると、大量の音符が並んでいる。これはとても威圧的に見えるかもしれないが、実際には同じようなコードが4~5種類並んでいるだけだった。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5sjPCCEnPytMFU9mw-ub-15" value="ネット上からデータを手に入れる&lt;br&gt;&lt;br&gt;ウクレレのコード集を見ると、大量の音符が並んでいる。これはとても威圧的に見えるかもしれないが、実際には同じようなコードが4~5種類並んでいるだけだった。&lt;br&gt;&lt;br&gt;また、確かに難しいコード進行もあるが、POPソングは上記のコードのみで構成されていることが分かった。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="200" width="250" height="160" as="geometry" />
         </mxCell>
       </root>
