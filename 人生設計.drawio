@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-03T02:44:21.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="OWEWgtDvazGTbQUQRrpG" version="21.5.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-07-03T02:45:02.843Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="E_yUJZ6OrZ0YgMmc7YsH" version="21.5.2" type="github" pages="13">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1068,7 +1068,7 @@
             <mxPoint x="632" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qope_OZgDXMrJsVfHSQm-13" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;&lt;p&gt;・Linux Kernel のソースを書籍付きで読めるようになってきた。納得感を持ちながら進められている。これを3週は続けたい。&lt;/p&gt;&lt;p&gt;・Reactのソースコードを読んだが、できる部分とできない部分がある。こだわりは持たないが、ソースコードの読解術を大量に持っておくのは良いことだと思う。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="qope_OZgDXMrJsVfHSQm-1">
+        <mxCell id="qope_OZgDXMrJsVfHSQm-13" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;&lt;p&gt;・neovimの勉強により、workspaceの速度向上が見込める。&lt;br&gt;&lt;/p&gt;&lt;p&gt;・&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="qope_OZgDXMrJsVfHSQm-1">
           <mxGeometry x="520" y="120" width="280" height="190" as="geometry" />
         </mxCell>
         <mxCell id="qope_OZgDXMrJsVfHSQm-25" value="" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="qope_OZgDXMrJsVfHSQm-1">
