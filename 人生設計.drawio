@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-05T00:05:56.701Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Mfn88Br0E6lhDk05Ary7" version="21.5.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-07-05T00:06:02.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="a_jX_14HQKSh0Qf2BW8P" version="21.5.2" type="github" pages="12">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1125,9 +1125,6 @@
         <mxCell id="VvzWKyYmSfvcNBuFU_k4-1" value="Assembly&#xa;general" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="qope_OZgDXMrJsVfHSQm-1" vertex="1">
           <mxGeometry x="119" y="440" width="70" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="VvzWKyYmSfvcNBuFU_k4-3" value="アセンブリ" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="qope_OZgDXMrJsVfHSQm-1" vertex="1">
-          <mxGeometry x="201" y="120" width="69" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="y8eDtq83iGhMqSJxILG4-0" value="Redmine&#xa;Docker&#xa;Merged" style="rounded=1;fillColor=#9999FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="qope_OZgDXMrJsVfHSQm-1" vertex="1">
           <mxGeometry x="119" y="600" width="70" height="70" as="geometry" />
         </mxCell>
@@ -1156,7 +1153,7 @@
           <mxGeometry x="119" y="680" width="20" height="21" as="geometry" />
         </mxCell>
         <mxCell id="6aEegCI5k9tcHWY1GVex-0" value="Assembly&#xa;動画" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="qope_OZgDXMrJsVfHSQm-1">
-          <mxGeometry x="201" y="201" width="70" height="229" as="geometry" />
+          <mxGeometry x="200" y="119.5" width="70" height="229" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
