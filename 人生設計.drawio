@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-05T01:15:00.729Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="dZDrgTJ13_jioYV4aYvP" version="21.5.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-07-05T01:15:19.552Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="sTL5cQPNuiL_Qt7_7qCY" version="21.5.2" type="github" pages="13">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1242,9 +1242,6 @@
         </mxCell>
         <mxCell id="8FBW38fKErz41wYffIlG-19" value="Source Code Reading" style="swimlane;whiteSpace=wrap;html=1;shadow=0;" parent="_Hf1Ft1ie5tvWDv298Xf-13" vertex="1">
           <mxGeometry x="267" y="30" width="240" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="8FBW38fKErz41wYffIlG-20" value="Tech&#xa;Knowledge" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="8FBW38fKErz41wYffIlG-19" vertex="1">
-          <mxGeometry y="30" width="70" height="71" as="geometry" />
         </mxCell>
         <mxCell id="8FBW38fKErz41wYffIlG-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="_Hf1Ft1ie5tvWDv298Xf-13" source="8FBW38fKErz41wYffIlG-22" target="8FBW38fKErz41wYffIlG-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
