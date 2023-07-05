@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-05T01:14:30.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Fi1MU6AbnY-P_n5zM4i_" version="21.5.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-07-05T01:14:45.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6i8oMgZ-qH6dZu5fCA64" version="21.5.2" type="github" pages="13">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1167,7 +1167,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6DER2NBjo8lyH0btWppo-1" value="膨大な時間（暇な人生を送りたい）" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="200" y="40" width="600" height="71" as="geometry" />
+          <mxGeometry x="40" y="40" width="760" height="71" as="geometry" />
         </mxCell>
         <mxCell id="l_byWUxC6Z6r7BdbJn3Z-10" value="操作" style="swimlane;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="240" width="249" height="190" as="geometry" />
@@ -1218,7 +1218,7 @@
           <mxGeometry x="90" y="30" width="20" height="21" as="geometry" />
         </mxCell>
         <mxCell id="JL5rK2CouPJhrUOUOH2E-10" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="1" vertex="1">
-          <mxGeometry x="200" y="40" width="20" height="21" as="geometry" />
+          <mxGeometry x="40" y="40" width="20" height="21" as="geometry" />
         </mxCell>
         <mxCell id="_Hf1Ft1ie5tvWDv298Xf-13" value="PSY" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="220" y="700" width="520" height="479" as="geometry">
