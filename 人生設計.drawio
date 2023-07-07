@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T03:02:00.849Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Mknbv4brsy-fqt-1be_u" version="21.5.2" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-07-07T03:02:57.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="4Ji2WYT1ZvIGkkpgXYl0" version="21.5.2" type="github" pages="14">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1174,13 +1174,13 @@
           <mxGeometry x="722" y="549" width="69" height="71" as="geometry" />
         </mxCell>
         <mxCell id="roK161utQefDRvxrzKb4-0" value="Django&#xa;AWS&#xa;再リリース" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="qope_OZgDXMrJsVfHSQm-1">
-          <mxGeometry x="280" y="120" width="70" height="71" as="geometry" />
+          <mxGeometry x="280" y="518" width="70" height="71" as="geometry" />
         </mxCell>
         <mxCell id="roK161utQefDRvxrzKb4-1" value="React&#xa;検索結果&#xa;表示" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="qope_OZgDXMrJsVfHSQm-1">
-          <mxGeometry x="280" y="199.5" width="70" height="71" as="geometry" />
+          <mxGeometry x="280" y="597.5" width="70" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="roK161utQefDRvxrzKb4-2" value="リファクタ&#xa;リング" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="qope_OZgDXMrJsVfHSQm-1">
-          <mxGeometry x="280" y="279" width="70" height="231" as="geometry" />
+        <mxCell id="roK161utQefDRvxrzKb4-2" value="React&#xa;Componet&#xa;分割" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="qope_OZgDXMrJsVfHSQm-1">
+          <mxGeometry x="280" y="120" width="70" height="231" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
