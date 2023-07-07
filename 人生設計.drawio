@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T03:04:45.574Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Pei0iAiTLbb6EMzTUuSV" version="21.5.2" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-07-07T03:05:42.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NU92eBZOSeGWaDRqwNfn" version="21.5.2" type="github" pages="14">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1071,21 +1071,6 @@
         <mxCell id="qope_OZgDXMrJsVfHSQm-13" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;&lt;p&gt;・neovimの勉強により、workspaceの速度向上が見込める。&lt;br&gt;&lt;/p&gt;&lt;p&gt;・紫色のタスクを増やすこと。そのためにまずはケースを網羅すること&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="qope_OZgDXMrJsVfHSQm-1" vertex="1">
           <mxGeometry x="440" y="120" width="280" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="qope_OZgDXMrJsVfHSQm-25" value="" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="qope_OZgDXMrJsVfHSQm-1" vertex="1">
-          <mxGeometry x="720" y="310" width="69" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="qope_OZgDXMrJsVfHSQm-30" value="" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="qope_OZgDXMrJsVfHSQm-1" vertex="1">
-          <mxGeometry x="720" y="229" width="70" height="69" as="geometry" />
-        </mxCell>
-        <mxCell id="qope_OZgDXMrJsVfHSQm-38" value="" style="rounded=1;fillColor=#4D4D4D;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="qope_OZgDXMrJsVfHSQm-1" vertex="1">
-          <mxGeometry x="720" y="150" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="qope_OZgDXMrJsVfHSQm-46" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="qope_OZgDXMrJsVfHSQm-1" vertex="1">
-          <mxGeometry x="744.5" y="120" width="20" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="T-9pZZy3bPJ_mVjQQ6Of-0" value="" style="rounded=1;fillColor=#6a00ff;strokeColor=#3700CC;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="qope_OZgDXMrJsVfHSQm-1" vertex="1">
-          <mxGeometry x="721" y="390" width="69" height="71" as="geometry" />
-        </mxCell>
         <mxCell id="T-9pZZy3bPJ_mVjQQ6Of-1" value="Neovim" style="rounded=1;fillColor=#4D4D4D;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="qope_OZgDXMrJsVfHSQm-1" vertex="1">
           <mxGeometry x="40" y="120" width="70" height="70" as="geometry" />
         </mxCell>
@@ -1106,9 +1091,6 @@
         </mxCell>
         <mxCell id="KjYc1G4BOrGE_a7SaTMI-3" value="List&#xa;Up&#xa;Cases" style="rounded=1;fillColor=#6a00ff;strokeColor=#3700CC;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="qope_OZgDXMrJsVfHSQm-1" vertex="1">
           <mxGeometry x="39" y="360" width="151" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="0rOjmSlALWhCXzX-ooEz-0" value="" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="qope_OZgDXMrJsVfHSQm-1" vertex="1">
-          <mxGeometry x="721" y="470" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0rOjmSlALWhCXzX-ooEz-1" value="React&#xa;show&#xa;GuestUser" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="qope_OZgDXMrJsVfHSQm-1" vertex="1">
           <mxGeometry x="119.5" y="120" width="70" height="150" as="geometry" />
@@ -1169,9 +1151,6 @@
         </mxCell>
         <mxCell id="F9-eNROO7H8XyHeeZa80-0" value="arch&#xa;再設定" style="rounded=1;fillColor=#FF6666;strokeColor=#FF6666;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="qope_OZgDXMrJsVfHSQm-1" vertex="1">
           <mxGeometry x="201" y="518" width="69" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="F9-eNROO7H8XyHeeZa80-1" value="" style="rounded=1;fillColor=#FF6666;strokeColor=#FF6666;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="qope_OZgDXMrJsVfHSQm-1" vertex="1">
-          <mxGeometry x="722" y="549" width="69" height="71" as="geometry" />
         </mxCell>
         <mxCell id="roK161utQefDRvxrzKb4-0" value="Django&#xa;AWS&#xa;再リリース" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="qope_OZgDXMrJsVfHSQm-1">
           <mxGeometry x="280" y="438.5" width="70" height="71" as="geometry" />
