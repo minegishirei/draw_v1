@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-08T13:15:50.234Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="r5W6sdD7ViwT9yq7OBIE" version="21.6.1" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-07-08T13:16:22.784Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="O4qCqfsMpjtrGY6U1uwU" version="21.6.1" type="github" pages="15">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1241,131 +1241,20 @@
         <mxCell id="eyzX-aIeNCjd7AgORHK2-12" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;&lt;p&gt;・neovimの勉強により、workspaceの速度向上が見込める。&lt;br&gt;&lt;/p&gt;&lt;p&gt;・紫色のタスクを増やすこと。そのためにまずはケースを網羅すること&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
           <mxGeometry x="520" y="120" width="280" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-13" value="Neovim" style="rounded=1;fillColor=#4D4D4D;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="40" y="120" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-14" value="Neovim&#xa;by&#xa;Docker" style="rounded=1;fillColor=#4D4D4D;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="40" y="199" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-15" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="39" y="120" width="20" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-16" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="39" y="199" width="20" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-17" value="fix&#xa;alias" style="rounded=1;fillColor=#4D4D4D;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="40" y="280" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-18" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="40" y="280" width="20" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-19" value="List&#xa;Up&#xa;Cases" style="rounded=1;fillColor=#6a00ff;strokeColor=#3700CC;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="39" y="360" width="151" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-20" value="React&#xa;show&#xa;GuestUser" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="119.5" y="120" width="70" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-21" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="119" y="120" width="20" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-22" value="TV" style="rounded=1;fillColor=#6a00ff;strokeColor=#3700CC;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="120" y="280" width="70" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-23" value="linux&#xa;kernel&#xa;schedule" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="119" y="520" width="70" height="69" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-24" value="Assembly&#xa;general" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="119" y="440" width="70" height="69" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-25" value="Redmine&#xa;Docker&#xa;Merged" style="rounded=1;fillColor=#9999FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="119" y="600" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-26" value="Findy&#xa;skill&#xa;Over 70" style="rounded=1;fillColor=#9999FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="119" y="680" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-27" value="Neovim&#xa;Docker&#xa;Publish" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="121" y="760" width="69" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-28" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="121" y="440" width="20" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-29" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="39" y="360" width="20" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-30" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="119" y="520" width="20" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-31" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="119" y="600" width="20" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-32" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="121" y="760" width="20" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-33" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="119" y="680" width="20" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-34" value="Assembly&#xa;レジスタ&#xa;代入" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="200" y="119.5" width="70" height="70.5" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-35" value="TV" style="rounded=1;fillColor=#6a00ff;strokeColor=#3700CC;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="200" y="360" width="70" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-36" value="会議設定" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="200" y="439" width="70" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-37" value="Assembly&#xa;比較" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="200" y="199.5" width="70" height="70.5" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-38" value="Assembly&#xa;ジャンプ" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="200" y="280.5" width="70" height="70.5" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-39" value="arch&#xa;再設定" style="rounded=1;fillColor=#FF6666;strokeColor=#FF6666;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="201" y="518" width="69" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-40" value="Django&#xa;AWS&#xa;再リリース" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="280" y="438.5" width="70" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-41" value="React&#xa;検索結果&#xa;表示" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="280" y="518" width="70" height="71" as="geometry" />
+        <mxCell id="eyzX-aIeNCjd7AgORHK2-34" value="Atomic&#xa;Design" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
+          <mxGeometry x="40" y="119.5" width="70" height="70.5" as="geometry" />
         </mxCell>
         <mxCell id="eyzX-aIeNCjd7AgORHK2-42" value="React&#xa;Component分割" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
           <mxGeometry x="280" y="120" width="150" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-43" value="React&#xa;Document&#xa;自動生成" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="280" y="361" width="150" height="69" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-44" value="ビバ助&#xa;Tシャツ&#xa;ON" style="rounded=1;fillColor=#9999FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="280" y="600" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-45" value="Eye&#xa;Direction" style="rounded=1;fillColor=#6a00ff;strokeColor=#3700CC;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="280" y="680" width="70" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-46" value="Posture" style="rounded=1;fillColor=#6a00ff;strokeColor=#3700CC;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="280" y="759" width="70" height="71" as="geometry" />
-        </mxCell>
         <mxCell id="eyzX-aIeNCjd7AgORHK2-47" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
           <mxGeometry x="279" y="119.5" width="20" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-48" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="280" y="361" width="20" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-49" value="React&#xa;Api&#xa;Callback" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="360" y="440" width="70" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-50" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="360" y="440" width="20" height="21" as="geometry" />
         </mxCell>
         <mxCell id="eyzX-aIeNCjd7AgORHK2-51" value="Vim&#xa;移動履歴" style="rounded=1;fillColor=#4D4D4D;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
           <mxGeometry x="440" y="120" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="eyzX-aIeNCjd7AgORHK2-52" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
           <mxGeometry x="439" y="120" width="20" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-53" value="Vim&#xa;名前つき&#xa;バッファ" style="rounded=1;fillColor=#4D4D4D;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="440" y="200" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="eyzX-aIeNCjd7AgORHK2-54" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
-          <mxGeometry x="440" y="199" width="20" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
