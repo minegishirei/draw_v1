@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T08:26:34.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="K6Xpag3ABo-awOONGHWi" version="21.6.1" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-07-10T08:27:01.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lDJ6D6kmIzjnd6Mx1RnS" version="21.6.1" type="github" pages="15">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1242,7 +1242,7 @@
           <mxGeometry x="520" y="120" width="280" height="190" as="geometry" />
         </mxCell>
         <mxCell id="eyzX-aIeNCjd7AgORHK2-34" value="Atomic&#xa;Design" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="eyzX-aIeNCjd7AgORHK2-1" vertex="1">
-          <mxGeometry x="120" y="120" width="70" height="70.5" as="geometry" />
+          <mxGeometry x="130" y="120" width="70" height="70.5" as="geometry" />
         </mxCell>
         <mxCell id="eyzX-aIeNCjd7AgORHK2-42" value="React&#xa;Component分割" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="eyzX-aIeNCjd7AgORHK2-1" vertex="1">
           <mxGeometry x="280" y="120" width="150" height="230" as="geometry" />
