@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-15T02:36:59.262Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HK-zDOO8JdJojLFJdZyq" version="21.6.1" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-07-15T02:37:05.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nIQTgGCsxxJxqCaJuvwe" version="21.6.1" type="github" pages="15">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1245,10 +1245,10 @@
           <mxGeometry x="120" y="119.5" width="70" height="70.5" as="geometry" />
         </mxCell>
         <mxCell id="eyzX-aIeNCjd7AgORHK2-42" value="Codebuild&#xa;Proxy&#xa;Error&#xa;&#xa;resoloved by&#xa;no_proxy" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="eyzX-aIeNCjd7AgORHK2-1" vertex="1">
-          <mxGeometry x="280" y="120" width="150" height="230" as="geometry" />
+          <mxGeometry x="200" y="120" width="230" height="230" as="geometry" />
         </mxCell>
         <mxCell id="eyzX-aIeNCjd7AgORHK2-47" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="eyzX-aIeNCjd7AgORHK2-1" vertex="1">
-          <mxGeometry x="279" y="119.5" width="20" height="21" as="geometry" />
+          <mxGeometry x="200" y="119.5" width="20" height="21" as="geometry" />
         </mxCell>
         <mxCell id="_wibFkECYk1AtxqnEKcg-1" value="React&#xa;dict&#xa;Componet&#xa;in JD" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="eyzX-aIeNCjd7AgORHK2-1" vertex="1">
           <mxGeometry x="40" y="119.5" width="70" height="150.5" as="geometry" />
