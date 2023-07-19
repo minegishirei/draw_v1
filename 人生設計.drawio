@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T09:12:42.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1iEfBCqPI1SGLt7LdZ2-" version="21.6.3" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-07-19T23:59:35.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="W6fyq4mBjdZMCTNAnjbm" version="21.6.3" type="github" pages="16">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1520,7 +1520,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="archのコピー" id="OmEUMXBCBi6RGfcmuiDT">
+  <diagram name="tech-stack" id="OmEUMXBCBi6RGfcmuiDT">
     <mxGraphModel dx="1674" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5OFG33ZELEmVixkgGBeE-0" />
@@ -1666,7 +1666,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="archのコピー" id="JJhhjy2--r8OAeuiKpnr">
-    <mxGraphModel dx="1706" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="lxhI0WRj-EJSmuojgkRA-0" />
         <mxCell id="lxhI0WRj-EJSmuojgkRA-1" parent="lxhI0WRj-EJSmuojgkRA-0" />
