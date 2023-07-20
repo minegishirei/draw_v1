@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T00:16:12.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7W9BW-GkGpUkreQOzSrS" version="21.6.3" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-07-20T00:16:56.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="bfP4OMOiG5l_Oq8z4EeU" version="21.6.3" type="github" pages="16">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1582,11 +1582,11 @@
         <mxCell id="KcCgU8z8Vh9TH4PU30P3-33" value="Handling" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="5OFG33ZELEmVixkgGBeE-1">
           <mxGeometry x="420" y="390" width="170" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="KcCgU8z8Vh9TH4PU30P3-34" value="関数型" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="KcCgU8z8Vh9TH4PU30P3-33">
-          <mxGeometry x="10" y="30" width="70" height="69" as="geometry" />
+        <mxCell id="KcCgU8z8Vh9TH4PU30P3-37" value="Vim" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="KcCgU8z8Vh9TH4PU30P3-33">
+          <mxGeometry x="10" y="30" width="69" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KcCgU8z8Vh9TH4PU30P3-35" value="データ主義" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="KcCgU8z8Vh9TH4PU30P3-33">
-          <mxGeometry x="90" y="30" width="70" height="69" as="geometry" />
+        <mxCell id="KcCgU8z8Vh9TH4PU30P3-36" value="Short&#xa;Cut&#xa;Key" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="KcCgU8z8Vh9TH4PU30P3-33">
+          <mxGeometry x="91" y="30" width="69" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
