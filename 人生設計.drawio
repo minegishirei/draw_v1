@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T08:42:30.339Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="4vJ8x6dpxR6MIPUk93N-" version="21.6.3" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-07-20T08:42:36.677Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="VuVIpuG38AkoQOhQxdV2" version="21.6.3" type="github" pages="16">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1377,6 +1377,9 @@
         </mxCell>
         <mxCell id="fcei9pW9B83bBTecYDyO-1" value="Django&#xa;React&#xa;&#xa;feature/&#xa;Sort" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
           <mxGeometry x="279" y="280" width="70" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="fcei9pW9B83bBTecYDyO-2" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="eyzX-aIeNCjd7AgORHK2-1">
+          <mxGeometry x="280" y="280" width="20" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
