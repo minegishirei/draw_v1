@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-21T06:42:13.720Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="CZznLwq65nPwjwwJ7_kH" version="21.6.3" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-07-21T06:42:41.930Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="w_7EyvboED9MOD0K3Kkh" version="21.6.3" type="github" pages="17">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1479,7 +1479,7 @@
         <mxCell id="SJi1lXoTE9MvXrvbxW---9" value="7/3の週 行動記録" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="SJi1lXoTE9MvXrvbxW---1">
           <mxGeometry y="45" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SJi1lXoTE9MvXrvbxW---10" value="&lt;h1&gt;テーマ：おりゃ～&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="SJi1lXoTE9MvXrvbxW---1">
+        <mxCell id="SJi1lXoTE9MvXrvbxW---10" value="&lt;h1&gt;テーマ：AWS / モダンLinux&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="SJi1lXoTE9MvXrvbxW---1">
           <mxGeometry x="120" y="40" width="480" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SJi1lXoTE9MvXrvbxW---11" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" edge="1" parent="SJi1lXoTE9MvXrvbxW---1">
