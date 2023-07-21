@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-21T00:17:51.703Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="lZtG9oPxq0zOl3GgSjk4" version="21.6.3" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-07-21T00:18:13.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="cR6z2jWY8D8AxhjDhXSL" version="21.6.3" type="github" pages="16">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
           <mxGeometry x="800" y="80" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2BBEnV7eWGcI8kgwzLtz-23" value="Reactによる&#xa;フロントエンド開発" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="800" y="280" width="320" height="70" as="geometry" />
+          <mxGeometry x="800" y="280" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2BBEnV7eWGcI8kgwzLtz-24" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -107,7 +107,7 @@
           <mxGeometry x="571" y="610" width="69" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CwLthUkNWae2N1rkRZTA-24" value="ECS(Fargate)、ECRによる&#xa;Dockerコンテナ開発" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="160" y="200" width="960" height="70" as="geometry" />
+          <mxGeometry x="160" y="200" width="950" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
