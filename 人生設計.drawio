@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T08:07:45.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="9e6cdl-Tk54utbdRqmte" version="21.6.5" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-07-31T08:13:53.768Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="3uywZheF8vunxsaqrGuy" version="21.6.5" type="github" pages="18">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1509,13 +1509,81 @@
         <mxCell id="0tImrigasUCJXQW6pM3R-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#99FFCC;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="SJi1lXoTE9MvXrvbxW---1" vertex="1">
           <mxGeometry x="39" y="280" width="20" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="VlDbdLH-N2GoE1Od23B_-1" value="Linux&#xa;Modan&#xa;tmux" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=0;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="SJi1lXoTE9MvXrvbxW---1">
+        <mxCell id="VlDbdLH-N2GoE1Od23B_-1" value="Linux&#xa;Modan&#xa;tmux" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=0;fontColor=#FFFFFF;fontSize=14;" parent="SJi1lXoTE9MvXrvbxW---1" vertex="1">
           <mxGeometry x="200" y="120" width="69" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="VlDbdLH-N2GoE1Od23B_-2" value="tmux" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="SJi1lXoTE9MvXrvbxW---1">
+        <mxCell id="VlDbdLH-N2GoE1Od23B_-2" value="tmux" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="SJi1lXoTE9MvXrvbxW---1" vertex="1">
           <mxGeometry x="199" y="280" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VlDbdLH-N2GoE1Od23B_-3" value="Linux&#xa;Modan&#xa;tmux" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="SJi1lXoTE9MvXrvbxW---1">
+        <mxCell id="VlDbdLH-N2GoE1Od23B_-3" value="Linux&#xa;Modan&#xa;tmux" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="SJi1lXoTE9MvXrvbxW---1" vertex="1">
+          <mxGeometry x="120" y="120" width="69" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="20230731" id="dSYH6EWcwbfbeYPFWW2n">
+    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="8FrtrManxvWrtPnasyxd-0" />
+        <mxCell id="8FrtrManxvWrtPnasyxd-1" parent="8FrtrManxvWrtPnasyxd-0" />
+        <mxCell id="8FrtrManxvWrtPnasyxd-2" value="火" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="8FrtrManxvWrtPnasyxd-1">
+          <mxGeometry x="99" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-3" value="水" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="8FrtrManxvWrtPnasyxd-1">
+          <mxGeometry x="179" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-4" value="木" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="8FrtrManxvWrtPnasyxd-1">
+          <mxGeometry x="259" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-5" value="金" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="8FrtrManxvWrtPnasyxd-1">
+          <mxGeometry x="339" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-6" value="土" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="8FrtrManxvWrtPnasyxd-1">
+          <mxGeometry x="419" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-7" value="日" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="8FrtrManxvWrtPnasyxd-1">
+          <mxGeometry x="499" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-8" value="月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="8FrtrManxvWrtPnasyxd-1">
+          <mxGeometry x="19" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-9" value="7/3の週 行動記録" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="8FrtrManxvWrtPnasyxd-1">
+          <mxGeometry y="45" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-10" value="&lt;h1&gt;テーマ：AWS / モダンLinux&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="8FrtrManxvWrtPnasyxd-1">
+          <mxGeometry x="120" y="40" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-11" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" edge="1" parent="8FrtrManxvWrtPnasyxd-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="41" y="110" as="sourcePoint" />
+            <mxPoint x="632" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-12" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;&lt;p&gt;・Codebuildのno_proxyで躓き続けたのは正直痛手であった。VPCの知識を身に着けることができたが、できれば自力で解決したかった。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="8FrtrManxvWrtPnasyxd-1">
+          <mxGeometry x="520" y="120" width="280" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-13" value="Linux&#xa;Modan&#xa;command" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="8FrtrManxvWrtPnasyxd-1">
+          <mxGeometry x="40" y="120" width="69" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-14" value="AWS&#xa;VPC" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="8FrtrManxvWrtPnasyxd-1">
+          <mxGeometry x="40" y="280" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-15" value="Apex&#xa;Legends" style="rounded=1;fillColor=#FF0000;strokeColor=#FF6666;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="8FrtrManxvWrtPnasyxd-1">
+          <mxGeometry x="39" y="440" width="69" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-16" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#99FFCC;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="8FrtrManxvWrtPnasyxd-1">
+          <mxGeometry x="39" y="120" width="20" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-17" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#99FFCC;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="8FrtrManxvWrtPnasyxd-1">
+          <mxGeometry x="39" y="280" width="20" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-18" value="Linux&#xa;Modan&#xa;tmux" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=0;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="8FrtrManxvWrtPnasyxd-1">
+          <mxGeometry x="200" y="120" width="69" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-19" value="tmux" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="8FrtrManxvWrtPnasyxd-1">
+          <mxGeometry x="199" y="280" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-20" value="Linux&#xa;Modan&#xa;tmux" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="8FrtrManxvWrtPnasyxd-1">
           <mxGeometry x="120" y="120" width="69" height="150" as="geometry" />
         </mxCell>
       </root>
@@ -1762,7 +1830,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="archのコピー" id="JJhhjy2--r8OAeuiKpnr">
-    <mxGraphModel dx="1674" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="lxhI0WRj-EJSmuojgkRA-0" />
         <mxCell id="lxhI0WRj-EJSmuojgkRA-1" parent="lxhI0WRj-EJSmuojgkRA-0" />
@@ -1988,7 +2056,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="u7Z8VZc0vR2kfcZAb2Mk" name="updateSkills">
-    <mxGraphModel dx="1674" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
