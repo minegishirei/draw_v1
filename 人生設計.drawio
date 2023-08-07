@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T12:14:38.886Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jfBfUkdRfw24HYopJLJz" version="21.6.3" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2023-08-07T12:14:54.372Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="kMK6g6hjEmln185UTYyD" version="21.6.3" type="github" pages="19">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1631,7 +1631,7 @@
           <mxGeometry x="120" y="119" width="70" height="71" as="geometry" />
         </mxCell>
         <mxCell id="W3chkndjnukVIdReh_ta-0" value="AWS&#xa;Code&#xa;Pipline" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="mxjD-gauOfMQA1K0BEf4-1">
-          <mxGeometry x="120" y="200" width="70" height="150" as="geometry" />
+          <mxGeometry x="120" y="200" width="70" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
