@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T11:59:00.245Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="VlgxHEfkCPdOhlq0FRZp" version="21.6.3" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2023-08-07T12:00:20.529Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="t2317JolLlKqMO-Zmmgr" version="21.6.3" type="github" pages="19">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1246,7 +1246,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20230710" id="AbpbSkTCBykxbLxidMKa">
-    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Ir44DoW5jI28bkO-wScW-0" />
         <mxCell id="Ir44DoW5jI28bkO-wScW-1" parent="Ir44DoW5jI28bkO-wScW-0" />
@@ -1338,7 +1338,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20230717" id="pZcVWoPtMjYyUKwPu_EQ">
-    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="eyzX-aIeNCjd7AgORHK2-0" />
         <mxCell id="eyzX-aIeNCjd7AgORHK2-1" parent="eyzX-aIeNCjd7AgORHK2-0" />
@@ -1616,13 +1616,13 @@
           <mxGeometry x="520" y="120" width="280" height="190" as="geometry" />
         </mxCell>
         <mxCell id="mxjD-gauOfMQA1K0BEf4-13" value="Valorant" style="rounded=1;fillColor=#FF0000;strokeColor=#FF6666;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="mxjD-gauOfMQA1K0BEf4-1">
-          <mxGeometry x="39" y="199" width="69" height="151" as="geometry" />
+          <mxGeometry x="239" y="199" width="69" height="151" as="geometry" />
         </mxCell>
         <mxCell id="mxjD-gauOfMQA1K0BEf4-14" value="AWS&#xa;Codebuild" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="mxjD-gauOfMQA1K0BEf4-1">
           <mxGeometry x="38" y="120" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-kSSI9X7VfIq35ZFGyY8-0" value="AWS&#xa;Code&#xa;Pipline" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="mxjD-gauOfMQA1K0BEf4-1">
-          <mxGeometry x="38" y="360" width="70" height="70" as="geometry" />
+          <mxGeometry x="38" y="199" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
