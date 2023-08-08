@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T09:32:15.135Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="lNYI52fVbY5_gjeGQ_P-" version="21.6.6" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2023-08-08T09:32:47.420Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Wvmr4vCdhs8gjt9d7BTU" version="21.6.6" type="github" pages="19">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1454,7 +1454,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20230724" id="BdyRAsy3rysIRDh0ZPto">
-    <mxGraphModel dx="1194" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="SJi1lXoTE9MvXrvbxW---0" />
         <mxCell id="SJi1lXoTE9MvXrvbxW---1" parent="SJi1lXoTE9MvXrvbxW---0" />
@@ -1571,8 +1571,8 @@
         <mxCell id="OoBcF0CC7l8aTPjGriOl-2" value="AWS&#xa;Cloud9" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
           <mxGeometry x="38" y="200" width="70" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="61xe5AaW3DMBm3GBXveU-0" value="Linux&#xa;Modan&#xa;tmux" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
-          <mxGeometry x="360" y="120" width="69" height="150" as="geometry" />
+        <mxCell id="61xe5AaW3DMBm3GBXveU-0" value="Linux&#xa;mm" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
+          <mxGeometry x="120" y="361" width="69" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gVVa61DZgePtSnJz86Qp-0" value="React&#xa;GA4" style="rounded=1;fillColor=#FF6666;strokeColor=#FF6666;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="8FrtrManxvWrtPnasyxd-1">
           <mxGeometry x="120" y="120" width="71" height="150" as="geometry" />
