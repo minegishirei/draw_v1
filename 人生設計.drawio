@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-13T00:20:34.990Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vPgcxlP8MyVW0mUrG7lQ" version="21.6.6" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2023-08-13T00:20:47.511Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="UjgbAeXQG8RnmiL9UlIY" version="21.6.6" type="github" pages="20">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1717,7 +1717,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_Hf1Ft1ie5tvWDv298Xf-13" value="PSY" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="500" y="240" width="520" height="479" as="geometry">
+          <mxGeometry x="580" y="240" width="520" height="479" as="geometry">
             <mxRectangle x="160" y="208" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1788,7 +1788,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Id9mM4N4e3-FRx1b-fU3-26" value="ロス0" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="500" y="149" width="520" height="71" as="geometry" />
+          <mxGeometry x="580" y="149" width="520" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
