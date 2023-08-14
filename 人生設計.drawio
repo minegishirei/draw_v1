@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T09:15:38.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="gEQzGklcjlm0TimTab03" version="21.6.6" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2023-08-14T09:16:32.046Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="EJVf_hSVwgYTwvXvLDux" version="21.6.6" type="github" pages="20">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1701,8 +1701,8 @@
         <mxCell id="QjLSFTkiKSY52KYOy-JW-4" value="Python&#xa;Insane&#xa;Code" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="VJQP_Scyi4AN_eY4mwpd-1">
           <mxGeometry x="40" y="280" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="utAPbvQTTkT6q8BZ5qmy-0" value="Linux&#xa;tmux" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="VJQP_Scyi4AN_eY4mwpd-1">
-          <mxGeometry x="39" y="360" width="69" height="70" as="geometry" />
+        <mxCell id="JdcxKYPql-u2MFOHSBKv-0" value="tmux" style="rounded=1;fillColor=#4D4D4D;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="VJQP_Scyi4AN_eY4mwpd-1">
+          <mxGeometry x="40" y="360.0000000000002" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1823,7 +1823,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="tech-stack" id="OmEUMXBCBi6RGfcmuiDT">
-    <mxGraphModel dx="1194" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5OFG33ZELEmVixkgGBeE-0" />
         <mxCell id="5OFG33ZELEmVixkgGBeE-1" parent="5OFG33ZELEmVixkgGBeE-0" />
@@ -1918,7 +1918,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="archのコピー" id="JJhhjy2--r8OAeuiKpnr">
-    <mxGraphModel dx="1194" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="lxhI0WRj-EJSmuojgkRA-0" />
         <mxCell id="lxhI0WRj-EJSmuojgkRA-1" parent="lxhI0WRj-EJSmuojgkRA-0" />
