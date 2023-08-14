@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T09:38:07.995Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="xarXh15sdWOitpmg6rpZ" version="21.6.8" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2023-08-14T09:39:51.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="K0V82x_oWcUphOKhGCMY" version="21.6.8" type="github" pages="20">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1719,22 +1719,22 @@
         <mxCell id="hbRpgaDLfMl_WsLbT43B-0" />
         <mxCell id="hbRpgaDLfMl_WsLbT43B-1" parent="hbRpgaDLfMl_WsLbT43B-0" />
         <mxCell id="hbRpgaDLfMl_WsLbT43B-4" value="操作" style="swimlane;whiteSpace=wrap;html=1;shadow=0;" parent="hbRpgaDLfMl_WsLbT43B-1" vertex="1">
-          <mxGeometry x="40" y="240" width="249" height="190" as="geometry" />
+          <mxGeometry x="40" y="240" width="330" height="190" as="geometry" />
         </mxCell>
         <mxCell id="hbRpgaDLfMl_WsLbT43B-5" value="Vim" style="rounded=1;fillColor=#4D4D4D;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="hbRpgaDLfMl_WsLbT43B-4" vertex="1">
-          <mxGeometry x="10" y="31" width="150" height="70" as="geometry" />
+          <mxGeometry x="10" y="31" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hbRpgaDLfMl_WsLbT43B-6" value="Short&#xa;Cut&#xa;Keys" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="hbRpgaDLfMl_WsLbT43B-4" vertex="1">
-          <mxGeometry x="10" y="110" width="150" height="70" as="geometry" />
+          <mxGeometry x="10" y="110" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hbRpgaDLfMl_WsLbT43B-7" value="Vimnium" style="rounded=1;fillColor=#4D4D4D;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="hbRpgaDLfMl_WsLbT43B-4" vertex="1">
-          <mxGeometry x="169" y="110" width="70" height="70" as="geometry" />
+          <mxGeometry x="160" y="110" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hbRpgaDLfMl_WsLbT43B-8" value="HHKB" style="rounded=1;fillColor=#4D4D4D;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="hbRpgaDLfMl_WsLbT43B-4" vertex="1">
-          <mxGeometry x="169" y="31" width="70" height="70" as="geometry" />
+          <mxGeometry x="160" y="31" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hbRpgaDLfMl_WsLbT43B-9" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#99FFCC;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="hbRpgaDLfMl_WsLbT43B-4" vertex="1">
-          <mxGeometry x="169" y="31" width="20" height="21" as="geometry" />
+          <mxGeometry x="160" y="31" width="20" height="21" as="geometry" />
         </mxCell>
         <mxCell id="hbRpgaDLfMl_WsLbT43B-10" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00CC66;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="hbRpgaDLfMl_WsLbT43B-4" vertex="1">
           <mxGeometry x="9" y="31" width="20" height="21" as="geometry" />
@@ -1743,10 +1743,16 @@
           <mxGeometry x="10" y="110" width="20" height="21" as="geometry" />
         </mxCell>
         <mxCell id="hbRpgaDLfMl_WsLbT43B-12" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00CC66;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="hbRpgaDLfMl_WsLbT43B-4" vertex="1">
-          <mxGeometry x="170" y="110" width="20" height="21" as="geometry" />
+          <mxGeometry x="161" y="110" width="20" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="bd6OfIQBtWZi-lH_Bt-N-0" value="tmux" style="rounded=1;fillColor=#4D4D4D;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="hbRpgaDLfMl_WsLbT43B-4">
+          <mxGeometry x="241" y="31" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bd6OfIQBtWZi-lH_Bt-N-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#99FFCC;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="hbRpgaDLfMl_WsLbT43B-4">
+          <mxGeometry x="241" y="31" width="20" height="21" as="geometry" />
         </mxCell>
         <mxCell id="hbRpgaDLfMl_WsLbT43B-14" value="理解" style="swimlane;whiteSpace=wrap;html=1;shadow=0;" parent="hbRpgaDLfMl_WsLbT43B-1" vertex="1">
-          <mxGeometry x="310" y="240" width="170" height="190" as="geometry" />
+          <mxGeometry x="450" y="240" width="170" height="190" as="geometry" />
         </mxCell>
         <mxCell id="hbRpgaDLfMl_WsLbT43B-15" value="Linux&#xa;Kernel&#xa;ソース" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="hbRpgaDLfMl_WsLbT43B-14" vertex="1">
           <mxGeometry x="10" y="30" width="70" height="71" as="geometry" />
@@ -1770,7 +1776,7 @@
           <mxGeometry x="40" y="30" width="20" height="21" as="geometry" />
         </mxCell>
         <mxCell id="hbRpgaDLfMl_WsLbT43B-23" value="PSY" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="hbRpgaDLfMl_WsLbT43B-1" vertex="1">
-          <mxGeometry x="500" y="240" width="520" height="479" as="geometry">
+          <mxGeometry x="640" y="240" width="520" height="479" as="geometry">
             <mxRectangle x="160" y="208" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
