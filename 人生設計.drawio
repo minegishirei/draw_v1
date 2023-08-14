@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T09:40:00.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="PQPENLwkmfnxo2dNVUZL" version="21.6.8" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2023-08-14T09:40:07.288Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="97rPbgdGHISHCYDR61dL" version="21.6.8" type="github" pages="20">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1815,9 +1815,6 @@
         </mxCell>
         <mxCell id="hbRpgaDLfMl_WsLbT43B-35" value="Sweat &#xa;on&#xa;Palms" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="hbRpgaDLfMl_WsLbT43B-31" vertex="1">
           <mxGeometry y="110" width="70" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="hbRpgaDLfMl_WsLbT43B-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="hbRpgaDLfMl_WsLbT43B-1" source="hbRpgaDLfMl_WsLbT43B-37" target="hbRpgaDLfMl_WsLbT43B-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hbRpgaDLfMl_WsLbT43B-37" value="環境" style="swimlane;whiteSpace=wrap;html=1;shadow=0;" parent="hbRpgaDLfMl_WsLbT43B-1" vertex="1">
           <mxGeometry x="40" y="450" width="249" height="110" as="geometry" />
