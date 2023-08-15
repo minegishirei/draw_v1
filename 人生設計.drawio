@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T09:53:20.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="0O_csdU4K7fCQBi57jIB" version="21.6.8" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2023-08-15T09:05:11.809Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="NePxdRvcoLoXQQYzLH38" version="21.6.8" type="github" pages="20">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1708,10 +1708,10 @@
           <mxGeometry x="40" y="520" width="70" height="69" as="geometry" />
         </mxCell>
         <mxCell id="JdcxKYPql-u2MFOHSBKv-3" value="Linux&#xa;Extend&#xa;System" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="VJQP_Scyi4AN_eY4mwpd-1" vertex="1">
-          <mxGeometry x="120" y="120" width="70" height="150" as="geometry" />
+          <mxGeometry x="120" y="120" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="aQWfhUhXVEFSSl16uAfJ-0" value="Meta&#xa;過去&#xa;勉強した&#xa;内容" style="rounded=1;fillColor=#FF6666;strokeColor=#FF6666;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="VJQP_Scyi4AN_eY4mwpd-1">
-          <mxGeometry x="120" y="280" width="69" height="71" as="geometry" />
+        <mxCell id="aQWfhUhXVEFSSl16uAfJ-0" value="Meta&#xa;過去&#xa;勉強した&#xa;内容" style="rounded=1;fillColor=#FF6666;strokeColor=#FF6666;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="VJQP_Scyi4AN_eY4mwpd-1" vertex="1">
+          <mxGeometry x="120" y="200" width="69" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1828,7 +1828,7 @@
         <mxCell id="hbRpgaDLfMl_WsLbT43B-20" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="hbRpgaDLfMl_WsLbT43B-1" vertex="1">
           <mxGeometry x="120" y="600" width="20" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="nYINqSHxLCLreHNgJ-pp-3" value="人生をかけて探索するべきソースコード" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hbRpgaDLfMl_WsLbT43B-1">
+        <mxCell id="nYINqSHxLCLreHNgJ-pp-3" value="人生をかけて探索するべきソースコード" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hbRpgaDLfMl_WsLbT43B-1" vertex="1">
           <mxGeometry x="480" y="130" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
