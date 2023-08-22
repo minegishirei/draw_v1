@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T08:00:25.396Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="X1tKw8dQOLcgYBt29_-7" version="21.6.8" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2023-08-22T08:15:33.935Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="bwhHNk3fVuahPkTcm55T" version="21.6.8" type="github" pages="21">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1522,7 +1522,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20230731" id="dSYH6EWcwbfbeYPFWW2n">
-    <mxGraphModel dx="1194" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8FrtrManxvWrtPnasyxd-0" />
         <mxCell id="8FrtrManxvWrtPnasyxd-1" parent="8FrtrManxvWrtPnasyxd-0" />
@@ -1579,6 +1579,9 @@
         </mxCell>
         <mxCell id="gVVa61DZgePtSnJz86Qp-1" value="Git" style="rounded=1;fillColor=#FF6666;strokeColor=#FF6666;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
           <mxGeometry x="120" y="281" width="71" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="w4paftrov0-TXjIlmSPG-0" value="Eye&#xa;Brows" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="8FrtrManxvWrtPnasyxd-1">
+          <mxGeometry x="121" y="440" width="70" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1810,6 +1813,9 @@
         </mxCell>
         <mxCell id="SevB1oM7-vGffjU3a50B-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#99FFCC;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="fnrcAPw_NSNCF0e9GGt5-1">
           <mxGeometry x="119" y="440" width="20" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Lq_jRX7IB49gaUxGgRXb-1" value="Eye&#xa;Mouth" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="fnrcAPw_NSNCF0e9GGt5-1">
+          <mxGeometry x="120" y="600" width="70" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -2254,7 +2260,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="u7Z8VZc0vR2kfcZAb2Mk" name="updateSkills">
-    <mxGraphModel dx="1194" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
