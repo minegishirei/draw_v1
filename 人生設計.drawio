@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-08T05:57:39.618Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="lz-eU7ZnBk-sQu3g8wV4" version="21.7.2" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2023-09-08T05:58:09.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="zNovKBfVoi1bkVVl1nOE" version="21.7.2" type="github" pages="23">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1991,6 +1991,9 @@
         </mxCell>
         <mxCell id="QtvKWGYCjuVEnRRFE8ZK-2" value="VALO&#xa;astra" style="rounded=1;fillColor=#FF6666;strokeColor=#FF6666;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="llACEojMSqQIBne3D26Y-1">
           <mxGeometry x="360" y="120" width="69" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="QtvKWGYCjuVEnRRFE8ZK-3" value="All Hands&#xa;司会" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="llACEojMSqQIBne3D26Y-1">
+          <mxGeometry x="359" y="280" width="70" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
