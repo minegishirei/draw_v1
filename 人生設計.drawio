@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-19T07:55:53.826Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Qdr8BvoX20V6cuaFEw2Y" version="21.7.5" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2023-09-19T07:56:14.003Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="EcBtCgpvFIPESALDXbTP" version="21.7.5" type="github" pages="25">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2113,35 +2113,11 @@
         <mxCell id="qTP_yhxat8HFY62yfr_4-12" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;&lt;p&gt;・&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="qTP_yhxat8HFY62yfr_4-1">
           <mxGeometry x="610" y="120" width="280" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="qTP_yhxat8HFY62yfr_4-13" value="Docker&#xa;&#xa;USER" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="qTP_yhxat8HFY62yfr_4-1">
-          <mxGeometry x="200" y="120" width="70" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="qTP_yhxat8HFY62yfr_4-14" value="Docker&#xa;&#xa;FROM" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="qTP_yhxat8HFY62yfr_4-1">
-          <mxGeometry x="120" y="120" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="qTP_yhxat8HFY62yfr_4-15" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="qTP_yhxat8HFY62yfr_4-1">
-          <mxGeometry x="199" y="120" width="20" height="21" as="geometry" />
+          <mxGeometry x="40" y="120" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qTP_yhxat8HFY62yfr_4-16" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="qTP_yhxat8HFY62yfr_4-1">
-          <mxGeometry x="120" y="120" width="20" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="qTP_yhxat8HFY62yfr_4-17" value="Docker&#xa;&#xa;ENV" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="qTP_yhxat8HFY62yfr_4-1">
-          <mxGeometry x="280" y="120" width="70" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="qTP_yhxat8HFY62yfr_4-18" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="qTP_yhxat8HFY62yfr_4-1">
-          <mxGeometry x="279" y="120" width="20" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="qTP_yhxat8HFY62yfr_4-19" value="Docker&#xa;&#xa;EXPOSE" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="qTP_yhxat8HFY62yfr_4-1">
-          <mxGeometry x="279" y="280" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="qTP_yhxat8HFY62yfr_4-20" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="qTP_yhxat8HFY62yfr_4-1">
-          <mxGeometry x="279" y="280" width="20" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="qTP_yhxat8HFY62yfr_4-21" value="Docker&#xa;&#xa;COPY" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="qTP_yhxat8HFY62yfr_4-1">
-          <mxGeometry x="280" y="360" width="70" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="qTP_yhxat8HFY62yfr_4-22" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="qTP_yhxat8HFY62yfr_4-1">
-          <mxGeometry x="280" y="360" width="20" height="21" as="geometry" />
+          <mxGeometry x="40" y="120" width="20" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
