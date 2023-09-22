@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-22T02:40:44.326Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="KnQLzQ48NHIu8VPqpX5r" version="21.8.0" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2023-09-22T04:46:31.784Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="P2sFHLkGaxUSGuzepaTs" version="21.8.0" type="github" pages="25">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2140,14 +2140,11 @@
         <mxCell id="dOxu8NjvMvBsqYaekD-H-0" value="Docker&#xa;commit&#xa;cp,export" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="qTP_yhxat8HFY62yfr_4-1" vertex="1">
           <mxGeometry x="200" y="360" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="xOX6dTpDgrl655AFx_G7-0" value="poker" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="qTP_yhxat8HFY62yfr_4-1">
+        <mxCell id="xOX6dTpDgrl655AFx_G7-0" value="poker" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="qTP_yhxat8HFY62yfr_4-1" vertex="1">
           <mxGeometry x="280" y="120" width="70" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="vWKUMmBn6Qeke5ABpsbG-0" value="Wakou" style="rounded=1;fillColor=#FFB570;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="qTP_yhxat8HFY62yfr_4-1">
+        <mxCell id="vWKUMmBn6Qeke5ABpsbG-0" value="Wakou" style="rounded=1;fillColor=#FFB570;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="qTP_yhxat8HFY62yfr_4-1" vertex="1">
           <mxGeometry x="360" y="199" width="69" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="vWKUMmBn6Qeke5ABpsbG-1" value="Engineer&#xa;sales" style="rounded=1;fillColor=#FFB570;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="qTP_yhxat8HFY62yfr_4-1">
-          <mxGeometry x="360" y="279" width="69" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
