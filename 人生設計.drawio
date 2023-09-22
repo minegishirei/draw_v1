@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T09:35:35.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="WX98VmYN3VarxiBMDjnp" version="21.7.5" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2023-09-22T02:38:43.165Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="TEwmqFmIMSWDt0u7tc1k" version="21.8.0" type="github" pages="25">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2947.5" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,13 +130,13 @@
         <mxCell id="2iAQ5y62UPVoXTDQtGq--23" value="Man&#xa;of&#xa;Docker" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1440" y="531" width="70" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="00PAND8-ghCy_wr00Vmi-23" value="Dockerfile&#xa;書き方" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="00PAND8-ghCy_wr00Vmi-23" value="Dockerfile&#xa;書き方" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1280" y="610" width="310" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="00PAND8-ghCy_wr00Vmi-24" value="Docker&#xa;イメージ集" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="00PAND8-ghCy_wr00Vmi-24" value="Docker&#xa;イメージ集" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1520" y="532" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="00PAND8-ghCy_wr00Vmi-26" value="Kubernetes&#xa;入門" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="00PAND8-ghCy_wr00Vmi-26" value="Kubernetes&#xa;入門" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1600" y="610" width="480" height="70" as="geometry" />
         </mxCell>
       </root>
@@ -1451,7 +1451,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20230724" id="BdyRAsy3rysIRDh0ZPto">
-    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="SJi1lXoTE9MvXrvbxW---0" />
         <mxCell id="SJi1lXoTE9MvXrvbxW---1" parent="SJi1lXoTE9MvXrvbxW---0" />
@@ -1753,7 +1753,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20230821" id="sUkndLiJJo8m3o_KZBS-">
-    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="fnrcAPw_NSNCF0e9GGt5-0" />
         <mxCell id="fnrcAPw_NSNCF0e9GGt5-1" parent="fnrcAPw_NSNCF0e9GGt5-0" />
@@ -1895,7 +1895,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20230904" id="JWTa9vHVeVOiKfJlION1">
-    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="llACEojMSqQIBne3D26Y-0" />
         <mxCell id="llACEojMSqQIBne3D26Y-1" parent="llACEojMSqQIBne3D26Y-0" />
@@ -1993,7 +1993,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20230911" id="KKM7uV1gFjSsUPC--Hpi">
-    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="EIHTL_VZir1eHEpV5tue-0" />
         <mxCell id="EIHTL_VZir1eHEpV5tue-1" parent="EIHTL_VZir1eHEpV5tue-0" />
@@ -2067,7 +2067,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20230918" id="l2B7djUBKTRs0aKHYUcL">
-    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qTP_yhxat8HFY62yfr_4-0" />
         <mxCell id="qTP_yhxat8HFY62yfr_4-1" parent="qTP_yhxat8HFY62yfr_4-0" />
@@ -2137,8 +2137,11 @@
         <mxCell id="K_-R2lDiQD9is-shxgIh-4" value="VALO" style="rounded=1;fillColor=#FF6666;strokeColor=#FF6666;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="qTP_yhxat8HFY62yfr_4-1" vertex="1">
           <mxGeometry x="200" y="440" width="69" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="dOxu8NjvMvBsqYaekD-H-0" value="Docker&#xa;commit&#xa;cp,export" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="qTP_yhxat8HFY62yfr_4-1">
+        <mxCell id="dOxu8NjvMvBsqYaekD-H-0" value="Docker&#xa;commit&#xa;cp,export" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="qTP_yhxat8HFY62yfr_4-1" vertex="1">
           <mxGeometry x="200" y="360" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xOX6dTpDgrl655AFx_G7-0" value="poker" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="qTP_yhxat8HFY62yfr_4-1">
+          <mxGeometry x="280" y="120" width="70" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
