@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T04:40:06.157Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="GA87pFlUaa68SGIzsTd1" version="21.8.0" type="github" pages="27">
+<mxfile host="app.diagrams.net" modified="2023-09-27T04:41:25.544Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="D7VgPZPnZ0SVeMTqA1Ga" version="21.8.0" type="github" pages="27">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2194,19 +2194,10 @@
           <mxGeometry x="520" y="120" width="280" height="190" as="geometry" />
         </mxCell>
         <mxCell id="a-nHaTuBKF9KEzWI5Hg_-13" value="Docker&#xa;file&#xa;命令一覧&#xa;完了" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="a-nHaTuBKF9KEzWI5Hg_-1">
-          <mxGeometry x="40" y="120" width="70" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="a-nHaTuBKF9KEzWI5Hg_-14" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="a-nHaTuBKF9KEzWI5Hg_-1">
-          <mxGeometry x="40" y="120" width="20" height="21" as="geometry" />
+          <mxGeometry x="570" y="310" width="70" height="270" as="geometry" />
         </mxCell>
         <mxCell id="a-nHaTuBKF9KEzWI5Hg_-15" value="Docker&#xa;React&#xa;Install" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="a-nHaTuBKF9KEzWI5Hg_-1">
           <mxGeometry x="120" y="120" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="a-nHaTuBKF9KEzWI5Hg_-16" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="a-nHaTuBKF9KEzWI5Hg_-1">
-          <mxGeometry x="119" y="120" width="20" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="a-nHaTuBKF9KEzWI5Hg_-17" value="VALO" style="rounded=1;fillColor=#FF6666;strokeColor=#FF6666;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="a-nHaTuBKF9KEzWI5Hg_-1">
-          <mxGeometry x="121" y="360" width="69" height="150" as="geometry" />
         </mxCell>
         <mxCell id="a-nHaTuBKF9KEzWI5Hg_-18" value="Kuber" style="rounded=1;fillColor=#FF6666;strokeColor=#FF6666;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="a-nHaTuBKF9KEzWI5Hg_-1">
           <mxGeometry x="360" y="120" width="69" height="70" as="geometry" />
@@ -2214,32 +2205,23 @@
         <mxCell id="a-nHaTuBKF9KEzWI5Hg_-19" value="frontend&#xa;fix&#xa;&#xa;python&#xa;batch&#xa;fix&#xa;&#xa;MTG" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="a-nHaTuBKF9KEzWI5Hg_-1">
           <mxGeometry x="200" y="120" width="70" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="a-nHaTuBKF9KEzWI5Hg_-20" value="AWS&#xa;Step&#xa;functions" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="a-nHaTuBKF9KEzWI5Hg_-1">
-          <mxGeometry x="119.5" y="200" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="a-nHaTuBKF9KEzWI5Hg_-21" value="AWS&#xa;IaC" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="a-nHaTuBKF9KEzWI5Hg_-1">
-          <mxGeometry x="120.5" y="280" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="a-nHaTuBKF9KEzWI5Hg_-22" value="VALO" style="rounded=1;fillColor=#FF6666;strokeColor=#FF6666;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="a-nHaTuBKF9KEzWI5Hg_-1">
-          <mxGeometry x="200" y="440" width="69" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="a-nHaTuBKF9KEzWI5Hg_-23" value="Docker&#xa;commit&#xa;cp,export" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="a-nHaTuBKF9KEzWI5Hg_-1">
-          <mxGeometry x="200" y="360" width="70" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="a-nHaTuBKF9KEzWI5Hg_-24" value="poker" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="a-nHaTuBKF9KEzWI5Hg_-1">
           <mxGeometry x="280" y="120" width="70" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="a-nHaTuBKF9KEzWI5Hg_-25" value="poker" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="a-nHaTuBKF9KEzWI5Hg_-1">
-          <mxGeometry x="360" y="279" width="70" height="71" as="geometry" />
-        </mxCell>
         <mxCell id="a-nHaTuBKF9KEzWI5Hg_-26" value="K8s&#xa;overview" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="a-nHaTuBKF9KEzWI5Hg_-1">
           <mxGeometry x="359" y="200" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUjoxgNWiNM5XmVAqOex-0" value="Flame&#xa;value" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="a-nHaTuBKF9KEzWI5Hg_-1">
+          <mxGeometry x="40" y="120" width="70" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="YPdd7a-BeiI8WAm6-vH_-0" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="a-nHaTuBKF9KEzWI5Hg_-1">
+          <mxGeometry x="40" y="120" width="20" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="archのコピー" id="ECHG-J7BnWIAVhMzwY6G">
-    <mxGraphModel dx="1194" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="hbRpgaDLfMl_WsLbT43B-0" />
         <mxCell id="hbRpgaDLfMl_WsLbT43B-1" parent="hbRpgaDLfMl_WsLbT43B-0" />
