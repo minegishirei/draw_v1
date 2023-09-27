@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T09:10:02.135Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="L1JoxzhgiChCEU6cJYe2" version="21.8.2" type="github" pages="27">
+<mxfile host="app.diagrams.net" modified="2023-09-27T09:11:39.696Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ZnmndHnZVK3LWASdVFkh" version="21.8.2" type="github" pages="27">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1649,7 +1649,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20230814" id="IwD5NVjnIbA8C6vrJI2J">
-    <mxGraphModel dx="1194" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="VJQP_Scyi4AN_eY4mwpd-0" />
         <mxCell id="VJQP_Scyi4AN_eY4mwpd-1" parent="VJQP_Scyi4AN_eY4mwpd-0" />
@@ -2190,7 +2190,7 @@
             <mxPoint x="632" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a-nHaTuBKF9KEzWI5Hg_-12" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;&lt;p&gt;・Docker 入門の記事を一通り完成させたのは大きい。3か月後に自分の身を助ける何かになりえる。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="a-nHaTuBKF9KEzWI5Hg_-1" vertex="1">
+        <mxCell id="a-nHaTuBKF9KEzWI5Hg_-12" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;&lt;p&gt;・FlameValueの復活、React新規画面の作成、アジャイルロードマップの作製など、ブランドに結び付きそうな仕事が多い。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="a-nHaTuBKF9KEzWI5Hg_-1" vertex="1">
           <mxGeometry x="520" y="120" width="280" height="190" as="geometry" />
         </mxCell>
         <mxCell id="ZUjoxgNWiNM5XmVAqOex-0" value="Flame&#xa;value" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="a-nHaTuBKF9KEzWI5Hg_-1" vertex="1">
