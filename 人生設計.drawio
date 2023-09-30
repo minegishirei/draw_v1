@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-30T13:06:32.069Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="GA-5mMz143V3aiHHqmhX" version="21.8.0" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2023-09-30T13:06:58.773Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="iBy47AXVRoOCsLAfXryu" version="21.8.0" type="github" pages="26">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2468,7 +2468,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="arch_20230928" id="UcwGEDnqAHLTyvz91h6x">
-    <mxGraphModel dx="1592" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1990" dy="985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ttzowBp52rFxry0yLnTE-0" />
         <mxCell id="ttzowBp52rFxry0yLnTE-1" parent="ttzowBp52rFxry0yLnTE-0" />
@@ -2610,7 +2610,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ttzowBp52rFxry0yLnTE-60" value="PSY" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="ttzowBp52rFxry0yLnTE-1">
-          <mxGeometry x="160" y="207" width="520" height="479" as="geometry">
+          <mxGeometry x="400" y="201.75" width="280" height="479" as="geometry">
             <mxRectangle x="160" y="208" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2648,7 +2648,7 @@
           <mxGeometry y="110" width="70" height="71" as="geometry" />
         </mxCell>
         <mxCell id="A4_LObbhMwFhVQPh6e9q-9" value="Porker" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="ttzowBp52rFxry0yLnTE-1">
-          <mxGeometry x="385" y="90" width="70" height="70" as="geometry" />
+          <mxGeometry x="504" y="100" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
