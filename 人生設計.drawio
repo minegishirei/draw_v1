@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-30T13:06:58.773Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="iBy47AXVRoOCsLAfXryu" version="21.8.0" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2023-09-30T13:07:07.614Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="IJtQB4v6-iurmkpsgkD2" version="21.8.0" type="github" pages="26">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2472,23 +2472,6 @@
       <root>
         <mxCell id="ttzowBp52rFxry0yLnTE-0" />
         <mxCell id="ttzowBp52rFxry0yLnTE-1" parent="ttzowBp52rFxry0yLnTE-0" />
-        <mxCell id="ttzowBp52rFxry0yLnTE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ttzowBp52rFxry0yLnTE-1" target="ttzowBp52rFxry0yLnTE-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1620" y="144.42857142857144" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ttzowBp52rFxry0yLnTE-5" value="仕事" style="swimlane;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="ttzowBp52rFxry0yLnTE-1">
-          <mxGeometry x="1750" y="50" width="257" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="ttzowBp52rFxry0yLnTE-6" value="くそコード&#xa;ソース&#xa;読解" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="ttzowBp52rFxry0yLnTE-5">
-          <mxGeometry y="31" width="70" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="ttzowBp52rFxry0yLnTE-7" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00CC66;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="ttzowBp52rFxry0yLnTE-5">
-          <mxGeometry y="30" width="20" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="ttzowBp52rFxry0yLnTE-8" value="資料作成" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="ttzowBp52rFxry0yLnTE-5">
-          <mxGeometry x="77" y="30" width="70" height="71" as="geometry" />
-        </mxCell>
         <mxCell id="ttzowBp52rFxry0yLnTE-13" value="趣味" style="swimlane;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="ttzowBp52rFxry0yLnTE-1">
           <mxGeometry x="1220" y="639" width="320" height="190" as="geometry" />
         </mxCell>
