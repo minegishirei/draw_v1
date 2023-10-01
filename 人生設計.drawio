@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-01T06:01:17.020Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="EPOAeMAuIr16v4xHn1nL" version="22.0.0" type="github" pages="27">
+<mxfile host="app.diagrams.net" modified="2023-10-01T06:02:32.976Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="MKooKINYbkJxCVIMNkpQ" version="22.0.0" type="github" pages="27">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2245,31 +2245,15 @@
     </mxGraphModel>
   </diagram>
   <diagram name="arch_20230928" id="UcwGEDnqAHLTyvz91h6x">
-    <mxGraphModel dx="1257" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ttzowBp52rFxry0yLnTE-0" />
         <mxCell id="ttzowBp52rFxry0yLnTE-1" parent="ttzowBp52rFxry0yLnTE-0" />
-        <mxCell id="zLNLVAFL-kKF2QYCNvXK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ttzowBp52rFxry0yLnTE-1" target="-XfG2UBa2JQ5pT5vduo4-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210.0026315789475" y="260" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="jRRePTivvZqHG8xmUi98-1" value="Psychology" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Person_icon_BLACK-01.svg/1200px-Person_icon_BLACK-01.svg.png;" parent="ttzowBp52rFxry0yLnTE-1" vertex="1">
+          <mxGeometry x="440" y="240" width="138" height="146.81" as="geometry" />
         </mxCell>
-        <mxCell id="9R5vOywQJUqNWNpxu6PX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ttzowBp52rFxry0yLnTE-1" source="-XfG2UBa2JQ5pT5vduo4-2" target="9R5vOywQJUqNWNpxu6PX-0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-XfG2UBa2JQ5pT5vduo4-2" value="うまいことやる" style="rounded=1;fillColor=#4D4D4D;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="ttzowBp52rFxry0yLnTE-1">
-          <mxGeometry x="284.95" y="130" width="150" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="9R5vOywQJUqNWNpxu6PX-0" value="すごいエンジニア" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="ttzowBp52rFxry0yLnTE-1">
-          <mxGeometry x="284.95" y="30" width="150" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="zLNLVAFL-kKF2QYCNvXK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ttzowBp52rFxry0yLnTE-1" target="-XfG2UBa2JQ5pT5vduo4-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="524.95" y="260" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jRRePTivvZqHG8xmUi98-1" value="Psychology" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Person_icon_BLACK-01.svg/1200px-Person_icon_BLACK-01.svg.png;" vertex="1" parent="ttzowBp52rFxry0yLnTE-1">
-          <mxGeometry x="414" y="290" width="138" height="146.81" as="geometry" />
+        <mxCell id="JpIgzJ05TwXmTHeqNlGk-0" value="Engineering" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/2201/2201555.png;" vertex="1" parent="ttzowBp52rFxry0yLnTE-1">
+          <mxGeometry x="170" y="240.11" width="146.6" height="146.6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
