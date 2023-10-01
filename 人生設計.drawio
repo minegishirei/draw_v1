@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-01T05:56:57.104Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="iiXIk2wiTsJBV1BCRajX" version="22.0.0" type="github" pages="27">
+<mxfile host="app.diagrams.net" modified="2023-10-01T06:01:17.020Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="EPOAeMAuIr16v4xHn1nL" version="22.0.0" type="github" pages="27">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2267,6 +2267,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="524.95" y="260" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jRRePTivvZqHG8xmUi98-1" value="Psychology" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Person_icon_BLACK-01.svg/1200px-Person_icon_BLACK-01.svg.png;" vertex="1" parent="ttzowBp52rFxry0yLnTE-1">
+          <mxGeometry x="414" y="290" width="138" height="146.81" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
