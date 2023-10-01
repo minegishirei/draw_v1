@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-01T11:02:01.910Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vx01IultZWPwHD3qDP-s" version="22.0.0" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2023-10-01T11:03:03.774Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="LcK-4LngUMKHJ8puKUyl" version="22.0.0" type="github" pages="28">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2285,24 +2285,6 @@
         <mxCell id="zHhiXLO4bl58V0yyxGMU-12" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;&lt;p&gt;・FlameValueの復活、React新規画面の作成、アジャイルロードマップの作製など、ブランドに結び付きそうな仕事が多い。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="zHhiXLO4bl58V0yyxGMU-1">
           <mxGeometry x="520" y="120" width="280" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="zHhiXLO4bl58V0yyxGMU-13" value="Flame&#xa;value" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="zHhiXLO4bl58V0yyxGMU-1">
-          <mxGeometry x="40" y="120" width="70" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="zHhiXLO4bl58V0yyxGMU-14" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="zHhiXLO4bl58V0yyxGMU-1">
-          <mxGeometry x="39" y="120" width="20" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="zHhiXLO4bl58V0yyxGMU-15" value="Flame&#xa;value" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="zHhiXLO4bl58V0yyxGMU-1">
-          <mxGeometry x="200" y="120" width="70" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="zHhiXLO4bl58V0yyxGMU-16" value="Flame&#xa;value" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="zHhiXLO4bl58V0yyxGMU-1">
-          <mxGeometry x="120" y="120" width="70" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="zHhiXLO4bl58V0yyxGMU-17" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="zHhiXLO4bl58V0yyxGMU-1">
-          <mxGeometry x="120" y="120" width="20" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="zHhiXLO4bl58V0yyxGMU-18" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="zHhiXLO4bl58V0yyxGMU-1">
-          <mxGeometry x="199" y="120" width="20" height="21" as="geometry" />
-        </mxCell>
         <mxCell id="zHhiXLO4bl58V0yyxGMU-19" value="React&#xa;新規画面" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="zHhiXLO4bl58V0yyxGMU-1">
           <mxGeometry x="120" y="360" width="70" height="190" as="geometry" />
         </mxCell>
@@ -2326,6 +2308,9 @@
         </mxCell>
         <mxCell id="zHhiXLO4bl58V0yyxGMU-26" value="Agile&#xa;Book" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="zHhiXLO4bl58V0yyxGMU-1">
           <mxGeometry x="360" y="360" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NDrKnRK_lh29bWsyWf9q-0" value="Consis&#xa;tency" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="zHhiXLO4bl58V0yyxGMU-1">
+          <mxGeometry x="40" y="119" width="70" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
