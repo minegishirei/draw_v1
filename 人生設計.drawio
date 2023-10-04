@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-04T08:38:21.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="qj5v7XEJaWLJTBYWTbiE" version="21.8.2" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2023-10-04T08:39:08.019Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="oMKS9UnHOkB_oOEFK1VG" version="21.8.2" type="github" pages="29">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2316,21 +2316,16 @@
           <mxGeometry x="280" y="202" width="70" height="68" as="geometry" />
         </mxCell>
         <mxCell id="SLxrRDLvQytyNsg-ttov-0" value="すごいエンジニア" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="zHhiXLO4bl58V0yyxGMU-1">
-          <mxGeometry x="1090" y="119" width="150" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="SLxrRDLvQytyNsg-ttov-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="zHhiXLO4bl58V0yyxGMU-1" source="SLxrRDLvQytyNsg-ttov-2" target="SLxrRDLvQytyNsg-ttov-0">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="1080" y="90" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SLxrRDLvQytyNsg-ttov-2" value="心理学アプローチ" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="zHhiXLO4bl58V0yyxGMU-1">
-          <mxGeometry x="1250" y="260" width="200" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="SLxrRDLvQytyNsg-ttov-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zHhiXLO4bl58V0yyxGMU-1" source="SLxrRDLvQytyNsg-ttov-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1160" y="295" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="1241" y="240" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SLxrRDLvQytyNsg-ttov-4" value="エンジニアリング&#xa;アプローチ" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="zHhiXLO4bl58V0yyxGMU-1">
-          <mxGeometry x="890" y="260" width="200" height="70" as="geometry" />
+          <mxGeometry x="880" y="240" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SLxrRDLvQytyNsg-ttov-6" value="Dockerコンテナ" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="zHhiXLO4bl58V0yyxGMU-1">
+          <mxGeometry x="880" y="320" width="200" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
