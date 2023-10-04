@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-04T09:05:01.929Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="qk5Obv_bYDodPvvAnvLv" version="21.8.2" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2023-10-04T09:07:23.234Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ioHWVd2PhGgC4tirEG0j" version="21.8.2" type="github" pages="29">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2316,16 +2316,19 @@
           <mxGeometry x="280" y="202" width="70" height="68" as="geometry" />
         </mxCell>
         <mxCell id="SLxrRDLvQytyNsg-ttov-0" value="すごいエンジニア" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="zHhiXLO4bl58V0yyxGMU-1">
-          <mxGeometry x="750" y="80" width="150" height="70" as="geometry" />
+          <mxGeometry x="800" y="340" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SLxrRDLvQytyNsg-ttov-2" value="心理学アプローチ" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="zHhiXLO4bl58V0yyxGMU-1">
-          <mxGeometry x="920" y="380" width="200" height="70" as="geometry" />
+          <mxGeometry x="1080" y="670" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SLxrRDLvQytyNsg-ttov-4" value="Dockerコンテナ" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="zHhiXLO4bl58V0yyxGMU-1">
-          <mxGeometry x="600" y="380" width="200" height="70" as="geometry" />
+          <mxGeometry x="590" y="670" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SLxrRDLvQytyNsg-ttov-11" value="&lt;h1&gt;「すごい」イメージ&lt;/h1&gt;&lt;p&gt;・エンジニアは上位に行けば行くほど変な人が多い。&lt;/p&gt;&lt;p&gt;・すごい技術は持っているけど「アピールが下手」&lt;/p&gt;&lt;p&gt;・好感度が低い&lt;/p&gt;&lt;p&gt;→逆に言えばこの「コミュニケーション不全」にこそブランドイメージを上げる隙、ブルーオーシャンがあるのでは?&lt;/p&gt;&lt;p&gt;→頻繁にコミュニケーションを要求されるスクラム開発において使える&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="zHhiXLO4bl58V0yyxGMU-1">
           <mxGeometry x="920" y="80" width="280" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="SLxrRDLvQytyNsg-ttov-12" value="アジャイル開発" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="zHhiXLO4bl58V0yyxGMU-1">
+          <mxGeometry x="730" y="460" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
