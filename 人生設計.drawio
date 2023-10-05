@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T09:33:29.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="gdWJBMZv3ooj62siJUoz" version="22.0.2" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2023-10-05T09:33:39.978Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="1Dwm6U_sdTucGJ2VMfKH" version="22.0.2" type="github" pages="29">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2438,8 +2438,14 @@
         <mxCell id="ZuQIdvuTUjI1Ohlffc2g-10" value="信頼関係の&#xa;構築" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1Wq92-tUKrpAjF8nO5Uc-1">
           <mxGeometry x="-470" y="140" width="70" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="ZuQIdvuTUjI1Ohlffc2g-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1Wq92-tUKrpAjF8nO5Uc-1" source="ZuQIdvuTUjI1Ohlffc2g-18" target="ZuQIdvuTUjI1Ohlffc2g-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZuQIdvuTUjI1Ohlffc2g-18" value="思考レベルを&#xa;見極める" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1Wq92-tUKrpAjF8nO5Uc-1">
           <mxGeometry x="-360" y="310" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuQIdvuTUjI1Ohlffc2g-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1Wq92-tUKrpAjF8nO5Uc-1" source="ZuQIdvuTUjI1Ohlffc2g-19" target="ZuQIdvuTUjI1Ohlffc2g-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZuQIdvuTUjI1Ohlffc2g-19" value="見極める" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1Wq92-tUKrpAjF8nO5Uc-1">
           <mxGeometry x="-360" y="400" width="150" height="70" as="geometry" />
