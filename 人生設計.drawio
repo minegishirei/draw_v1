@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T09:52:28.444Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="TDpCnxO3u773jD25ogMz" version="22.0.2" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2023-10-05T09:52:38.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="HypjPUuhWujkxVzfeBPq" version="22.0.2" type="github" pages="29">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2331,13 +2331,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SLxrRDLvQytyNsg-ttov-18" value="Docker" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="zHhiXLO4bl58V0yyxGMU-1" vertex="1">
-          <mxGeometry x="942" y="515" width="70" height="70" as="geometry" />
+          <mxGeometry x="942" y="440" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Dmf-g5Z10JcbQg115JPa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="zHhiXLO4bl58V0yyxGMU-1" source="SLxrRDLvQytyNsg-ttov-19" target="hmOIoQyNBk0fAoalX2BM-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SLxrRDLvQytyNsg-ttov-19" value="Kubernetes" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="zHhiXLO4bl58V0yyxGMU-1" vertex="1">
-          <mxGeometry x="827" y="515" width="70" height="70" as="geometry" />
+          <mxGeometry x="827" y="440" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cp-lNaf0qXtORNwh4JsP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="zHhiXLO4bl58V0yyxGMU-1" source="SLxrRDLvQytyNsg-ttov-23" target="cp-lNaf0qXtORNwh4JsP-2">
           <mxGeometry relative="1" as="geometry" />
@@ -2346,7 +2346,7 @@
           <mxGeometry x="942" y="345" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hmOIoQyNBk0fAoalX2BM-18" value="開発プロセス" style="swimlane;whiteSpace=wrap;html=1;" parent="zHhiXLO4bl58V0yyxGMU-1" vertex="1">
-          <mxGeometry x="690" y="300" width="90" height="200" as="geometry" />
+          <mxGeometry x="690" y="280" width="90" height="200" as="geometry" />
         </mxCell>
         <mxCell id="hmOIoQyNBk0fAoalX2BM-9" value="DevOps" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="hmOIoQyNBk0fAoalX2BM-18" vertex="1">
           <mxGeometry x="10" y="29" width="70" height="70" as="geometry" />
@@ -2385,7 +2385,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Dmf-g5Z10JcbQg115JPa-1" value="Docker" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="zHhiXLO4bl58V0yyxGMU-1">
-          <mxGeometry x="1052" y="515" width="70" height="70" as="geometry" />
+          <mxGeometry x="1052" y="440" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
