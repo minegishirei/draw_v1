@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T09:12:50.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="XHJ94t1catYUVpQiwzbL" version="22.0.2" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2023-10-05T09:13:01.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="3rMODYi1cpJP5dtdLfhy" version="22.0.2" type="github" pages="29">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2382,7 +2382,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="load_mapのコピー" id="fZVMN99aml037y56ZqZY">
+  <diagram name="load_map" id="fZVMN99aml037y56ZqZY">
     <mxGraphModel dx="2501" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="1Wq92-tUKrpAjF8nO5Uc-0" />
