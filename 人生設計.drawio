@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T06:59:37.868Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="COtL4YLWnb89AgdhbO4b" version="22.0.2" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2023-10-05T07:04:17.126Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="WmmfbrlX9cB12ptwVYDY" version="22.0.2" type="github" pages="29">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2377,6 +2377,9 @@
         </mxCell>
         <mxCell id="ru2LenJkosStjDsYpr-H-0" value="1on1&#xa;YO/HI" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="zHhiXLO4bl58V0yyxGMU-1">
           <mxGeometry x="360" y="121" width="70" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2LenJkosStjDsYpr-H-1" value="すごい&#xa;エンジニア" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="zHhiXLO4bl58V0yyxGMU-1">
+          <mxGeometry x="360" y="202" width="70" height="148" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
