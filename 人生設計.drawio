@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T11:58:34.451Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="UebEMH_hZApSP9DLE7wI" version="22.0.0" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2023-10-05T11:59:15.142Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="kKfdhv9kPdFPJSVC-H2d" version="22.0.0" type="github" pages="29">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2346,7 +2346,7 @@
           <mxGeometry x="952" y="389" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hmOIoQyNBk0fAoalX2BM-18" value="開発プロセス" style="swimlane;whiteSpace=wrap;html=1;" parent="zHhiXLO4bl58V0yyxGMU-1" vertex="1">
-          <mxGeometry x="700" y="264.5" width="90" height="190" as="geometry">
+          <mxGeometry x="700" y="264.5" width="90" height="295.5" as="geometry">
             <mxRectangle x="690" y="280" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2354,7 +2354,7 @@
           <mxGeometry x="10" y="30" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hmOIoQyNBk0fAoalX2BM-9" value="DevOps" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="hmOIoQyNBk0fAoalX2BM-18" vertex="1">
-          <mxGeometry x="10" y="110" width="70" height="70" as="geometry" />
+          <mxGeometry x="10" y="219.5" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cp-lNaf0qXtORNwh4JsP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="zHhiXLO4bl58V0yyxGMU-1" source="hmOIoQyNBk0fAoalX2BM-23" target="cp-lNaf0qXtORNwh4JsP-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
