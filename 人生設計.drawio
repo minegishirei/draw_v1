@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T09:38:44.596Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="on7kTY0ETbqdskmU7rPa" version="22.0.2" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2023-10-05T09:38:53.076Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ZOUW2U-dsQvAao_s_Tdq" version="22.0.2" type="github" pages="29">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2471,8 +2471,11 @@
         <mxCell id="ZuQIdvuTUjI1Ohlffc2g-31" value="&lt;h1&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;3.開発段階&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;・プロジェクトの要件を詰める段階&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1Wq92-tUKrpAjF8nO5Uc-1">
           <mxGeometry x="-760" y="653" width="260" height="104" as="geometry" />
         </mxCell>
+        <mxCell id="ZuQIdvuTUjI1Ohlffc2g-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1Wq92-tUKrpAjF8nO5Uc-1" source="ZuQIdvuTUjI1Ohlffc2g-32" target="ZuQIdvuTUjI1Ohlffc2g-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZuQIdvuTUjI1Ohlffc2g-32" value="期待の&#xa;Control" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1Wq92-tUKrpAjF8nO5Uc-1">
-          <mxGeometry x="-470" y="660" width="70" height="70" as="geometry" />
+          <mxGeometry x="-470" y="670" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
