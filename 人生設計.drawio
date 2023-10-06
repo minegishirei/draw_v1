@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-06T10:01:40.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="QhZ_CGgJOIvTyKIe1x5o" version="22.0.3" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2023-10-06T10:02:09.966Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="fqssn9Y1llsDZChiZaBu" version="22.0.3" type="github" pages="29">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -457,11 +457,14 @@
         <mxCell id="X4S22hKpwWOEkKkBPika-3" value="ブレイクダウンした&#xa;結果" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="zHhiXLO4bl58V0yyxGMU-1">
           <mxGeometry x="910" y="53" width="153" height="68" as="geometry" />
         </mxCell>
+        <mxCell id="RVGwJmHcFtNuw6IceSvE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="zHhiXLO4bl58V0yyxGMU-1" source="Uoa11z7mWJgmX6GnqBnB-0" target="Uoa11z7mWJgmX6GnqBnB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Uoa11z7mWJgmX6GnqBnB-0" value="神話レベル&#xa;の&#xa;エンジニア" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="zHhiXLO4bl58V0yyxGMU-1">
           <mxGeometry x="440" y="121" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Uoa11z7mWJgmX6GnqBnB-1" value="Load&#xa;Map" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="zHhiXLO4bl58V0yyxGMU-1">
-          <mxGeometry x="440" y="199" width="70" height="70" as="geometry" />
+          <mxGeometry x="440" y="202" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
