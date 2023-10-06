@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-06T09:59:57.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="nDlrCbEVnveaEVUKQDqK" version="22.0.3" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2023-10-06T10:01:40.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="QhZ_CGgJOIvTyKIe1x5o" version="22.0.3" type="github" pages="29">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -142,7 +142,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="load_map" id="fZVMN99aml037y56ZqZY">
+  <diagram name="Goal Image" id="fZVMN99aml037y56ZqZY">
     <mxGraphModel dx="2093" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="1Wq92-tUKrpAjF8nO5Uc-0" />
@@ -459,6 +459,9 @@
         </mxCell>
         <mxCell id="Uoa11z7mWJgmX6GnqBnB-0" value="神話レベル&#xa;の&#xa;エンジニア" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="zHhiXLO4bl58V0yyxGMU-1">
           <mxGeometry x="440" y="121" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Uoa11z7mWJgmX6GnqBnB-1" value="Load&#xa;Map" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="zHhiXLO4bl58V0yyxGMU-1">
+          <mxGeometry x="440" y="199" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
