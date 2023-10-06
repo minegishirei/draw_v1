@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-06T09:41:27.182Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="yGdPV41B6e0_S2cKhLcs" version="22.0.3" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2023-10-06T09:48:15.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="_G3qmrMvUXentamTPtPw" version="22.0.3" type="github" pages="29">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2524,6 +2524,75 @@
           <mxGeometry x="-10" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ZuQIdvuTUjI1Ohlffc2g-31" value="&lt;h1&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;3.開発段階&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;・プロジェクトの要件を詰める段階&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="8ftyN6xWqud9oRvyApyx-2" vertex="1">
+          <mxGeometry x="-10" y="13" width="260" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="qmS0megZ4272UdzGGssk-6" value="心理学&#xa;アプローチ" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1Wq92-tUKrpAjF8nO5Uc-1">
+          <mxGeometry x="470" y="460" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qmS0megZ4272UdzGGssk-7" value="" style="group" vertex="1" connectable="0" parent="1Wq92-tUKrpAjF8nO5Uc-1">
+          <mxGeometry x="1040" y="220" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qmS0megZ4272UdzGGssk-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=none;" vertex="1" parent="qmS0megZ4272UdzGGssk-7">
+          <mxGeometry width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qmS0megZ4272UdzGGssk-9" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1.チームビルディング&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;・プロジェクトの立ち上がり時期&lt;br&gt;・互いのメンバーはほぼ初対面の状態&lt;br&gt;・プロジェクトの目的を共有した段階&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="qmS0megZ4272UdzGGssk-7">
+          <mxGeometry y="13" width="260" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="qmS0megZ4272UdzGGssk-10" value="" style="group" vertex="1" connectable="0" parent="1Wq92-tUKrpAjF8nO5Uc-1">
+          <mxGeometry x="1050" y="420" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qmS0megZ4272UdzGGssk-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=none;" vertex="1" parent="qmS0megZ4272UdzGGssk-10">
+          <mxGeometry width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qmS0megZ4272UdzGGssk-12" value="&lt;h1&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;2.インセプションデッキ&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;・プロジェクトの要件を詰める段階&lt;br&gt;・&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="qmS0megZ4272UdzGGssk-10">
+          <mxGeometry y="13" width="260" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="qmS0megZ4272UdzGGssk-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1Wq92-tUKrpAjF8nO5Uc-1" source="qmS0megZ4272UdzGGssk-14" target="qmS0megZ4272UdzGGssk-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qmS0megZ4272UdzGGssk-14" value="チャットの温度感&#xa;見極め" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1Wq92-tUKrpAjF8nO5Uc-1">
+          <mxGeometry x="710" y="200" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qmS0megZ4272UdzGGssk-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1Wq92-tUKrpAjF8nO5Uc-1" source="qmS0megZ4272UdzGGssk-16" target="qmS0megZ4272UdzGGssk-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qmS0megZ4272UdzGGssk-16" value="印象を良くする" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1Wq92-tUKrpAjF8nO5Uc-1">
+          <mxGeometry x="710" y="290" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qmS0megZ4272UdzGGssk-18" value="要件を&#xa;見極め&#xa;引き出す" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1Wq92-tUKrpAjF8nO5Uc-1">
+          <mxGeometry x="920" y="450" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qmS0megZ4272UdzGGssk-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1Wq92-tUKrpAjF8nO5Uc-1" source="qmS0megZ4272UdzGGssk-20" target="qmS0megZ4272UdzGGssk-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qmS0megZ4272UdzGGssk-20" value="信頼関係の&#xa;構築" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1Wq92-tUKrpAjF8nO5Uc-1">
+          <mxGeometry x="920" y="250" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qmS0megZ4272UdzGGssk-22" value="思考レベルを&#xa;見極める" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1Wq92-tUKrpAjF8nO5Uc-1">
+          <mxGeometry x="710" y="410" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qmS0megZ4272UdzGGssk-24" value="逆提案を通す工夫" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1Wq92-tUKrpAjF8nO5Uc-1">
+          <mxGeometry x="710" y="500" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qmS0megZ4272UdzGGssk-27" value="要望を言ってもらう" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1Wq92-tUKrpAjF8nO5Uc-1">
+          <mxGeometry x="710" y="610" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qmS0megZ4272UdzGGssk-29" value="期待の&#xa;Control" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1Wq92-tUKrpAjF8nO5Uc-1">
+          <mxGeometry x="920" y="660" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qmS0megZ4272UdzGGssk-31" value="伝え方" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1Wq92-tUKrpAjF8nO5Uc-1">
+          <mxGeometry x="710" y="700" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qmS0megZ4272UdzGGssk-33" value="心理的安全&#xa;の確保" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1Wq92-tUKrpAjF8nO5Uc-1">
+          <mxGeometry x="920" y="560" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qmS0megZ4272UdzGGssk-34" value="" style="group" vertex="1" connectable="0" parent="1Wq92-tUKrpAjF8nO5Uc-1">
+          <mxGeometry x="1060" y="600" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qmS0megZ4272UdzGGssk-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=none;" vertex="1" parent="qmS0megZ4272UdzGGssk-34">
+          <mxGeometry x="-10" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qmS0megZ4272UdzGGssk-36" value="&lt;h1&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;3.開発段階&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;・プロジェクトの要件を詰める段階&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="qmS0megZ4272UdzGGssk-34">
           <mxGeometry x="-10" y="13" width="260" height="104" as="geometry" />
         </mxCell>
       </root>
