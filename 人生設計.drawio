@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T02:46:49.450Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="RgH6ukdOykDtJCeQJ063" version="22.0.4" type="github" pages="30">
+<mxfile host="app.diagrams.net" modified="2023-10-10T02:47:16.705Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="9-WznftKgaPhDJLXGBBi" version="22.0.4" type="github" pages="30">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -418,7 +418,7 @@
         <mxCell id="V112yTaiyanmbTkWPUjU-52" value="ブレイクダウンした&#xa;結果" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="V112yTaiyanmbTkWPUjU-1">
           <mxGeometry x="910" y="53" width="153" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="V112yTaiyanmbTkWPUjU-54" value="神話レベル&#xa;の&#xa;エンジニア" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="V112yTaiyanmbTkWPUjU-1">
+        <mxCell id="V112yTaiyanmbTkWPUjU-54" value="Kubernetes&#xa;Cloud " style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="V112yTaiyanmbTkWPUjU-1">
           <mxGeometry x="120" y="121" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
