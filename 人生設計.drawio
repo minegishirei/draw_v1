@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-14T12:59:56.716Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="tejjc8D30o8jg81CV4KZ" version="22.0.4" type="github" pages="30">
+<mxfile host="app.diagrams.net" modified="2023-10-14T13:00:18.743Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="v0S3_XyS9Rg86EzQHLTk" version="22.0.4" type="github" pages="30">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -493,10 +493,10 @@
         <mxCell id="FBYJVipShkHKu1e1Tl3L-0" value="困った時に&#xa;判断を委ねたくなる人" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="V112yTaiyanmbTkWPUjU-1">
           <mxGeometry x="1088" y="53" width="153" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="KdkNSd-BgnbqXxiBSPYl-0" value="すごいエンジニアの&lt;br&gt;解析とロードマップの作成" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#99CCFF;fillColor=#99CCFF;" vertex="1" parent="V112yTaiyanmbTkWPUjU-1">
+        <mxCell id="KdkNSd-BgnbqXxiBSPYl-0" value="すごいエンジニアの&lt;br&gt;解析" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#99CCFF;fillColor=#99CCFF;" vertex="1" parent="V112yTaiyanmbTkWPUjU-1">
           <mxGeometry x="80" y="690" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-iJOblddKKt23l8pGHLf-1" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#99CCFF;fillColor=#99CCFF;" vertex="1" parent="V112yTaiyanmbTkWPUjU-1">
+        <mxCell id="-iJOblddKKt23l8pGHLf-1" value="ロードマップの作成" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#99CCFF;fillColor=#99CCFF;" vertex="1" parent="V112yTaiyanmbTkWPUjU-1">
           <mxGeometry x="270" y="690" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
