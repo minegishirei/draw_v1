@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T02:39:17.317Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="fp0VJr8fCnKxMRh_KXhb" version="22.0.4" type="github" pages="31">
+<mxfile host="app.diagrams.net" modified="2023-10-18T02:39:23.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="rGcxljdN3iDegXTFtD5l" version="22.0.4" type="github" pages="31">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -496,7 +496,7 @@
         <mxCell id="8_rdF9yMhLsEHlegyMBq-6" value="本&#xa;エンジニア教育" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="deHney_l88NqStJrVVFj-1">
           <mxGeometry x="2200" y="158" width="153" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="8_rdF9yMhLsEHlegyMBq-7" value="本&#xa;アジャイルな&#xa;組織運営&#xa;方法論" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="deHney_l88NqStJrVVFj-1">
+        <mxCell id="8_rdF9yMhLsEHlegyMBq-7" value="本&#xa;アジャイルな組織運営&#xa;方法論" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="deHney_l88NqStJrVVFj-1">
           <mxGeometry x="2200" y="241" width="153" height="68" as="geometry" />
         </mxCell>
       </root>
