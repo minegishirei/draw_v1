@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T00:12:41.414Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="nuWTYl5Ipjk1OXAawgLw" version="22.0.4" type="github" pages="31">
+<mxfile host="app.diagrams.net" modified="2023-10-18T00:12:49.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="GbwYGOV0FLJF6dVJ5DtQ" version="22.0.4" type="github" pages="31">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -329,7 +329,7 @@
         <mxCell id="deHney_l88NqStJrVVFj-11" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" parent="deHney_l88NqStJrVVFj-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="41" y="110" as="sourcePoint" />
-            <mxPoint x="632" y="110" as="targetPoint" />
+            <mxPoint x="600" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="deHney_l88NqStJrVVFj-12" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;&lt;p&gt;・Kubernetesは順調。新しい技術ではあるが斬新でも理解不可能なものでもない。今の状態を突き詰めていればコンテナの理解は深まるだろう。&lt;/p&gt;&lt;p&gt;・心理学の情報整理も良い。具体例を含めたフロー整理ができているため、次の「ケース別対応」につながる」&lt;/p&gt;&lt;p&gt;今後の課題は&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;・「すごいエンジニア」をブレイクダウン&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;した結果ができていないこと。&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="deHney_l88NqStJrVVFj-1" vertex="1">
