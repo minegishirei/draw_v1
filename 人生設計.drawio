@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T00:16:29.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="5xGAAdsNSuOw_mkkuuuj" version="22.0.4" type="github" pages="31">
+<mxfile host="app.diagrams.net" modified="2023-10-18T01:36:20.040Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Kahd9yRn82mxWPNDSHg7" version="22.0.4" type="github" pages="31">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -471,6 +471,9 @@
         </mxCell>
         <mxCell id="UnCH7bDoyJXMxtJOKFZj-2" value="&lt;h1&gt;今持っている武器の組織化&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="deHney_l88NqStJrVVFj-1">
           <mxGeometry x="960" y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UnCH7bDoyJXMxtJOKFZj-3" value="称号&#xa;仕事が&#xa;早い" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="deHney_l88NqStJrVVFj-1">
+          <mxGeometry x="200" y="121" width="70" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
