@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T09:23:01.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="TIfPCd0sz_lpGaFeUORq" version="22.0.4" type="github" pages="31">
+<mxfile host="app.diagrams.net" modified="2023-10-18T09:23:27.757Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="MfF_g1isLOFQko1ebXtw" version="22.0.4" type="github" pages="31">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -481,7 +481,7 @@
           <mxGeometry x="1880" y="241" width="153" height="68" as="geometry" />
         </mxCell>
         <mxCell id="8_rdF9yMhLsEHlegyMBq-5" value="心理学" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="deHney_l88NqStJrVVFj-1" vertex="1">
-          <mxGeometry x="2390" y="119" width="70" height="70" as="geometry" />
+          <mxGeometry x="2290" y="198" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8_rdF9yMhLsEHlegyMBq-6" value="群雄割拠にも&#xa;単騎で渡り合える性能" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="deHney_l88NqStJrVVFj-1" vertex="1">
           <mxGeometry x="2080" y="121" width="153" height="68" as="geometry" />
@@ -490,7 +490,7 @@
           <mxGeometry x="2080" y="280" width="153" height="68" as="geometry" />
         </mxCell>
         <mxCell id="UBYdpXsqalvsrJPQ7LYJ-1" value="素早い&#xa;開発" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="deHney_l88NqStJrVVFj-1" vertex="1">
-          <mxGeometry x="2270" y="200" width="70" height="70" as="geometry" />
+          <mxGeometry x="2050" y="440" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="t7Fd0dcORYrVuMq8wIow-0" value="好印象" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="deHney_l88NqStJrVVFj-1" vertex="1">
           <mxGeometry x="200" y="280" width="70" height="70" as="geometry" />
