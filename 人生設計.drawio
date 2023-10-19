@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T09:20:35.707Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Ov4g5fOV9jzyMy4zle4G" version="22.0.5" type="github" pages="31">
+<mxfile host="app.diagrams.net" modified="2023-10-19T09:21:36.649Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="9fIZINug1W96wYEgUOG2" version="22.0.5" type="github" pages="31">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -414,25 +414,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J_2CUoi1m0X1Vs2pjo66-4" value="期待&#xa;Control" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="deHney_l88NqStJrVVFj-1">
-          <mxGeometry x="1000" y="320" width="70" height="70" as="geometry" />
+          <mxGeometry x="1010" y="410" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="W0KRk8Ufrg04p5Vk5xW5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="deHney_l88NqStJrVVFj-1" source="J_2CUoi1m0X1Vs2pjo66-5" target="J_2CUoi1m0X1Vs2pjo66-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J_2CUoi1m0X1Vs2pjo66-5" value="信頼関係の&#xa;構築" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="deHney_l88NqStJrVVFj-1">
-          <mxGeometry x="1080" y="410" width="70" height="70" as="geometry" />
+          <mxGeometry x="1090" y="410" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="W0KRk8Ufrg04p5Vk5xW5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="deHney_l88NqStJrVVFj-1" source="J_2CUoi1m0X1Vs2pjo66-6" target="J_2CUoi1m0X1Vs2pjo66-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J_2CUoi1m0X1Vs2pjo66-6" value="心理的&#xa;安全の&#xa;確保" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="deHney_l88NqStJrVVFj-1">
-          <mxGeometry x="1160" y="410" width="70" height="70" as="geometry" />
+          <mxGeometry x="1171" y="410" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="W0KRk8Ufrg04p5Vk5xW5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="deHney_l88NqStJrVVFj-1" source="J_2CUoi1m0X1Vs2pjo66-7" target="J_2CUoi1m0X1Vs2pjo66-0">
+        <mxCell id="W0KRk8Ufrg04p5Vk5xW5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="deHney_l88NqStJrVVFj-1" source="J_2CUoi1m0X1Vs2pjo66-7" target="J_2CUoi1m0X1Vs2pjo66-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J_2CUoi1m0X1Vs2pjo66-7" value="Userの&#xa;Yesを&#xa;引き出す" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="deHney_l88NqStJrVVFj-1">
-          <mxGeometry x="1241" y="320" width="70" height="70" as="geometry" />
+          <mxGeometry x="1250" y="410" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="W0KRk8Ufrg04p5Vk5xW5-5" value="すごい&#xa;エンジニア&#xa;解析" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="deHney_l88NqStJrVVFj-1">
+          <mxGeometry x="950" y="278" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
