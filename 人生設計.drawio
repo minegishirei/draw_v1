@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T09:23:31.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="u57AUlrknixFHklbsYWe" version="22.0.5" type="github" pages="31">
+<mxfile host="app.diagrams.net" modified="2023-10-19T09:23:37.937Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="FBshElNbUA47o7_BGsub" version="22.0.5" type="github" pages="31">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -405,7 +405,7 @@
           <mxGeometry x="1080" y="230" width="153" height="68" as="geometry" />
         </mxCell>
         <mxCell id="J_2CUoi1m0X1Vs2pjo66-2" value="【ペルソナ】&#xa;・状況を適切に判断し、各方面と適切なコミュニケーションをとり改善策を打てるエンジニアになりたい&#xa;・雑談が面白いエンジニアになりたい&#xa;・上司との人間関係を改善したい&#xa;・要件定義フェーズでのミスをなくしたい" style="text;whiteSpace=wrap;" vertex="1" parent="deHney_l88NqStJrVVFj-1">
-          <mxGeometry x="660" y="340" width="240" height="126" as="geometry" />
+          <mxGeometry x="800" y="241" width="240" height="126" as="geometry" />
         </mxCell>
         <mxCell id="W0KRk8Ufrg04p5Vk5xW5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="deHney_l88NqStJrVVFj-1" source="J_2CUoi1m0X1Vs2pjo66-4" target="J_2CUoi1m0X1Vs2pjo66-0">
           <mxGeometry relative="1" as="geometry" />
