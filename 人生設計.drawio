@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-21T12:57:54.582Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="-S5RLnRK_xF9d--c22l8" version="22.0.6" type="github" pages="32">
+<mxfile host="app.diagrams.net" modified="2023-10-21T12:58:12.492Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="0-42K95Y07TOlCofbNfk" version="22.0.6" type="github" pages="32">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3080.5" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -394,10 +394,10 @@
         <mxCell id="RhKhKqWcim62inhaUgAe-0" value="Kubernetes" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
           <mxGeometry x="358" y="770" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RhKhKqWcim62inhaUgAe-1" value="ブランド確定" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
+        <mxCell id="RhKhKqWcim62inhaUgAe-1" value="ブランド構築" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
           <mxGeometry x="358" y="730" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RhKhKqWcim62inhaUgAe-2" value="心理学 情報集め" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
+        <mxCell id="RhKhKqWcim62inhaUgAe-2" value="ブランド構築" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
           <mxGeometry x="518" y="730" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AirGRdG4HumTJh4xC5e7-1" value="1月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
