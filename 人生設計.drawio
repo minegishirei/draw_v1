@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-21T13:03:54.415Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="sXBo9fyPotf_ZfKajB-c" version="22.0.6" type="github" pages="32">
+<mxfile host="app.diagrams.net" modified="2023-10-21T13:15:50.201Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="xcazwTcd-BQPqdjWf6y3" version="22.0.6" type="github" pages="32">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3080.5" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -295,7 +295,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20231021" id="NKgNeAnhcMeK7NzMlNXh">
-    <mxGraphModel dx="1405" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="QLTrLW-lS9hVsvs0kUb8-0" />
         <mxCell id="QLTrLW-lS9hVsvs0kUb8-1" parent="QLTrLW-lS9hVsvs0kUb8-0" />
@@ -384,33 +384,6 @@
         </mxCell>
         <mxCell id="Or78DBC6hP3p8tERuoyb-0" value="Google&#xa;エンジニア&#xa;文化" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
           <mxGeometry x="40" y="280" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="3ayq8xbX1XITd1D-4LY8-0" value="ブランド構築" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
-          <mxGeometry x="40" y="730" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="58keJZnwo5nW2OQ8Yyon-0" value="80%" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
-          <mxGeometry x="198" y="730" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RhKhKqWcim62inhaUgAe-1" value="ブランド完成" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
-          <mxGeometry x="358" y="730" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RhKhKqWcim62inhaUgAe-2" value="ブランド定着" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
-          <mxGeometry x="518" y="730" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AirGRdG4HumTJh4xC5e7-1" value="28歳" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
-          <mxGeometry x="490" y="690" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AirGRdG4HumTJh4xC5e7-2" value="29歳" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
-          <mxGeometry x="650" y="690" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AirGRdG4HumTJh4xC5e7-4" value="26歳" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
-          <mxGeometry x="170" y="690" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AirGRdG4HumTJh4xC5e7-5" value="27歳" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
-          <mxGeometry x="330" y="690" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="iFX1TMrH-YabDHZHOawb-2" value="25歳 ~ 28歳 年度計画" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
-          <mxGeometry x="39" y="640" width="161" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
