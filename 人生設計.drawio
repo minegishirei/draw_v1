@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-21T12:30:48.715Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="zSqakZQ8o12ST1ip1-v-" version="22.0.6" type="github" pages="32">
+<mxfile host="app.diagrams.net" modified="2023-10-21T12:31:30.798Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="pDyikrmzz8TS7EPtN4Qu" version="22.0.6" type="github" pages="32">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -344,29 +344,14 @@
         <mxCell id="QLTrLW-lS9hVsvs0kUb8-15" value="称号&#xa;職人芸" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
           <mxGeometry x="120" y="121" width="70" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="QLTrLW-lS9hVsvs0kUb8-16" value="Scrum" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
-          <mxGeometry x="120" y="200" width="70" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="QLTrLW-lS9hVsvs0kUb8-17" value="&lt;h1&gt;今持っている武器の組織編制&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
           <mxGeometry x="840" y="40" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QLTrLW-lS9hVsvs0kUb8-18" value="称号A&#xa;仕事が早い" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
           <mxGeometry x="200" y="121" width="70" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="QLTrLW-lS9hVsvs0kUb8-19" value="称号B&#xa;仕事が早い" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
-          <mxGeometry x="200" y="200" width="70" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="QLTrLW-lS9hVsvs0kUb8-20" value="好印象" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
-          <mxGeometry x="200" y="280" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="QLTrLW-lS9hVsvs0kUb8-21" value="Read&#xa;Network&#xa;構築" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
-          <mxGeometry x="200" y="360" width="70" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="QLTrLW-lS9hVsvs0kUb8-22" value="fullstack" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
           <mxGeometry x="280" y="120" width="70" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="QLTrLW-lS9hVsvs0kUb8-23" value="ブランド&#xa;確立方法の&#xa;模索&#xa;&#xa;どう&#xa;役に立つか&#xa;か大事" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
-          <mxGeometry x="280" y="201" width="70" height="149" as="geometry" />
         </mxCell>
         <mxCell id="QLTrLW-lS9hVsvs0kUb8-24" value="エンジニア心理学（仮）&#xa;オタク心理学&#xa;ギーク心理学" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
           <mxGeometry x="1121" y="230" width="153" height="68" as="geometry" />
@@ -408,9 +393,6 @@
         </mxCell>
         <mxCell id="QLTrLW-lS9hVsvs0kUb8-36" value="【製品体験】&#xa;・コミュニケーション具体例を&#xa;・関西弁？で&#xa;・会話形式で&#xa;・どんなレベルでもわかるように伝える" style="text;whiteSpace=wrap;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
           <mxGeometry x="1321" y="433" width="240" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="QLTrLW-lS9hVsvs0kUb8-37" value="雑談&#xa;相手の&#xa;好きな話" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
-          <mxGeometry x="280" y="360" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
