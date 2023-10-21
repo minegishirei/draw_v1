@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-21T12:55:34.127Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="e4F2KA7B6mP3NbNeoq5J" version="22.0.6" type="github" pages="32">
+<mxfile host="app.diagrams.net" modified="2023-10-21T12:56:00.600Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="RfM_nds3sKKl4DgHwitM" version="22.0.6" type="github" pages="32">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3080.5" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -385,10 +385,10 @@
         <mxCell id="Or78DBC6hP3p8tERuoyb-0" value="Google&#xa;エンジニア&#xa;文化" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
           <mxGeometry x="40" y="280" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="3ayq8xbX1XITd1D-4LY8-0" value="心理学 情報集め" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
+        <mxCell id="3ayq8xbX1XITd1D-4LY8-0" value="ブランド材料集め" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
           <mxGeometry x="40" y="730" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="58keJZnwo5nW2OQ8Yyon-0" value="心理学 情報集め" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
+        <mxCell id="58keJZnwo5nW2OQ8Yyon-0" value="ブランド材料集め" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
           <mxGeometry x="198" y="730" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RhKhKqWcim62inhaUgAe-0" value="Kubernetes" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
