@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-21T12:36:20.113Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Bj8GBRemo1rY-wEeIwvs" version="22.0.6" type="github" pages="32">
+<mxfile host="app.diagrams.net" modified="2023-10-21T12:37:42.992Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="yawobl7EKCjKakIW_uvZ" version="22.0.6" type="github" pages="32">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -331,12 +331,6 @@
         </mxCell>
         <mxCell id="QLTrLW-lS9hVsvs0kUb8-11" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;・「若い」&lt;span style=&quot;background-color: initial;&quot;&gt;「職人芸」「フルスタック」が自分への現時点のブランド&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
           <mxGeometry x="600" y="40" width="190" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="QLTrLW-lS9hVsvs0kUb8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="QLTrLW-lS9hVsvs0kUb8-1" source="QLTrLW-lS9hVsvs0kUb8-13" target="QLTrLW-lS9hVsvs0kUb8-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QLTrLW-lS9hVsvs0kUb8-13" value="すごいエンジニア&#xa;何かしらの「代表作」&#xa;がある" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
-          <mxGeometry x="1121" y="121" width="153" height="68" as="geometry" />
         </mxCell>
         <mxCell id="QLTrLW-lS9hVsvs0kUb8-14" value="k8s&#xa;コスト&#xa;最適か" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
           <mxGeometry x="40" y="200" width="70" height="70" as="geometry" />
