@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-21T12:28:49.129Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="U5bL-bG1dCxkXvXRuPU0" version="22.0.6" type="github" pages="32">
+<mxfile host="app.diagrams.net" modified="2023-10-21T12:28:59.116Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="QJ52wRL7ZHPRhxy1PxTm" version="22.0.6" type="github" pages="32">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -320,7 +320,7 @@
         <mxCell id="QLTrLW-lS9hVsvs0kUb8-8" value="月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
           <mxGeometry x="19" y="75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QLTrLW-lS9hVsvs0kUb8-9" value="&lt;h1&gt;テーマ：Kubernetesリソース管理&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
+        <mxCell id="QLTrLW-lS9hVsvs0kUb8-9" value="&lt;h1&gt;テーマ：Kubernetes運用方法&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
           <mxGeometry x="40" y="40" width="480" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QLTrLW-lS9hVsvs0kUb8-10" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" edge="1" parent="QLTrLW-lS9hVsvs0kUb8-1">
