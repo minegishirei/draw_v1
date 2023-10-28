@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-28T10:01:49.762Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="zso1yHvK-s268yyR8crg" version="22.0.8" type="github" pages="32">
+<mxfile host="app.diagrams.net" modified="2023-10-28T10:05:01.023Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="8Js3n9OqTPHuwfLqwYKf" version="22.0.8" type="github" pages="32">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -248,8 +248,8 @@
         <mxCell id="EutkuMp5-QyfuX5k6IVD-8" value="エンジニア心理学&#xa;確立&#xa;常時100いいね" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="dnhGhP_LcqGwnIGYPUAV-1" vertex="1">
           <mxGeometry x="2320" y="720" width="310" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="EutkuMp5-QyfuX5k6IVD-9" value="エンジニア心理学&#xa;ブランド確立" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="dnhGhP_LcqGwnIGYPUAV-1" vertex="1">
-          <mxGeometry x="400" y="800" width="630" height="68" as="geometry" />
+        <mxCell id="EutkuMp5-QyfuX5k6IVD-9" value="エンジニア心理学&#xa;ブランド&#xa;確立" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="dnhGhP_LcqGwnIGYPUAV-1" vertex="1">
+          <mxGeometry x="400" y="800" width="310" height="68" as="geometry" />
         </mxCell>
         <mxCell id="Orh9NAMNTYaZ9wve1Deu-0" value="9月&lt;br&gt;社内でのブランドは確立できたが社外にまでの影響力はない&lt;br&gt;今後はQiitaへの投稿を中心に「エンジニア心理学」を&lt;br&gt;浸透させていく" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" parent="dnhGhP_LcqGwnIGYPUAV-1" vertex="1">
           <mxGeometry x="79" y="640" width="331" height="70" as="geometry" />
