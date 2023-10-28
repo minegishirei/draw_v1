@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-28T09:54:34.465Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="FB5FyW8scZ-b-YUUqCbU" version="22.0.8" type="github" pages="32">
+<mxfile host="app.diagrams.net" modified="2023-10-28T09:54:59.873Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="n_41kMVy9GfIaHBCW7gb" version="22.0.8" type="github" pages="32">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -252,7 +252,7 @@
           <mxGeometry x="400" y="800" width="630" height="68" as="geometry" />
         </mxCell>
         <mxCell id="tLCayN9hgaabUijkM43x-0" value="Kubernetes&#xa;入門サイト&#xa;完遂" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="dnhGhP_LcqGwnIGYPUAV-1" vertex="1">
-          <mxGeometry x="400" y="960" width="631" height="70" as="geometry" />
+          <mxGeometry x="400" y="880" width="630" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Orh9NAMNTYaZ9wve1Deu-0" value="9月&lt;br&gt;社内でのブランドは確立できたが社外にまでの影響力はない&lt;br&gt;今後はQiitaへの投稿を中心に「エンジニア心理学」を&lt;br&gt;浸透させていく" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" parent="dnhGhP_LcqGwnIGYPUAV-1" vertex="1">
           <mxGeometry x="79" y="640" width="331" height="70" as="geometry" />
