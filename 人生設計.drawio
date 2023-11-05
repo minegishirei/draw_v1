@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-05T03:43:02.585Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="O-2j74mEawciBhEJ0FO2" version="22.0.8" type="github" pages="33">
+<mxfile host="app.diagrams.net" modified="2023-11-05T03:44:35.601Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Txv3nR0WvwpdyipaVGbc" version="22.0.8" type="github" pages="33">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -168,7 +168,7 @@
         <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-8" value="月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="5KxaZ1Xw3t2oB8gz0OcA-1">
           <mxGeometry x="19" y="75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-9" value="&lt;h1&gt;テーマ：Kubernetes Container pod&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="5KxaZ1Xw3t2oB8gz0OcA-1">
+        <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-9" value="&lt;h1&gt;テーマ：k8sセキュリティ&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="5KxaZ1Xw3t2oB8gz0OcA-1">
           <mxGeometry x="40" y="40" width="480" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-10" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" edge="1" parent="5KxaZ1Xw3t2oB8gz0OcA-1">
@@ -177,7 +177,7 @@
             <mxPoint x="600" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-11" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・今後のロードマップの作製が急務&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="5KxaZ1Xw3t2oB8gz0OcA-1">
+        <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-11" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・Kubernetesのセキュリティとバックアップが中心に取り組む&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="5KxaZ1Xw3t2oB8gz0OcA-1">
           <mxGeometry x="600" y="40" width="190" height="160" as="geometry" />
         </mxCell>
         <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-12" value="k8s&#xa;command&#xa;log" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="5KxaZ1Xw3t2oB8gz0OcA-1">
