@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-05T03:44:35.601Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Txv3nR0WvwpdyipaVGbc" version="22.0.8" type="github" pages="33">
+<mxfile host="app.diagrams.net" modified="2023-11-05T03:45:24.185Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Hjcsbei6BZ6GcXvUaUv_" version="22.0.8" type="github" pages="33">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -569,6 +569,9 @@
         </mxCell>
         <mxCell id="7zECzsqn81ShcWo0Lee4-0" value="k8s&#xa;securty" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="dnhGhP_LcqGwnIGYPUAV-1" vertex="1">
           <mxGeometry x="360" y="521" width="70" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="deyL8WUYdKZolEe3MoDM-0" value="エンジニア心理学&#xa;ブランドロゴ作成" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="dnhGhP_LcqGwnIGYPUAV-1">
+          <mxGeometry x="120" y="360" width="150" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
