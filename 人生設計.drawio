@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-05T03:33:56.410Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="RFIYxzer-BmNERT3FbI7" version="22.0.8" type="github" pages="33">
+<mxfile host="app.diagrams.net" modified="2023-11-05T03:34:45.052Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="XcZQLlQWKidekDBz1TYy" version="22.0.8" type="github" pages="33">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -143,7 +143,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20231106" id="sdoinVV_RA1y0E163LUt">
-    <mxGraphModel dx="1405" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1327" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-0" />
         <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-1" parent="5KxaZ1Xw3t2oB8gz0OcA-0" />
@@ -272,9 +272,6 @@
         <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-42" value="4月&lt;br&gt;会社内で「見たことがある」が発生する" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" vertex="1" parent="5KxaZ1Xw3t2oB8gz0OcA-1">
           <mxGeometry x="2320" y="640" width="331" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-44" value="目標設定" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="5KxaZ1Xw3t2oB8gz0OcA-1">
-          <mxGeometry x="40" y="121" width="70" height="71" as="geometry" />
-        </mxCell>
         <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-45" value="称号&#xa;「アイコンみたことある！」１回以上&#xa;「30いいね」" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="5KxaZ1Xw3t2oB8gz0OcA-1">
           <mxGeometry x="719" y="720" width="311" height="68" as="geometry" />
         </mxCell>
@@ -314,17 +311,14 @@
         <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-57" value="psy_code&#xa;主語" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="5KxaZ1Xw3t2oB8gz0OcA-1">
           <mxGeometry x="639" y="1040" width="71" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-61" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="5KxaZ1Xw3t2oB8gz0OcA-1">
-          <mxGeometry x="40" y="120" width="20" height="21" as="geometry" />
-        </mxCell>
         <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-63" value="k8s&#xa;command&#xa;manufest" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="5KxaZ1Xw3t2oB8gz0OcA-1">
           <mxGeometry x="120" y="280" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-64" value="仕事が&#xa;早い人" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="5KxaZ1Xw3t2oB8gz0OcA-1">
-          <mxGeometry x="120" y="120" width="70" height="68" as="geometry" />
+          <mxGeometry x="40" y="121" width="70" height="68" as="geometry" />
         </mxCell>
         <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-65" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="5KxaZ1Xw3t2oB8gz0OcA-1">
-          <mxGeometry x="120" y="121" width="20" height="21" as="geometry" />
+          <mxGeometry x="40" y="121" width="20" height="21" as="geometry" />
         </mxCell>
         <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-66" value="psy&#xa;情報集め" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="5KxaZ1Xw3t2oB8gz0OcA-1">
           <mxGeometry x="199" y="121" width="71" height="70" as="geometry" />
