@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-05T12:53:41.293Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="H9oBXZ2JV16RwLoFueZ0" version="22.0.8" type="github" pages="33">
+<mxfile host="app.diagrams.net" modified="2023-11-07T00:13:24.901Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="pnFgI20-Rxn3phwrrdlZ" version="22.0.8" type="github" pages="33">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="2947.5" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,7 +143,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20231106" id="sdoinVV_RA1y0E163LUt">
-    <mxGraphModel dx="1257" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-0" />
         <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-1" parent="5KxaZ1Xw3t2oB8gz0OcA-0" />
@@ -272,7 +272,7 @@
         <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-42" value="4月" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" parent="5KxaZ1Xw3t2oB8gz0OcA-1" vertex="1">
           <mxGeometry x="2320" y="640" width="331" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-45" value="エンジニア心理学&#xa;2記事連続&#xa;24いいね" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="5KxaZ1Xw3t2oB8gz0OcA-1" vertex="1">
+        <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-45" value="エンジニア心理学&#xa;2記事連続&#xa;40いいね" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="5KxaZ1Xw3t2oB8gz0OcA-1" vertex="1">
           <mxGeometry x="719" y="720" width="151" height="68" as="geometry" />
         </mxCell>
         <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-46" value="エンジニア心理学&#xa;「31いいね」" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="5KxaZ1Xw3t2oB8gz0OcA-1" vertex="1">
@@ -323,20 +323,20 @@
         <mxCell id="BsAvtfp6ZQf5aPj_Yh8H-2" value="&lt;h1&gt;ブランド確定☀️&lt;/h1&gt;&lt;p&gt;今後の方向性「エンジニア心理学」が定まった。エンジニアとしてのブランド価値向上に繋げる。&lt;/p&gt;&lt;p&gt;また、人生設計レポートをつけはじめてから6ヶ月過ぎた。行動の一貫性が生まれ、&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="5KxaZ1Xw3t2oB8gz0OcA-1" vertex="1">
           <mxGeometry x="400" y="1120" width="311" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="F9vmmCVTxMOZhBzE2pQb-0" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="5KxaZ1Xw3t2oB8gz0OcA-1">
+        <mxCell id="F9vmmCVTxMOZhBzE2pQb-0" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="5KxaZ1Xw3t2oB8gz0OcA-1" vertex="1">
           <mxGeometry x="719" y="720" width="20" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="vJiC33zqAIurIlV5cwGO-0" value="エンジニア心理学&#xa;「みたことがある！」を確立" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="5KxaZ1Xw3t2oB8gz0OcA-1">
+        <mxCell id="vJiC33zqAIurIlV5cwGO-0" value="エンジニア心理学&#xa;「みたことがある！」を確立" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="5KxaZ1Xw3t2oB8gz0OcA-1" vertex="1">
           <mxGeometry x="2320" y="800" width="310" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="vJiC33zqAIurIlV5cwGO-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="5KxaZ1Xw3t2oB8gz0OcA-1">
+        <mxCell id="vJiC33zqAIurIlV5cwGO-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="5KxaZ1Xw3t2oB8gz0OcA-1" vertex="1">
           <mxGeometry x="640" y="880" width="20" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="20231030" id="kyCqZS4gJkg4q31kI1A0">
-    <mxGraphModel dx="1194" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="dnhGhP_LcqGwnIGYPUAV-0" />
         <mxCell id="dnhGhP_LcqGwnIGYPUAV-1" parent="dnhGhP_LcqGwnIGYPUAV-0" />
