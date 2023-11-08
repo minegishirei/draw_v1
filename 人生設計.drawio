@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T07:33:26.182Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jZ-AwaAvtZUUW7hfdSeN" version="22.0.8" type="github" pages="33">
+<mxfile host="app.diagrams.net" modified="2023-11-08T07:33:59.053Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="SYPvYnyRsPJKoM4pE570" version="22.0.8" type="github" pages="33">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -279,13 +279,13 @@
           <mxGeometry x="399" y="720" width="311" height="68" as="geometry" />
         </mxCell>
         <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-47" value="視線" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="5KxaZ1Xw3t2oB8gz0OcA-1" vertex="1">
-          <mxGeometry x="720" y="1040" width="71" height="70" as="geometry" />
+          <mxGeometry x="640" y="1120" width="71" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-48" value="k8s&#xa;command" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="5KxaZ1Xw3t2oB8gz0OcA-1" vertex="1">
           <mxGeometry x="640" y="880" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-49" value="k8s&#xa;container&#xa;pod" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="5KxaZ1Xw3t2oB8gz0OcA-1" vertex="1">
-          <mxGeometry x="639" y="960" width="151" height="70" as="geometry" />
+          <mxGeometry x="639" y="1040" width="151" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-50" value="k8s 9章&#xa;pod管理" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="5KxaZ1Xw3t2oB8gz0OcA-1" vertex="1">
           <mxGeometry x="880" y="880" width="70" height="70" as="geometry" />
@@ -294,7 +294,7 @@
           <mxGeometry x="800" y="880" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-52" value="k8s 11章&#xa;secure&#xa;backup" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="5KxaZ1Xw3t2oB8gz0OcA-1" vertex="1">
-          <mxGeometry x="720" y="880" width="70" height="70" as="geometry" />
+          <mxGeometry x="720" y="880" width="70" height="150" as="geometry" />
         </mxCell>
         <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-53" value="k8s&#xa;継続的&#xa;デプロイ" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="5KxaZ1Xw3t2oB8gz0OcA-1" vertex="1">
           <mxGeometry x="960" y="880" width="70" height="70" as="geometry" />
@@ -309,7 +309,7 @@
           <mxGeometry x="720" y="800" width="150" height="68" as="geometry" />
         </mxCell>
         <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-57" value="psy_code&#xa;主語" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="5KxaZ1Xw3t2oB8gz0OcA-1" vertex="1">
-          <mxGeometry x="639" y="1040" width="71" height="70" as="geometry" />
+          <mxGeometry x="640" y="960" width="71" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-64" value="メンター&#xa;初対面" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="5KxaZ1Xw3t2oB8gz0OcA-1" vertex="1">
           <mxGeometry x="40" y="200" width="70" height="149" as="geometry" />
@@ -321,7 +321,7 @@
           <mxGeometry x="79" y="1040" width="311" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BsAvtfp6ZQf5aPj_Yh8H-2" value="&lt;h1&gt;ブランド確定☀️&lt;/h1&gt;&lt;p&gt;今後の方向性「エンジニア心理学」が定まった。エンジニアとしてのブランド価値向上に繋げる。&lt;/p&gt;&lt;p&gt;また、人生設計レポートをつけはじめてから6ヶ月過ぎた。行動の一貫性が生まれ、&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="5KxaZ1Xw3t2oB8gz0OcA-1" vertex="1">
-          <mxGeometry x="400" y="1120" width="311" height="170" as="geometry" />
+          <mxGeometry x="400" y="1190" width="311" height="170" as="geometry" />
         </mxCell>
         <mxCell id="F9vmmCVTxMOZhBzE2pQb-0" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="5KxaZ1Xw3t2oB8gz0OcA-1" vertex="1">
           <mxGeometry x="719" y="720" width="20" height="21" as="geometry" />
