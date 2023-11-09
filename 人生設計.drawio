@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T09:11:33.912Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="iPn5w-8WrOvjx2LQq8wE" version="22.1.0" type="github" pages="33">
+<mxfile host="app.diagrams.net" modified="2023-11-09T09:12:31.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="8WgjHR7YXvxwNX2nr4-w" version="22.1.0" type="github" pages="33">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -406,6 +406,15 @@
         </mxCell>
         <mxCell id="x9HwLPzQ9vH92k5jR8Rs-0" value="目標設定&#xa;年齢詐称w&#xa;25歳か?" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="5KxaZ1Xw3t2oB8gz0OcA-1">
           <mxGeometry x="280" y="121" width="70" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="DdZtpSuXPYv-ax7K5--y-0" value="EC2&#xa;新規入所者&#xa;構築" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="5KxaZ1Xw3t2oB8gz0OcA-1">
+          <mxGeometry x="280" y="200" width="70" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="DdZtpSuXPYv-ax7K5--y-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="5KxaZ1Xw3t2oB8gz0OcA-1">
+          <mxGeometry x="279" y="200" width="20" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="DdZtpSuXPYv-ax7K5--y-2" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="5KxaZ1Xw3t2oB8gz0OcA-1">
+          <mxGeometry x="279" y="121" width="20" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
