@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T10:10:41.984Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="gO9B0PQ0vYLN3E1s2UtZ" version="22.1.0" type="github" pages="33">
+<mxfile host="app.diagrams.net" modified="2023-11-10T10:29:49.868Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="e2DHqRd3jDUY_PeDIivq" version="22.1.0" type="github" pages="33">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -446,11 +446,14 @@
         <mxCell id="BTW6S8KO4BC3yaDiDKbq-2" value="docker&#xa;compose&#xa;圧倒" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="5KxaZ1Xw3t2oB8gz0OcA-1">
           <mxGeometry x="360" y="600" width="70" height="68" as="geometry" />
         </mxCell>
+        <mxCell id="Yn8KcSSg33AvQN_rvQqh-0" value="&lt;h1&gt;今持っている武器の組織編制&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="5KxaZ1Xw3t2oB8gz0OcA-1">
+          <mxGeometry x="1680" y="40" width="320" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="20231030" id="kyCqZS4gJkg4q31kI1A0">
-    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="dnhGhP_LcqGwnIGYPUAV-0" />
         <mxCell id="dnhGhP_LcqGwnIGYPUAV-1" parent="dnhGhP_LcqGwnIGYPUAV-0" />
