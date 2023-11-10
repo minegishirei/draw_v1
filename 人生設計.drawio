@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T10:32:41.714Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="1uyYarzJOv_xF1-Uu6xU" version="22.1.0" type="github" pages="33">
+<mxfile host="app.diagrams.net" modified="2023-11-10T10:33:01.086Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ieV3WwVA_5wEkQUpQt-s" version="22.1.0" type="github" pages="33">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -180,7 +180,7 @@
             <mxPoint x="600" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-11" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・Kubernetesのセキュリティとバックアップが中心に取り組む&lt;br&gt;&lt;br&gt;・また、「メンターの開始」「他エンジニアへのインフラへの介入」「目標設定」など会社での立ち回りはほぼ完ぺき。&lt;br&gt;あとは&lt;b&gt;ブランドイメージと露出を増やして社内のイメージと社外のイメージを一致させることが大事&lt;/b&gt;&lt;br&gt;&lt;br&gt;・エンジニア心理学が50いいねとなり、Top2に入る期間が1日以上あった。この期間を可能な限り長くすることで「見たことがある」&lt;br&gt;を発生させることが出来る。&lt;br&gt;&lt;br&gt;・同じことを2回言うが、&lt;b&gt;社内での立ち回りはマジで完璧&lt;/b&gt;。&lt;br&gt;&lt;br&gt;・現在のラベル&lt;br&gt;3安定安心、3仕事早、職人&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="5KxaZ1Xw3t2oB8gz0OcA-1" vertex="1">
+        <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-11" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・Kubernetesのセキュリティとバックアップが中心に取り組む&lt;br&gt;&lt;br&gt;・また、「メンターの開始」「他エンジニアへのインフラへの介入」「目標設定」など会社での立ち回りはほぼ完ぺき。&lt;br&gt;あとは&lt;b&gt;ブランドイメージと露出を増やして社内のイメージと社外のイメージを一致させることが大事&lt;/b&gt;&lt;br&gt;&lt;br&gt;・エンジニア心理学が50いいねとなり、Top2に入る期間が1日以上あった。この期間を可能な限り長くすることで「見たことがある」&lt;br&gt;を発生させることが出来る。&lt;br&gt;&lt;br&gt;・同じことを2回言うが、&lt;b&gt;社内での立ち回りはマジで完璧&lt;/b&gt;。&lt;br&gt;&lt;br&gt;・現在のラベル&lt;br&gt;4若い、3安定安心、3仕事早、職人&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="5KxaZ1Xw3t2oB8gz0OcA-1" vertex="1">
           <mxGeometry x="600" y="40" width="190" height="480" as="geometry" />
         </mxCell>
         <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-12" value="k8s&#xa;Role&#xa;security" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="5KxaZ1Xw3t2oB8gz0OcA-1" vertex="1">
@@ -996,7 +996,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20231009" id="3202Zn6Pcw_C5sTxqR9v">
-    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="V112yTaiyanmbTkWPUjU-0" />
         <mxCell id="V112yTaiyanmbTkWPUjU-1" parent="V112yTaiyanmbTkWPUjU-0" />
