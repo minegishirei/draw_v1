@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-12T04:35:01.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="pvOgU_l3azALuR_pNwSD" version="22.1.0" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2023-11-12T04:36:30.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="rHp__jyn7448l9sUU240" version="22.1.0" type="github" pages="34">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -288,16 +288,10 @@
           <mxGeometry x="880" y="920" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sTqY6MCDVxhh7C4dcIVL-48" value="k8s 10章&#xa;機密情報" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="sTqY6MCDVxhh7C4dcIVL-1">
-          <mxGeometry x="1040" y="920" width="70" height="70" as="geometry" />
+          <mxGeometry x="880" y="1000" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sTqY6MCDVxhh7C4dcIVL-49" value="k8s 11章&#xa;secure" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="sTqY6MCDVxhh7C4dcIVL-1">
           <mxGeometry x="720" y="920" width="70" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="sTqY6MCDVxhh7C4dcIVL-50" value="k8s&#xa;継続的&#xa;デプロイ" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="sTqY6MCDVxhh7C4dcIVL-1">
-          <mxGeometry x="960" y="920" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="sTqY6MCDVxhh7C4dcIVL-51" value="k8s 16章&#xa;メトリクス" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="sTqY6MCDVxhh7C4dcIVL-1">
-          <mxGeometry x="798" y="1000" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sTqY6MCDVxhh7C4dcIVL-52" value="Kubernetes入門サイト&#xa;確立" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="sTqY6MCDVxhh7C4dcIVL-1">
           <mxGeometry x="400" y="920" width="230" height="70" as="geometry" />
@@ -349,6 +343,9 @@
         </mxCell>
         <mxCell id="FV2k_IC9hgML1l398Si6-0" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="sTqY6MCDVxhh7C4dcIVL-1">
           <mxGeometry x="798" y="920" width="20" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="f_anPyAIde8licgW4r-K-0" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="sTqY6MCDVxhh7C4dcIVL-1">
+          <mxGeometry x="880" y="920" width="20" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
