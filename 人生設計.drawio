@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-12T04:38:12.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="dzd-hyCjO9N-ctBzDdx0" version="22.1.0" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2023-11-12T04:39:01.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="6SocHAKOkGVpV1ABSki2" version="22.1.0" type="github" pages="34">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -346,6 +346,9 @@
         </mxCell>
         <mxCell id="f_anPyAIde8licgW4r-K-0" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="sTqY6MCDVxhh7C4dcIVL-1">
           <mxGeometry x="880" y="920" width="20" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="1J5bUCEq2qoLM5_EH_iJ-0" value="&lt;h1&gt;エンジニア心理学好調☀️&lt;/h1&gt;&lt;p&gt;今後の方向性「エンジニア心理学」が定まった。エンジニアとしてのブランド価値向上に繋げる。&lt;/p&gt;&lt;p&gt;また、人生設計レポートをつけはじめてから6ヶ月過ぎた。行動の一貫性が生まれ、&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="sTqY6MCDVxhh7C4dcIVL-1">
+          <mxGeometry x="720" y="1160" width="311" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
