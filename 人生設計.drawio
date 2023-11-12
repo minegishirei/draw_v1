@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-12T04:37:11.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="cIVmy_fPui2cChRsxlE8" version="22.1.0" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2023-11-12T04:38:12.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="dzd-hyCjO9N-ctBzDdx0" version="22.1.0" type="github" pages="34">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -177,7 +177,7 @@
             <mxPoint x="600" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sTqY6MCDVxhh7C4dcIVL-12" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;・&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="sTqY6MCDVxhh7C4dcIVL-1">
+        <mxCell id="sTqY6MCDVxhh7C4dcIVL-12" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;・k8sについてほぼ一冊読んだ&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;→結論はDocker &amp;lt; Kubernetes = AWS Fargate&lt;br&gt;・&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="sTqY6MCDVxhh7C4dcIVL-1">
           <mxGeometry x="600" y="40" width="190" height="480" as="geometry" />
         </mxCell>
         <mxCell id="sTqY6MCDVxhh7C4dcIVL-13" value="k8s&#xa;Pod管理" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="sTqY6MCDVxhh7C4dcIVL-1">
