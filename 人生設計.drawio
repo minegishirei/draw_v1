@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T02:00:06.346Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9HIgiOh9hV_SDQGDJ6FI" version="22.1.2" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2023-11-17T02:00:59.632Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="nlhAwWWXotukD5tEGFSW" version="22.1.2" type="github" pages="34">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -195,7 +195,7 @@
           <mxGeometry x="1360" y="360" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CPum7gvJT51E4ubOsvYq-7" value="対顧客&#xa;期待のControl" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
-          <mxGeometry x="1360" y="520" width="150" height="70" as="geometry" />
+          <mxGeometry x="1360" y="480" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CPum7gvJT51E4ubOsvYq-9" value="対メンバー&#xa;信頼関係の構築" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
           <mxGeometry x="1360" y="258" width="150" height="70" as="geometry" />
@@ -204,7 +204,7 @@
           <mxGeometry x="1420" y="228" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Fw4zuBBfyjI6oSINcVEQ-4" value="対ユーザー&#xa;UIUXの知識" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
-          <mxGeometry x="1360" y="740" width="150" height="70" as="geometry" />
+          <mxGeometry x="1360" y="680" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Fw4zuBBfyjI6oSINcVEQ-6" value="アジャイル" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
           <mxGeometry x="1790" y="480" width="70" height="70" as="geometry" />
@@ -216,7 +216,7 @@
           <mxGeometry x="10" y="290" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Fw4zuBBfyjI6oSINcVEQ-5" value="成果" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Fw4zuBBfyjI6oSINcVEQ-7">
-          <mxGeometry x="10" y="400" width="150" height="70" as="geometry" />
+          <mxGeometry x="10" y="510" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Fw4zuBBfyjI6oSINcVEQ-13" value="要件定義&#xa;インセプションデッキ" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Fw4zuBBfyjI6oSINcVEQ-7">
           <mxGeometry x="10" y="140" width="150" height="70" as="geometry" />
