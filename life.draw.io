@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T05:23:29.557Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NVOhonj6SOvQVpgcUnNB" version="22.1.2" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2023-11-17T05:24:25.493Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="UVlaUnGjq_1oZN3MSicR" version="22.1.2" type="github" pages="34">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -176,7 +176,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4F4cJXa1Sza_LHnRdeBN-26" value="【製品体験】&#xa;・コミュニケーション具体例を&#xa;・関西弁？で&#xa;・会話形式で&#xa;・どんなレベルでもわかるように伝える" style="text;whiteSpace=wrap;" parent="4F4cJXa1Sza_LHnRdeBN-1" vertex="1">
-          <mxGeometry x="910" y="830" width="240" height="80" as="geometry" />
+          <mxGeometry x="870" y="830" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4F4cJXa1Sza_LHnRdeBN-79" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://raw.githubusercontent.com/minegishirei/minegishirei/main/img/beaver_%E3%83%9B%E3%82%9A%E3%82%AB%E3%83%BC%E3%83%B3_zoom.png;" parent="4F4cJXa1Sza_LHnRdeBN-1" vertex="1">
           <mxGeometry x="1136.5" y="82" width="120" height="120" as="geometry" />
