@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T05:42:45.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ZbiiC0oX-FgGTQh0GQr6" version="22.1.2" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2023-11-17T07:24:32.358Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="KwLlE_YTbSv6q8X80vDj" version="22.1.2" type="github" pages="34">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -143,7 +143,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="engineer_psychology" id="6Vodys6ZSpo44YDPgR1p">
-    <mxGraphModel dx="847" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1142" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4F4cJXa1Sza_LHnRdeBN-0" />
         <mxCell id="4F4cJXa1Sza_LHnRdeBN-1" parent="4F4cJXa1Sza_LHnRdeBN-0" />
@@ -350,7 +350,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yhCt2YOG9iUnG6fEHqKn-0" value="【ブランドプロミス】&#xa;・リードエンジニアになる&#xa;" style="text;whiteSpace=wrap;" parent="4F4cJXa1Sza_LHnRdeBN-1" vertex="1">
-          <mxGeometry x="2231" y="440" width="240" height="126" as="geometry" />
+          <mxGeometry x="2231" y="480" width="240" height="36" as="geometry" />
         </mxCell>
         <mxCell id="yhCt2YOG9iUnG6fEHqKn-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Star_icon_stylized.svg/2153px-Star_icon_stylized.svg.png;" parent="4F4cJXa1Sza_LHnRdeBN-1" vertex="1">
           <mxGeometry x="2080" y="595.5" width="74.47" height="71" as="geometry" />
