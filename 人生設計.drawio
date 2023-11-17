@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T02:10:29.927Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zZ2Kw1HbQu8tji2oE1Og" version="22.1.2" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2023-11-17T02:10:53.835Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="YD75slEMhozmEFdbqaC4" version="22.1.2" type="github" pages="34">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -216,13 +216,16 @@
           <mxGeometry x="10" y="290" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Fw4zuBBfyjI6oSINcVEQ-5" value="成果" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Fw4zuBBfyjI6oSINcVEQ-7">
-          <mxGeometry x="10" y="510" width="150" height="70" as="geometry" />
+          <mxGeometry x="10" y="380" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Fw4zuBBfyjI6oSINcVEQ-13" value="要件定義&#xa;インセプションデッキ" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Fw4zuBBfyjI6oSINcVEQ-7">
           <mxGeometry x="10" y="140" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Fw4zuBBfyjI6oSINcVEQ-14" value="チームビルディング" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Fw4zuBBfyjI6oSINcVEQ-7">
           <mxGeometry x="10" y="20" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Fw4zuBBfyjI6oSINcVEQ-46" value="運用" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Fw4zuBBfyjI6oSINcVEQ-7">
+          <mxGeometry x="10" y="530" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Fw4zuBBfyjI6oSINcVEQ-15" value="フルスタック" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
           <mxGeometry x="2160" y="270" width="150" height="70" as="geometry" />
@@ -246,7 +249,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fw4zuBBfyjI6oSINcVEQ-29" value="フロントエンド" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
-          <mxGeometry x="1800" y="850" width="150" height="70" as="geometry" />
+          <mxGeometry x="1810" y="710" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Fw4zuBBfyjI6oSINcVEQ-30" value="&lt;h1&gt;エンジニア心理学&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
           <mxGeometry x="2230" y="41.5" width="210" height="40" as="geometry" />
