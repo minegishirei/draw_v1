@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T01:08:14.181Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tkA2jYyx-Rm5bSN_P-r0" version="22.1.2" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2023-11-17T01:08:42.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="PdYfhsstUUSZdDDTeKMZ" version="22.1.2" type="github" pages="34">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -213,46 +213,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CPum7gvJT51E4ubOsvYq-1" value="対&#xa;メンバー" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
-          <mxGeometry x="1360" y="640" width="70" height="70" as="geometry" />
+          <mxGeometry x="1360" y="363" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CPum7gvJT51E4ubOsvYq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4F4cJXa1Sza_LHnRdeBN-1" source="CPum7gvJT51E4ubOsvYq-2" target="CPum7gvJT51E4ubOsvYq-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CPum7gvJT51E4ubOsvYq-2" value="対&#xa;顧客" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
-          <mxGeometry x="1360" y="800" width="70" height="70" as="geometry" />
+          <mxGeometry x="1360" y="523" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CPum7gvJT51E4ubOsvYq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4F4cJXa1Sza_LHnRdeBN-1" source="CPum7gvJT51E4ubOsvYq-4" target="CPum7gvJT51E4ubOsvYq-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CPum7gvJT51E4ubOsvYq-4" value="対&#xa;チーム" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
-          <mxGeometry x="1360" y="720" width="70" height="70" as="geometry" />
+          <mxGeometry x="1360" y="443" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CPum7gvJT51E4ubOsvYq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="4F4cJXa1Sza_LHnRdeBN-1" source="CPum7gvJT51E4ubOsvYq-5" target="CPum7gvJT51E4ubOsvYq-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CPum7gvJT51E4ubOsvYq-5" value="心理的安全の確保" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
-          <mxGeometry x="1480" y="720" width="150" height="70" as="geometry" />
+          <mxGeometry x="1480" y="443" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CPum7gvJT51E4ubOsvYq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4F4cJXa1Sza_LHnRdeBN-1" source="CPum7gvJT51E4ubOsvYq-7" target="CPum7gvJT51E4ubOsvYq-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CPum7gvJT51E4ubOsvYq-7" value="期待のControl" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
-          <mxGeometry x="1480" y="800" width="150" height="70" as="geometry" />
+          <mxGeometry x="1480" y="523" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CPum7gvJT51E4ubOsvYq-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4F4cJXa1Sza_LHnRdeBN-1" source="CPum7gvJT51E4ubOsvYq-9" target="CPum7gvJT51E4ubOsvYq-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CPum7gvJT51E4ubOsvYq-9" value="信頼関係の構築&#xa;（=ラポール形成)" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
-          <mxGeometry x="1480" y="640" width="150" height="70" as="geometry" />
+          <mxGeometry x="1480" y="363" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CPum7gvJT51E4ubOsvYq-11" value="ゴール" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
-          <mxGeometry x="1365" y="607" width="60" height="30" as="geometry" />
+          <mxGeometry x="1365" y="330" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CPum7gvJT51E4ubOsvYq-12" value="必要な事" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
-          <mxGeometry x="1525" y="607" width="60" height="30" as="geometry" />
+          <mxGeometry x="1525" y="330" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CPum7gvJT51E4ubOsvYq-13" value="エンジニア&#xa;心理学" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
-          <mxGeometry x="1680" y="720" width="70" height="70" as="geometry" />
+          <mxGeometry x="1680" y="443" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
