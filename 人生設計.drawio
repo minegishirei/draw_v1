@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T01:50:53.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="fxZw-BsmEv9I7YNmw4G9" version="22.1.2" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2023-11-17T01:53:04.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Cjq4auRo19KgoR8-eDUL" version="22.1.2" type="github" pages="34">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -143,7 +143,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="engineer_psychology" id="6Vodys6ZSpo44YDPgR1p">
-    <mxGraphModel dx="847" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1142" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4F4cJXa1Sza_LHnRdeBN-0" />
         <mxCell id="4F4cJXa1Sza_LHnRdeBN-1" parent="4F4cJXa1Sza_LHnRdeBN-0" />
@@ -171,7 +171,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4F4cJXa1Sza_LHnRdeBN-26" value="【製品体験】&#xa;・コミュニケーション具体例を&#xa;・関西弁？で&#xa;・会話形式で&#xa;・どんなレベルでもわかるように伝える" style="text;whiteSpace=wrap;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
-          <mxGeometry x="870" y="650" width="240" height="80" as="geometry" />
+          <mxGeometry x="857.5" y="830" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4F4cJXa1Sza_LHnRdeBN-79" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://raw.githubusercontent.com/minegishirei/minegishirei/main/img/beaver_%E3%83%9B%E3%82%9A%E3%82%AB%E3%83%BC%E3%83%B3_zoom.png;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
           <mxGeometry x="1176.5" y="82" width="120" height="120" as="geometry" />
@@ -274,6 +274,9 @@
         </mxCell>
         <mxCell id="Fw4zuBBfyjI6oSINcVEQ-30" value="&lt;h1&gt;エンジニア心理学&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
           <mxGeometry x="2230" y="41.5" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fw4zuBBfyjI6oSINcVEQ-31" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1.bp.blogspot.com/-65sJUctWUHk/VSufuTgnCUI/AAAAAAAAtBM/qp4kxYW0H-w/s450/syoudan_torihiki.png;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
+          <mxGeometry x="980" y="610" width="156" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
