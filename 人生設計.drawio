@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T04:10:04.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="vZ21KuVBPVmM0ptUyKsm" version="22.1.2" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2023-11-17T04:10:53.472Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="PfGmdcHOkymkkeWFW0j0" version="22.1.2" type="github" pages="34">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -326,7 +326,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yxNTbKw8Gsc6y1jbnUsn-1" value="【ペルソナ】&#xa;・コミュニケーションが苦手なエンジニア&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;・上長との関係性に問題があるエンジニア&#xa;・困ったユーザーを抱えるエンジニア&#xa;・困った部下を抱えるエンジニア" style="text;whiteSpace=wrap;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
-          <mxGeometry x="2221" y="257" width="240" height="223" as="geometry" />
+          <mxGeometry x="2231" y="240.25" width="240" height="223" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
