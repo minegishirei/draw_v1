@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-18T13:02:07.602Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="r9X2YemOoeX6nzSkoYZr" version="22.1.3" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2023-11-18T13:03:11.075Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="6_KR7mTzsskpQhM3dPc0" version="22.1.3" type="github" pages="34">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -266,7 +266,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yxNTbKw8Gsc6y1jbnUsn-1" value="【ペルソナ】&#xa;・これから現場に入るエンジニア&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="text;whiteSpace=wrap;" parent="4F4cJXa1Sza_LHnRdeBN-1" vertex="1">
-          <mxGeometry x="2231" y="240.25" width="240" height="189.75" as="geometry" />
+          <mxGeometry x="2221" y="238" width="240" height="189.75" as="geometry" />
         </mxCell>
         <mxCell id="yxNTbKw8Gsc6y1jbnUsn-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.qiita.com/assets/qiita-ogp-3b6fcfdd74755a85107071ffc3155898.png;" parent="4F4cJXa1Sza_LHnRdeBN-1" vertex="1">
           <mxGeometry x="1330.48" y="100.5" width="209.52" height="110" as="geometry" />
@@ -284,7 +284,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yhCt2YOG9iUnG6fEHqKn-0" value="【ブランドプロミス】&#xa;・リードエンジニアになりたい&#xa;・10xプログラマーになりたい&#xa;・素早く開発したい&#xa;・「アジャイル」「Docker」「関数型プログラミング」「Vim」について知りたい" style="text;whiteSpace=wrap;" parent="4F4cJXa1Sza_LHnRdeBN-1" vertex="1">
-          <mxGeometry x="2231" y="480" width="240" height="100" as="geometry" />
+          <mxGeometry x="2221" y="480" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4CylpGklTz9eN4y4wazO-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4F4cJXa1Sza_LHnRdeBN-1" source="Fw4zuBBfyjI6oSINcVEQ-56" target="4CylpGklTz9eN4y4wazO-22">
           <mxGeometry relative="1" as="geometry" />
