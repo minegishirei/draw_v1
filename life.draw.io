@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-18T06:46:43.379Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="O2aJjw7ZRKl3fWlsHP1n" version="22.1.3" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2023-11-18T06:47:13.492Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="mp9ICY53vECVgmIIOR0f" version="22.1.3" type="github" pages="34">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -286,6 +286,9 @@
         <mxCell id="yhCt2YOG9iUnG6fEHqKn-0" value="【ブランドプロミス】&#xa;・リードエンジニアになりたい&#xa;・10xプログラマーになりたい&#xa;・素早く開発したい&#xa;・「アジャイル」「Docker」「関数型プログラミング」「Vim」について知りたい" style="text;whiteSpace=wrap;" parent="4F4cJXa1Sza_LHnRdeBN-1" vertex="1">
           <mxGeometry x="2231" y="480" width="240" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="4CylpGklTz9eN4y4wazO-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4F4cJXa1Sza_LHnRdeBN-1" source="Fw4zuBBfyjI6oSINcVEQ-56" target="4CylpGklTz9eN4y4wazO-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Fw4zuBBfyjI6oSINcVEQ-56" value="Docker" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="4F4cJXa1Sza_LHnRdeBN-1" vertex="1">
           <mxGeometry x="1770.93" y="485.5" width="99.07" height="70" as="geometry" />
         </mxCell>
@@ -301,10 +304,16 @@
         <mxCell id="4CylpGklTz9eN4y4wazO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4F4cJXa1Sza_LHnRdeBN-1" source="Fw4zuBBfyjI6oSINcVEQ-13" target="Fw4zuBBfyjI6oSINcVEQ-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4CylpGklTz9eN4y4wazO-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4F4cJXa1Sza_LHnRdeBN-1" source="4CylpGklTz9eN4y4wazO-11" target="4CylpGklTz9eN4y4wazO-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4CylpGklTz9eN4y4wazO-11" value="Vim" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
           <mxGeometry x="1770" y="660" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4CylpGklTz9eN4y4wazO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4F4cJXa1Sza_LHnRdeBN-1" source="Fw4zuBBfyjI6oSINcVEQ-1" target="4CylpGklTz9eN4y4wazO-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4CylpGklTz9eN4y4wazO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4F4cJXa1Sza_LHnRdeBN-1" source="4CylpGklTz9eN4y4wazO-13" target="4CylpGklTz9eN4y4wazO-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4CylpGklTz9eN4y4wazO-13" value="関数型&#xa;プログラミング" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
@@ -322,7 +331,7 @@
         <mxCell id="4CylpGklTz9eN4y4wazO-22" value="オリジナリティを出さない" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
           <mxGeometry x="1890" y="485.5" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4CylpGklTz9eN4y4wazO-23" value="関数型&#xa;プログラミング" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
+        <mxCell id="4CylpGklTz9eN4y4wazO-23" value="副作用を減らす" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
           <mxGeometry x="1890" y="574.5" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4CylpGklTz9eN4y4wazO-24" value="物理的に早く動く" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
