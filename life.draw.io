@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-18T13:04:47.605Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="yTSDfLvmkasIrVVM1TFS" version="22.1.3" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2023-11-18T13:06:38.303Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="D75vyrKqJ3QIeUkEP5Lh" version="22.1.3" type="github" pages="34">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -338,6 +338,15 @@
         </mxCell>
         <mxCell id="WOjizyquvxA7BrOs_DC--0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4F4cJXa1Sza_LHnRdeBN-1" source="Fw4zuBBfyjI6oSINcVEQ-1" target="4CylpGklTz9eN4y4wazO-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tOXtT14OD5ToQiI1ryR_-0" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00FF00;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
+          <mxGeometry x="1769.53" y="398" width="20" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="tOXtT14OD5ToQiI1ryR_-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
+          <mxGeometry x="1769.53" y="480" width="20" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="AI8B6Nr0zbYibiRW5-P_-0" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00FF00;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
+          <mxGeometry x="1770.93" y="639" width="20" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -921,7 +930,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20231030" id="kyCqZS4gJkg4q31kI1A0">
-    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="dnhGhP_LcqGwnIGYPUAV-0" />
         <mxCell id="dnhGhP_LcqGwnIGYPUAV-1" parent="dnhGhP_LcqGwnIGYPUAV-0" />
@@ -1168,7 +1177,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20231021" id="NKgNeAnhcMeK7NzMlNXh">
-    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="QLTrLW-lS9hVsvs0kUb8-0" />
         <mxCell id="QLTrLW-lS9hVsvs0kUb8-1" parent="QLTrLW-lS9hVsvs0kUb8-0" />
@@ -1340,7 +1349,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20231016" id="dMYkchNpJjQwnOqHdrBn">
-    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="deHney_l88NqStJrVVFj-0" />
         <mxCell id="deHney_l88NqStJrVVFj-1" parent="deHney_l88NqStJrVVFj-0" />
