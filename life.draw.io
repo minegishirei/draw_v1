@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-18T06:26:38.358Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="4guggdBSisRX5vhYDul1" version="22.1.3" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2023-11-18T06:27:08.163Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="uVFwDcWCJQ-sPL0k11Ch" version="22.1.3" type="github" pages="34">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -143,7 +143,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="engineer_psychology" id="6Vodys6ZSpo44YDPgR1p">
-    <mxGraphModel dx="765" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-182" dy="316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4F4cJXa1Sza_LHnRdeBN-0" />
         <mxCell id="4F4cJXa1Sza_LHnRdeBN-1" parent="4F4cJXa1Sza_LHnRdeBN-0" />
@@ -318,14 +318,20 @@
             <mxPoint x="1770" y="935" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="4CylpGklTz9eN4y4wazO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4F4cJXa1Sza_LHnRdeBN-1" source="4CylpGklTz9eN4y4wazO-11" target="Fw4zuBBfyjI6oSINcVEQ-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4CylpGklTz9eN4y4wazO-11" value="Vim" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
           <mxGeometry x="1770" y="530" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4CylpGklTz9eN4y4wazO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4F4cJXa1Sza_LHnRdeBN-1" source="Fw4zuBBfyjI6oSINcVEQ-1" target="4CylpGklTz9eN4y4wazO-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4CylpGklTz9eN4y4wazO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4F4cJXa1Sza_LHnRdeBN-1" source="4CylpGklTz9eN4y4wazO-13" target="Fw4zuBBfyjI6oSINcVEQ-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4CylpGklTz9eN4y4wazO-13" value="関数型プログラミング" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
-          <mxGeometry x="1770.96" y="610" width="150" height="70" as="geometry" />
+          <mxGeometry x="1769.96" y="610" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4CylpGklTz9eN4y4wazO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4F4cJXa1Sza_LHnRdeBN-1" source="Fw4zuBBfyjI6oSINcVEQ-1" target="4CylpGklTz9eN4y4wazO-13">
           <mxGeometry relative="1" as="geometry" />
