@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-18T13:03:11.075Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="6_KR7mTzsskpQhM3dPc0" version="22.1.3" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2023-11-18T13:03:53.420Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ccIpmp9SCvI4oL8tndrt" version="22.1.3" type="github" pages="34">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -200,7 +200,9 @@
           <mxGeometry x="1435" y="227" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Fw4zuBBfyjI6oSINcVEQ-7" value="" style="swimlane;startSize=0;" parent="4F4cJXa1Sza_LHnRdeBN-1" vertex="1">
-          <mxGeometry x="1570" y="340" width="170" height="460" as="geometry" />
+          <mxGeometry x="1570" y="340" width="170" height="460" as="geometry">
+            <mxRectangle x="1570" y="340" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Fw4zuBBfyjI6oSINcVEQ-1" value="開発" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Fw4zuBBfyjI6oSINcVEQ-7" vertex="1">
           <mxGeometry x="10" y="220" width="150" height="70" as="geometry" />
@@ -319,11 +321,6 @@
         <mxCell id="4CylpGklTz9eN4y4wazO-13" value="関数型&#xa;プログラミング" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
           <mxGeometry x="1770" y="560" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4CylpGklTz9eN4y4wazO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4F4cJXa1Sza_LHnRdeBN-1" target="4CylpGklTz9eN4y4wazO-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1730" y="595" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="4CylpGklTz9eN4y4wazO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4F4cJXa1Sza_LHnRdeBN-1" source="Fw4zuBBfyjI6oSINcVEQ-1" target="Fw4zuBBfyjI6oSINcVEQ-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -338,6 +335,9 @@
         </mxCell>
         <mxCell id="4CylpGklTz9eN4y4wazO-24" value="物理的に早く動く" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
           <mxGeometry x="1890.93" y="639" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WOjizyquvxA7BrOs_DC--0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4F4cJXa1Sza_LHnRdeBN-1" source="Fw4zuBBfyjI6oSINcVEQ-1" target="4CylpGklTz9eN4y4wazO-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
