@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-18T06:48:27.648Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Hd1eKgB9kGs0Dqg-crAw" version="22.1.3" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2023-11-18T07:05:36.951Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="MMWgcIKVMMq66hYSOIrP" version="22.1.3" type="github" pages="34">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -143,7 +143,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="engineer_psychology" id="6Vodys6ZSpo44YDPgR1p">
-    <mxGraphModel dx="430" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="765" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4F4cJXa1Sza_LHnRdeBN-0" />
         <mxCell id="4F4cJXa1Sza_LHnRdeBN-1" parent="4F4cJXa1Sza_LHnRdeBN-0" />
@@ -343,7 +343,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20231113" id="ly-A3d-8wai5wS3ijVHJ">
-    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="sTqY6MCDVxhh7C4dcIVL-0" />
         <mxCell id="sTqY6MCDVxhh7C4dcIVL-1" parent="sTqY6MCDVxhh7C4dcIVL-0" />
@@ -589,8 +589,14 @@
         <mxCell id="IzGoVVfoh6Nqvshyatb6-0" value="出社" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="sTqY6MCDVxhh7C4dcIVL-1" vertex="1">
           <mxGeometry x="199.5" y="120" width="70" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="rDz5Ax0qMabqFzUUIcwe-1" value="みねぎし&#xa;れい&#xa;Rebuild" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="sTqY6MCDVxhh7C4dcIVL-1">
+        <mxCell id="rDz5Ax0qMabqFzUUIcwe-1" value="みねぎし&#xa;れい&#xa;Rebuild" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="sTqY6MCDVxhh7C4dcIVL-1" vertex="1">
           <mxGeometry x="360" y="200" width="70" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="S0xO6JUUnCDlG0Lt_V6_-0" value="10x&#xa;プログラマ&#xa;策定" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="sTqY6MCDVxhh7C4dcIVL-1">
+          <mxGeometry x="519.5" y="121" width="70" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="S0xO6JUUnCDlG0Lt_V6_-1" value="休日" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="sTqY6MCDVxhh7C4dcIVL-1">
+          <mxGeometry x="520.5" y="277" width="70" height="153" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
