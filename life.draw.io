@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-18T06:19:44.776Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="90b-gPzvctn8YPJiTOTv" version="22.1.3" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2023-11-18T06:20:46.877Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="78eMmXKI2NxEdiO0zbr3" version="22.1.3" type="github" pages="34">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -268,33 +268,6 @@
         <mxCell id="2SATWNd2ZC5L2f3iAD-k-3" value="Fargate" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Fw4zuBBfyjI6oSINcVEQ-47" vertex="1">
           <mxGeometry x="90" y="110" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Fw4zuBBfyjI6oSINcVEQ-48" value="バックエンド" style="swimlane;whiteSpace=wrap;html=1;" parent="4F4cJXa1Sza_LHnRdeBN-1" vertex="1">
-          <mxGeometry x="1770" y="637" width="170" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="Fw4zuBBfyjI6oSINcVEQ-49" value="Django" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Fw4zuBBfyjI6oSINcVEQ-48" vertex="1">
-          <mxGeometry x="10" y="30" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Fw4zuBBfyjI6oSINcVEQ-58" value="SQL" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Fw4zuBBfyjI6oSINcVEQ-48" vertex="1">
-          <mxGeometry x="93" y="30" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="XcqeuNUivlBn-B7ttFuw-5" value="オブジェクト指向" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Fw4zuBBfyjI6oSINcVEQ-48" vertex="1">
-          <mxGeometry x="10" y="113" width="150" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Fw4zuBBfyjI6oSINcVEQ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="4F4cJXa1Sza_LHnRdeBN-1" source="Fw4zuBBfyjI6oSINcVEQ-52" target="Fw4zuBBfyjI6oSINcVEQ-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Fw4zuBBfyjI6oSINcVEQ-52" value="フロントエンド" style="swimlane;whiteSpace=wrap;html=1;" parent="4F4cJXa1Sza_LHnRdeBN-1" vertex="1">
-          <mxGeometry x="1770" y="840" width="170" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="Fw4zuBBfyjI6oSINcVEQ-53" value="React" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Fw4zuBBfyjI6oSINcVEQ-52" vertex="1">
-          <mxGeometry x="10" y="30" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Fw4zuBBfyjI6oSINcVEQ-85" value="関数型プログラミング" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Fw4zuBBfyjI6oSINcVEQ-52" vertex="1">
-          <mxGeometry x="10" y="110" width="150" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="4CylpGklTz9eN4y4wazO-5" value="React" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Fw4zuBBfyjI6oSINcVEQ-52">
-          <mxGeometry x="90" y="30" width="70" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="Fw4zuBBfyjI6oSINcVEQ-57" value="10xプログラマーとは、普通のプログラマーと比べて10倍の生産性をもつプログラマーの事です。&#xa;「無駄な機能を付けない」「オリジナリティを出さない」「ゴミを出さない」「物理的に早く動く」を守るため、`Docker`を中心とした10xのための技術をまとめました。" style="text;whiteSpace=wrap;" parent="4F4cJXa1Sza_LHnRdeBN-1" vertex="1">
           <mxGeometry x="2221" y="82" width="260" height="118" as="geometry" />
         </mxCell>
@@ -302,9 +275,6 @@
           <mxGeometry x="2069.48" y="96" width="131.04" height="106" as="geometry" />
         </mxCell>
         <mxCell id="Fw4zuBBfyjI6oSINcVEQ-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="4F4cJXa1Sza_LHnRdeBN-1" source="Fw4zuBBfyjI6oSINcVEQ-1" target="Fw4zuBBfyjI6oSINcVEQ-47" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Fw4zuBBfyjI6oSINcVEQ-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="4F4cJXa1Sza_LHnRdeBN-1" source="Fw4zuBBfyjI6oSINcVEQ-1" target="Fw4zuBBfyjI6oSINcVEQ-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fw4zuBBfyjI6oSINcVEQ-80" value="仕事" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="4F4cJXa1Sza_LHnRdeBN-1" vertex="1">
@@ -340,12 +310,6 @@
         <mxCell id="yhCt2YOG9iUnG6fEHqKn-0" value="【ブランドプロミス】&#xa;・リードエンジニアになる&#xa;" style="text;whiteSpace=wrap;" parent="4F4cJXa1Sza_LHnRdeBN-1" vertex="1">
           <mxGeometry x="2231" y="480" width="240" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="XcqeuNUivlBn-B7ttFuw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="4F4cJXa1Sza_LHnRdeBN-1" source="Fw4zuBBfyjI6oSINcVEQ-56" target="Fw4zuBBfyjI6oSINcVEQ-48" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XcqeuNUivlBn-B7ttFuw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="4F4cJXa1Sza_LHnRdeBN-1" source="Fw4zuBBfyjI6oSINcVEQ-56" target="Fw4zuBBfyjI6oSINcVEQ-52" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Fw4zuBBfyjI6oSINcVEQ-56" value="Docker" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="4F4cJXa1Sza_LHnRdeBN-1" vertex="1">
           <mxGeometry x="1980" y="760" width="150" height="150" as="geometry" />
         </mxCell>
@@ -371,6 +335,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4CylpGklTz9eN4y4wazO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4F4cJXa1Sza_LHnRdeBN-1" source="Fw4zuBBfyjI6oSINcVEQ-13" target="Fw4zuBBfyjI6oSINcVEQ-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fw4zuBBfyjI6oSINcVEQ-85" value="関数型プログラミング" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="4F4cJXa1Sza_LHnRdeBN-1" vertex="1">
+          <mxGeometry x="1770" y="900" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4CylpGklTz9eN4y4wazO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4F4cJXa1Sza_LHnRdeBN-1" source="Fw4zuBBfyjI6oSINcVEQ-5" target="Fw4zuBBfyjI6oSINcVEQ-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
