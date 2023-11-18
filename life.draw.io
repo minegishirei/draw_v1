@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-18T06:21:37.970Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="8CFsYm-hc3DoQeicP4OU" version="22.1.3" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2023-11-18T06:22:10.824Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="4PffDe5MCqOD0oUm6dBP" version="22.1.3" type="github" pages="34">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -304,7 +304,7 @@
         <mxCell id="4CylpGklTz9eN4y4wazO-3" value="Enginner&#xa;Cultuer" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="4CylpGklTz9eN4y4wazO-0">
           <mxGeometry x="10" y="110" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Fw4zuBBfyjI6oSINcVEQ-66" value="アジャイル / スクラム" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="4F4cJXa1Sza_LHnRdeBN-1" vertex="1">
+        <mxCell id="Fw4zuBBfyjI6oSINcVEQ-66" value="アジャイル" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="4F4cJXa1Sza_LHnRdeBN-1" vertex="1">
           <mxGeometry x="1770" y="360" width="151.93" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4CylpGklTz9eN4y4wazO-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4F4cJXa1Sza_LHnRdeBN-1" source="Fw4zuBBfyjI6oSINcVEQ-14" target="Fw4zuBBfyjI6oSINcVEQ-66">
