@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T12:59:58.644Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="L2lMQ0W3jjMl6q1r6p9R" version="22.1.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-22T13:00:18.880Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="S47s6kSjdAUbgKfpinCM" version="22.1.3" type="github" pages="4">
   <diagram name="engineer_psychology" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="500" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -142,12 +142,6 @@
         <mxCell id="JLMTn3G_srW5ChnLwk6p-44" value="【ブランドプロミス】&#xa;・リードエンジニアになりたい&#xa;・10xプログラマーになりたい&#xa;・素早く開発したい&#xa;・「アジャイル」「Docker」「関数型プログラミング」「Vim」について知りたい" style="text;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2221" y="480" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JLMTn3G_srW5ChnLwk6p-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JLMTn3G_srW5ChnLwk6p-46" target="JLMTn3G_srW5ChnLwk6p-56" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JLMTn3G_srW5ChnLwk6p-46" value="Docker" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1769.07" y="520" width="99.07" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JLMTn3G_srW5ChnLwk6p-48" target="JLMTn3G_srW5ChnLwk6p-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -169,23 +163,14 @@
         <mxCell id="JLMTn3G_srW5ChnLwk6p-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JLMTn3G_srW5ChnLwk6p-17" target="JLMTn3G_srW5ChnLwk6p-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLMTn3G_srW5ChnLwk6p-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JLMTn3G_srW5ChnLwk6p-17" target="JLMTn3G_srW5ChnLwk6p-46" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-55" value="無駄な機能を作らない" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1889.07" y="398" width="220" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="JLMTn3G_srW5ChnLwk6p-56" value="オリジナリティを出さない" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1888.1399999999999" y="520" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-57" value="物理的に早く動く" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1890" y="600" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-58" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#66FF66;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="1" vertex="1">
           <mxGeometry x="1769.53" y="398" width="20" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="JLMTn3G_srW5ChnLwk6p-59" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="1" vertex="1">
-          <mxGeometry x="1769.07" y="520" width="20" height="21" as="geometry" />
         </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-60" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00FF00;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="1" vertex="1">
           <mxGeometry x="1770" y="600" width="20" height="21" as="geometry" />
@@ -210,6 +195,9 @@
         </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JLMTn3G_srW5ChnLwk6p-22" target="JLMTn3G_srW5ChnLwk6p-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AoNlqqfXpB1h8EzO8a0D-1" value="Docker" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="690" width="99.07" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
