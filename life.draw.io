@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T09:10:58.530Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="bJYZHoxwwUBKo5HwHqdI" version="22.1.3" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2023-11-22T09:11:07.101Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="gs2fkqAobx0JqhDYBjGz" version="22.1.3" type="github" pages="34">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3427.5" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -208,10 +208,10 @@
           <mxGeometry x="10" y="20" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Fw4zuBBfyjI6oSINcVEQ-4" value="対ユーザー&#xa;UIUX&#xa;デザイナー" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Fw4zuBBfyjI6oSINcVEQ-7" vertex="1">
-          <mxGeometry x="-180" y="320" width="150" height="70" as="geometry" />
+          <mxGeometry x="-180" y="350" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Fw4zuBBfyjI6oSINcVEQ-5" value="成果" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Fw4zuBBfyjI6oSINcVEQ-7" vertex="1">
-          <mxGeometry x="10" y="320" width="150" height="70" as="geometry" />
+          <mxGeometry x="10" y="350" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Fw4zuBBfyjI6oSINcVEQ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="Fw4zuBBfyjI6oSINcVEQ-7" source="Fw4zuBBfyjI6oSINcVEQ-5" target="Fw4zuBBfyjI6oSINcVEQ-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -229,10 +229,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9EoA7UxWhLyZJ09YY33g-0" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="Fw4zuBBfyjI6oSINcVEQ-7">
-          <mxGeometry x="-180" y="320" width="20" height="21" as="geometry" />
+          <mxGeometry x="-180" y="350" width="20" height="21" as="geometry" />
         </mxCell>
         <mxCell id="9EoA7UxWhLyZJ09YY33g-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="Fw4zuBBfyjI6oSINcVEQ-7">
-          <mxGeometry x="10" y="320" width="20" height="21" as="geometry" />
+          <mxGeometry x="10" y="350" width="20" height="21" as="geometry" />
         </mxCell>
         <mxCell id="yxNTbKw8Gsc6y1jbnUsn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="4F4cJXa1Sza_LHnRdeBN-1" source="Fw4zuBBfyjI6oSINcVEQ-15" target="yxNTbKw8Gsc6y1jbnUsn-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
