@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T12:59:36.386Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="qjspDBDJtaLHYmSUmbVR" version="22.1.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-22T12:59:58.644Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="L2lMQ0W3jjMl6q1r6p9R" version="22.1.3" type="github" pages="4">
   <diagram name="engineer_psychology" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="500" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -211,14 +211,11 @@
         <mxCell id="JLMTn3G_srW5ChnLwk6p-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JLMTn3G_srW5ChnLwk6p-22" target="JLMTn3G_srW5ChnLwk6p-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLMTn3G_srW5ChnLwk6p-68" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="1350" y="461" width="410" height="390" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="engineer_psychology_20231122" id="Va-2Rpcasy5Ax4Rag5jU">
-    <mxGraphModel dx="367" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1163" dy="975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="SLllVQvWFq6PSE--P5hT-0" />
         <mxCell id="SLllVQvWFq6PSE--P5hT-1" parent="SLllVQvWFq6PSE--P5hT-0" />
