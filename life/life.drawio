@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T12:58:00.908Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Okn_KSKhTcXnLg5moiRj" version="22.1.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-22T12:58:20.193Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VQi5EE_jQW9UVRSEeSYk" version="22.1.3" type="github" pages="3">
   <diagram name="engineer_psychology" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="445" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -258,50 +258,6 @@
         <mxCell id="Trj-gNyPpbUj5ykkzTop-11" value="k8s&#xa;Pod管理&#xa;Labels" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="40" y="121" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Trj-gNyPpbUj5ykkzTop-12" value="&lt;h1&gt;エンジニア心理学&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="840" y="40" width="320" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Trj-gNyPpbUj5ykkzTop-13" value="&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;エンジニア心理学" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1121" y="150" width="153" height="148" as="geometry" />
-        </mxCell>
-        <mxCell id="Trj-gNyPpbUj5ykkzTop-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Trj-gNyPpbUj5ykkzTop-15" target="Trj-gNyPpbUj5ykkzTop-13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1121" y="373" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Trj-gNyPpbUj5ykkzTop-15" value="【ペルソナ】&#xa;・コミュニケーションが苦手なエンジニア&#xa;・上長との関係性に問題があるエンジニア&#xa;・困ったユーザーを抱えるエンジニア&#xa;・困った部下を抱えるエンジニア" style="text;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="868" y="307" width="240" height="126" as="geometry" />
-        </mxCell>
-        <mxCell id="Trj-gNyPpbUj5ykkzTop-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Trj-gNyPpbUj5ykkzTop-17" target="Trj-gNyPpbUj5ykkzTop-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Trj-gNyPpbUj5ykkzTop-17" value="【ブランドプロミス】&#xa;・状況を適切に判断し、各方面と適切なコミュニケーションをとり改善策を打てるエンジニアになりたい&#xa;・雑談が面白いエンジニアになりたい&#xa;・上司との人間関係を改善したい&#xa;・要件定義フェーズでのミスをなくしたい" style="text;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="868" y="410" width="240" height="126" as="geometry" />
-        </mxCell>
-        <mxCell id="Trj-gNyPpbUj5ykkzTop-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Trj-gNyPpbUj5ykkzTop-19" target="Trj-gNyPpbUj5ykkzTop-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Trj-gNyPpbUj5ykkzTop-19" value="構成要素" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1321" y="129" width="250" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="Trj-gNyPpbUj5ykkzTop-20" value="心理的&#xa;安全の&#xa;確保" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Trj-gNyPpbUj5ykkzTop-19" vertex="1">
-          <mxGeometry x="10" y="30" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Trj-gNyPpbUj5ykkzTop-21" value="信頼関係の&#xa;構築" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Trj-gNyPpbUj5ykkzTop-19" vertex="1">
-          <mxGeometry x="90" y="30" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Trj-gNyPpbUj5ykkzTop-22" value="期待&#xa;Control" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Trj-gNyPpbUj5ykkzTop-19" vertex="1">
-          <mxGeometry x="170" y="30" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Trj-gNyPpbUj5ykkzTop-23" value="FullStack&#xa;Engineer" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Trj-gNyPpbUj5ykkzTop-19" vertex="1">
-          <mxGeometry x="10" y="105" width="230" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Trj-gNyPpbUj5ykkzTop-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Trj-gNyPpbUj5ykkzTop-25" target="Trj-gNyPpbUj5ykkzTop-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Trj-gNyPpbUj5ykkzTop-25" value="【製品体験】&#xa;・コミュニケーション具体例を&#xa;・関西弁？で&#xa;・会話形式で&#xa;・どんなレベルでもわかるように伝える" style="text;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1321" y="433" width="240" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="Trj-gNyPpbUj5ykkzTop-56" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="1" vertex="1">
           <mxGeometry x="39" y="121" width="20" height="21" as="geometry" />
         </mxCell>
@@ -337,9 +293,6 @@
         </mxCell>
         <mxCell id="Trj-gNyPpbUj5ykkzTop-77" value="エンジニア&#xa;心理学&#xa;Rebuild" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="359" y="120" width="71" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Trj-gNyPpbUj5ykkzTop-78" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://raw.githubusercontent.com/minegishirei/minegishirei/main/img/beaver_%E3%83%9B%E3%82%9A%E3%82%AB%E3%83%BC%E3%83%B3_zoom.png;" parent="1" vertex="1">
-          <mxGeometry x="1137.5" y="150.5" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Trj-gNyPpbUj5ykkzTop-79" value="出社" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="199.5" y="120" width="70" height="310" as="geometry" />
