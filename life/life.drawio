@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T00:36:47.580Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="gRp_qoKcyY376ZSQaePt" version="22.1.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-23T00:37:40.013Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="8JxZyM2JdNCom63apikx" version="22.1.3" type="github" pages="4">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="500" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -126,7 +126,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-55" value="無駄な機能を作らない" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1889.07" y="360" width="220" height="70" as="geometry" />
+          <mxGeometry x="1889.07" y="427.75" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-57" value="物理的に早く動く" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1889.07" y="560" width="220" height="70" as="geometry" />
@@ -147,15 +147,6 @@
           <mxGeometry x="1890.0000000000002" y="690" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JLMTn3G_srW5ChnLwk6p-20" target="JLMTn3G_srW5ChnLwk6p-62" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JLMTn3G_srW5ChnLwk6p-65" value="対顧客&#xa;期待のControl" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1390" y="510" width="150" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="JLMTn3G_srW5ChnLwk6p-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JLMTn3G_srW5ChnLwk6p-17" target="JLMTn3G_srW5ChnLwk6p-65" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JLMTn3G_srW5ChnLwk6p-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JLMTn3G_srW5ChnLwk6p-22" target="JLMTn3G_srW5ChnLwk6p-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dEFwKuERKZ_yJW59k1OX-1" value="Full Stack" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
