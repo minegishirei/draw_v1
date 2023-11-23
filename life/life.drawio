@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T00:35:48.464Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="SKDG61YIa1KJDkk5Mlw9" version="22.1.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-23T00:36:08.318Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="e2vLUZanv0th2JyFkaAB" version="22.1.3" type="github" pages="4">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="500" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,12 +59,6 @@
         <mxCell id="JLMTn3G_srW5ChnLwk6p-26" value="&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;エンジニア基礎力" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2060" y="82" width="150" height="148" as="geometry" />
         </mxCell>
-        <mxCell id="JLMTn3G_srW5ChnLwk6p-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JLMTn3G_srW5ChnLwk6p-29" target="JLMTn3G_srW5ChnLwk6p-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JLMTn3G_srW5ChnLwk6p-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JLMTn3G_srW5ChnLwk6p-29" target="JLMTn3G_srW5ChnLwk6p-48" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-29" value="開発チーム立ち上げ" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1580" y="257" width="150" height="70" as="geometry" />
         </mxCell>
@@ -73,9 +67,6 @@
         </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-31" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1.bp.blogspot.com/-65sJUctWUHk/VSufuTgnCUI/AAAAAAAAtBM/qp4kxYW0H-w/s450/syoudan_torihiki.png;" parent="1" vertex="1">
           <mxGeometry x="912" y="620" width="156" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="JLMTn3G_srW5ChnLwk6p-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JLMTn3G_srW5ChnLwk6p-18" target="JLMTn3G_srW5ChnLwk6p-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-33" value="10xプログラマーとは、普通のプログラマーと比べて10倍の生産性をもつプログラマーの事です。&#xa;「無駄な機能を付けない」「オリジナリティを出さない」「ゴミを出さない」「物理的に早く動く」を守るため、「アジャイル」を中心とした10xのための技術をまとめました。" style="text;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2221" y="82" width="260" height="118" as="geometry" />
@@ -118,12 +109,6 @@
         </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-48" value="Agile" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1770" y="360" width="99.07" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="JLMTn3G_srW5ChnLwk6p-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JLMTn3G_srW5ChnLwk6p-18" target="JLMTn3G_srW5ChnLwk6p-48" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JLMTn3G_srW5ChnLwk6p-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JLMTn3G_srW5ChnLwk6p-22" target="JLMTn3G_srW5ChnLwk6p-48" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JLMTn3G_srW5ChnLwk6p-52" target="JLMTn3G_srW5ChnLwk6p-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
