@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T00:36:21.300Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="LP4LW5nY3ODx41Xq1EHX" version="22.1.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-23T00:36:47.580Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="gRp_qoKcyY376ZSQaePt" version="22.1.3" type="github" pages="4">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="500" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,8 +44,11 @@
         <mxCell id="JLMTn3G_srW5ChnLwk6p-12" value="エンジニア心理学は 円滑な人間関係,チームワークを望む「エンジニア向けの学問」です。&#xa; 会話が苦手なエンジニアでも実践できる体型だったコミュニケーション術をまとめました。&#xa;ケース別に対応方法を網羅した点が特徴です" style="text;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="840" y="81.5" width="260" height="99.5" as="geometry" />
         </mxCell>
+        <mxCell id="cBx4Cy0DO7vFOGNHNICp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JLMTn3G_srW5ChnLwk6p-13" target="JLMTn3G_srW5ChnLwk6p-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-13" value="対チーム&#xa;心理的安全の確保" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1390" y="410" width="150" height="70" as="geometry" />
+          <mxGeometry x="1390" y="427.75" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-14" value="対メンバー&#xa;信頼関係の構築" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1390" y="257" width="150" height="70" as="geometry" />
@@ -107,8 +110,11 @@
         <mxCell id="JLMTn3G_srW5ChnLwk6p-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JLMTn3G_srW5ChnLwk6p-48" target="JLMTn3G_srW5ChnLwk6p-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cBx4Cy0DO7vFOGNHNICp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JLMTn3G_srW5ChnLwk6p-48" target="JLMTn3G_srW5ChnLwk6p-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-48" value="Agile" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1770" y="360" width="99.07" height="70" as="geometry" />
+          <mxGeometry x="1769.07" y="427.75" width="99.07" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JLMTn3G_srW5ChnLwk6p-52" target="JLMTn3G_srW5ChnLwk6p-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -171,7 +177,7 @@
           <mxGeometry x="1769.07" y="690" width="20" height="21" as="geometry" />
         </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-18" value="チームビルディング" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1580" y="410" width="150" height="70" as="geometry" />
+          <mxGeometry x="1580" y="350" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-22" value="要件定義&#xa;インセプションデッキ" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1580" y="510" width="150" height="70" as="geometry" />
