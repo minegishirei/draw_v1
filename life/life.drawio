@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T00:43:54.060Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="DA3U9PsdhapYaFQXTw58" version="22.1.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-23T00:44:30.156Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="IR_u4fmdRQxD77pQr-VR" version="22.1.3" type="github" pages="4">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="500" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -187,6 +187,9 @@
         </mxCell>
         <mxCell id="cBx4Cy0DO7vFOGNHNICp-6" value="要件を通す技術" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1390" y="515" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cBx4Cy0DO7vFOGNHNICp-9" value="UIUX" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="700" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
