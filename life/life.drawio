@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-24T00:12:13.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zxZfFh72WdJG8UAaRa4_" version="22.1.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-24T00:13:10.149Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ZdmZ-JAmoInOSimlAOgQ" version="22.1.3" type="github" pages="4">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,19 +99,19 @@
           <mxGeometry x="90" y="110" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KdP75HX4KpQWsnjV_Gn1-7" value="Agile" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1606.5" y="600" width="99.07" height="70" as="geometry" />
+          <mxGeometry x="1598.72" y="600.01" width="99.07" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KdP75HX4KpQWsnjV_Gn1-9" value="Vim" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1731.5" y="680" width="100" height="70" as="geometry" />
+          <mxGeometry x="1710.46" y="680.01" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KdP75HX4KpQWsnjV_Gn1-12" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#66FF66;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="1" vertex="1">
-          <mxGeometry x="1606.96" y="600" width="20" height="21" as="geometry" />
+          <mxGeometry x="1600.23" y="599" width="19.77" height="21" as="geometry" />
         </mxCell>
         <mxCell id="KdP75HX4KpQWsnjV_Gn1-13" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00FF00;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="1" vertex="1">
-          <mxGeometry x="1731.5" y="680" width="20" height="21" as="geometry" />
+          <mxGeometry x="1710.46" y="680.01" width="20" height="21" as="geometry" />
         </mxCell>
         <mxCell id="KdP75HX4KpQWsnjV_Gn1-16" value="関数型&#xa;プログラミング" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1608.4600000000005" y="680" width="100" height="70" as="geometry" />
+          <mxGeometry x="1601.7300000000005" y="760" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KdP75HX4KpQWsnjV_Gn1-19" value="チームビルディング&#xa;要件定義" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1439.9999999999995" y="320" width="150" height="70" as="geometry" />
@@ -135,7 +135,7 @@
           <mxGeometry x="1490.93" y="680" width="20" height="21" as="geometry" />
         </mxCell>
         <mxCell id="KdP75HX4KpQWsnjV_Gn1-35" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00FF00;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="1" vertex="1">
-          <mxGeometry x="1606.96" y="680" width="23.04" height="24.5" as="geometry" />
+          <mxGeometry x="1600.23" y="760" width="23.04" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="5kkIFuNKcPfUHoZ-2SMw-9" value="&lt;b&gt;結局最後は&lt;br&gt;人間の問題&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1400.93" y="532" width="90" height="52.25" as="geometry" />
@@ -147,13 +147,13 @@
           <mxGeometry x="1810.46" y="532" width="90" height="52.25" as="geometry" />
         </mxCell>
         <mxCell id="5kkIFuNKcPfUHoZ-2SMw-12" value="&lt;b&gt;無駄な機能を&lt;br&gt;作らない&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1701.73" y="608.88" width="79.54" height="52.25" as="geometry" />
+          <mxGeometry x="1696.73" y="608.88" width="79.54" height="52.25" as="geometry" />
         </mxCell>
         <mxCell id="5kkIFuNKcPfUHoZ-2SMw-13" value="&lt;b&gt;副作用を&lt;br&gt;減らす&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1613.46" y="750" width="90" height="40" as="geometry" />
+          <mxGeometry x="1606.73" y="830" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5kkIFuNKcPfUHoZ-2SMw-14" value="物理的に&lt;br&gt;早く動く" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1833.07" y="695.01" width="66.93" height="40" as="geometry" />
+          <mxGeometry x="1812.03" y="695.02" width="66.93" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
