@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-24T01:21:23.942Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="AKagIBDZk5VpvQIur2RS" version="22.1.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-24T01:21:56.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Stz3-Azq6UadfSe3yvo2" version="22.1.3" type="github" pages="5">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -602,20 +602,17 @@
         <mxCell id="eJ56SjgN_XszStvw7c-x-21" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="eJ56SjgN_XszStvw7c-x-1">
           <mxGeometry x="40" y="439" width="20" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="eJ56SjgN_XszStvw7c-x-22" value="Frontend&#xa;CICD&#xa;IaC" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="eJ56SjgN_XszStvw7c-x-1">
-          <mxGeometry x="630" y="420" width="70" height="68" as="geometry" />
+        <mxCell id="eJ56SjgN_XszStvw7c-x-22" value="エンジニア&#xa;デザイン&#xa;心理学&#xa;確立" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="eJ56SjgN_XszStvw7c-x-1">
+          <mxGeometry x="360" y="121" width="70" height="149" as="geometry" />
         </mxCell>
         <mxCell id="eJ56SjgN_XszStvw7c-x-23" value="休日" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="eJ56SjgN_XszStvw7c-x-1">
           <mxGeometry x="280" y="120" width="70" height="390" as="geometry" />
-        </mxCell>
-        <mxCell id="eJ56SjgN_XszStvw7c-x-27" value="10x&#xa;プログラマ&#xa;策定" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="eJ56SjgN_XszStvw7c-x-1">
-          <mxGeometry x="360" y="120" width="70" height="149" as="geometry" />
         </mxCell>
         <mxCell id="eJ56SjgN_XszStvw7c-x-28" value="変化の時" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="eJ56SjgN_XszStvw7c-x-1">
           <mxGeometry x="200" y="121" width="70" height="389" as="geometry" />
         </mxCell>
         <mxCell id="P5zoSFP4fMnyx87rLeu--0" value="シンメトリ&#xa;リリース" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="eJ56SjgN_XszStvw7c-x-1">
-          <mxGeometry x="439.5" y="120" width="71" height="70" as="geometry" />
+          <mxGeometry x="360" y="280" width="71" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
