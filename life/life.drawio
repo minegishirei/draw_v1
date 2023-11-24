@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-24T03:17:36.963Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7-wccCdK2tAAlS_M87e2" version="22.1.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-24T03:17:48.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="TqfGPQzKM44uwXH0tZs_" version="22.1.3" type="github" pages="5">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -516,26 +516,29 @@
         <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-40" value="&lt;h1&gt;エンジニア心理学好調☀️&lt;/h1&gt;&lt;p&gt;今後の方向性「エンジニア心理学」が定まった。エンジニアとしてのブランド価値向上に繋げる。&lt;/p&gt;&lt;p&gt;また、人生設計レポートをつけはじめてから6ヶ月過ぎた。行動の一貫性が生まれ、&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="741" y="588" width="311" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="k9e4bQI_iiWMmDLtN9nP-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="k9e4bQI_iiWMmDLtN9nP-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="980" y="750" as="sourcePoint" />
             <mxPoint x="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k9e4bQI_iiWMmDLtN9nP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9e4bQI_iiWMmDLtN9nP-2" target="k9e4bQI_iiWMmDLtN9nP-3">
+        <mxCell id="k9e4bQI_iiWMmDLtN9nP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k9e4bQI_iiWMmDLtN9nP-2" target="k9e4bQI_iiWMmDLtN9nP-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k9e4bQI_iiWMmDLtN9nP-2" value="クラウドインフラ&#xa;Docker&#xa;Linux中心" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="k9e4bQI_iiWMmDLtN9nP-2" value="クラウドインフラ&#xa;Docker&#xa;Linux中心" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="819" y="30" width="150" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="k9e4bQI_iiWMmDLtN9nP-3" value="フロントエンド&#xa;UIUX&#xa;アジャイル中心" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="k9e4bQI_iiWMmDLtN9nP-3" value="フロントエンド&#xa;UIUX&#xa;アジャイル中心" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="981" y="30" width="150" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="k9e4bQI_iiWMmDLtN9nP-5" value="シンメトリ&#xa;リリース" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="k9e4bQI_iiWMmDLtN9nP-5" value="シンメトリ&#xa;リリース" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="981" y="348" width="71" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="k9e4bQI_iiWMmDLtN9nP-6" value="エンジニア&#xa;デザイン&#xa;心理学&#xa;&#xa;確立" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="k9e4bQI_iiWMmDLtN9nP-6" value="エンジニア&#xa;デザイン&#xa;心理学&#xa;&#xa;確立" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="981" y="188" width="69" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="PUZJcavq6Pibf0_4q0IE-1" value="シンメトリ&#xa;リリース" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="981" y="428" width="71" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
