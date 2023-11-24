@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-24T01:07:03.835Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jGmQ6HvLMWLBxMKV-dPq" version="22.1.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-24T01:07:38.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="hausih2sTbfehSuVyPEC" version="22.1.3" type="github" pages="5">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -521,6 +521,9 @@
             <mxPoint x="1000" y="770" as="sourcePoint" />
             <mxPoint x="1000" y="20" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="k9e4bQI_iiWMmDLtN9nP-2" value="インフラ&#xa;中心" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="921" y="12" width="69" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
