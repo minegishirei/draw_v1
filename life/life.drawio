@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-25T15:18:46.638Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="FRPQETmeKcMWuL18wqCv" version="22.1.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-11-25T15:20:26.434Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="SUcGsaL-f9kqOsfLI9vQ" version="22.1.4" type="github" pages="6">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -399,7 +399,7 @@
         <mxCell id="RFY8bm6PSjcoQbaI1LnR-1" value="personal" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="gaxl3ibwrvkVsZJN8OQr-15" vertex="1">
           <mxGeometry x="88.37" y="35" width="69.07" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gaxl3ibwrvkVsZJN8OQr-16" value="自らの知識と&lt;br&gt;照らし合わせる段階" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="gaxl3ibwrvkVsZJN8OQr-15" vertex="1">
+        <mxCell id="gaxl3ibwrvkVsZJN8OQr-16" value="観察した結果と&lt;br&gt;一時的な心理状態の辞書&lt;br&gt;相手の永続的な心理特性の辞書を照らし合わせる" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="gaxl3ibwrvkVsZJN8OQr-15" vertex="1">
           <mxGeometry x="13.089999999999986" y="115" width="143.83" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gaxl3ibwrvkVsZJN8OQr-17" value="読み取り専用知識" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
