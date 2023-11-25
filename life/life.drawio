@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-25T15:17:50.249Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Mm5bdT_GyxBU34DX7axq" version="22.1.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-11-25T15:18:30.527Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="DfVwJrshypCZ3_HkIEJX" version="22.1.4" type="github" pages="6">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -375,14 +375,14 @@
         <mxCell id="gaxl3ibwrvkVsZJN8OQr-12" value="耐える" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="160" width="170" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="KZxmFSr8SvwJowioekBb-25" value="観察" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="gaxl3ibwrvkVsZJN8OQr-12" vertex="1">
-          <mxGeometry x="10" y="30" width="72.34" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="KZxmFSr8SvwJowioekBb-20" value="痛みへの&#xa;耐性" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="gaxl3ibwrvkVsZJN8OQr-12" vertex="1">
-          <mxGeometry x="86.73000000000002" y="30" width="72.34" height="70" as="geometry" />
+          <mxGeometry x="10.000000000000014" y="30" width="72.34" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gaxl3ibwrvkVsZJN8OQr-13" value="ひたすら耐える段階&lt;br&gt;しかし、ただ耐えるだけではなく「相手を観察すること」" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="gaxl3ibwrvkVsZJN8OQr-12" vertex="1">
+        <mxCell id="gaxl3ibwrvkVsZJN8OQr-13" value="ひたすら耐える段階。&lt;br&gt;しかし、ただひたすら&lt;br&gt;耐えるだけではなく&lt;br&gt;「相手を観察すること」" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="gaxl3ibwrvkVsZJN8OQr-12" vertex="1">
           <mxGeometry x="16.17" y="110" width="143.83" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KZxmFSr8SvwJowioekBb-25" value="観察" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="gaxl3ibwrvkVsZJN8OQr-12" vertex="1">
+          <mxGeometry x="87.65999999999997" y="30" width="72.34" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gaxl3ibwrvkVsZJN8OQr-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gaxl3ibwrvkVsZJN8OQr-15" target="KZxmFSr8SvwJowioekBb-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
