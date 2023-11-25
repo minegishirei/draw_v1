@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-25T12:53:44.322Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="X3qCt4MVjNJmYTL957o2" version="22.1.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-11-25T12:54:21.384Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="-fhMQ7F_HyeFNBHiu1vh" version="22.1.4" type="github" pages="6">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="765" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -420,6 +420,9 @@
         </mxCell>
         <mxCell id="gaxl3ibwrvkVsZJN8OQr-13" value="ひたすら耐える段階&lt;br&gt;しかし、ただ耐えるだけではなく「相手を観察すること」" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gaxl3ibwrvkVsZJN8OQr-12">
           <mxGeometry x="16.17" y="110" width="143.83" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gaxl3ibwrvkVsZJN8OQr-15" value="読み取り専用知識" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="385" width="170" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
