@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-25T12:51:57.674Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="b6h9Kpylwz8nDaNuNlXg" version="22.1.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-11-25T12:52:51.631Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="_XJxQwQKfJJU31emzuQR" version="22.1.4" type="github" pages="6">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="765" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -411,8 +411,8 @@
         <mxCell id="KZxmFSr8SvwJowioekBb-20" value="タフネス&#xa;全振り" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="gaxl3ibwrvkVsZJN8OQr-12">
           <mxGeometry x="86.73000000000002" y="30" width="72.34" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gaxl3ibwrvkVsZJN8OQr-13" value="ひたすら耐える段階&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gaxl3ibwrvkVsZJN8OQr-12">
-          <mxGeometry x="16.17" y="110" width="143.83" height="50" as="geometry" />
+        <mxCell id="gaxl3ibwrvkVsZJN8OQr-13" value="ひたすら耐える段階&lt;br&gt;しかし、ただ耐えるのではなく「相手を観察すること」" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gaxl3ibwrvkVsZJN8OQr-12">
+          <mxGeometry x="16.17" y="110" width="143.83" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
