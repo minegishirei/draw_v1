@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-25T12:40:52.048Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="h5fsYt4XOndHQjcqap98" version="22.1.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-11-25T12:42:10.670Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ONw4K2DJ5DOCSE18w4Hv" version="22.1.4" type="github" pages="6">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="765" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -357,47 +357,41 @@
         <mxCell id="KZxmFSr8SvwJowioekBb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KZxmFSr8SvwJowioekBb-3" target="KZxmFSr8SvwJowioekBb-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KZxmFSr8SvwJowioekBb-3" value="武器&#xa;構築" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1211.24" y="364" width="72.34" height="70" as="geometry" />
+        <mxCell id="RFY8bm6PSjcoQbaI1LnR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KZxmFSr8SvwJowioekBb-3" target="KZxmFSr8SvwJowioekBb-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KZxmFSr8SvwJowioekBb-4" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#66FF66;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="1">
-          <mxGeometry x="1211.24" y="320" width="19.77" height="21" as="geometry" />
+        <mxCell id="KZxmFSr8SvwJowioekBb-3" value="武器&#xa;構築" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="390" width="72.34" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KZxmFSr8SvwJowioekBb-9" value="UIUX" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1372.07" y="320" width="70" height="70" as="geometry" />
+          <mxGeometry x="1260" y="350" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KZxmFSr8SvwJowioekBb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KZxmFSr8SvwJowioekBb-11" target="KZxmFSr8SvwJowioekBb-3">
+        <mxCell id="RFY8bm6PSjcoQbaI1LnR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KZxmFSr8SvwJowioekBb-11" target="KZxmFSr8SvwJowioekBb-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KZxmFSr8SvwJowioekBb-11" value="read" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1053.93" y="320" width="69.07" height="70" as="geometry" />
+          <mxGeometry x="1039.07" y="350" width="69.07" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KZxmFSr8SvwJowioekBb-12" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#66FF66;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="1">
-          <mxGeometry x="1053.93" y="320.13" width="20" height="21" as="geometry" />
+          <mxGeometry x="1170" y="230" width="20" height="21" as="geometry" />
         </mxCell>
         <mxCell id="KZxmFSr8SvwJowioekBb-18" value="あらゆる人間への適応" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1092.9999999999995" y="90" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KZxmFSr8SvwJowioekBb-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KZxmFSr8SvwJowioekBb-20" target="KZxmFSr8SvwJowioekBb-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="KZxmFSr8SvwJowioekBb-20" value="タフネス&#xa;全振り" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="993" y="200" width="72.34" height="70" as="geometry" />
+          <mxGeometry x="880" y="200" width="72.34" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KZxmFSr8SvwJowioekBb-21" value="copy&#xa;writing" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1372.07" y="240" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="RFY8bm6PSjcoQbaI1LnR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KZxmFSr8SvwJowioekBb-25" target="KZxmFSr8SvwJowioekBb-11">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="1260" y="430" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KZxmFSr8SvwJowioekBb-25" value="観察" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="200" width="72.34" height="70" as="geometry" />
+          <mxGeometry x="960" y="200" width="72.34" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RFY8bm6PSjcoQbaI1LnR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RFY8bm6PSjcoQbaI1LnR-1" target="KZxmFSr8SvwJowioekBb-3">
+        <mxCell id="RFY8bm6PSjcoQbaI1LnR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RFY8bm6PSjcoQbaI1LnR-1" target="KZxmFSr8SvwJowioekBb-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RFY8bm6PSjcoQbaI1LnR-1" value="personal" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1053.93" y="410" width="69.07" height="70" as="geometry" />
+          <mxGeometry x="1039.07" y="430" width="69.07" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
