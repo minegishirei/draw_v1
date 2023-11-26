@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T08:20:07.837Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="nrhNvgwRFqy2vn93zl6m" version="22.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-26T08:20:14.071Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="O02VQmMroPWzSJtvXmSN" version="22.1.4" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1327" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WNnYi6Bnvo4G8vlvPREg-1793" value="Google社内のカフェテリアで、ちょうど目線の高さにある商品を&lt;br&gt;炭酸飲料から水に変えたところ、水を選ぶ方が47%も増加した&lt;br&gt;&lt;br&gt;Kuang 2012" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="602.5" width="150" height="148" as="geometry" />
+          <mxGeometry x="40" y="599.5" width="150" height="148" as="geometry" />
         </mxCell>
         <mxCell id="WNnYi6Bnvo4G8vlvPREg-1796" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WNnYi6Bnvo4G8vlvPREg-1795" target="1756">
           <mxGeometry relative="1" as="geometry" />
