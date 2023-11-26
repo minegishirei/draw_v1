@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T23:38:39.658Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="AQAtrFidKQq4QpzZ8Ht_" version="22.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-26T23:39:15.475Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="YHiBUkuf2eLjUQLdYvMQ" version="22.1.4" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1194" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -9,30 +9,6 @@
         </mxCell>
         <mxCell id="jV3CvrR5d3xSz-VQ1t2--1779" value="&lt;h1&gt;Treasure Map&lt;/h1&gt;&lt;p&gt;ここは心理学の道具箱。&lt;br&gt;状況に合わせたmapを複製して&lt;br&gt;無限の方略を作ろう&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="190" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="WNnYi6Bnvo4G8vlvPREg-1786" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WNnYi6Bnvo4G8vlvPREg-1780" target="WNnYi6Bnvo4G8vlvPREg-1781" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WNnYi6Bnvo4G8vlvPREg-1780" value="「生存率が上がる」&lt;br&gt;変革" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="90" y="450" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WNnYi6Bnvo4G8vlvPREg-1787" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WNnYi6Bnvo4G8vlvPREg-1781" target="WNnYi6Bnvo4G8vlvPREg-1780" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WNnYi6Bnvo4G8vlvPREg-1781" value="現状維持" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="290" y="450" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gITx9z_PQKIZZdAhaTfi-1764" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WNnYi6Bnvo4G8vlvPREg-1782" target="WNnYi6Bnvo4G8vlvPREg-1780">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WNnYi6Bnvo4G8vlvPREg-1782" value="癌の外科手術の効果について死亡率の代わりに生存率が示された場合、&lt;br&gt;医師が手術を選択する割合は34%増加した&lt;br&gt;McNeil 1982" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="90" y="271" width="150" height="148" as="geometry" />
-        </mxCell>
-        <mxCell id="gITx9z_PQKIZZdAhaTfi-1763" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WNnYi6Bnvo4G8vlvPREg-1785" target="WNnYi6Bnvo4G8vlvPREg-1781">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WNnYi6Bnvo4G8vlvPREg-1785" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="290" y="270" width="150" height="149.5" as="geometry" />
         </mxCell>
         <mxCell id="WNnYi6Bnvo4G8vlvPREg-1789" value="デフォルト変更" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="710" y="520.5" width="150" height="60" as="geometry" />
@@ -64,11 +40,38 @@
         <mxCell id="WNnYi6Bnvo4G8vlvPREg-1802" value="Advertising" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="990" y="210" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gITx9z_PQKIZZdAhaTfi-1757" value="言語" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="235" y="450" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="gITx9z_PQKIZZdAhaTfi-1759" value="好感度向上" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="470" y="40" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gITx9z_PQKIZZdAhaTfi-1765" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="520.5" width="370" height="279.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WNnYi6Bnvo4G8vlvPREg-1780" value="「生存率が上がる」&lt;br&gt;変革" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="gITx9z_PQKIZZdAhaTfi-1765" vertex="1">
+          <mxGeometry x="10" y="213" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WNnYi6Bnvo4G8vlvPREg-1787" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="gITx9z_PQKIZZdAhaTfi-1765" source="WNnYi6Bnvo4G8vlvPREg-1781" target="WNnYi6Bnvo4G8vlvPREg-1780" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WNnYi6Bnvo4G8vlvPREg-1781" value="現状維持" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="gITx9z_PQKIZZdAhaTfi-1765" vertex="1">
+          <mxGeometry x="210" y="213" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WNnYi6Bnvo4G8vlvPREg-1786" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="gITx9z_PQKIZZdAhaTfi-1765" source="WNnYi6Bnvo4G8vlvPREg-1780" target="WNnYi6Bnvo4G8vlvPREg-1781" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gITx9z_PQKIZZdAhaTfi-1764" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gITx9z_PQKIZZdAhaTfi-1765" source="WNnYi6Bnvo4G8vlvPREg-1782" target="WNnYi6Bnvo4G8vlvPREg-1780">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WNnYi6Bnvo4G8vlvPREg-1782" value="癌の外科手術の効果について死亡率の代わりに生存率が示された場合、&lt;br&gt;医師が手術を選択する割合は34%増加した&lt;br&gt;McNeil 1982" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="gITx9z_PQKIZZdAhaTfi-1765" vertex="1">
+          <mxGeometry x="10" y="34" width="150" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="gITx9z_PQKIZZdAhaTfi-1763" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gITx9z_PQKIZZdAhaTfi-1765" source="WNnYi6Bnvo4G8vlvPREg-1785" target="WNnYi6Bnvo4G8vlvPREg-1781">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WNnYi6Bnvo4G8vlvPREg-1785" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="gITx9z_PQKIZZdAhaTfi-1765" vertex="1">
+          <mxGeometry x="210" y="33" width="150" height="149.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gITx9z_PQKIZZdAhaTfi-1757" value="言語" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gITx9z_PQKIZZdAhaTfi-1765">
+          <mxGeometry x="155" y="213" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
