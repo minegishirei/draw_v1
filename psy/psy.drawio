@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T08:13:20.830Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="UbpPkAXGOKLjAZuF9Vyj" version="22.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-26T08:14:08.680Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="uTQ4qLDIIYRSfKSIsJgW" version="22.1.4" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1327" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -62,9 +62,6 @@
         </mxCell>
         <mxCell id="1763" value="Analysis" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="1441" y="666.5" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1769" value="Segmentation" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="295" y="110.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1771" value="Communication" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="1941" y="401.4999999999999" width="150" height="60" as="geometry" />
