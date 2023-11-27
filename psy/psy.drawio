@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T04:11:26.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="xSan3ZdRYIUOTcd-jomJ" version="22.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-27T04:12:00.875Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tL-ws9E63jiD5CnaSFqN" version="22.1.4" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1674" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -64,18 +64,6 @@
         <mxCell id="gITx9z_PQKIZZdAhaTfi-1757" value="言語" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="gITx9z_PQKIZZdAhaTfi-1765" vertex="1">
           <mxGeometry x="160" y="213" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gITx9z_PQKIZZdAhaTfi-1766" value="デフォルト変更(デザイン)" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="499.5" width="170" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="WNnYi6Bnvo4G8vlvPREg-1789" value="デフォルト変更" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="gITx9z_PQKIZZdAhaTfi-1766" vertex="1">
-          <mxGeometry x="10" y="207" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gITx9z_PQKIZZdAhaTfi-1767" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="gITx9z_PQKIZZdAhaTfi-1766" source="WNnYi6Bnvo4G8vlvPREg-1793" target="WNnYi6Bnvo4G8vlvPREg-1789" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WNnYi6Bnvo4G8vlvPREg-1793" value="Google社内のカフェテリアで、ちょうど目線の高さにある商品を&lt;br&gt;炭酸飲料から水に変えたところ、水を選ぶ方が47%も増加した&lt;br&gt;&lt;br&gt;Kuang 2012" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="gITx9z_PQKIZZdAhaTfi-1766" vertex="1">
-          <mxGeometry x="10" y="32" width="150" height="148" as="geometry" />
-        </mxCell>
         <mxCell id="YfliR0bhEtSgLjte0KYL-1761" value="あいまいさ回避(言語)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="500" width="380" height="279.5" as="geometry" />
         </mxCell>
@@ -120,6 +108,18 @@
         </mxCell>
         <mxCell id="6f1NRzMg2CFPpkSIdht1-1758" value="任意コードの実行" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#B266FF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="640" y="40" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6f1NRzMg2CFPpkSIdht1-1759" value="アンカリング(数字)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="499.5" width="170" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="6f1NRzMg2CFPpkSIdht1-1760" value="デフォルト変更" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#B266FF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="6f1NRzMg2CFPpkSIdht1-1759">
+          <mxGeometry x="10" y="207" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6f1NRzMg2CFPpkSIdht1-1761" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="6f1NRzMg2CFPpkSIdht1-1759" source="6f1NRzMg2CFPpkSIdht1-1762" target="6f1NRzMg2CFPpkSIdht1-1760">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6f1NRzMg2CFPpkSIdht1-1762" value="Google社内のカフェテリアで、ちょうど目線の高さにある商品を&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;炭酸飲料から水に変えたところ、水を選ぶ方が47%も増加した&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Kuang 2012" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#CC99FF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="6f1NRzMg2CFPpkSIdht1-1759">
+          <mxGeometry x="10" y="32" width="150" height="148" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
