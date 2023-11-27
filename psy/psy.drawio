@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T08:37:27.173Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="q_V-pmsw9PQrHhVfziTq" version="22.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-27T08:40:02.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="XcM-gPxY_F8eMKnjlS-K" version="22.1.4" type="github" pages="3">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1674" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -266,8 +266,11 @@
         <mxCell id="9o02hD-QlqM3LCHDQ4z4-10" value="言語" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9o02hD-QlqM3LCHDQ4z4-1">
           <mxGeometry x="160" y="213" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="H1s2IMJ_Hr150T1ald7i-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="L4Bvw4ID8PA531LlE-iW-1" target="W7Z_hGUUQag5J88m26aB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="L4Bvw4ID8PA531LlE-iW-1" value="威厳(ゆっくりしゃべる)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="320" width="170" height="280" as="geometry" />
+          <mxGeometry x="470" y="210" width="170" height="280" as="geometry" />
         </mxCell>
         <mxCell id="L4Bvw4ID8PA531LlE-iW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="L4Bvw4ID8PA531LlE-iW-1" source="L4Bvw4ID8PA531LlE-iW-3" target="L4Bvw4ID8PA531LlE-iW-4">
           <mxGeometry relative="1" as="geometry" />
@@ -279,13 +282,19 @@
           <mxGeometry x="10" y="214.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W7Z_hGUUQag5J88m26aB-2" value="ジョブチェキでできたことは&lt;br&gt;DODAでもできる&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="50" y="386" width="150" height="148" as="geometry" />
+          <mxGeometry x="50" y="501.5" width="150" height="148" as="geometry" />
         </mxCell>
-        <mxCell id="H1s2IMJ_Hr150T1ald7i-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9o02hD-QlqM3LCHDQ4z4-2" target="W7Z_hGUUQag5J88m26aB-2">
+        <mxCell id="H1s2IMJ_Hr150T1ald7i-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H1s2IMJ_Hr150T1ald7i-2" target="W7Z_hGUUQag5J88m26aB-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H1s2IMJ_Hr150T1ald7i-2" value="開発標準化を行わない場合&lt;br&gt;ジョブチェキでできたことが不明瞭になり、&lt;br&gt;次出来る確率が下がってしまう" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="262" y="386" width="150" height="149.5" as="geometry" />
+          <mxGeometry x="290" y="500" width="150" height="149.5" as="geometry" />
+        </mxCell>
+        <mxCell id="H1s2IMJ_Hr150T1ald7i-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9o02hD-QlqM3LCHDQ4z4-4" target="H1s2IMJ_Hr150T1ald7i-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1s2IMJ_Hr150T1ald7i-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9o02hD-QlqM3LCHDQ4z4-2" target="W7Z_hGUUQag5J88m26aB-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
