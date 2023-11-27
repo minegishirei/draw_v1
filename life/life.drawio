@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-25T15:29:48.787Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="rNGbK3HdMaFK0YwnwKqD" version="22.1.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-11-27T02:44:23.081Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="sE9rnjf6Z2LtHEmjjv7z" version="22.1.4" type="github" pages="7">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
-    <mxGraphModel dx="367" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="847" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -429,8 +429,85 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram name="20231127" id="0EfPGWB60qsmNBUJQD19">
+    <mxGraphModel dx="1674" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="aZRZJ2RWVRSIMsO6fhyW-0" />
+        <mxCell id="aZRZJ2RWVRSIMsO6fhyW-1" parent="aZRZJ2RWVRSIMsO6fhyW-0" />
+        <mxCell id="aZRZJ2RWVRSIMsO6fhyW-2" value="火" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
+          <mxGeometry x="99" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aZRZJ2RWVRSIMsO6fhyW-3" value="水" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
+          <mxGeometry x="179" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aZRZJ2RWVRSIMsO6fhyW-4" value="木" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
+          <mxGeometry x="259" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aZRZJ2RWVRSIMsO6fhyW-5" value="金" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
+          <mxGeometry x="339" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aZRZJ2RWVRSIMsO6fhyW-6" value="土" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
+          <mxGeometry x="419" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aZRZJ2RWVRSIMsO6fhyW-7" value="日" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
+          <mxGeometry x="499" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aZRZJ2RWVRSIMsO6fhyW-8" value="月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
+          <mxGeometry x="19" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aZRZJ2RWVRSIMsO6fhyW-9" value="&lt;h1&gt;テーマ：k8s pod管理/機密情報&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
+          <mxGeometry x="40" y="40" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aZRZJ2RWVRSIMsO6fhyW-10" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" edge="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="41" y="110" as="sourcePoint" />
+            <mxPoint x="600" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aZRZJ2RWVRSIMsO6fhyW-11" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;・現在のラベル&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;1ニトリ&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;・理想のラベル&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;エンジニア心理学&lt;br&gt;&lt;br&gt;・former2により、過去半年のIaCに関する活動が無駄になった。&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・これを機に&lt;br&gt;　インフラ中心のエンジニアからUIUX、コンサルティング中心のエンジニアへ段階的に移行する&lt;br&gt;　エンジニア心理学を確立する&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
+          <mxGeometry x="600" y="40" width="190" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="aZRZJ2RWVRSIMsO6fhyW-12" value="juchu&#xa;CL&#xa;IAM ECS" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
+          <mxGeometry x="120" y="121" width="70" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="aZRZJ2RWVRSIMsO6fhyW-13" value="エンジニア&#xa;デザイン&#xa;心理学&#xa;確立" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
+          <mxGeometry x="360" y="121" width="70" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="aZRZJ2RWVRSIMsO6fhyW-14" value="休日" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
+          <mxGeometry x="280" y="120" width="70" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="aZRZJ2RWVRSIMsO6fhyW-15" value="変化の時" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
+          <mxGeometry x="200" y="121" width="70" height="389" as="geometry" />
+        </mxCell>
+        <mxCell id="aZRZJ2RWVRSIMsO6fhyW-16" value="シンメトリ&#xa;リリース" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
+          <mxGeometry x="360" y="280" width="71" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aZRZJ2RWVRSIMsO6fhyW-17" value="juchu&#xa;CL&#xa;IAM ECS" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
+          <mxGeometry x="40" y="121" width="70" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="aZRZJ2RWVRSIMsO6fhyW-18" value="Haskell&#xa;関数型" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
+          <mxGeometry x="40" y="280" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aZRZJ2RWVRSIMsO6fhyW-19" value="Haskell&#xa;install&#xa;on Docker" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
+          <mxGeometry x="40" y="360" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aZRZJ2RWVRSIMsO6fhyW-20" value="Haskell&#xa;型" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
+          <mxGeometry x="40" y="440" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aZRZJ2RWVRSIMsO6fhyW-21" value="Haskell&#xa;関数型" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
+          <mxGeometry x="120" y="280" width="70" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="aZRZJ2RWVRSIMsO6fhyW-22" value="タブは&#xa;ハンバーガー&#xa;メニューに&#xa;勝る" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
+          <mxGeometry x="359" y="360" width="71" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aZRZJ2RWVRSIMsO6fhyW-23" value="ゆっくり&#xa;しゃべる" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
+          <mxGeometry x="360" y="520" width="71" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram name="20231120" id="CyPbwXwRTL5OJ9NgHLRX">
-    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="eJ56SjgN_XszStvw7c-x-0" />
         <mxCell id="eJ56SjgN_XszStvw7c-x-1" parent="eJ56SjgN_XszStvw7c-x-0" />
@@ -500,14 +577,14 @@
         <mxCell id="2sqPwz6-v5eVozwy7E15-0" value="タブは&#xa;ハンバーガー&#xa;メニューに&#xa;勝る" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="eJ56SjgN_XszStvw7c-x-1" vertex="1">
           <mxGeometry x="359" y="360" width="71" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="RQ37Vm12lPPCO04S_5oB-0" value="ゆっくり&#xa;しゃべる" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="eJ56SjgN_XszStvw7c-x-1">
+        <mxCell id="RQ37Vm12lPPCO04S_5oB-0" value="ゆっくり&#xa;しゃべる" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="eJ56SjgN_XszStvw7c-x-1" vertex="1">
           <mxGeometry x="360" y="520" width="71" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="89jqG4Q-m6xbOe8nKJGz" name="20231113">
-    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
