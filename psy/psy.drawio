@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T06:56:59.509Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="fm9PofWAZHzDipz-1d1s" version="22.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-27T06:58:25.743Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="aBXCsBufyh9_VAmh7_wk" version="22.1.4" type="github" pages="3">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1674" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -224,6 +224,72 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nGzuGLf4bKz5NpUUN-bw-1" value="IaCを進めたい" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#CCCCCC;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="190" y="100" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a6qHnfjhW4vk86liF67y-1" value="悔いなき選択(言語)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="260" width="380" height="279.5" as="geometry" />
+        </mxCell>
+        <mxCell id="a6qHnfjhW4vk86liF67y-2" value="「生存率」&lt;br&gt;変革" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="a6qHnfjhW4vk86liF67y-1">
+          <mxGeometry x="10" y="213" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a6qHnfjhW4vk86liF67y-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="a6qHnfjhW4vk86liF67y-1" source="a6qHnfjhW4vk86liF67y-4" target="a6qHnfjhW4vk86liF67y-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a6qHnfjhW4vk86liF67y-4" value="「死亡率」&lt;br&gt;現状維持" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="a6qHnfjhW4vk86liF67y-1">
+          <mxGeometry x="219" y="213" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a6qHnfjhW4vk86liF67y-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="a6qHnfjhW4vk86liF67y-1" source="a6qHnfjhW4vk86liF67y-2" target="a6qHnfjhW4vk86liF67y-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a6qHnfjhW4vk86liF67y-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="a6qHnfjhW4vk86liF67y-1" source="a6qHnfjhW4vk86liF67y-7" target="a6qHnfjhW4vk86liF67y-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a6qHnfjhW4vk86liF67y-7" value="癌の外科手術の効果について死亡率の代わりに生存率が示された場合、&lt;br&gt;医師が手術を選択する割合は34%増加した&lt;br&gt;McNeil 1982" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="a6qHnfjhW4vk86liF67y-1">
+          <mxGeometry x="10" y="34" width="150" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="a6qHnfjhW4vk86liF67y-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="a6qHnfjhW4vk86liF67y-1" source="a6qHnfjhW4vk86liF67y-9" target="a6qHnfjhW4vk86liF67y-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a6qHnfjhW4vk86liF67y-9" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="a6qHnfjhW4vk86liF67y-1">
+          <mxGeometry x="219" y="33" width="150" height="149.5" as="geometry" />
+        </mxCell>
+        <mxCell id="a6qHnfjhW4vk86liF67y-10" value="言語" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="a6qHnfjhW4vk86liF67y-1">
+          <mxGeometry x="160" y="213" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9o02hD-QlqM3LCHDQ4z4-1" value="あいまいさ回避(言語)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="447" y="260" width="380" height="279.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9o02hD-QlqM3LCHDQ4z4-2" value="「確定演出」&lt;br&gt;「100%」&lt;br&gt;変革" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="9o02hD-QlqM3LCHDQ4z4-1">
+          <mxGeometry x="10" y="213" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9o02hD-QlqM3LCHDQ4z4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9o02hD-QlqM3LCHDQ4z4-1" source="9o02hD-QlqM3LCHDQ4z4-4" target="9o02hD-QlqM3LCHDQ4z4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9o02hD-QlqM3LCHDQ4z4-4" value="「不明です」&lt;br&gt;「30%ぐらいです」&lt;br&gt;現状維持" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="9o02hD-QlqM3LCHDQ4z4-1">
+          <mxGeometry x="219" y="213" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9o02hD-QlqM3LCHDQ4z4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9o02hD-QlqM3LCHDQ4z4-1" source="9o02hD-QlqM3LCHDQ4z4-2" target="9o02hD-QlqM3LCHDQ4z4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9o02hD-QlqM3LCHDQ4z4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9o02hD-QlqM3LCHDQ4z4-1" source="9o02hD-QlqM3LCHDQ4z4-7" target="9o02hD-QlqM3LCHDQ4z4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9o02hD-QlqM3LCHDQ4z4-7" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="9o02hD-QlqM3LCHDQ4z4-1">
+          <mxGeometry x="10" y="34" width="150" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="9o02hD-QlqM3LCHDQ4z4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="9o02hD-QlqM3LCHDQ4z4-1" source="9o02hD-QlqM3LCHDQ4z4-9" target="9o02hD-QlqM3LCHDQ4z4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9o02hD-QlqM3LCHDQ4z4-9" value="結果がどうなるか&lt;br&gt;見込みがはっきりしない行動を本能的に心地悪く感じること" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="9o02hD-QlqM3LCHDQ4z4-1">
+          <mxGeometry x="219" y="33" width="150" height="149.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9o02hD-QlqM3LCHDQ4z4-10" value="言語" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9o02hD-QlqM3LCHDQ4z4-1">
+          <mxGeometry x="160" y="213" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9o02hD-QlqM3LCHDQ4z4-11" value="レビュアーを&lt;br&gt;引き受けてもらう" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#CCCCCC;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="100" width="150" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
