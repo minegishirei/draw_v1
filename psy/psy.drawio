@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T08:26:30.287Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="pqYkcGc8iHZRrMTK9KQd" version="22.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-27T08:26:46.336Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NZwSHraACClh1EN75OVX" version="22.1.4" type="github" pages="3">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1674" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -145,7 +145,7 @@
         <mxCell id="CWfgOFFLSN2SLDQis5Dd-4" value="&lt;div&gt;- 「沈黙」を選択 : 誠実性が上がる&lt;/div&gt;&lt;div&gt;- 「多弁」を選択 : 誠実性が下がる&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#FCAD90;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="CWfgOFFLSN2SLDQis5Dd-1">
           <mxGeometry x="10" y="32" width="150" height="148" as="geometry" />
         </mxCell>
-        <mxCell id="CWfgOFFLSN2SLDQis5Dd-5" value="誠実性/威厳" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="CWfgOFFLSN2SLDQis5Dd-1">
+        <mxCell id="CWfgOFFLSN2SLDQis5Dd-5" value="＜ゆっくりしゃべる＞&lt;br&gt;誠実性/威厳" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="CWfgOFFLSN2SLDQis5Dd-1">
           <mxGeometry x="10" y="214.5" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
