@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T02:44:23.081Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="sE9rnjf6Z2LtHEmjjv7z" version="22.1.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-11-27T02:44:38.388Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="6y_N5vzmlnoFmI3J3eio" version="22.1.4" type="github" pages="7">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -467,14 +467,11 @@
         <mxCell id="aZRZJ2RWVRSIMsO6fhyW-11" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;・現在のラベル&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;1ニトリ&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;・理想のラベル&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;エンジニア心理学&lt;br&gt;&lt;br&gt;・former2により、過去半年のIaCに関する活動が無駄になった。&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・これを機に&lt;br&gt;　インフラ中心のエンジニアからUIUX、コンサルティング中心のエンジニアへ段階的に移行する&lt;br&gt;　エンジニア心理学を確立する&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
           <mxGeometry x="600" y="40" width="190" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="aZRZJ2RWVRSIMsO6fhyW-12" value="juchu&#xa;CL&#xa;IAM ECS" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
-          <mxGeometry x="120" y="121" width="70" height="149" as="geometry" />
-        </mxCell>
         <mxCell id="aZRZJ2RWVRSIMsO6fhyW-13" value="エンジニア&#xa;デザイン&#xa;心理学&#xa;確立" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
           <mxGeometry x="360" y="121" width="70" height="149" as="geometry" />
         </mxCell>
         <mxCell id="aZRZJ2RWVRSIMsO6fhyW-14" value="休日" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
-          <mxGeometry x="280" y="120" width="70" height="390" as="geometry" />
+          <mxGeometry x="120" y="121" width="70" height="390" as="geometry" />
         </mxCell>
         <mxCell id="aZRZJ2RWVRSIMsO6fhyW-15" value="変化の時" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
           <mxGeometry x="200" y="121" width="70" height="389" as="geometry" />
@@ -493,9 +490,6 @@
         </mxCell>
         <mxCell id="aZRZJ2RWVRSIMsO6fhyW-20" value="Haskell&#xa;型" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
           <mxGeometry x="40" y="440" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="aZRZJ2RWVRSIMsO6fhyW-21" value="Haskell&#xa;関数型" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
-          <mxGeometry x="120" y="280" width="70" height="230" as="geometry" />
         </mxCell>
         <mxCell id="aZRZJ2RWVRSIMsO6fhyW-22" value="タブは&#xa;ハンバーガー&#xa;メニューに&#xa;勝る" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
           <mxGeometry x="359" y="360" width="71" height="150" as="geometry" />
