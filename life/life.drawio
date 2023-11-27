@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T08:22:19.895Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7fqBUPpNu7necOFs11nP" version="22.1.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-11-27T09:23:33.666Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="bmf0jnsJpTnVbkBdctj6" version="22.1.4" type="github" pages="7">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -331,7 +331,7 @@
         <mxCell id="k9e4bQI_iiWMmDLtN9nP-3" value="フロントエンド&#xa;UIUX&#xa;アジャイル中心" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="981" y="30" width="150" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="k9e4bQI_iiWMmDLtN9nP-5" value="デザイン心理学&#xa;コンポーネント" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="k9e4bQI_iiWMmDLtN9nP-5" value="Figma" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="980" y="508" width="399" height="70" as="geometry" />
         </mxCell>
         <mxCell id="k9e4bQI_iiWMmDLtN9nP-6" value="エンジニア&#xa;デザイン&#xa;心理学&#xa;&#xa;確立" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
@@ -342,9 +342,6 @@
         </mxCell>
         <mxCell id="MuBEwn-PE1bojSAegGeE-1" value="Haskell&#xa;入門" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="980" y="428" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="MuBEwn-PE1bojSAegGeE-3" value="OOUI" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="428" width="320" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
