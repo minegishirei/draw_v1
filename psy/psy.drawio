@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T08:40:02.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="XcM-gPxY_F8eMKnjlS-K" version="22.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-27T08:40:07.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Kf7u4jzMOo5mNOM3qaMh" version="22.1.4" type="github" pages="3">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1674" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -288,7 +288,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H1s2IMJ_Hr150T1ald7i-2" value="開発標準化を行わない場合&lt;br&gt;ジョブチェキでできたことが不明瞭になり、&lt;br&gt;次出来る確率が下がってしまう" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="290" y="500" width="150" height="149.5" as="geometry" />
+          <mxGeometry x="259" y="501.5" width="150" height="149.5" as="geometry" />
         </mxCell>
         <mxCell id="H1s2IMJ_Hr150T1ald7i-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9o02hD-QlqM3LCHDQ4z4-4" target="H1s2IMJ_Hr150T1ald7i-2">
           <mxGeometry relative="1" as="geometry" />
