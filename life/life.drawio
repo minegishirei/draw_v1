@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T09:38:13.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="hADlU3BeyCdrmfqpRckm" version="22.1.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-11-27T09:39:45.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="T-s204LAyS7OrBIfWaAp" version="22.1.4" type="github" pages="7">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -469,9 +469,6 @@
         </mxCell>
         <mxCell id="aZRZJ2RWVRSIMsO6fhyW-11" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;・former2は仕事の苦労する点の大部分を補うが、IaCの標準化でやらなければならないことはまだまだ多い。&lt;br&gt;IaCを放棄するのではなく、実務の中でやるべきことはやり遂げることとする。&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・しかし、それとは別に「エンジニア心理学」「デザイン心理学」を確立していきたい。&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="aZRZJ2RWVRSIMsO6fhyW-1" vertex="1">
           <mxGeometry x="600" y="40" width="190" height="370" as="geometry" />
-        </mxCell>
-        <mxCell id="aZRZJ2RWVRSIMsO6fhyW-13" value="エンジニア&#xa;デザイン&#xa;心理学&#xa;確立" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="aZRZJ2RWVRSIMsO6fhyW-1" vertex="1">
-          <mxGeometry x="360" y="121" width="70" height="149" as="geometry" />
         </mxCell>
         <mxCell id="aZRZJ2RWVRSIMsO6fhyW-14" value="休日" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="aZRZJ2RWVRSIMsO6fhyW-1" vertex="1">
           <mxGeometry x="120" y="121" width="70" height="390" as="geometry" />
