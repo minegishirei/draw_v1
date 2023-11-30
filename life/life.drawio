@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T12:01:42.816Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="8ueqq3tAfEnHXifTeTVa" version="22.1.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-11-30T12:02:14.619Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="OHJtZi13ygKy-PO2L3IR" version="22.1.5" type="github" pages="7">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -334,8 +334,8 @@
         <mxCell id="k9e4bQI_iiWMmDLtN9nP-5" value="Figma" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="981" y="428" width="390" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="k9e4bQI_iiWMmDLtN9nP-6" value="エンジニア&#xa;デザイン&#xa;心理学&#xa;&#xa;確立" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="980" y="188" width="69" height="152" as="geometry" />
+        <mxCell id="k9e4bQI_iiWMmDLtN9nP-6" value="エンジニア&#xa;デザイン&#xa;心理学&#xa;確立" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="980" y="270" width="69" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PUZJcavq6Pibf0_4q0IE-1" value="エンジニア心理学&#xa;操作" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="981" y="348" width="389" height="70" as="geometry" />
