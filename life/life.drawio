@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T12:02:14.619Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="OHJtZi13ygKy-PO2L3IR" version="22.1.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-11-30T12:02:57.172Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Pr5VRX-sIuzZvVBjiIa6" version="22.1.5" type="github" pages="7">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -325,11 +325,11 @@
         <mxCell id="k9e4bQI_iiWMmDLtN9nP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k9e4bQI_iiWMmDLtN9nP-2" target="k9e4bQI_iiWMmDLtN9nP-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k9e4bQI_iiWMmDLtN9nP-2" value="クラウドインフラ&#xa;Docker&#xa;Linux中心" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="819" y="30" width="150" height="68" as="geometry" />
+        <mxCell id="k9e4bQI_iiWMmDLtN9nP-2" value="インフラ&#xa;Docker&#xa;Linux中心" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="892" y="188" width="79" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="k9e4bQI_iiWMmDLtN9nP-3" value="フロントエンド&#xa;UIUX&#xa;アジャイル中心" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="981" y="30" width="150" height="68" as="geometry" />
+        <mxCell id="k9e4bQI_iiWMmDLtN9nP-3" value="人間&#xa;中心" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="981" y="188" width="69" height="68" as="geometry" />
         </mxCell>
         <mxCell id="k9e4bQI_iiWMmDLtN9nP-5" value="Figma" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="981" y="428" width="390" height="70" as="geometry" />
