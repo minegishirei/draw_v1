@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T12:48:08.427Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="pcupIa6FpoUuXWlYsyGi" version="22.1.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-11-30T12:48:32.339Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="FPM8ghxhA1wF-zzdRYzJ" version="22.1.5" type="github" pages="7">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -408,7 +408,7 @@
         <mxCell id="HrA4LMzm5KOsKjKubGBO-15" value="Treasure&#xa;Map" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
           <mxGeometry x="39" y="121" width="71" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="HrA4LMzm5KOsKjKubGBO-26" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;やることリスト&lt;/h1&gt;・行動心理学の基礎&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;・Haskell 関数型&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;・Figma&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-26" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;やることリスト&lt;/h1&gt;・行動心理学の基礎&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;・Figma&lt;br&gt;・Haskell 関数型" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
           <mxGeometry x="610" y="40" width="190" height="270" as="geometry" />
         </mxCell>
       </root>
