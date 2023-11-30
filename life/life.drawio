@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T11:19:41.584Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2SNoTty9-KQ5kNSSzxhJ" version="22.1.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-11-30T11:19:51.703Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NPOG148mhkroTA3qkH-r" version="22.1.5" type="github" pages="7">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -393,35 +393,11 @@
         <mxCell id="HrA4LMzm5KOsKjKubGBO-11" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;・former2は仕事の苦労する点の大部分を補うが、IaCの標準化でやらなければならないことはまだまだ多い。&lt;br&gt;IaCを放棄するのではなく、実務の中でやるべきことはやり遂げることとする。&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・しかし、それとは別に「エンジニア心理学」「デザイン心理学」を確立していきたい。&lt;br&gt;具体的な行動をとることが出来ている状態。これを継続することで&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
           <mxGeometry x="610" y="320" width="190" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="HrA4LMzm5KOsKjKubGBO-12" value="休日" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
-          <mxGeometry x="120" y="121" width="70" height="390" as="geometry" />
-        </mxCell>
-        <mxCell id="HrA4LMzm5KOsKjKubGBO-13" value="休日" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
-          <mxGeometry x="200" y="121" width="70" height="389" as="geometry" />
-        </mxCell>
         <mxCell id="HrA4LMzm5KOsKjKubGBO-14" value="Figma&#xa;Udemy" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
           <mxGeometry x="40" y="280" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HrA4LMzm5KOsKjKubGBO-15" value="Treasure&#xa;Map" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
           <mxGeometry x="39" y="121" width="71" height="149" as="geometry" />
-        </mxCell>
-        <mxCell id="HrA4LMzm5KOsKjKubGBO-20" value="10x&#xa;プログラマ&#xa;公開" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
-          <mxGeometry x="360" y="121" width="70" height="69" as="geometry" />
-        </mxCell>
-        <mxCell id="HrA4LMzm5KOsKjKubGBO-21" value="juchu&#xa;本番&#xa;リリース" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
-          <mxGeometry x="280" y="121" width="70" height="149" as="geometry" />
-        </mxCell>
-        <mxCell id="HrA4LMzm5KOsKjKubGBO-22" value="Haskell" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
-          <mxGeometry x="280" y="280" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="HrA4LMzm5KOsKjKubGBO-23" value="Haskell&#xa;関数型" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
-          <mxGeometry x="120" y="519.5" width="150" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="HrA4LMzm5KOsKjKubGBO-24" value="Figma&#xa;Udemy" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
-          <mxGeometry x="360" y="200" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="HrA4LMzm5KOsKjKubGBO-25" value="MTG&#xa;メイン" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
-          <mxGeometry x="360" y="280" width="70" height="230" as="geometry" />
         </mxCell>
         <mxCell id="HrA4LMzm5KOsKjKubGBO-26" value="&lt;h1&gt;やることリスト&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・行動心理学の基礎&lt;br&gt;・Figmaの使い方基礎&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
           <mxGeometry x="610" y="40" width="190" height="270" as="geometry" />
