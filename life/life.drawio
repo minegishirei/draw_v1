@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T00:48:13.903Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NWVuX9QE1RjyCqpUR-uh" version="22.1.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-11-30T01:21:03.455Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="g90t7efkW-00lH7Pd0oH" version="22.1.5" type="github" pages="6">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -418,7 +418,7 @@
           <mxGeometry x="360" y="121" width="70" height="69" as="geometry" />
         </mxCell>
         <mxCell id="8fu0Ddc6Xjh8P4Ai_97w-0" value="juchu&#xa;本番&#xa;リリース" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="aZRZJ2RWVRSIMsO6fhyW-1" vertex="1">
-          <mxGeometry x="280" y="121" width="70" height="109.5" as="geometry" />
+          <mxGeometry x="280" y="121" width="70" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
