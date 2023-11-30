@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T11:17:52.916Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="vYuyzPCUqXNcOtrBJhGn" version="22.1.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-11-30T11:18:18.655Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="cVlQQ1y9Yv6cyVwY2mTJ" version="22.1.5" type="github" pages="7">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -351,6 +351,92 @@
         </mxCell>
         <mxCell id="CjKxNEVyqCbyl-g4oBk3-1" value="エンジニア心理学&#xa;意思決定プロセス" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1061" y="508" width="150" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="20231204" id="YVhXdmVgsI6roHqc2J1b">
+    <mxGraphModel dx="1194" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-0" />
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-1" parent="HrA4LMzm5KOsKjKubGBO-0" />
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-2" value="火" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+          <mxGeometry x="99" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-3" value="水" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+          <mxGeometry x="179" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-4" value="木" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+          <mxGeometry x="259" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-5" value="金" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+          <mxGeometry x="339" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-6" value="土" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+          <mxGeometry x="419" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-7" value="日" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+          <mxGeometry x="499" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-8" value="月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+          <mxGeometry x="19" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-9" value="&lt;h1&gt;テーマ：エンジニア心理学 具体行動&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+          <mxGeometry x="40" y="40" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-10" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" edge="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="41" y="110" as="sourcePoint" />
+            <mxPoint x="600" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-11" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;・former2は仕事の苦労する点の大部分を補うが、IaCの標準化でやらなければならないことはまだまだ多い。&lt;br&gt;IaCを放棄するのではなく、実務の中でやるべきことはやり遂げることとする。&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・しかし、それとは別に「エンジニア心理学」「デザイン心理学」を確立していきたい。&lt;br&gt;具体的な行動をとることが出来ている状態。これを継続することで&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+          <mxGeometry x="610" y="320" width="190" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-12" value="休日" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+          <mxGeometry x="120" y="121" width="70" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-13" value="休日" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+          <mxGeometry x="200" y="121" width="70" height="389" as="geometry" />
+        </mxCell>
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-14" value="Figma&#xa;Udemy" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+          <mxGeometry x="40" y="280" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-15" value="Treasure&#xa;Map" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+          <mxGeometry x="39" y="121" width="71" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-16" value="IaC&#xa;標準化" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+          <mxGeometry x="40" y="360.5" width="70" height="109.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-17" value="IaC&#xa;IAMロール&#xa;境界設定" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+          <mxGeometry x="40" y="480" width="70" height="109.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-18" value="Valorant" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+          <mxGeometry x="39" y="600" width="70" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-19" value="ゆっくり&#xa;話す&#xa;実践" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+          <mxGeometry x="40" y="720" width="71" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-20" value="10x&#xa;プログラマ&#xa;公開" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+          <mxGeometry x="360" y="121" width="70" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-21" value="juchu&#xa;本番&#xa;リリース" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+          <mxGeometry x="280" y="121" width="70" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-22" value="Haskell" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+          <mxGeometry x="280" y="280" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-23" value="Haskell&#xa;関数型" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+          <mxGeometry x="120" y="519.5" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-24" value="Figma&#xa;Udemy" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+          <mxGeometry x="360" y="200" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-25" value="MTG&#xa;メイン" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+          <mxGeometry x="360" y="280" width="70" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-26" value="&lt;h1&gt;やることリスト&lt;/h1&gt;・Figma&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・行動心理学の基礎&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+          <mxGeometry x="610" y="40" width="190" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
