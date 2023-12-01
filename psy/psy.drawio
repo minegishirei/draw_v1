@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T06:53:25.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="f1IoyTqwxnIUbNL0OIWY" version="22.1.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-01T06:55:29.947Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9ALVGpDAy8wqsXN0GAxo" version="22.1.5" type="github" pages="4">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1674" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -216,7 +216,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iWxEHjaDBp4yc7IOHVC1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vzqyFv9OvBUfj2sghxq7-26" target="iWxEHjaDBp4yc7IOHVC1-2">
+        <mxCell id="iWxEHjaDBp4yc7IOHVC1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="vzqyFv9OvBUfj2sghxq7-26" target="iWxEHjaDBp4yc7IOHVC1-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vzqyFv9OvBUfj2sghxq7-26" value="Architecture" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
@@ -267,7 +267,7 @@
         <mxCell id="vzqyFv9OvBUfj2sghxq7-41" value="観察した結果と&lt;br&gt;一時的な心理状態の辞書&lt;br&gt;相手の永続的な心理特性の辞書を照らし合わせる" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="vzqyFv9OvBUfj2sghxq7-38" vertex="1">
           <mxGeometry x="13.089999999999986" y="115" width="143.83" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iWxEHjaDBp4yc7IOHVC1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vzqyFv9OvBUfj2sghxq7-43" target="iWxEHjaDBp4yc7IOHVC1-2">
+        <mxCell id="iWxEHjaDBp4yc7IOHVC1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="vzqyFv9OvBUfj2sghxq7-43" target="iWxEHjaDBp4yc7IOHVC1-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vzqyFv9OvBUfj2sghxq7-43" value="書き込み" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -288,19 +288,19 @@
         <mxCell id="vzqyFv9OvBUfj2sghxq7-48" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://dic.nicovideo.jp/oekaki/49766.png;" parent="1" vertex="1">
           <mxGeometry x="318.5899999999999" y="169.63" width="108.15" height="108.15" as="geometry" />
         </mxCell>
-        <mxCell id="iWxEHjaDBp4yc7IOHVC1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iWxEHjaDBp4yc7IOHVC1-2" target="vzqyFv9OvBUfj2sghxq7-30">
+        <mxCell id="iWxEHjaDBp4yc7IOHVC1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iWxEHjaDBp4yc7IOHVC1-2" target="vzqyFv9OvBUfj2sghxq7-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iWxEHjaDBp4yc7IOHVC1-2" value="構築" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iWxEHjaDBp4yc7IOHVC1-2" value="構築" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="160" width="170" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="iWxEHjaDBp4yc7IOHVC1-4" value="新しい事象に対応するための段階&lt;br&gt;徹底した準備で迎える" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iWxEHjaDBp4yc7IOHVC1-2">
+        <mxCell id="iWxEHjaDBp4yc7IOHVC1-4" value="新しい事象に対応するための段階&lt;br&gt;徹底した準備で迎える" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="iWxEHjaDBp4yc7IOHVC1-2" vertex="1">
           <mxGeometry x="16.17" y="110" width="143.83" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iWxEHjaDBp4yc7IOHVC1-1" value="準備" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iWxEHjaDBp4yc7IOHVC1-2">
+        <mxCell id="iWxEHjaDBp4yc7IOHVC1-1" value="準備" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="iWxEHjaDBp4yc7IOHVC1-2" vertex="1">
           <mxGeometry x="10" y="30" width="72.34" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="iWxEHjaDBp4yc7IOHVC1-6" value="準備" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iWxEHjaDBp4yc7IOHVC1-2">
+        <mxCell id="iWxEHjaDBp4yc7IOHVC1-6" value="準備" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="iWxEHjaDBp4yc7IOHVC1-2" vertex="1">
           <mxGeometry x="87.65999999999997" y="30" width="72.34" height="70" as="geometry" />
         </mxCell>
       </root>
@@ -391,7 +391,7 @@
         <mxCell id="9G2kwhHkg4hncXh33eYF-3" value="&lt;div&gt;- 「沈黙」を選択 : 誠実性が上がる&lt;/div&gt;&lt;div&gt;- 「多弁」を選択 : 誠実性が下がる&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#FCAD90;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="9G2kwhHkg4hncXh33eYF-1">
           <mxGeometry x="10" y="32" width="150" height="148" as="geometry" />
         </mxCell>
-        <mxCell id="9G2kwhHkg4hncXh33eYF-4" value="＜ゆっくりしゃべる＞&lt;br&gt;誠実性/威厳" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="9G2kwhHkg4hncXh33eYF-1">
+        <mxCell id="9G2kwhHkg4hncXh33eYF-4" value="多弁" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="9G2kwhHkg4hncXh33eYF-1">
           <mxGeometry x="10" y="214.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-BCqaTKRusHwG9S_5g9y-1" value="&lt;font color=&quot;#1a1a1a&quot;&gt;「西さん」「藤原さん」雑談の自己紹介の件ありがとうございました！&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
@@ -399,6 +399,9 @@
         </mxCell>
         <mxCell id="-BCqaTKRusHwG9S_5g9y-2" value="&lt;font color=&quot;#1a1a1a&quot;&gt;お二方が&lt;br&gt;想定よりアニメとか映画の話が出来そうで安心しましたw&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="40" y="319.5" width="270" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-BCqaTKRusHwG9S_5g9y-3" value="&lt;font color=&quot;#1a1a1a&quot;&gt;あだ名がものすごい独特で...&lt;br&gt;&lt;br&gt;これは？&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="270" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
