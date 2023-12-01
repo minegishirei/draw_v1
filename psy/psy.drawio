@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T07:04:21.553Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="bdbvxFy5Y3AK9ebTbFbk" version="22.1.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-01T07:06:27.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="KscGTjjD9IOEyix2sNIT" version="22.1.5" type="github" pages="4">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1674" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -395,7 +395,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9G2kwhHkg4hncXh33eYF-1" value="レスポンスは早めに" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="40" width="170" height="280" as="geometry" />
+          <mxGeometry x="560" y="800" width="170" height="280" as="geometry" />
         </mxCell>
         <mxCell id="9G2kwhHkg4hncXh33eYF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="9G2kwhHkg4hncXh33eYF-1" source="9G2kwhHkg4hncXh33eYF-3" target="9G2kwhHkg4hncXh33eYF-4">
           <mxGeometry relative="1" as="geometry" />
@@ -452,12 +452,12 @@
           <mxGeometry x="10" y="34" width="150" height="148" as="geometry" />
         </mxCell>
         <mxCell id="mkrGKO67qtOmYXRXXm3Z-5" value="相手にしゃべらせる" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="340" width="170" height="280" as="geometry" />
+          <mxGeometry x="360" y="800" width="170" height="280" as="geometry" />
         </mxCell>
         <mxCell id="mkrGKO67qtOmYXRXXm3Z-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="mkrGKO67qtOmYXRXXm3Z-5" source="mkrGKO67qtOmYXRXXm3Z-7" target="mkrGKO67qtOmYXRXXm3Z-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mkrGKO67qtOmYXRXXm3Z-7" value="&lt;div&gt;- 「沈黙」を選択 : 誠実性が上がる&lt;/div&gt;&lt;div&gt;- 「多弁」を選択 : 誠実性が下がる&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#FCAD90;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="mkrGKO67qtOmYXRXXm3Z-5">
+        <mxCell id="mkrGKO67qtOmYXRXXm3Z-7" value="人間は&lt;br&gt;話すよりも&lt;br&gt;聞くほうが&lt;br&gt;大好き" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#FCAD90;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="mkrGKO67qtOmYXRXXm3Z-5">
           <mxGeometry x="10" y="32" width="150" height="148" as="geometry" />
         </mxCell>
         <mxCell id="mkrGKO67qtOmYXRXXm3Z-8" value="多弁" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="mkrGKO67qtOmYXRXXm3Z-5">
