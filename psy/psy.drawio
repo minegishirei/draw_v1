@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T06:51:48.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="L9N6qHVvWHVFXGwcfq7_" version="22.1.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-01T06:53:12.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Drc8G6oZROawvHUyU7zg" version="22.1.5" type="github" pages="4">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1674" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -397,7 +397,7 @@
         <mxCell id="-BCqaTKRusHwG9S_5g9y-1" value="&lt;font color=&quot;#1a1a1a&quot;&gt;「西さん」「藤原さん」雑談の自己紹介の件ありがとうございました！&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="270" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="-BCqaTKRusHwG9S_5g9y-2" value="&lt;font color=&quot;#1a1a1a&quot;&gt;お二方が&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+        <mxCell id="-BCqaTKRusHwG9S_5g9y-2" value="&lt;font color=&quot;#1a1a1a&quot;&gt;お二方が&lt;br&gt;想定よりアニメの話が出来そうで安心しましたw&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="40" y="319.5" width="270" height="160" as="geometry" />
         </mxCell>
       </root>
