@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T07:08:58.157Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="sa2iKuxwD_F66cBFhiV1" version="22.1.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-01T07:09:46.730Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="uRzgctHjjL-iOIvKQG-K" version="22.1.5" type="github" pages="4">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1674" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -424,8 +424,11 @@
         <mxCell id="-BCqaTKRusHwG9S_5g9y-3" value="&lt;font color=&quot;#1a1a1a&quot;&gt;あだ名がものすごい独特で...&lt;br&gt;&lt;br&gt;これは？&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="40" y="720" width="270" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="mkrGKO67qtOmYXRXXm3Z-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8dNlu7c9fE2hS2LCtmg8-1" target="mkrGKO67qtOmYXRXXm3Z-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8dNlu7c9fE2hS2LCtmg8-1" value="&lt;font color=&quot;#1a1a1a&quot;&gt;呪術回線&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="360" y="520" width="70" height="80" as="geometry" />
+          <mxGeometry x="410" y="520" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mE6FiLrIX8nfGtWo1UmE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mE6FiLrIX8nfGtWo1UmE-1" target="-BCqaTKRusHwG9S_5g9y-1">
           <mxGeometry relative="1" as="geometry" />
