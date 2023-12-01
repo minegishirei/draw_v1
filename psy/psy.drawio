@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T06:57:50.768Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="isnwknlXgMQLrdg-J8QK" version="22.1.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-01T07:00:52.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="EF6SF0807h9dKYcnCRJJ" version="22.1.5" type="github" pages="4">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1674" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -208,6 +208,18 @@
         <mxCell id="HNqLQNwx-MG5eSBJAj62-11" value="無作為に選んだ人に&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;１、「デートの頻度」を問いかける&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;２，「今幸せか？」を問いかける&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;デートの頻度に比例して幸せ度合が増加した" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#CC99FF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="HNqLQNwx-MG5eSBJAj62-1">
           <mxGeometry x="10" y="41" width="150" height="148" as="geometry" />
         </mxCell>
+        <mxCell id="zWspqQfghY27TUDcReU0-1" value="行動の一貫性" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="200" width="170" height="279.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zWspqQfghY27TUDcReU0-2" value="自分の意図に沿わない行動をした後、&lt;br&gt;その行動に合う認識にすり替える" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="zWspqQfghY27TUDcReU0-1">
+          <mxGeometry x="10" y="200" width="150" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="zWspqQfghY27TUDcReU0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zWspqQfghY27TUDcReU0-1" source="zWspqQfghY27TUDcReU0-7" target="zWspqQfghY27TUDcReU0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zWspqQfghY27TUDcReU0-7" value="質問をしてしまった" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="zWspqQfghY27TUDcReU0-1">
+          <mxGeometry x="10" y="34" width="150" height="148" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -398,7 +410,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-BCqaTKRusHwG9S_5g9y-1" value="&lt;font color=&quot;#1a1a1a&quot;&gt;「西さん」「藤原さん」雑談の自己紹介の件ありがとうございました！&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="270" height="160" as="geometry" />
+          <mxGeometry x="40" y="240" width="270" height="160" as="geometry" />
         </mxCell>
         <mxCell id="boOmq-aYMATd0l8l7cGb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-BCqaTKRusHwG9S_5g9y-2" target="-BCqaTKRusHwG9S_5g9y-3">
           <mxGeometry relative="1" as="geometry" />
@@ -407,13 +419,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-BCqaTKRusHwG9S_5g9y-2" value="&lt;font color=&quot;#1a1a1a&quot;&gt;お二方が&lt;br&gt;想定よりアニメとか映画の話が出来そうで安心しましたw&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="280" width="270" height="160" as="geometry" />
+          <mxGeometry x="40" y="480" width="270" height="160" as="geometry" />
         </mxCell>
         <mxCell id="-BCqaTKRusHwG9S_5g9y-3" value="&lt;font color=&quot;#1a1a1a&quot;&gt;あだ名がものすごい独特で...&lt;br&gt;&lt;br&gt;これは？&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="520" width="270" height="160" as="geometry" />
+          <mxGeometry x="40" y="720" width="270" height="160" as="geometry" />
         </mxCell>
         <mxCell id="8dNlu7c9fE2hS2LCtmg8-1" value="&lt;font color=&quot;#1a1a1a&quot;&gt;呪術回線&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="360" y="280" width="270" height="160" as="geometry" />
+          <mxGeometry x="360" y="480" width="270" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="mE6FiLrIX8nfGtWo1UmE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mE6FiLrIX8nfGtWo1UmE-1" target="-BCqaTKRusHwG9S_5g9y-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mE6FiLrIX8nfGtWo1UmE-1" value="あらかじめ自己紹介&lt;br&gt;シートに記入&lt;br&gt;していただく" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#CCCCCC;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="40" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-4RueNEUWqG0jqdmM7yz-1" value="行動の一貫性" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="40.5" width="170" height="279.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-4RueNEUWqG0jqdmM7yz-2" value="自分の意図に沿わない行動をした後、&lt;br&gt;その行動に合う認識にすり替える" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="-4RueNEUWqG0jqdmM7yz-1">
+          <mxGeometry x="10" y="200" width="150" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="-4RueNEUWqG0jqdmM7yz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-4RueNEUWqG0jqdmM7yz-1" source="-4RueNEUWqG0jqdmM7yz-4" target="-4RueNEUWqG0jqdmM7yz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-4RueNEUWqG0jqdmM7yz-4" value="質問をしてしまった" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="-4RueNEUWqG0jqdmM7yz-1">
+          <mxGeometry x="10" y="34" width="150" height="148" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
