@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T09:21:56.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="xtqIvGEDCAtwW0JRpPq3" version="22.1.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-12-01T09:22:19.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="WUIfIXbGjKVxbWR3PIyv" version="22.1.5" type="github" pages="7">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -493,6 +493,12 @@
         </mxCell>
         <mxCell id="WY8W_oXQKAfE96eoJHBm-0" value="&lt;h1&gt;やることリスト&lt;/h1&gt;・行動心理学の基礎&lt;br&gt;・Figma&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;・Haskell 関数型&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="aZRZJ2RWVRSIMsO6fhyW-1" vertex="1">
           <mxGeometry x="610" y="40" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0ixIZ-BG-v2EGSHz5i-7-0" value="Treasure&#xa;Map" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
+          <mxGeometry x="280" y="360.5" width="71" height="69.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0ixIZ-BG-v2EGSHz5i-7-1" value="Treasure&#xa;Map" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
+          <mxGeometry x="360" y="280" width="71" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
