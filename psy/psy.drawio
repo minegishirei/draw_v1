@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T07:12:37.399Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="TkhLg9SBI4m-KkkQDX2-" version="22.1.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-01T07:13:48.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="OZicde7btCOaxvDPWbpS" version="22.1.5" type="github" pages="4">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1674" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -443,7 +443,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mE6FiLrIX8nfGtWo1UmE-1" value="&lt;font color=&quot;#1a1a1a&quot;&gt;あらかじめ自己紹介&lt;br&gt;シートに記入&lt;br&gt;していただく&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#CCCCCC;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="100" y="40" width="150" height="60" as="geometry" />
+          <mxGeometry x="100" y="150.25" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mkrGKO67qtOmYXRXXm3Z-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-4RueNEUWqG0jqdmM7yz-1" target="-BCqaTKRusHwG9S_5g9y-1">
           <mxGeometry relative="1" as="geometry" />
