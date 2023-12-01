@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T07:15:12.503Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="H1p4K-aFXMxW_4GOZ9-d" version="22.1.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-01T07:18:18.657Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="DhHUnmnElNdOebwbQuof" version="22.1.5" type="github" pages="4">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1674" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -398,7 +398,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9G2kwhHkg4hncXh33eYF-1" value="うなずきは早めに" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="660" width="170" height="280" as="geometry" />
+          <mxGeometry x="560" y="620" width="170" height="280" as="geometry" />
         </mxCell>
         <mxCell id="9G2kwhHkg4hncXh33eYF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="9G2kwhHkg4hncXh33eYF-1" source="9G2kwhHkg4hncXh33eYF-3" target="9G2kwhHkg4hncXh33eYF-4">
           <mxGeometry relative="1" as="geometry" />
@@ -413,7 +413,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-BCqaTKRusHwG9S_5g9y-1" value="&lt;font color=&quot;#1a1a1a&quot;&gt;「西さん」「藤原さん」雑談の自己紹介の件ありがとうございました！&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="240" width="270" height="160" as="geometry" />
+          <mxGeometry x="40" y="280" width="270" height="160" as="geometry" />
         </mxCell>
         <mxCell id="boOmq-aYMATd0l8l7cGb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-BCqaTKRusHwG9S_5g9y-2" target="-BCqaTKRusHwG9S_5g9y-3">
           <mxGeometry relative="1" as="geometry" />
@@ -428,7 +428,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-BCqaTKRusHwG9S_5g9y-3" value="&lt;font color=&quot;#1a1a1a&quot;&gt;あだ名がものすごい独特で...&lt;br&gt;&lt;br&gt;これは？&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="720" width="270" height="160" as="geometry" />
+          <mxGeometry x="40" y="680" width="270" height="160" as="geometry" />
         </mxCell>
         <mxCell id="mkrGKO67qtOmYXRXXm3Z-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8dNlu7c9fE2hS2LCtmg8-1" target="9G2kwhHkg4hncXh33eYF-1">
           <mxGeometry relative="1" as="geometry" />
@@ -446,13 +446,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mE6FiLrIX8nfGtWo1UmE-1" value="&lt;font color=&quot;#1a1a1a&quot;&gt;あらかじめ自己紹介&lt;br&gt;シートに記入&lt;br&gt;していただく&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#CCCCCC;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="150.25" width="270" height="60" as="geometry" />
+          <mxGeometry x="40" y="190.25" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mkrGKO67qtOmYXRXXm3Z-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-4RueNEUWqG0jqdmM7yz-1" target="-BCqaTKRusHwG9S_5g9y-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-4RueNEUWqG0jqdmM7yz-1" value="行動の一貫性" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="100" width="170" height="279.5" as="geometry" />
+          <mxGeometry x="414" y="140" width="170" height="279.5" as="geometry" />
         </mxCell>
         <mxCell id="-4RueNEUWqG0jqdmM7yz-2" value="自分の意図に沿わない行動をした後、&lt;br&gt;その行動に合う認識にすり替える" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="-4RueNEUWqG0jqdmM7yz-1">
           <mxGeometry x="10" y="200" width="150" height="73" as="geometry" />
@@ -467,7 +467,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mkrGKO67qtOmYXRXXm3Z-5" value="相手にしゃべらせる" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="660" width="170" height="280" as="geometry" />
+          <mxGeometry x="360" y="620" width="170" height="280" as="geometry" />
         </mxCell>
         <mxCell id="mkrGKO67qtOmYXRXXm3Z-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="mkrGKO67qtOmYXRXXm3Z-5" source="mkrGKO67qtOmYXRXXm3Z-7" target="mkrGKO67qtOmYXRXXm3Z-8">
           <mxGeometry relative="1" as="geometry" />
@@ -479,7 +479,7 @@
           <mxGeometry x="10" y="214.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z5LlWfboSo2KKEyXTuNz-1" value="好感度向上" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1010" width="150" height="60" as="geometry" />
+          <mxGeometry x="470" y="970" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
