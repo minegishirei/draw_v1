@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T07:03:08.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Xb_5RYxKocXAsxQm5voo" version="22.1.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-01T07:03:18.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="6_TqadIvCjHalsbN8JY0" version="22.1.5" type="github" pages="4">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1674" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -440,7 +440,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-4RueNEUWqG0jqdmM7yz-1" value="行動の一貫性" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="40.5" width="170" height="279.5" as="geometry" />
+          <mxGeometry x="414" y="40.5" width="170" height="279.5" as="geometry" />
         </mxCell>
         <mxCell id="-4RueNEUWqG0jqdmM7yz-2" value="自分の意図に沿わない行動をした後、&lt;br&gt;その行動に合う認識にすり替える" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="-4RueNEUWqG0jqdmM7yz-1">
           <mxGeometry x="10" y="200" width="150" height="73" as="geometry" />
