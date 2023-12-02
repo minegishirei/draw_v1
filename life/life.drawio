@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T08:46:22.836Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="1oktvKOY7sTKm9MUeCMH" version="22.1.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-12-02T09:45:18.416Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ggGPDKDZyGXXzGMjuXEZ" version="22.1.5" type="github" pages="7">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="168" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -447,7 +447,7 @@
           <mxGeometry x="360" y="280" width="71" height="150" as="geometry" />
         </mxCell>
         <mxCell id="0ixIZ-BG-v2EGSHz5i-7-2" value="休日" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="aZRZJ2RWVRSIMsO6fhyW-1" vertex="1">
-          <mxGeometry x="440" y="120.5" width="70" height="389" as="geometry" />
+          <mxGeometry x="440" y="120.5" width="70" height="309.5" as="geometry" />
         </mxCell>
         <mxCell id="0ixIZ-BG-v2EGSHz5i-7-3" value="休日" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="aZRZJ2RWVRSIMsO6fhyW-1" vertex="1">
           <mxGeometry x="520" y="120.5" width="70" height="389" as="geometry" />
@@ -468,10 +468,10 @@
           <mxGeometry x="360" y="600" width="70" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Rts-6vrLsCTvPvm5ipzS-0" value="Haskell&#xa;関数一覧" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="aZRZJ2RWVRSIMsO6fhyW-1" vertex="1">
-          <mxGeometry x="440" y="520" width="70" height="70" as="geometry" />
+          <mxGeometry x="440" y="439" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gYi864bv7sWD3Kk4xRcg-0" value="Figma&#xa;Udemy" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="aZRZJ2RWVRSIMsO6fhyW-1">
-          <mxGeometry x="440" y="600" width="70" height="70" as="geometry" />
+          <mxGeometry x="440" y="519.5" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
