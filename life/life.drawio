@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T08:45:41.745Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="1IgUf685xYtFeRIHdkEH" version="22.1.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-12-02T08:45:48.328Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NmarBsd9v1wb4D_SWVbw" version="22.1.5" type="github" pages="7">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="168" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,21 +82,6 @@
         </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-44" value="【ブランドプロミス】&#xa;・リードエンジニアになりたい&#xa;・10xプログラマーになりたい&#xa;・素早く開発したい&#xa;・「アジャイル」「Docker」「関数型プログラミング」「Vim」について知りたい" style="text;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2221" y="480" width="240" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="dEFwKuERKZ_yJW59k1OX-1" value="Full Stack" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1890" y="566" width="170" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="AoNlqqfXpB1h8EzO8a0D-1" value="Docker" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="dEFwKuERKZ_yJW59k1OX-1" vertex="1">
-          <mxGeometry x="10" y="30" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="AoNlqqfXpB1h8EzO8a0D-2" value="IaC" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="dEFwKuERKZ_yJW59k1OX-1" vertex="1">
-          <mxGeometry x="90" y="30" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="4OgKlGWcfhPyEplMRi9x-1" value="Django" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="dEFwKuERKZ_yJW59k1OX-1" vertex="1">
-          <mxGeometry x="10" y="110" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="4OgKlGWcfhPyEplMRi9x-2" value="Architect" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="dEFwKuERKZ_yJW59k1OX-1" vertex="1">
-          <mxGeometry x="90" y="110" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KdP75HX4KpQWsnjV_Gn1-7" value="Agile" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1520" y="480" width="100" height="70" as="geometry" />
