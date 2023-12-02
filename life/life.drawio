@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T08:45:19.077Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="I71UG2yH24Febv4VTnIQ" version="22.1.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-12-02T08:45:33.713Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="yVtRXAvrIldo8TOeJeNM" version="22.1.5" type="github" pages="7">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="168" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -129,10 +129,10 @@
           <mxGeometry x="1645.23" y="495.01" width="79.54" height="39.99" as="geometry" />
         </mxCell>
         <mxCell id="5kkIFuNKcPfUHoZ-2SMw-13" value="&lt;b&gt;副作用を&lt;br&gt;減らす&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1640" y="735.5" width="90" height="40" as="geometry" />
+          <mxGeometry x="1639.99" y="656" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5kkIFuNKcPfUHoZ-2SMw-14" value="物理的に&lt;br&gt;早く動く" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1651.5299999999997" y="656" width="66.93" height="40" as="geometry" />
+          <mxGeometry x="1651.5299999999997" y="735.5" width="66.93" height="40" as="geometry" />
         </mxCell>
         <mxCell id="je4C7MgCtqABaAWYHcKk-2" value="&lt;b&gt;結局最後は&lt;br&gt;人間の問題&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1640" y="406.63" width="90" height="52.25" as="geometry" />
