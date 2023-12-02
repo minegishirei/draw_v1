@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T08:45:33.713Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="yVtRXAvrIldo8TOeJeNM" version="22.1.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-12-02T08:45:41.745Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="1IgUf685xYtFeRIHdkEH" version="22.1.5" type="github" pages="7">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="168" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,9 +115,6 @@
         </mxCell>
         <mxCell id="KdP75HX4KpQWsnjV_Gn1-32" value="Docker" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1520.9300000000003" y="559.88" width="99.07" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="KdP75HX4KpQWsnjV_Gn1-34" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="1" vertex="1">
-          <mxGeometry x="1560.93" y="566.5" width="20" height="21" as="geometry" />
         </mxCell>
         <mxCell id="5kkIFuNKcPfUHoZ-2SMw-9" value="&lt;b&gt;結局最後は&lt;br&gt;人間の問題&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1639.99" y="328.87" width="90" height="52.25" as="geometry" />
