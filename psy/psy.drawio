@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T06:34:02.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="0PICUsGjYcpRm52fTXxP" version="22.1.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-12-04T06:34:59.003Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NCEkdjjeH82ViM3X1k4s" version="22.1.5" type="github" pages="5">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1674" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -534,6 +534,9 @@
         <mxCell id="odDVto0Fo13Ymglr2l21-17" value="我々はしゃべらない&lt;br&gt;質問は短く" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="odDVto0Fo13Ymglr2l21-14">
           <mxGeometry x="10" y="214.5" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IWnXqhlrf262FQceN0Y7-3" value="&lt;font color=&quot;#1a1a1a&quot;&gt;いつぐらいの時間帯？&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="odDVto0Fo13Ymglr2l21-14">
+          <mxGeometry x="-160" y="10" width="120" height="70" as="geometry" />
+        </mxCell>
         <mxCell id="odDVto0Fo13Ymglr2l21-18" value="好感度向上" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="470" y="750" width="150" height="60" as="geometry" />
         </mxCell>
@@ -541,9 +544,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VLVflD545UYTdqMCVPuT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XAdkgJk2sy5vd7coM2Hb-1" target="odDVto0Fo13Ymglr2l21-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IWnXqhlrf262FQceN0Y7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XAdkgJk2sy5vd7coM2Hb-1" target="IWnXqhlrf262FQceN0Y7-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XAdkgJk2sy5vd7coM2Hb-1" value="&lt;font color=&quot;#1a1a1a&quot;&gt;ランニング&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
@@ -558,14 +558,11 @@
         <mxCell id="ZOZlYTFqH7sLW8RfByV3-1" value="&lt;font color=&quot;#1a1a1a&quot;&gt;自己紹介シートに記入&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#CCCCCC;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="40" y="129.75" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IWnXqhlrf262FQceN0Y7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IWnXqhlrf262FQceN0Y7-1" target="IWnXqhlrf262FQceN0Y7-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="IWnXqhlrf262FQceN0Y7-1" value="&lt;font color=&quot;#1a1a1a&quot;&gt;最近どんなコースを走っているんですか？&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="IWnXqhlrf262FQceN0Y7-1" value="&lt;font color=&quot;#1a1a1a&quot;&gt;おはよう！最近どんなコースを走っているんですか？&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="410" width="270" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="IWnXqhlrf262FQceN0Y7-3" value="&lt;font color=&quot;#1a1a1a&quot;&gt;いつぐらいの時間帯？&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="530" width="270" height="70" as="geometry" />
+        <mxCell id="IWnXqhlrf262FQceN0Y7-5" value="&lt;font color=&quot;#1a1a1a&quot;&gt;いつぐらいの時間帯？&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="530" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
