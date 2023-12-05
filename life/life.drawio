@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T00:14:31.191Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3fkHK2ucedZZSuRu7xmQ" version="22.1.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-12-05T00:15:22.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Hig-fZr8KQnuVV0mbrBX" version="22.1.5" type="github" pages="7">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -365,6 +365,12 @@
         </mxCell>
         <mxCell id="Gqbp79yqDxu1TBMEhAia-0" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
           <mxGeometry x="40" y="120" width="20" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqbp79yqDxu1TBMEhAia-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+          <mxGeometry x="39" y="200" width="20" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqbp79yqDxu1TBMEhAia-2" value="Figma&#xa;画面仕様書&#xa;作成" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+          <mxGeometry x="120" y="120" width="70" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
