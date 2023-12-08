@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T01:03:31.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="W6FGUahmozRMgWR0LjlR" version="22.1.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-12-08T00:54:51.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="fLvtFp-6pm_Wjnm698uA" version="22.1.7" type="github" pages="7">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -309,7 +309,7 @@
       <root>
         <mxCell id="HrA4LMzm5KOsKjKubGBO-0" />
         <mxCell id="HrA4LMzm5KOsKjKubGBO-1" parent="HrA4LMzm5KOsKjKubGBO-0" />
-        <mxCell id="9y-DzLHgsK8PfWpOIArk-2" value="EGUCHI&#xa;マラソン&#xa;雑談" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+        <mxCell id="9y-DzLHgsK8PfWpOIArk-2" value="EGUCHI&#xa;マラソン&#xa;雑談" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="HrA4LMzm5KOsKjKubGBO-1" vertex="1">
           <mxGeometry x="39" y="520" width="71" height="150" as="geometry" />
         </mxCell>
         <mxCell id="HrA4LMzm5KOsKjKubGBO-2" value="火" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="HrA4LMzm5KOsKjKubGBO-1" vertex="1">
@@ -369,23 +369,26 @@
         <mxCell id="Gqbp79yqDxu1TBMEhAia-3" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="HrA4LMzm5KOsKjKubGBO-1" vertex="1">
           <mxGeometry x="40" y="360" width="20" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="x91ssyqqdoB6-VCcFiyN-0" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+        <mxCell id="x91ssyqqdoB6-VCcFiyN-0" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="HrA4LMzm5KOsKjKubGBO-1" vertex="1">
           <mxGeometry x="120" y="120" width="20" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="ohEE84GVJEfg09f3cbAH-0" value="IaC&#xa;変更&#xa;チェック" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+        <mxCell id="ohEE84GVJEfg09f3cbAH-0" value="IaC&#xa;変更&#xa;チェック" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="HrA4LMzm5KOsKjKubGBO-1" vertex="1">
           <mxGeometry x="200" y="120" width="70" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ohEE84GVJEfg09f3cbAH-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+        <mxCell id="ohEE84GVJEfg09f3cbAH-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="HrA4LMzm5KOsKjKubGBO-1" vertex="1">
           <mxGeometry x="199" y="120" width="20" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="ohEE84GVJEfg09f3cbAH-3" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+        <mxCell id="ohEE84GVJEfg09f3cbAH-3" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="HrA4LMzm5KOsKjKubGBO-1" vertex="1">
           <mxGeometry x="40" y="520" width="20" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="9y-DzLHgsK8PfWpOIArk-0" value="会話上手&#xa;by Kuroe" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+        <mxCell id="9y-DzLHgsK8PfWpOIArk-0" value="会話上手&#xa;by Kuroe" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="HrA4LMzm5KOsKjKubGBO-1" vertex="1">
           <mxGeometry x="120" y="441" width="70" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="9y-DzLHgsK8PfWpOIArk-1" value="高評価&#xa;by yoshi" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+        <mxCell id="9y-DzLHgsK8PfWpOIArk-1" value="高評価&#xa;by yoshi" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="HrA4LMzm5KOsKjKubGBO-1" vertex="1">
           <mxGeometry x="200" y="281" width="70" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="3uq7TaqU0Z8SeEcYvEFK-0" value="行動を&#xa;起こすまで" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
+          <mxGeometry x="360" y="120" width="70" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
