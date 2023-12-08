@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T00:54:51.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="fLvtFp-6pm_Wjnm698uA" version="22.1.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-12-08T13:09:50.452Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="f-U6awnllopHO2ek8Ncw" version="22.1.7" type="github" pages="7">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -305,7 +305,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20231204" id="YVhXdmVgsI6roHqc2J1b">
-    <mxGraphModel dx="1674" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1137" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="HrA4LMzm5KOsKjKubGBO-0" />
         <mxCell id="HrA4LMzm5KOsKjKubGBO-1" parent="HrA4LMzm5KOsKjKubGBO-0" />
@@ -387,8 +387,8 @@
         <mxCell id="9y-DzLHgsK8PfWpOIArk-1" value="高評価&#xa;by yoshi" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="HrA4LMzm5KOsKjKubGBO-1" vertex="1">
           <mxGeometry x="200" y="281" width="70" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="3uq7TaqU0Z8SeEcYvEFK-0" value="行動を&#xa;起こすまで" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HrA4LMzm5KOsKjKubGBO-1">
-          <mxGeometry x="360" y="120" width="70" height="310" as="geometry" />
+        <mxCell id="3uq7TaqU0Z8SeEcYvEFK-0" value="行動を&#xa;起こすまで" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="HrA4LMzm5KOsKjKubGBO-1" vertex="1">
+          <mxGeometry x="360" y="120" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
