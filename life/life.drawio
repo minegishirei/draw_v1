@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T10:16:52.948Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="h-kh1-hpZ2qfMwUo9zbd" version="22.1.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-12-10T10:17:04.134Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="0HNT4K5j0JZjwUvG2p-m" version="22.1.7" type="github" pages="8">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -425,7 +425,7 @@
             <mxPoint x="600" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HrA4LMzm5KOsKjKubGBO-11" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;「Figma」「コミュニケーションが得意」&lt;br&gt;&lt;br&gt;・週の前半はFigmaを中心に作業を行なった。勉強の内容はQiitaにて公表し、その内容は閲覧されている。&lt;br&gt;&lt;br&gt;・&lt;b&gt;エンジニア心理学・雑談&lt;/b&gt;：盛り上がる雑談ができたが、再現性はまだ普通。しかし、雑談の過程はメモしているため、再現性は上がっていく。&lt;br&gt;&lt;br&gt;・週の後半はIaCコードのテストコードを作成した。公には出ていないが、実感がある。&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="HrA4LMzm5KOsKjKubGBO-1" vertex="1">
+        <mxCell id="HrA4LMzm5KOsKjKubGBO-11" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;「Figma」「コミュニケーションが得意」&lt;br&gt;&lt;br&gt;・&lt;b&gt;Figma&lt;/b&gt;：週の前半はFigmaを中心に作業を行なった。勉強の内容はQiitaにて公表し、その内容は閲覧されている。&lt;br&gt;&lt;br&gt;・&lt;b&gt;エンジニア心理学・雑談&lt;/b&gt;：盛り上がる雑談ができたが、再現性はまだ普通。しかし、雑談の過程はメモしているため、再現性は上がっていく。&lt;br&gt;&lt;br&gt;・週の後半はIaCコードのテストコードを作成した。公には出ていないが、実感がある。&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="HrA4LMzm5KOsKjKubGBO-1" vertex="1">
           <mxGeometry x="610" y="200" width="190" height="370" as="geometry" />
         </mxCell>
         <mxCell id="HrA4LMzm5KOsKjKubGBO-26" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;やることリスト&lt;/h1&gt;・Figma&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;・行動心理学の基礎" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="HrA4LMzm5KOsKjKubGBO-1" vertex="1">
