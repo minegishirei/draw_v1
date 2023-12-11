@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T12:42:20.087Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="qTVL59k6H25Ez2Uoyaic" version="22.1.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-12-11T12:42:53.082Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="UobNpSUMnEGovfgh9EQ8" version="22.1.7" type="github" pages="8">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -289,8 +289,8 @@
         <mxCell id="MuBEwn-PE1bojSAegGeE-1" value="Haskell&#xa;入門" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="979" y="508" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="nqGv5Gw2Y-JCrC0E5_pM-2" value="エンジニア&#xa;心理学&#xa;&#xa;10ケース&#xa;作成" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1301" y="188" width="69" height="152" as="geometry" />
+        <mxCell id="nqGv5Gw2Y-JCrC0E5_pM-2" value="エンジニア心理学&#xa;10ケース作成" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="1060" y="270" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CjKxNEVyqCbyl-g4oBk3-1" value="エンジニア心理学&#xa;意思決定プロセス" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1061" y="508" width="150" height="70" as="geometry" />
