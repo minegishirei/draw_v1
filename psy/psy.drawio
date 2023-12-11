@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T00:02:17.942Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="CZgd_RU3UEvM1MCqcIOP" version="22.1.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-12-11T00:03:50.659Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="GI9PX7CAku-hQg2tAiAK" version="22.1.7" type="github" pages="6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1674" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -111,37 +111,41 @@
           <mxGeometry x="1010" y="40" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CWfgOFFLSN2SLDQis5Dd-1" value="威厳(ゆっくりしゃべる)" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="199.5" width="170" height="280" as="geometry" />
+          <mxGeometry x="1240" y="200" width="170" height="280.5" as="geometry" />
         </mxCell>
-        <mxCell id="CWfgOFFLSN2SLDQis5Dd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="CWfgOFFLSN2SLDQis5Dd-1" source="CWfgOFFLSN2SLDQis5Dd-4" target="CWfgOFFLSN2SLDQis5Dd-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CWfgOFFLSN2SLDQis5Dd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="CWfgOFFLSN2SLDQis5Dd-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="85" y="182" as="sourcePoint" />
+            <mxPoint x="85" y="212.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="CWfgOFFLSN2SLDQis5Dd-4" value="&lt;div&gt;- 「沈黙」を選択 : 誠実性が上がる&lt;/div&gt;&lt;div&gt;- 「多弁」を選択 : 誠実性が下がる&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#FCAD90;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="CWfgOFFLSN2SLDQis5Dd-1" vertex="1">
-          <mxGeometry x="10" y="32" width="150" height="148" as="geometry" />
+        <mxCell id="8zx2KFzAG-iw0LaA0TS7-23" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;- 「沈黙」を選択 : 誠実性が上がる&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;- 「多弁」を選択 : 誠実性が下がる&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="CWfgOFFLSN2SLDQis5Dd-1">
+          <mxGeometry x="10" y="30" width="150" height="148" as="geometry" />
         </mxCell>
-        <mxCell id="CWfgOFFLSN2SLDQis5Dd-5" value="＜ゆっくりしゃべる＞&lt;br&gt;誠実性/威厳" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="CWfgOFFLSN2SLDQis5Dd-1" vertex="1">
-          <mxGeometry x="10" y="214.5" width="150" height="60" as="geometry" />
+        <mxCell id="8zx2KFzAG-iw0LaA0TS7-22" value="＜ゆっくりしゃべる＞&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;誠実性/威厳" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="CWfgOFFLSN2SLDQis5Dd-1">
+          <mxGeometry x="10" y="214" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oyf0zvh0sAMY3noZJslP-5" value="プライミングによる（能力向上）" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="800" width="380" height="279.5" as="geometry" />
         </mxCell>
-        <mxCell id="oyf0zvh0sAMY3noZJslP-6" value="能力アップ" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="oyf0zvh0sAMY3noZJslP-5" vertex="1">
-          <mxGeometry x="10" y="213" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="oyf0zvh0sAMY3noZJslP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="oyf0zvh0sAMY3noZJslP-5" source="oyf0zvh0sAMY3noZJslP-8" target="oyf0zvh0sAMY3noZJslP-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="oyf0zvh0sAMY3noZJslP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="oyf0zvh0sAMY3noZJslP-5" source="oyf0zvh0sAMY3noZJslP-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="162" y="243" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="oyf0zvh0sAMY3noZJslP-8" value="能力ダウン" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="oyf0zvh0sAMY3noZJslP-5" vertex="1">
           <mxGeometry x="219" y="213" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oyf0zvh0sAMY3noZJslP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="oyf0zvh0sAMY3noZJslP-5" source="oyf0zvh0sAMY3noZJslP-6" target="oyf0zvh0sAMY3noZJslP-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="oyf0zvh0sAMY3noZJslP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="oyf0zvh0sAMY3noZJslP-5" target="oyf0zvh0sAMY3noZJslP-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="162" y="243" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="oyf0zvh0sAMY3noZJslP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="oyf0zvh0sAMY3noZJslP-5" source="oyf0zvh0sAMY3noZJslP-11" target="oyf0zvh0sAMY3noZJslP-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oyf0zvh0sAMY3noZJslP-11" value="女性を三つのグループに分けて、「人種」に関する質問を行った。&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;すると、数学の成績が上がった（人種と数学の成績には相関がない）" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="oyf0zvh0sAMY3noZJslP-5" vertex="1">
-          <mxGeometry x="10" y="34" width="150" height="148" as="geometry" />
+        <mxCell id="oyf0zvh0sAMY3noZJslP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="oyf0zvh0sAMY3noZJslP-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="85" y="184" as="sourcePoint" />
+            <mxPoint x="85" y="211" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="oyf0zvh0sAMY3noZJslP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="oyf0zvh0sAMY3noZJslP-5" source="oyf0zvh0sAMY3noZJslP-13" target="oyf0zvh0sAMY3noZJslP-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -151,6 +155,12 @@
         </mxCell>
         <mxCell id="oyf0zvh0sAMY3noZJslP-14" value="言語" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="oyf0zvh0sAMY3noZJslP-5" vertex="1">
           <mxGeometry x="160" y="213" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8zx2KFzAG-iw0LaA0TS7-20" value="女性を三つのグループに分けて、「人種」に関する質問を行った。&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;すると、数学の成績が上がった（人種と数学の成績には相関がない）" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#FCAD90;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="oyf0zvh0sAMY3noZJslP-5">
+          <mxGeometry x="10" y="34.5" width="150" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="8zx2KFzAG-iw0LaA0TS7-21" value="能力アップ" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="oyf0zvh0sAMY3noZJslP-5">
+          <mxGeometry x="10" y="213" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oyf0zvh0sAMY3noZJslP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oyf0zvh0sAMY3noZJslP-15" target="oyf0zvh0sAMY3noZJslP-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
