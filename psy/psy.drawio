@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T01:48:44.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ma28EtgpEUXBvmL7JT7N" version="22.1.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-12-12T01:49:24.122Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="qj1_4iLecPNq3_0l6LDu" version="22.1.7" type="github" pages="6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1674" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -162,15 +162,6 @@
         <mxCell id="8zx2KFzAG-iw0LaA0TS7-21" value="能力アップ" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="oyf0zvh0sAMY3noZJslP-5" vertex="1">
           <mxGeometry x="10" y="213" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oyf0zvh0sAMY3noZJslP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oyf0zvh0sAMY3noZJslP-15" target="oyf0zvh0sAMY3noZJslP-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oyf0zvh0sAMY3noZJslP-15" value="「無言」を選択することで&lt;br&gt;不安感をあおることが出来る" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="650" y="230" width="150" height="149.5" as="geometry" />
-        </mxCell>
-        <mxCell id="oyf0zvh0sAMY3noZJslP-16" value="無言戦略" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="650" y="413.5" width="150" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="HNqLQNwx-MG5eSBJAj62-1" value="質問の置き換え" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="800" width="370" height="279.5" as="geometry" />
         </mxCell>
@@ -290,16 +281,25 @@
           <mxGeometry x="10" y="34" width="150" height="148" as="geometry" />
         </mxCell>
         <mxCell id="LItR_9ynnI1esaeh7o06-5" value="共通点を強調" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="800" width="170" height="279.5" as="geometry" />
+          <mxGeometry x="840" y="1090" width="370" height="279.5" as="geometry" />
         </mxCell>
         <mxCell id="LItR_9ynnI1esaeh7o06-6" value="同じ行動をとる" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="LItR_9ynnI1esaeh7o06-5">
-          <mxGeometry x="10" y="200" width="150" height="73" as="geometry" />
+          <mxGeometry x="10" y="210" width="150" height="63" as="geometry" />
         </mxCell>
         <mxCell id="LItR_9ynnI1esaeh7o06-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LItR_9ynnI1esaeh7o06-5" source="LItR_9ynnI1esaeh7o06-8" target="LItR_9ynnI1esaeh7o06-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LItR_9ynnI1esaeh7o06-8" value="人と人、集団と集団が横並びに置かれるとき、その集団の「差分」が強調されてしまう。&lt;br&gt;そうではなく、「共通項」に着目することで" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="LItR_9ynnI1esaeh7o06-5">
           <mxGeometry x="10" y="34" width="150" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="oyf0zvh0sAMY3noZJslP-15" value="「無言」を選択することで&lt;br&gt;不安感をあおることが出来る" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="LItR_9ynnI1esaeh7o06-5" vertex="1">
+          <mxGeometry x="200" y="32.5" width="150" height="149.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oyf0zvh0sAMY3noZJslP-16" value="無言戦略" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="LItR_9ynnI1esaeh7o06-5" vertex="1">
+          <mxGeometry x="200" y="210" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oyf0zvh0sAMY3noZJslP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="LItR_9ynnI1esaeh7o06-5" source="oyf0zvh0sAMY3noZJslP-15" target="oyf0zvh0sAMY3noZJslP-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
