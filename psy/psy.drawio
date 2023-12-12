@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T01:34:03.439Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3d7xLbqKFHPv6chdZgTQ" version="22.1.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-12-12T01:35:44.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="bVRLvESF65_StH85mwkv" version="22.1.7" type="github" pages="6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1674" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -389,6 +389,9 @@
         <mxCell id="Tm9lm75lwOxnOOCXiqBy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bb7gL4KQ3JCyR0m-g5xu-1" target="Tm9lm75lwOxnOOCXiqBy-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OcERMqa2ZdiTpExtFHXh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bb7gL4KQ3JCyR0m-g5xu-1" target="OcERMqa2ZdiTpExtFHXh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bb7gL4KQ3JCyR0m-g5xu-1" value="&lt;font color=&quot;#1a1a1a&quot;&gt;「どんな内容でした？」&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="410" y="520" width="150" height="70" as="geometry" />
         </mxCell>
@@ -445,6 +448,15 @@
         </mxCell>
         <mxCell id="Tm9lm75lwOxnOOCXiqBy-4" value="我々はしゃべらない&lt;br&gt;質問は短く" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="Tm9lm75lwOxnOOCXiqBy-1">
           <mxGeometry x="10" y="214.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OcERMqa2ZdiTpExtFHXh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OcERMqa2ZdiTpExtFHXh-1" target="OcERMqa2ZdiTpExtFHXh-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OcERMqa2ZdiTpExtFHXh-1" value="&lt;font color=&quot;#1a1a1a&quot;&gt;まとまっていなかったら&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="410" y="650" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OcERMqa2ZdiTpExtFHXh-3" value="&lt;font color=&quot;#1a1a1a&quot;&gt;キーワードを&lt;br&gt;かいつまんで&lt;br&gt;オウム返し&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="650" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
