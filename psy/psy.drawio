@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T01:30:51.860Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="N4heKULiMTUd7vOeRt9g" version="22.1.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-12-12T01:33:31.045Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="MW8MWJDP4BAPcK-F7FLS" version="22.1.7" type="github" pages="6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1674" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -386,8 +386,11 @@
         <mxCell id="kDPKA1E68ma3KcYAmQbF-1" value="&lt;font color=&quot;#1a1a1a&quot;&gt;書籍を読んでくる&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#CCCCCC;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="bb7gL4KQ3JCyR0m-g5xu-1" value="&lt;font color=&quot;#1a1a1a&quot;&gt;ランニング&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="150" y="570" width="270" height="70" as="geometry" />
+        <mxCell id="Tm9lm75lwOxnOOCXiqBy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bb7gL4KQ3JCyR0m-g5xu-1" target="Tm9lm75lwOxnOOCXiqBy-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bb7gL4KQ3JCyR0m-g5xu-1" value="&lt;font color=&quot;#1a1a1a&quot;&gt;どんな内容でした？&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="410" y="520" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="D9l5sbA5J0m1VTILzABz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bb7gL4KQ3JCyR0m-g5xu-2" target="D9l5sbA5J0m1VTILzABz-1">
           <mxGeometry relative="1" as="geometry" />
@@ -416,6 +419,9 @@
         <mxCell id="vJ1_ie6EBMIHjG-oIAPY-4" value="（記入したくもない）&lt;br&gt;「自己紹介シートに&lt;br&gt;わざわざ時間をかけて&lt;br&gt;記入したのは&lt;br&gt;&lt;br&gt;わたしがこの人たちと仲良くしたいからだ」" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="vJ1_ie6EBMIHjG-oIAPY-1">
           <mxGeometry x="10" y="34" width="150" height="148" as="geometry" />
         </mxCell>
+        <mxCell id="Tm9lm75lwOxnOOCXiqBy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D9l5sbA5J0m1VTILzABz-1" target="bb7gL4KQ3JCyR0m-g5xu-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D9l5sbA5J0m1VTILzABz-1" value="相手の話したい事" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="200" width="170" height="279.5" as="geometry" />
         </mxCell>
@@ -427,6 +433,18 @@
         </mxCell>
         <mxCell id="D9l5sbA5J0m1VTILzABz-4" value="相手が食いつきそうな話題を振るa" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="D9l5sbA5J0m1VTILzABz-1">
           <mxGeometry x="10" y="34" width="150" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm9lm75lwOxnOOCXiqBy-1" value="相手にしゃべらせる" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="415" width="170" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm9lm75lwOxnOOCXiqBy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Tm9lm75lwOxnOOCXiqBy-1" source="Tm9lm75lwOxnOOCXiqBy-3" target="Tm9lm75lwOxnOOCXiqBy-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm9lm75lwOxnOOCXiqBy-3" value="人間は&lt;br&gt;話すよりも&lt;br&gt;聞くほうが&lt;br&gt;大好き&lt;br&gt;&lt;br&gt;好きな話題なら&lt;br&gt;猶更" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#FCAD90;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="Tm9lm75lwOxnOOCXiqBy-1">
+          <mxGeometry x="10" y="32" width="150" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm9lm75lwOxnOOCXiqBy-4" value="我々はしゃべらない&lt;br&gt;質問は短く" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="Tm9lm75lwOxnOOCXiqBy-1">
+          <mxGeometry x="10" y="214.5" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
