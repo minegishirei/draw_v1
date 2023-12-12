@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T05:19:58.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="UFzxOiMbWfx9kO5ZdSWv" version="22.1.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-12-12T05:58:27.860Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="lapkrUTA1-yBqdfKoHky" version="22.1.7" type="github" pages="8">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -369,7 +369,7 @@
         <mxCell id="wqsgkcLu4AGD86Iv31x0-12" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;・&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・しかし、それとは別に「エンジニア心理学」「デザイン心理学」を確立していきたい。&lt;br&gt;具体的な行動をとることが出来ている状態。これを継続することで&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="wqsgkcLu4AGD86Iv31x0-1" vertex="1">
           <mxGeometry x="610" y="200" width="190" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="wqsgkcLu4AGD86Iv31x0-13" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;やることリスト&lt;/h1&gt;・行動心理学の基礎（書籍を前に進める）&lt;br&gt;・Haskell" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="wqsgkcLu4AGD86Iv31x0-1" vertex="1">
+        <mxCell id="wqsgkcLu4AGD86Iv31x0-13" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;やることリスト&lt;/h1&gt;・行動心理学の基礎（書籍を前に進める）&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="wqsgkcLu4AGD86Iv31x0-1" vertex="1">
           <mxGeometry x="610" y="40" width="190" height="160" as="geometry" />
         </mxCell>
         <mxCell id="0jWqfET7GG0_dbtOuPzo-0" value="CREATE&#xa;アクション&#xa;ファネル" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="wqsgkcLu4AGD86Iv31x0-1" vertex="1">
