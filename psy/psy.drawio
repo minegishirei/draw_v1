@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T01:39:45.251Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3fH0w9xxlkZ5_qRdCPU0" version="22.1.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-12-12T01:40:42.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="SQzoCZSmiRF6YUDycle3" version="22.1.7" type="github" pages="6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1674" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -491,6 +491,9 @@
         <mxCell id="mOaVPU31h0OK8rvFDCxf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4aRErcCBaJDCj75JPHU4-6" target="mOaVPU31h0OK8rvFDCxf-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mOaVPU31h0OK8rvFDCxf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4aRErcCBaJDCj75JPHU4-6" target="mOaVPU31h0OK8rvFDCxf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4aRErcCBaJDCj75JPHU4-6" value="&lt;font color=&quot;#1a1a1a&quot;&gt;ほかのチームが補足&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="410" y="760" width="150" height="70" as="geometry" />
         </mxCell>
@@ -505,6 +508,9 @@
         </mxCell>
         <mxCell id="mOaVPU31h0OK8rvFDCxf-4" value="人と人、集団と集団が横並びに置かれるとき、その集団の「差分」が強調されてしまう。&lt;br&gt;そうではなく、「共通項」に着目することで" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="mOaVPU31h0OK8rvFDCxf-1">
           <mxGeometry x="10" y="34" width="150" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="mOaVPU31h0OK8rvFDCxf-6" value="&lt;font color=&quot;#1a1a1a&quot;&gt;書籍から得たナレッジに基づいて&lt;br&gt;「チーム」がやるべきことを明確にする&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#CCCCCC;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="920" width="360" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
