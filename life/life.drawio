@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T03:59:32.026Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="-NoP_kjomz5TieZUcK8U" version="22.1.11" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-12-16T12:43:02.358Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="trXsiTPuNzeBWKv5d2wj" version="22.1.11" type="github" pages="10">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -425,7 +425,7 @@
             <mxPoint x="600" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wqsgkcLu4AGD86Iv31x0-12" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;・かなり余力がある。&lt;br&gt;&lt;br&gt;・「行動を変えるデザイン」の第二部までこれたが、実用的な技が増えている状況。&lt;br&gt;&lt;br&gt;・加えて、TreasureMapの育成と10種類のテンプレートの作成も出来上がりつつある。&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="wqsgkcLu4AGD86Iv31x0-1" vertex="1">
+        <mxCell id="wqsgkcLu4AGD86Iv31x0-12" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;・&lt;b&gt;かなり余力がある状態&lt;/b&gt;。自分の人生の幸せを噛み締めながら&lt;br&gt;&lt;br&gt;・「行動を変えるデザイン」の第二部までこれたが、実用的な技が増えている状況。&lt;br&gt;&lt;br&gt;・加えて、TreasureMapの育成と10種類のテンプレートの作成も出来上がりつつある。&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="wqsgkcLu4AGD86Iv31x0-1" vertex="1">
           <mxGeometry x="610" y="200" width="190" height="370" as="geometry" />
         </mxCell>
         <mxCell id="wqsgkcLu4AGD86Iv31x0-13" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;やることリスト&lt;/h1&gt;・行動心理学の基礎（書籍を前に進める）&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="wqsgkcLu4AGD86Iv31x0-1" vertex="1">
@@ -479,7 +479,7 @@
         <mxCell id="ML9IKSb-Yc973jj_WJQz-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="wqsgkcLu4AGD86Iv31x0-1" vertex="1">
           <mxGeometry x="439" y="120" width="20" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="48xLImeIpWVAveDYm1KD-0" value="習慣を&#xa;やめさえる&#xa;戦略" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="wqsgkcLu4AGD86Iv31x0-1">
+        <mxCell id="48xLImeIpWVAveDYm1KD-0" value="習慣を&#xa;やめさえる&#xa;戦略" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="wqsgkcLu4AGD86Iv31x0-1" vertex="1">
           <mxGeometry x="439" y="200" width="71" height="70" as="geometry" />
         </mxCell>
       </root>
