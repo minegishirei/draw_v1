@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T01:58:05.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="s_NlaqzBC5S_oLUsFqaa" version="22.1.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-12-16T12:55:23.245Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="if0aQ89F0gVtg7fraj4y" version="22.1.11" type="github" pages="6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
-    <mxGraphModel dx="1674" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -268,37 +268,37 @@
         <mxCell id="TS7yuXRs32aZA_9tLR4I-8" value="相手が食いつきそうな話題を振るa" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="TS7yuXRs32aZA_9tLR4I-5" vertex="1">
           <mxGeometry x="10" y="34" width="150" height="148" as="geometry" />
         </mxCell>
-        <mxCell id="Z88iFCewQsT_L7C9fJfw-1" value="共通点を強調" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z88iFCewQsT_L7C9fJfw-1" value="共通点を強調" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1440" y="499.5" width="170" height="279.5" as="geometry" />
         </mxCell>
-        <mxCell id="Z88iFCewQsT_L7C9fJfw-2" value="共通点を強調" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="Z88iFCewQsT_L7C9fJfw-1">
+        <mxCell id="Z88iFCewQsT_L7C9fJfw-2" value="共通点を強調" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="Z88iFCewQsT_L7C9fJfw-1" vertex="1">
           <mxGeometry x="10" y="200" width="150" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="Z88iFCewQsT_L7C9fJfw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Z88iFCewQsT_L7C9fJfw-1" source="Z88iFCewQsT_L7C9fJfw-4" target="Z88iFCewQsT_L7C9fJfw-2">
+        <mxCell id="Z88iFCewQsT_L7C9fJfw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Z88iFCewQsT_L7C9fJfw-1" source="Z88iFCewQsT_L7C9fJfw-4" target="Z88iFCewQsT_L7C9fJfw-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z88iFCewQsT_L7C9fJfw-4" value="人と人、集団と集団が横並びに置かれるとき、その集団の「差分」が強調されてしまう。&lt;br&gt;そうではなく、「共通項」に着目することで" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="Z88iFCewQsT_L7C9fJfw-1">
+        <mxCell id="Z88iFCewQsT_L7C9fJfw-4" value="人と人、集団と集団が横並びに置かれるとき、その集団の「差分」が強調されてしまう。&lt;br&gt;そうではなく、「共通項」に着目することで" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="Z88iFCewQsT_L7C9fJfw-1" vertex="1">
           <mxGeometry x="10" y="34" width="150" height="148" as="geometry" />
         </mxCell>
-        <mxCell id="LItR_9ynnI1esaeh7o06-5" value="素早いレスポンス" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LItR_9ynnI1esaeh7o06-5" value="素早いレスポンス" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="800" width="370" height="279.5" as="geometry" />
         </mxCell>
-        <mxCell id="LItR_9ynnI1esaeh7o06-6" value="「リアクション」押下" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="LItR_9ynnI1esaeh7o06-5">
+        <mxCell id="LItR_9ynnI1esaeh7o06-6" value="「リアクション」押下" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="LItR_9ynnI1esaeh7o06-5" vertex="1">
           <mxGeometry x="10" y="210" width="150" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="LItR_9ynnI1esaeh7o06-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LItR_9ynnI1esaeh7o06-5" source="LItR_9ynnI1esaeh7o06-8" target="LItR_9ynnI1esaeh7o06-6">
+        <mxCell id="LItR_9ynnI1esaeh7o06-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="LItR_9ynnI1esaeh7o06-5" source="LItR_9ynnI1esaeh7o06-8" target="LItR_9ynnI1esaeh7o06-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LItR_9ynnI1esaeh7o06-8" value="素早いレスポンスは安心感を生む。&lt;br&gt;ネガティブであれ、ポジティブであれ、フィードバックがないよりは遥かにマシ" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="LItR_9ynnI1esaeh7o06-5">
+        <mxCell id="LItR_9ynnI1esaeh7o06-8" value="素早いレスポンスは安心感を生む。&lt;br&gt;ネガティブであれ、ポジティブであれ、フィードバックがないよりは遥かにマシ" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="LItR_9ynnI1esaeh7o06-5" vertex="1">
           <mxGeometry x="10" y="34" width="150" height="148" as="geometry" />
         </mxCell>
-        <mxCell id="vj7Scc4Wx4nG3Eql7WIM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LItR_9ynnI1esaeh7o06-5" source="vj7Scc4Wx4nG3Eql7WIM-2" target="vj7Scc4Wx4nG3Eql7WIM-1">
+        <mxCell id="vj7Scc4Wx4nG3Eql7WIM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="LItR_9ynnI1esaeh7o06-5" source="vj7Scc4Wx4nG3Eql7WIM-2" target="vj7Scc4Wx4nG3Eql7WIM-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vj7Scc4Wx4nG3Eql7WIM-2" value="「無言」を選択することで&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;勝手にいろいろ想像してしまう&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;不安感をあおることが出来る" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="LItR_9ynnI1esaeh7o06-5">
+        <mxCell id="vj7Scc4Wx4nG3Eql7WIM-2" value="「無言」を選択することで&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;勝手にいろいろ想像してしまう&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;不安感をあおることが出来る" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="LItR_9ynnI1esaeh7o06-5" vertex="1">
           <mxGeometry x="210" y="34" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="vj7Scc4Wx4nG3Eql7WIM-1" value="無言戦略" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="LItR_9ynnI1esaeh7o06-5">
+        <mxCell id="vj7Scc4Wx4nG3Eql7WIM-1" value="無言戦略" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="LItR_9ynnI1esaeh7o06-5" vertex="1">
           <mxGeometry x="210" y="209.9999999999999" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
