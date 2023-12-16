@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T03:02:55.276Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="5CsA0GDI-uEKD4pJEcww" version="22.1.11" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-12-16T03:06:54.592Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="WrJq83qnsKWrqu0Fh6Jw" version="22.1.11" type="github" pages="10">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
-    <mxGraphModel dx="367" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="578" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,38 +11,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-3" value="&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;エンジニア心理学" style="rounded=1;fillColor=#6666FF;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="81.5" width="153" height="148" as="geometry" />
-        </mxCell>
-        <mxCell id="JLMTn3G_srW5ChnLwk6p-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="JLMTn3G_srW5ChnLwk6p-5" target="JLMTn3G_srW5ChnLwk6p-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1081" y="304" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="1027.5" y="81.5" width="153" height="148" as="geometry" />
         </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-5" value="【ペルソナ】&#xa;・コミュニケーションが苦手なエンジニア&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;・上長との関係性に問題があるエンジニア&#xa;・困ったユーザーを抱えるエンジニア&#xa;・困った部下を抱えるエンジニア" style="text;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="870" y="238" width="240" height="223" as="geometry" />
-        </mxCell>
-        <mxCell id="JLMTn3G_srW5ChnLwk6p-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="JLMTn3G_srW5ChnLwk6p-7" target="JLMTn3G_srW5ChnLwk6p-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="840" y="246.5" width="240" height="223" as="geometry" />
         </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-7" value="【ブランドプロミス】&#xa;・状況を適切に判断し、各方面と適切なコミュニケーションをとり改善策を打てるエンジニアになりたい&#xa;・雑談が面白いエンジニアになりたい&#xa;・上司との人間関係を改善したい&#xa;・要件定義フェーズでのミスをなくしたい" style="text;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="870" y="511" width="240" height="126" as="geometry" />
-        </mxCell>
-        <mxCell id="JLMTn3G_srW5ChnLwk6p-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="JLMTn3G_srW5ChnLwk6p-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1110" y="870.0000000000002" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="840" y="519.5" width="240" height="126" as="geometry" />
         </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-9" value="【製品体験】&#xa;・コミュニケーション具体例を&#xa;・関西弁？で&#xa;・会話形式で&#xa;・どんなレベルでもわかるように伝える" style="text;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="870" y="830" width="240" height="80" as="geometry" />
+          <mxGeometry x="840" y="838.5" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://raw.githubusercontent.com/minegishirei/minegishirei/main/img/beaver_%E3%83%9B%E3%82%9A%E3%82%AB%E3%83%BC%E3%83%B3_zoom.png;" parent="1" vertex="1">
-          <mxGeometry x="1136.5" y="82" width="120" height="120" as="geometry" />
+          <mxGeometry x="1044" y="82" width="123.5" height="123.5" as="geometry" />
         </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://2.bp.blogspot.com/-UaIG6gzaH20/Vf-eN84hvuI/AAAAAAAAyM4/O94XIIiz9Ww/s800/communication_nigate_shifuku.png;" parent="1" vertex="1">
-          <mxGeometry x="922.5" y="282" width="135" height="135" as="geometry" />
+          <mxGeometry x="892.5" y="290.5" width="135" height="135" as="geometry" />
         </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-12" value="エンジニア心理学は 円滑な人間関係,チームワークを望む「エンジニア向けの学問」です。&#xa; 会話が苦手なエンジニアでも実践できる体型だったコミュニケーション術をまとめました。&#xa;ケース別に対応方法を網羅した点が特徴です" style="text;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="840" y="81.5" width="260" height="99.5" as="geometry" />
+          <mxGeometry x="840" y="81.5" width="180" height="99.5" as="geometry" />
         </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JLMTn3G_srW5ChnLwk6p-26" target="JLMTn3G_srW5ChnLwk6p-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -54,7 +41,7 @@
           <mxGeometry x="2201" y="42" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-31" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1.bp.blogspot.com/-65sJUctWUHk/VSufuTgnCUI/AAAAAAAAtBM/qp4kxYW0H-w/s450/syoudan_torihiki.png;" parent="1" vertex="1">
-          <mxGeometry x="912" y="620" width="156" height="130" as="geometry" />
+          <mxGeometry x="882" y="628.5" width="156" height="130" as="geometry" />
         </mxCell>
         <mxCell id="JLMTn3G_srW5ChnLwk6p-33" value="10xプログラマーとは、普通のプログラマーと比べて10倍の生産性をもつプログラマーの事です。&#xa;「無駄な機能を付けない」「オリジナリティを出さない」「ゴミを出さない」「物理的に早く動く」を守るため、「アジャイル」を中心とした10xのための技術をまとめました。" style="text;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2221" y="82" width="260" height="118" as="geometry" />
