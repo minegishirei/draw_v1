@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-17T06:58:21.877Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zC8cSQ821icequ91HaPQ" version="22.1.11" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2023-12-17T06:58:52.249Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="FMaDIrLmJNqrv93mXjbb" version="22.1.11" type="github" pages="34">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2947.5" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2469,6 +2469,136 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram name="20230803" id="9NTUaBY7zy4PN5tMbF_2">
+    <mxGraphModel dx="1194" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="mxjD-gauOfMQA1K0BEf4-0" />
+        <mxCell id="mxjD-gauOfMQA1K0BEf4-1" parent="mxjD-gauOfMQA1K0BEf4-0" />
+        <mxCell id="mxjD-gauOfMQA1K0BEf4-2" value="火" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
+          <mxGeometry x="99" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mxjD-gauOfMQA1K0BEf4-3" value="水" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
+          <mxGeometry x="179" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mxjD-gauOfMQA1K0BEf4-4" value="木" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
+          <mxGeometry x="259" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mxjD-gauOfMQA1K0BEf4-5" value="金" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
+          <mxGeometry x="339" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mxjD-gauOfMQA1K0BEf4-6" value="土" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
+          <mxGeometry x="419" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mxjD-gauOfMQA1K0BEf4-7" value="日" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
+          <mxGeometry x="499" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mxjD-gauOfMQA1K0BEf4-8" value="月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
+          <mxGeometry x="19" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mxjD-gauOfMQA1K0BEf4-9" value="7/3の週 行動記録" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
+          <mxGeometry y="45" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mxjD-gauOfMQA1K0BEf4-10" value="&lt;h1&gt;テーマ：AWS / モダンLinux&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
+          <mxGeometry x="120" y="40" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mxjD-gauOfMQA1K0BEf4-11" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" parent="mxjD-gauOfMQA1K0BEf4-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="41" y="110" as="sourcePoint" />
+            <mxPoint x="632" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mxjD-gauOfMQA1K0BEf4-12" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;&lt;p&gt;・Codebuildのno_proxyで躓き続けたのは正直痛手であった。VPCの知識を身に着けることができたが、できれば自力で解決したかった。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
+          <mxGeometry x="520" y="120" width="280" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="mxjD-gauOfMQA1K0BEf4-13" value="Valorant" style="rounded=1;fillColor=#FF0000;strokeColor=#FF6666;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
+          <mxGeometry x="38" y="360" width="69" height="151" as="geometry" />
+        </mxCell>
+        <mxCell id="mxjD-gauOfMQA1K0BEf4-14" value="AWS&#xa;Codebuild" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
+          <mxGeometry x="38" y="120" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-kSSI9X7VfIq35ZFGyY8-0" value="AWS&#xa;Code&#xa;Pipline" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
+          <mxGeometry x="38" y="200" width="70" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="4lfdSByFsEMIIi8HAW3g-0" value="Mouth&#xa;Move" style="rounded=1;fillColor=#6a00ff;strokeColor=#3700CC;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
+          <mxGeometry x="120" y="119" width="70" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="W3chkndjnukVIdReh_ta-0" value="AWS&#xa;Code&#xa;Pipline" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
+          <mxGeometry x="120" y="200" width="70" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="O4fbTthcDSBLPfqnt1rZ-0" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
+          <mxGeometry x="38" y="200" width="20" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="O4fbTthcDSBLPfqnt1rZ-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
+          <mxGeometry x="39" y="120" width="20" height="21" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="20230731" id="dSYH6EWcwbfbeYPFWW2n">
+    <mxGraphModel dx="1194" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="8FrtrManxvWrtPnasyxd-0" />
+        <mxCell id="8FrtrManxvWrtPnasyxd-1" parent="8FrtrManxvWrtPnasyxd-0" />
+        <mxCell id="8FrtrManxvWrtPnasyxd-2" value="火" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
+          <mxGeometry x="99" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-3" value="水" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
+          <mxGeometry x="179" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-4" value="木" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
+          <mxGeometry x="259" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-5" value="金" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
+          <mxGeometry x="339" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-6" value="土" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
+          <mxGeometry x="419" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-7" value="日" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
+          <mxGeometry x="499" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-8" value="月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
+          <mxGeometry x="19" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-9" value="7/3の週 行動記録" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
+          <mxGeometry y="45" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-10" value="&lt;h1&gt;テーマ：AWS / モダンLinux&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
+          <mxGeometry x="120" y="40" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-11" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" parent="8FrtrManxvWrtPnasyxd-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="41" y="110" as="sourcePoint" />
+            <mxPoint x="632" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-12" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;&lt;p&gt;・Codebuildのno_proxyで躓き続けたのは正直痛手であった。VPCの知識を身に着けることができたが、できれば自力で解決したかった。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
+          <mxGeometry x="520" y="120" width="280" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-15" value="Valorant" style="rounded=1;fillColor=#FF0000;strokeColor=#FF6666;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
+          <mxGeometry x="38" y="360" width="69" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="8FrtrManxvWrtPnasyxd-19" value="AWS&#xa;Codebuild" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
+          <mxGeometry x="38" y="120" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OoBcF0CC7l8aTPjGriOl-2" value="AWS&#xa;Cloud9" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
+          <mxGeometry x="38" y="200" width="70" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="61xe5AaW3DMBm3GBXveU-0" value="Linux&#xa;mm" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
+          <mxGeometry x="120" y="361" width="69" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gVVa61DZgePtSnJz86Qp-0" value="React&#xa;GA4" style="rounded=1;fillColor=#FF6666;strokeColor=#FF6666;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
+          <mxGeometry x="120" y="120" width="71" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="gVVa61DZgePtSnJz86Qp-1" value="Git" style="rounded=1;fillColor=#FF6666;strokeColor=#FF6666;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
+          <mxGeometry x="120" y="281" width="71" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="w4paftrov0-TXjIlmSPG-0" value="Eye&#xa;Brows" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
+          <mxGeometry x="121" y="440" width="70" height="71" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram name="20230515" id="FXtfNNvRTSofU448_K6f">
     <mxGraphModel dx="1194" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3841,136 +3971,6 @@
         </mxCell>
         <mxCell id="VlDbdLH-N2GoE1Od23B_-3" value="Linux&#xa;Modan&#xa;tmux" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="SJi1lXoTE9MvXrvbxW---1" vertex="1">
           <mxGeometry x="120" y="120" width="69" height="150" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="20230731" id="dSYH6EWcwbfbeYPFWW2n">
-    <mxGraphModel dx="1194" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="8FrtrManxvWrtPnasyxd-0" />
-        <mxCell id="8FrtrManxvWrtPnasyxd-1" parent="8FrtrManxvWrtPnasyxd-0" />
-        <mxCell id="8FrtrManxvWrtPnasyxd-2" value="火" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
-          <mxGeometry x="99" y="75" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8FrtrManxvWrtPnasyxd-3" value="水" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
-          <mxGeometry x="179" y="75" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8FrtrManxvWrtPnasyxd-4" value="木" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
-          <mxGeometry x="259" y="75" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8FrtrManxvWrtPnasyxd-5" value="金" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
-          <mxGeometry x="339" y="75" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8FrtrManxvWrtPnasyxd-6" value="土" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
-          <mxGeometry x="419" y="75" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8FrtrManxvWrtPnasyxd-7" value="日" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
-          <mxGeometry x="499" y="75" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8FrtrManxvWrtPnasyxd-8" value="月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
-          <mxGeometry x="19" y="75" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8FrtrManxvWrtPnasyxd-9" value="7/3の週 行動記録" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
-          <mxGeometry y="45" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8FrtrManxvWrtPnasyxd-10" value="&lt;h1&gt;テーマ：AWS / モダンLinux&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
-          <mxGeometry x="120" y="40" width="480" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="8FrtrManxvWrtPnasyxd-11" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" parent="8FrtrManxvWrtPnasyxd-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="41" y="110" as="sourcePoint" />
-            <mxPoint x="632" y="110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8FrtrManxvWrtPnasyxd-12" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;&lt;p&gt;・Codebuildのno_proxyで躓き続けたのは正直痛手であった。VPCの知識を身に着けることができたが、できれば自力で解決したかった。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
-          <mxGeometry x="520" y="120" width="280" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="8FrtrManxvWrtPnasyxd-15" value="Valorant" style="rounded=1;fillColor=#FF0000;strokeColor=#FF6666;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
-          <mxGeometry x="38" y="360" width="69" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="8FrtrManxvWrtPnasyxd-19" value="AWS&#xa;Codebuild" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
-          <mxGeometry x="38" y="120" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="OoBcF0CC7l8aTPjGriOl-2" value="AWS&#xa;Cloud9" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
-          <mxGeometry x="38" y="200" width="70" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="61xe5AaW3DMBm3GBXveU-0" value="Linux&#xa;mm" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
-          <mxGeometry x="120" y="361" width="69" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="gVVa61DZgePtSnJz86Qp-0" value="React&#xa;GA4" style="rounded=1;fillColor=#FF6666;strokeColor=#FF6666;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
-          <mxGeometry x="120" y="120" width="71" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="gVVa61DZgePtSnJz86Qp-1" value="Git" style="rounded=1;fillColor=#FF6666;strokeColor=#FF6666;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
-          <mxGeometry x="120" y="281" width="71" height="69" as="geometry" />
-        </mxCell>
-        <mxCell id="w4paftrov0-TXjIlmSPG-0" value="Eye&#xa;Brows" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="8FrtrManxvWrtPnasyxd-1" vertex="1">
-          <mxGeometry x="121" y="440" width="70" height="71" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="20230803" id="9NTUaBY7zy4PN5tMbF_2">
-    <mxGraphModel dx="1194" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="mxjD-gauOfMQA1K0BEf4-0" />
-        <mxCell id="mxjD-gauOfMQA1K0BEf4-1" parent="mxjD-gauOfMQA1K0BEf4-0" />
-        <mxCell id="mxjD-gauOfMQA1K0BEf4-2" value="火" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
-          <mxGeometry x="99" y="75" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mxjD-gauOfMQA1K0BEf4-3" value="水" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
-          <mxGeometry x="179" y="75" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mxjD-gauOfMQA1K0BEf4-4" value="木" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
-          <mxGeometry x="259" y="75" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mxjD-gauOfMQA1K0BEf4-5" value="金" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
-          <mxGeometry x="339" y="75" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mxjD-gauOfMQA1K0BEf4-6" value="土" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
-          <mxGeometry x="419" y="75" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mxjD-gauOfMQA1K0BEf4-7" value="日" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
-          <mxGeometry x="499" y="75" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mxjD-gauOfMQA1K0BEf4-8" value="月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
-          <mxGeometry x="19" y="75" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mxjD-gauOfMQA1K0BEf4-9" value="7/3の週 行動記録" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
-          <mxGeometry y="45" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mxjD-gauOfMQA1K0BEf4-10" value="&lt;h1&gt;テーマ：AWS / モダンLinux&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
-          <mxGeometry x="120" y="40" width="480" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mxjD-gauOfMQA1K0BEf4-11" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" parent="mxjD-gauOfMQA1K0BEf4-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="41" y="110" as="sourcePoint" />
-            <mxPoint x="632" y="110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mxjD-gauOfMQA1K0BEf4-12" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;&lt;p&gt;・Codebuildのno_proxyで躓き続けたのは正直痛手であった。VPCの知識を身に着けることができたが、できれば自力で解決したかった。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
-          <mxGeometry x="520" y="120" width="280" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="mxjD-gauOfMQA1K0BEf4-13" value="Valorant" style="rounded=1;fillColor=#FF0000;strokeColor=#FF6666;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
-          <mxGeometry x="38" y="360" width="69" height="151" as="geometry" />
-        </mxCell>
-        <mxCell id="mxjD-gauOfMQA1K0BEf4-14" value="AWS&#xa;Codebuild" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
-          <mxGeometry x="38" y="120" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="-kSSI9X7VfIq35ZFGyY8-0" value="AWS&#xa;Code&#xa;Pipline" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
-          <mxGeometry x="38" y="200" width="70" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="4lfdSByFsEMIIi8HAW3g-0" value="Mouth&#xa;Move" style="rounded=1;fillColor=#6a00ff;strokeColor=#3700CC;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
-          <mxGeometry x="120" y="119" width="70" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="W3chkndjnukVIdReh_ta-0" value="AWS&#xa;Code&#xa;Pipline" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
-          <mxGeometry x="120" y="200" width="70" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="O4fbTthcDSBLPfqnt1rZ-0" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
-          <mxGeometry x="38" y="200" width="20" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="O4fbTthcDSBLPfqnt1rZ-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="mxjD-gauOfMQA1K0BEf4-1" vertex="1">
-          <mxGeometry x="39" y="120" width="20" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
