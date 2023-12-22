@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-22T03:14:40.657Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="dunVo63YE13iO0-Tv2w_" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-22T03:14:58.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="uL8OV1Wedj5eo4k4oS2m" version="22.1.11" type="github">
   <diagram name="20231222" id="fWnAwtYzaFjnDb0Ai4UA">
     <mxGraphModel dx="1434" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,28 +41,7 @@
           <mxGeometry x="610" y="40" width="190" height="160" as="geometry" />
         </mxCell>
         <mxCell id="0SGao8oZKVO_nWCi-jgn-21" value="XP&#xa;ペアプロ" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="40" y="120" width="70" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="0SGao8oZKVO_nWCi-jgn-25" value="IaC&#xa;メリット" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="360" y="120" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="0SGao8oZKVO_nWCi-jgn-26" value="習慣を&#xa;作る&#xa;戦略" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="440" y="120" width="71" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="0SGao8oZKVO_nWCi-jgn-27" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="1">
-          <mxGeometry x="439" y="120" width="20" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="0SGao8oZKVO_nWCi-jgn-28" value="習慣を&#xa;やめさえる&#xa;戦略" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="439" y="200" width="71" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="0SGao8oZKVO_nWCi-jgn-29" value="4+2&#xa;レベル確認" style="rounded=1;fillColor=#7EA6E0;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="439" y="280" width="71" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="0SGao8oZKVO_nWCi-jgn-30" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="1">
-          <mxGeometry x="439" y="280" width="20" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="0SGao8oZKVO_nWCi-jgn-31" value="休日" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="520" y="120.5" width="70" height="389" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
