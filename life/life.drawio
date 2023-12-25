@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T10:52:22.147Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="GsPkNWEomcDWNEryb-pB" version="22.1.11" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-12-25T10:52:34.296Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="E7gdm4DcCoHAxxJnEdgl" version="22.1.11" type="github" pages="11">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -316,12 +316,6 @@
         <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-3" value="12月" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" parent="1" vertex="1">
           <mxGeometry x="1061" y="108" width="331" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-4" value="1月" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" parent="1" vertex="1">
-          <mxGeometry x="1381" y="108" width="331" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-5" value="エンジニア心理学&#xa;確立&#xa;常時100いいね" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="2341" y="188" width="310" height="68" as="geometry" />
-        </mxCell>
         <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-6" value="エンジニア心理学&#xa;ブランド確立" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="421" y="268" width="310" height="68" as="geometry" />
         </mxCell>
@@ -339,15 +333,6 @@
         </mxCell>
         <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-11" value="称号&#xa;「若い」が「おとな」&#xa;「若い」「職人芸」「フルスタック」&#xa;「みたことある！」" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="61" y="188" width="350" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-12" value="2月" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" parent="1" vertex="1">
-          <mxGeometry x="1701" y="108" width="331" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-13" value="3月" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" parent="1" vertex="1">
-          <mxGeometry x="2021" y="108" width="331" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-14" value="4月" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" parent="1" vertex="1">
-          <mxGeometry x="2341" y="108" width="331" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-15" value="エンジニア心理学&#xa;2記事連続&#xa;50いいね" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="740" y="188" width="151" height="68" as="geometry" />
@@ -390,9 +375,6 @@
         </mxCell>
         <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-28" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="1" vertex="1">
           <mxGeometry x="740" y="188" width="20" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-29" value="エンジニア心理学&#xa;「みたことがある！」を確立" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="2341" y="268" width="310" height="68" as="geometry" />
         </mxCell>
         <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-30" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="1" vertex="1">
           <mxGeometry x="661" y="348" width="20" height="21" as="geometry" />
