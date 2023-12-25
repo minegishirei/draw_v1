@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T09:39:25.046Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZpN1Bm3nlj_Zq7NtBwpl" version="22.1.11" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-12-25T10:49:07.784Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="KfJCb1S8kUJgn10ZlyWR" version="22.1.11" type="github" pages="10">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
-    <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="367" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,7 +121,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CL9DkSJlGBnOhkRjz52_" name="year">
-    <mxGraphModel dx="1194" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1493" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -303,7 +303,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20231225" id="nMjGr3g38JgFLWdHsyrh">
-    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="W6p_zbEorA8epCRSyYyF-0" />
         <mxCell id="W6p_zbEorA8epCRSyYyF-1" parent="W6p_zbEorA8epCRSyYyF-0" />
@@ -328,7 +328,7 @@
         <mxCell id="W6p_zbEorA8epCRSyYyF-8" value="月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="W6p_zbEorA8epCRSyYyF-1" vertex="1">
           <mxGeometry x="19" y="75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W6p_zbEorA8epCRSyYyF-9" value="&lt;h1&gt;テーマ：ラスト&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="W6p_zbEorA8epCRSyYyF-1" vertex="1">
+        <mxCell id="W6p_zbEorA8epCRSyYyF-9" value="&lt;h1&gt;テーマ：振り返り会&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="W6p_zbEorA8epCRSyYyF-1" vertex="1">
           <mxGeometry x="40" y="40" width="480" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W6p_zbEorA8epCRSyYyF-10" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" parent="W6p_zbEorA8epCRSyYyF-1" edge="1">
@@ -347,7 +347,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20231218" id="qDZ8kboyXPqC4G4zveMq">
-    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="q4rX0ZSOSa0GFTOWTn08-0" />
         <mxCell id="q4rX0ZSOSa0GFTOWTn08-1" parent="q4rX0ZSOSa0GFTOWTn08-0" />
@@ -399,20 +399,20 @@
         <mxCell id="TfFygvLOpt7hBiAawNTG-1" value="スクラム&#xa;マスター&#xa;の会" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="q4rX0ZSOSa0GFTOWTn08-1" vertex="1">
           <mxGeometry x="280" y="120.5" width="70" height="389" as="geometry" />
         </mxCell>
-        <mxCell id="NyFYBWoFVTW_5JFH4mMA-0" value="スクラム&#xa;マスター&#xa;の会" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="q4rX0ZSOSa0GFTOWTn08-1">
+        <mxCell id="NyFYBWoFVTW_5JFH4mMA-0" value="スクラム&#xa;マスター&#xa;の会" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="q4rX0ZSOSa0GFTOWTn08-1" vertex="1">
           <mxGeometry x="440" y="120.5" width="70" height="389" as="geometry" />
         </mxCell>
-        <mxCell id="NyFYBWoFVTW_5JFH4mMA-1" value="スクラム&#xa;マスター&#xa;の会" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="q4rX0ZSOSa0GFTOWTn08-1">
+        <mxCell id="NyFYBWoFVTW_5JFH4mMA-1" value="スクラム&#xa;マスター&#xa;の会" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="q4rX0ZSOSa0GFTOWTn08-1" vertex="1">
           <mxGeometry x="520" y="120.5" width="70" height="229.5" as="geometry" />
         </mxCell>
-        <mxCell id="8fQWOvgWS1kNUfJZJLjE-0" value="vim" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="q4rX0ZSOSa0GFTOWTn08-1">
+        <mxCell id="8fQWOvgWS1kNUfJZJLjE-0" value="vim" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="q4rX0ZSOSa0GFTOWTn08-1" vertex="1">
           <mxGeometry x="520" y="360" width="70" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="20231211" id="Pv2ygcAqwSPzIHBQICAB">
-    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="wqsgkcLu4AGD86Iv31x0-0" />
         <mxCell id="wqsgkcLu4AGD86Iv31x0-1" parent="wqsgkcLu4AGD86Iv31x0-0" />
