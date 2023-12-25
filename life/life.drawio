@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T13:01:26.588Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2s_sihfZjaSEWPVexeIv" version="22.1.11" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-12-25T13:02:22.237Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="xY4Y8Fa1J0GHdMaZVBhx" version="22.1.11" type="github" pages="11">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="KdP75HX4KpQWsnjV_Gn1-9" value="Vim" style="rounded=1;fillColor=#1699D3;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1120.21" y="400" width="76.07" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KdP75HX4KpQWsnjV_Gn1-16" value="Haskell" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="KdP75HX4KpQWsnjV_Gn1-16" value="Haskell" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1121.25" y="240" width="77" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KdP75HX4KpQWsnjV_Gn1-23" value="UIUX" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
@@ -54,7 +54,7 @@
             <mxPoint x="1113.54" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0zhD8Vz5HRVrSgqt4NQ7-4" value="副作用を&#xa;減らす" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="0zhD8Vz5HRVrSgqt4NQ7-4" value="副作用を&#xa;減らす" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="931.04" y="240" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oj9QsQ3zu7cd3rdEB_5L-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0zhD8Vz5HRVrSgqt4NQ7-5" target="KdP75HX4KpQWsnjV_Gn1-9" edge="1">
