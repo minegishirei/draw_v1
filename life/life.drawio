@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T09:38:26.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="GurZSHCuRLIBNNC3GHYh" version="22.1.11" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-12-25T09:39:17.622Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="yg9ZqdwSMiaH8gjfrecj" version="22.1.11" type="github" pages="10">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -403,10 +403,10 @@
           <mxGeometry x="440" y="120.5" width="70" height="389" as="geometry" />
         </mxCell>
         <mxCell id="NyFYBWoFVTW_5JFH4mMA-1" value="スクラム&#xa;マスター&#xa;の会" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="q4rX0ZSOSa0GFTOWTn08-1">
-          <mxGeometry x="520" y="120.5" width="70" height="189.5" as="geometry" />
+          <mxGeometry x="520" y="120.5" width="70" height="229.5" as="geometry" />
         </mxCell>
         <mxCell id="8fQWOvgWS1kNUfJZJLjE-0" value="vim" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="q4rX0ZSOSa0GFTOWTn08-1">
-          <mxGeometry x="520" y="320" width="70" height="190" as="geometry" />
+          <mxGeometry x="520" y="360" width="70" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
