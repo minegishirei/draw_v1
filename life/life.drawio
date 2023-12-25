@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T12:30:27.060Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="CahYsT6UXylesqAz3yVF" version="22.1.11" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-12-25T12:30:54.277Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="6qwUiKgC6xijooozFHzs" version="22.1.11" type="github" pages="11">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -369,6 +369,12 @@
         </mxCell>
         <mxCell id="4_l4bgfT3N1cDTIzToyR-8" value="Docker&#xa;ハンズオン" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-939" y="348" width="69" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4_l4bgfT3N1cDTIzToyR-9" value="Linux&#xa;kernel" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="270" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4_l4bgfT3N1cDTIzToyR-10" value="Docker&#xa;Redmine&#xa;OSS" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-769" y="350" width="69" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
