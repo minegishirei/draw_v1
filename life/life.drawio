@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T09:39:17.622Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="yg9ZqdwSMiaH8gjfrecj" version="22.1.11" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-12-25T09:39:25.046Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZpN1Bm3nlj_Zq7NtBwpl" version="22.1.11" type="github" pages="10">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -382,7 +382,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q4rX0ZSOSa0GFTOWTn08-11" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;・かなり余力がある。&lt;br&gt;&lt;br&gt;・「行動を変えるデザイン」の第二部までこれたが、実用的な技が増えている状況。&lt;br&gt;&lt;br&gt;・加えて、TreasureMapの育成と10種類のテンプレートの作成も出来上がりつつある。&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="q4rX0ZSOSa0GFTOWTn08-1" vertex="1">
-          <mxGeometry x="610" y="200" width="190" height="370" as="geometry" />
+          <mxGeometry x="610" y="200" width="190" height="200" as="geometry" />
         </mxCell>
         <mxCell id="q4rX0ZSOSa0GFTOWTn08-12" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;やることリスト&lt;/h1&gt;・行動心理学の基礎（書籍を前に進める）&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="q4rX0ZSOSa0GFTOWTn08-1" vertex="1">
           <mxGeometry x="610" y="40" width="190" height="160" as="geometry" />
