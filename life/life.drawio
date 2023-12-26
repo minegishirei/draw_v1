@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T01:52:25.980Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="svOiOSNDvqQKbl9P6saD" version="22.1.11" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-12-26T01:53:10.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ATaMPpb_y0C293ft-lCC" version="22.1.11" type="github" pages="11">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -439,7 +439,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20231218" id="qDZ8kboyXPqC4G4zveMq">
-    <mxGraphModel dx="1194" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="q4rX0ZSOSa0GFTOWTn08-0" />
         <mxCell id="q4rX0ZSOSa0GFTOWTn08-1" parent="q4rX0ZSOSa0GFTOWTn08-0" />
@@ -492,13 +492,16 @@
           <mxGeometry x="280" y="120.5" width="70" height="389" as="geometry" />
         </mxCell>
         <mxCell id="NyFYBWoFVTW_5JFH4mMA-0" value="スクラム&#xa;マスター&#xa;の会" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="q4rX0ZSOSa0GFTOWTn08-1" vertex="1">
-          <mxGeometry x="440" y="120.5" width="70" height="389" as="geometry" />
+          <mxGeometry x="440" y="120.5" width="70" height="229.5" as="geometry" />
         </mxCell>
         <mxCell id="NyFYBWoFVTW_5JFH4mMA-1" value="スクラム&#xa;マスター&#xa;の会" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="q4rX0ZSOSa0GFTOWTn08-1" vertex="1">
           <mxGeometry x="520" y="120.5" width="70" height="229.5" as="geometry" />
         </mxCell>
-        <mxCell id="8fQWOvgWS1kNUfJZJLjE-0" value="vim" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="q4rX0ZSOSa0GFTOWTn08-1" vertex="1">
-          <mxGeometry x="520" y="360" width="70" height="150" as="geometry" />
+        <mxCell id="d_ggm12w56vL1yxhzcst-0" value="Vim" style="rounded=1;fillColor=#1699D3;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="q4rX0ZSOSa0GFTOWTn08-1">
+          <mxGeometry x="520" y="360" width="76.07" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="d_ggm12w56vL1yxhzcst-1" value="Vim" style="rounded=1;fillColor=#1699D3;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="q4rX0ZSOSa0GFTOWTn08-1">
+          <mxGeometry x="440" y="359.5" width="70" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
