@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T00:57:39.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="tWLybjf4QBasZ827Cwx6" version="22.1.11" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-12-26T00:58:19.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="zhypfRWa-_V44ecXdkZD" version="22.1.11" type="github" pages="11">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -381,6 +381,12 @@
         </mxCell>
         <mxCell id="so0e2tdLyfJC6wm2YqYk-1" value="Vim" style="rounded=1;fillColor=#1699D3;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-690" y="268" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IaoNmMGt94izz8ial_Id-1" value="AWS&#xa;VPC" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="268" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IaoNmMGt94izz8ial_Id-2" value="AWS&#xa;S3" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="348" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
