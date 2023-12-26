@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T05:26:11.393Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Kv3vKuVDUvmCRZ2UuzMv" version="22.1.11" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-12-26T05:27:15.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ydSrMO7ZLoveRl7BCwI0" version="22.1.11" type="github" pages="11">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -471,7 +471,7 @@
         <mxCell id="JDlDS9wVR-HEzNDiFpro-31" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Haskell(Lv0→2)&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;・「プログラミングとは数学である」と再認識できた。&lt;br&gt;純粋な関数型プログラミングを知ることができたのが大きい。&lt;br&gt;&lt;br&gt;・以前は関数型プログラミングはjavascriptのmap,reduce,join,filterのみだという考え方であった。&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;・11月に入ったときに池袋の書店で偶然Haskellを見たときに、どうしてもやりたくなってしまった&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="-1400" y="360" width="190" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="IZOFRnWUSI8T0Dl4SdaO-1" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Vim(Lv2→7)&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;・上がり幅がえぐいのが、「Vim」&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
+        <mxCell id="IZOFRnWUSI8T0Dl4SdaO-1" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Vim(Lv2→7)&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;・上がり幅がえぐいのが、「Vim」&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・自分の技術の根幹を支える最も基礎的な技術である。&lt;br&gt;&lt;br&gt;・基本的なVim操作だけで高いレベルに持って行ってくれる。&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="-1600" y="600" width="190" height="200" as="geometry" />
         </mxCell>
       </root>
