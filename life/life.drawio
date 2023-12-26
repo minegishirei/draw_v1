@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T01:51:53.636Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="gJ5HcMv_waXQhLmyRjmf" version="22.1.11" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-12-26T01:52:03.843Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="2WPpWSA9kb622UUbchb1" version="22.1.11" type="github" pages="11">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -272,7 +272,7 @@
           <mxGeometry x="901" y="348" width="20" height="21" as="geometry" />
         </mxCell>
         <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-40" value="&lt;h1&gt;エンジニア心理学好調☀️&lt;/h1&gt;&lt;p&gt;今後の方向性「エンジニア心理学」が定まった。エンジニアとしてのブランド価値向上に繋げる。&lt;/p&gt;&lt;p&gt;また、人生設計レポートをつけはじめてから6ヶ月過ぎた。行動の一貫性が生まれ、&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="741" y="588" width="311" height="170" as="geometry" />
+          <mxGeometry x="740" y="600" width="311" height="170" as="geometry" />
         </mxCell>
         <mxCell id="k9e4bQI_iiWMmDLtN9nP-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
