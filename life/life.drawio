@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T01:48:41.426Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="bfegrcwA0hf2IBs1UJGE" version="22.1.11" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-12-26T01:49:45.461Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="D3QQcij8wyGudWGj4gH-" version="22.1.11" type="github" pages="11">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -214,19 +214,19 @@
         <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-17" value="視線" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="661" y="588" width="71" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-18" value="k8s&#xa;command" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-18" value="k8s&#xa;command" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="661" y="348" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-19" value="k8s&#xa;container&#xa;pod" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="660" y="508" width="151" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-20" value="k8s 9章&#xa;pod管理" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-20" value="k8s 9章&#xa;pod管理" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="901" y="348" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-21" value="k8s 10章&#xa;機密情報" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-21" value="k8s 10章&#xa;機密情報" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="901" y="428" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-22" value="k8s 11章&#xa;secure" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-22" value="k8s 11章&#xa;secure" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="741" y="348" width="70" height="150" as="geometry" />
         </mxCell>
         <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-24" value="エンジニア心理学&#xa;ブランドロゴ作成" style="rounded=1;fillColor=#00CCCC;strokeColor=none;shadow=0;fontStyle=1;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
@@ -247,7 +247,7 @@
         <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-30" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="1" vertex="1">
           <mxGeometry x="661" y="348" width="20" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-31" value="k8s 11章&#xa;backup" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-31" value="k8s 11章&#xa;backup" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="819" y="348" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TPT2Fu3MQtTNcKjjQ9W8-32" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="1" vertex="1">
