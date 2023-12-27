@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T23:29:38.807Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="O4Q2JrYYtXq6KCtvg3fU" version="22.1.12" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-12-27T23:30:19.658Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="m_KXcty2_jAQ4bTMdKv1" version="22.1.12" type="github" pages="13">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
           <mxGeometry x="880" y="40" width="480" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mjs3XZnm56XjurGKM9Tk-3" value="&lt;h1&gt;&lt;/h1&gt;・myworking 半年位以上酷使&lt;br&gt;・マウス、トラックパッド封印" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="1470" y="279" width="120" height="78" as="geometry" />
+          <mxGeometry x="1710" y="271" width="120" height="78" as="geometry" />
         </mxCell>
         <mxCell id="mjs3XZnm56XjurGKM9Tk-4" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&lt;font size=&quot;1&quot;&gt;残タスク&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1470" y="97" width="48.48" height="20" as="geometry" />
@@ -106,7 +106,7 @@
           <mxGeometry x="1470" y="520" width="120" height="78" as="geometry" />
         </mxCell>
         <mxCell id="mjs3XZnm56XjurGKM9Tk-7" value="&lt;h1&gt;&lt;/h1&gt;・Vimゴリラ&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;完全理解&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="1590" y="279" width="120" height="78" as="geometry" />
+          <mxGeometry x="1790" y="380" width="120" height="78" as="geometry" />
         </mxCell>
         <mxCell id="mjs3XZnm56XjurGKM9Tk-8" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&lt;font size=&quot;1&quot;&gt;進捗バー&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1162.04" y="97" width="48.48" height="20" as="geometry" />
@@ -140,6 +140,9 @@
         </mxCell>
         <mxCell id="nU4CDknDRYQ1V7SzBWqK-3" value="Dev&#xa;コンテナ" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1470" y="197" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nU4CDknDRYQ1V7SzBWqK-4" value="myworking&#xa;半年以上&#xa;使用" style="rounded=1;fillColor=#1699D3;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="279" width="80" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
