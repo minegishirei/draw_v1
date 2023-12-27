@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T13:04:02.092Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="6fnTuEjjKdwkACTwV-m4" version="22.1.12" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-12-27T13:05:31.471Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="cQBkNB_S2ixKVC1gZrv0" version="22.1.12" type="github" pages="13">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="1069.28" y="357" width="71.72" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KdP75HX4KpQWsnjV_Gn1-9" value="Vim" style="rounded=1;fillColor=#1699D3;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1071.21" y="277" width="69.79" height="70" as="geometry" />
+          <mxGeometry x="1072.25" y="279" width="69.79" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KdP75HX4KpQWsnjV_Gn1-16" value="Haskell" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1072.25" y="117" width="68.75" height="70" as="geometry" />
@@ -37,7 +37,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0zhD8Vz5HRVrSgqt4NQ7-5" value="物理的に早く動く" style="rounded=1;fillColor=#1699D3;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="880" y="277" width="150" height="70" as="geometry" />
+          <mxGeometry x="881" y="279" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oj9QsQ3zu7cd3rdEB_5L-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0zhD8Vz5HRVrSgqt4NQ7-6" target="KdP75HX4KpQWsnjV_Gn1-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -127,7 +127,7 @@
           <mxGeometry x="1520" y="117" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="e_t0Bietr3c_jB36frHB-3" value="Vimの最後は&#xa;究極に効率化された&#xa;デスクワーク" style="rounded=1;fillColor=#1699D3;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="277" width="120" height="70" as="geometry" />
+          <mxGeometry x="1520" y="279" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="e_t0Bietr3c_jB36frHB-4" value="Agileは&#xa;仕事のやり方&#xa;そのものである" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1520" y="357" width="120" height="70" as="geometry" />
