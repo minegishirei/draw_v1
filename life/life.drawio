@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T01:24:29.885Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8IhwYDs0dEXo4FyTroiY" version="22.1.12" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-12-27T01:29:38.941Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="B-XEUw4VeHl5YvfWRbMC" version="22.1.12" type="github" pages="11">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -474,11 +474,11 @@
         <mxCell id="IZOFRnWUSI8T0Dl4SdaO-1" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Vim(Lv2→7)&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;・上がり幅がえぐいのが、「Vim」&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・自分の技術の根幹を支える最も基礎的な技術である。&lt;br&gt;&lt;br&gt;・基本的なVim操作だけで高いレベルに持って行ってくれる。&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="-320" y="600" width="190" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="dHiqjkkpietMkUIKHjye-1" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;2022&lt;br&gt;&lt;/b&gt;&lt;/span&gt;・北海道を脱出。&lt;br&gt;&lt;br&gt;・AWSについての実践経験が強い。&lt;br&gt;&lt;br&gt;・年の終了間際には、4+2を策定することができた&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="-1600" y="600" width="190" height="200" as="geometry" />
+        <mxCell id="dHiqjkkpietMkUIKHjye-1" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;2022&lt;br&gt;&lt;/b&gt;&lt;/span&gt;【who am i】&lt;br&gt;・自分は&lt;br&gt;&lt;br&gt;【生活】&lt;br&gt;・北海道を脱出。&lt;br&gt;&lt;br&gt;&lt;br&gt;【アーキテクチャ】&lt;br&gt;・なんとなく関数型プログラミング&lt;br&gt;&lt;br&gt;・年の終了間際には、4+2を策定することができた&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-1600" y="600" width="190" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="dHiqjkkpietMkUIKHjye-2" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;2023&lt;br&gt;&lt;/b&gt;&lt;/span&gt;・和光での安定した生活。&lt;br&gt;&lt;br&gt;・AWSについての実践経験が強い。&lt;br&gt;&lt;br&gt;・年の終了間際には、4+2を策定することができた&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="-1400" y="600" width="190" height="200" as="geometry" />
+        <mxCell id="dHiqjkkpietMkUIKHjye-2" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;2023&lt;br&gt;&lt;/b&gt;&lt;/span&gt;【生活】&lt;br&gt;・和光での安定した生活。&lt;br&gt;&lt;br&gt;【アーキテクチャ】&lt;br&gt;・Haskellという具体的かつ数学的な武器&lt;br&gt;&lt;br&gt;・年の終了間際には、4+2を策定することができた&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-1400" y="600" width="190" height="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
