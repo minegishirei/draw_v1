@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T12:38:58.041Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="EvFuYRSx29XJzDPsTgdh" version="22.1.12" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-12-27T12:39:18.299Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="GQjLt62x5yTBWGxLsbm4" version="22.1.12" type="github" pages="13">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,10 +121,10 @@
           <mxGeometry x="1162.04" y="97" width="48.48" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RKCxGA5yKnivfxo-daIv-1" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・Figma デザインツール&lt;br&gt;・コンポーネント別&lt;br&gt;UI心理学&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1321.52" y="442" width="120" height="78" as="geometry" />
+          <mxGeometry x="1441.52" y="437" width="120" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="RKCxGA5yKnivfxo-daIv-2" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1441.52" y="442" width="120" height="78" as="geometry" />
+        <mxCell id="RKCxGA5yKnivfxo-daIv-2" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・行動を変えるデザイン&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1321.52" y="437" width="120" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
