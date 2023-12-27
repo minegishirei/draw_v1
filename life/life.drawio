@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T13:06:02.333Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="QBJKCjaZiK6lVUc3ebr_" version="22.1.12" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-12-27T13:08:43.899Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="msnYTAZpvk-O5lY4lOVn" version="22.1.12" type="github" pages="13">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -132,7 +132,7 @@
         <mxCell id="e_t0Bietr3c_jB36frHB-4" value="Agileは&#xa;仕事のやり方&#xa;そのものである" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1520" y="360" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="e_t0Bietr3c_jB36frHB-5" value="全ての技術の&#xa;中心には&#xa;Docker" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="e_t0Bietr3c_jB36frHB-5" value="長い歴史の&#xa;Docker" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1520" y="200" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
