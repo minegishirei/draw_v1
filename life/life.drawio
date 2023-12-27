@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T09:12:52.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="7IPtJBRtBl2StK58ImtG" version="22.1.12" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-12-27T09:13:04.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="p0R_ZKzjH86eeOxP8_rR" version="22.1.12" type="github" pages="13">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -518,7 +518,7 @@
         <mxCell id="JDlDS9wVR-HEzNDiFpro-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JDlDS9wVR-HEzNDiFpro-11" target="JDlDS9wVR-HEzNDiFpro-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDlDS9wVR-HEzNDiFpro-11" value="副作用を&#xa;減らす" style="rounded=1;fillColor=#1699D3;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="JDlDS9wVR-HEzNDiFpro-11" value="物理的に早く動く" style="rounded=1;fillColor=#1699D3;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-1190" y="760" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JDlDS9wVR-HEzNDiFpro-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDlDS9wVR-HEzNDiFpro-14" target="JDlDS9wVR-HEzNDiFpro-4" edge="1">
