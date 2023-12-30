@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-30T02:24:29.735Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ACwxkTSj9wNPFzMz9aUY" version="22.1.15" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-12-30T02:24:55.335Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="cu5ViSezhyiY6esui3sa" version="22.1.15" type="github" pages="13">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="578" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -574,6 +574,9 @@
         </mxCell>
         <mxCell id="dHiqjkkpietMkUIKHjye-2" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;2023&lt;br&gt;&lt;/b&gt;&lt;/span&gt;【who am i】&lt;br&gt;・自分は10xプログラマーになりたいし、なる方法を伝えたい。&lt;br&gt;そのためには、4つの技術的な要素が必須であり、加えて2つの人間的な問題に取り組みたい。&lt;br&gt;&lt;br&gt;【生活】&lt;br&gt;・和光での安定した生活。&lt;br&gt;メンタル、身体含め安定した。&lt;br&gt;&lt;br&gt;&lt;br&gt;【アーキテクチャ】&lt;br&gt;・Haskellという具体的かつ数学的な武器&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;【会社の評価】&lt;br&gt;・「大人な対応」「えぐいエンジニア」&lt;br&gt;&lt;br&gt;【VIm】&lt;br&gt;&lt;b&gt;・基本的なVim操作だけで高いレベルに持って行ってくれる。&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;【エンジニア心理学】&lt;br&gt;エンジニア心理学を確立し、&lt;br&gt;「人の問題」も含めて取り組めるようになる。&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="-1400" y="600" width="190" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="xzU8bhUA8rUe8o8cuaHZ-1" value="圏論" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="188" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
