@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-30T02:26:24.268Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="yAqL3snn3J9OIgUC8GBT" version="22.1.15" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-12-30T02:31:12.407Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="lemvhrHkq6czQaNjf3rb" version="22.1.15" type="github" pages="13">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="578" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -170,26 +170,6 @@
         </mxCell>
         <mxCell id="7sNiNrf3S9Rm7AmQDc8W-1" value="全ての土台は&#xa;数学（圏論）" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="880" y="890" width="270" height="70" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="strategy" id="yPfKdhuQRGBB6YM9r0ky">
-    <mxGraphModel dx="1194" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="AoLRVSWncFA_QBziCvPD-0" />
-        <mxCell id="AoLRVSWncFA_QBziCvPD-1" parent="AoLRVSWncFA_QBziCvPD-0" />
-        <mxCell id="UPYVyfINhHxZJfIQmvyz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="AoLRVSWncFA_QBziCvPD-1" source="UPYVyfINhHxZJfIQmvyz-0" target="UPYVyfINhHxZJfIQmvyz-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UPYVyfINhHxZJfIQmvyz-0" value="課題発生" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="AoLRVSWncFA_QBziCvPD-1" vertex="1">
-          <mxGeometry x="40" y="80" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="UPYVyfINhHxZJfIQmvyz-2" value="課題発生" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="AoLRVSWncFA_QBziCvPD-1" vertex="1">
-          <mxGeometry x="720" y="80" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="UPYVyfINhHxZJfIQmvyz-4" value="最後まで&#xa;見通す" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="AoLRVSWncFA_QBziCvPD-1" vertex="1">
-          <mxGeometry x="320" y="40" width="72.34" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
