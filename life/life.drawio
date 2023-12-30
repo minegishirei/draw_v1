@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-30T02:35:39.268Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="pykVpOHGNQziP9te7oJg" version="22.1.15" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-12-30T02:50:08.451Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="j9fLIAwR7ZG0sUW-csDl" version="22.1.15" type="github" pages="13">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="578" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -172,7 +172,7 @@
           <mxGeometry x="1158.92" y="970" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="E-fuVK-2oUL1VDxeC7mp-3" value="状態：素人" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="680" width="240" height="280" as="geometry" />
+          <mxGeometry x="880" y="680" width="330" height="280" as="geometry" />
         </mxCell>
         <mxCell id="E-fuVK-2oUL1VDxeC7mp-4" value="Docker" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="E-fuVK-2oUL1VDxeC7mp-3">
           <mxGeometry x="9.999999999999886" y="40" width="69.68" height="70" as="geometry" />
@@ -185,6 +185,12 @@
         </mxCell>
         <mxCell id="E-fuVK-2oUL1VDxeC7mp-7" value="Agile" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="E-fuVK-2oUL1VDxeC7mp-3">
           <mxGeometry x="150" y="160" width="71.72" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E-fuVK-2oUL1VDxeC7mp-9" value="UIUX" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="E-fuVK-2oUL1VDxeC7mp-3">
+          <mxGeometry x="240" y="170" width="69.79" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E-fuVK-2oUL1VDxeC7mp-10" value="ラポール&#xa;形成" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="E-fuVK-2oUL1VDxeC7mp-3">
+          <mxGeometry x="230" y="60" width="68.75" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7sNiNrf3S9Rm7AmQDc8W-1" value="全ての土台は&#xa;数学（圏論）" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="880" y="970" width="270" height="70" as="geometry" />
