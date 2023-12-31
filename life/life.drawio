@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T09:53:28.713Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ouRu6wgHjehk_bxKJ0_g" version="22.1.15" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-12-31T09:57:25.779Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="LZHfMku-XFrLas3DFkTw" version="22.1.15" type="github" pages="13">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
-    <mxGraphModel dx="258" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="211" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -288,19 +288,19 @@
         <mxCell id="BILLL964fQdBpIoS6RdD-43" value="状態：" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2040" y="680" width="410" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="BILLL964fQdBpIoS6RdD-50" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#004C99;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="BILLL964fQdBpIoS6RdD-43" source="BILLL964fQdBpIoS6RdD-53">
+        <mxCell id="BILLL964fQdBpIoS6RdD-50" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#004C99;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="BILLL964fQdBpIoS6RdD-43">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="165" y="104.38" as="sourcePoint" />
-            <mxPoint x="150" y="94" as="targetPoint" />
+            <mxPoint x="67.99999999998772" y="219.99999999999977" as="sourcePoint" />
+            <mxPoint x="150" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BILLL964fQdBpIoS6RdD-51" value="圏論" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="BILLL964fQdBpIoS6RdD-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BILLL964fQdBpIoS6RdD-48" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#1699D3;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;" edge="1" parent="BILLL964fQdBpIoS6RdD-43">
+        <mxCell id="BILLL964fQdBpIoS6RdD-48" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#1699D3;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="BILLL964fQdBpIoS6RdD-43" source="BILLL964fQdBpIoS6RdD-57">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="93.55" as="sourcePoint" />
-            <mxPoint x="250" y="93.55" as="targetPoint" />
+            <mxPoint x="68" y="93.57" as="sourcePoint" />
+            <mxPoint x="160" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BILLL964fQdBpIoS6RdD-49" value="Vim" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="BILLL964fQdBpIoS6RdD-48">
@@ -308,15 +308,15 @@
         </mxCell>
         <mxCell id="BILLL964fQdBpIoS6RdD-45" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#6666FF;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;" edge="1" parent="BILLL964fQdBpIoS6RdD-43">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="93.55" as="sourcePoint" />
-            <mxPoint x="350" y="93.55" as="targetPoint" />
+            <mxPoint x="160" y="89.57" as="sourcePoint" />
+            <mxPoint x="260" y="89.57" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BILLL964fQdBpIoS6RdD-46" value="ラポール形成" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="BILLL964fQdBpIoS6RdD-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BILLL964fQdBpIoS6RdD-53" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#CCCCCC;fillColor=#666666;" vertex="1" parent="BILLL964fQdBpIoS6RdD-43">
-          <mxGeometry x="40" y="80" width="28" height="28" as="geometry" />
+        <mxCell id="BILLL964fQdBpIoS6RdD-57" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="BILLL964fQdBpIoS6RdD-43">
+          <mxGeometry x="42" y="80" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
