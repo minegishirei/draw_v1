@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T00:32:26.192Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="dCD5oqx1lPwCq3fNTsI8" version="22.1.15" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-12-31T00:32:56.237Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="mcy7YzM39lPEMA8bIETh" version="22.1.15" type="github" pages="13">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="430" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -210,17 +210,11 @@
         <mxCell id="BILLL964fQdBpIoS6RdD-3" value="Vim" style="rounded=1;fillColor=#1699D3;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="BILLL964fQdBpIoS6RdD-1">
           <mxGeometry x="120.00000000000001" y="60" width="69.79" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="BILLL964fQdBpIoS6RdD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BILLL964fQdBpIoS6RdD-1" source="BILLL964fQdBpIoS6RdD-4" target="BILLL964fQdBpIoS6RdD-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="BILLL964fQdBpIoS6RdD-4" value="圏論" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="BILLL964fQdBpIoS6RdD-1">
           <mxGeometry x="10.000000000000014" y="200" width="68.75" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BILLL964fQdBpIoS6RdD-5" value="Agile" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="BILLL964fQdBpIoS6RdD-1">
           <mxGeometry x="8.97999999999999" y="120" width="71.72" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="BILLL964fQdBpIoS6RdD-7" value="ラポール&#xa;形成" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="BILLL964fQdBpIoS6RdD-1">
-          <mxGeometry x="120" y="200" width="68.75" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BILLL964fQdBpIoS6RdD-25" value="圏" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="BILLL964fQdBpIoS6RdD-1">
           <mxGeometry x="200" y="160" width="105" height="110" as="geometry" />
