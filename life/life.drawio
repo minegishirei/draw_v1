@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T00:30:45.061Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="eNjwTpdlLTs3fXCMffbU" version="22.1.15" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-12-31T00:32:11.118Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zBmQUYXGkbhkNsOm2y5o" version="22.1.15" type="github" pages="13">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
-    <mxGraphModel dx="367" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="430" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -222,23 +222,23 @@
         <mxCell id="BILLL964fQdBpIoS6RdD-7" value="ラポール&#xa;形成" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="BILLL964fQdBpIoS6RdD-1">
           <mxGeometry x="120" y="200" width="68.75" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="BILLL964fQdBpIoS6RdD-10" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BILLL964fQdBpIoS6RdD-25" value="圏" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="BILLL964fQdBpIoS6RdD-1">
+          <mxGeometry x="200" y="160" width="105" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="BILLL964fQdBpIoS6RdD-26" value="ラポール&#xa;形成" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="BILLL964fQdBpIoS6RdD-25">
+          <mxGeometry x="18.120000000000108" y="30" width="68.75" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BILLL964fQdBpIoS6RdD-10" value="状態：" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1645" y="680" width="495" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="BILLL964fQdBpIoS6RdD-21" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#004C99;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;" edge="1" parent="BILLL964fQdBpIoS6RdD-10">
+        <mxCell id="BILLL964fQdBpIoS6RdD-21" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#004C99;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="BILLL964fQdBpIoS6RdD-10" source="BILLL964fQdBpIoS6RdD-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="114" y="220" as="sourcePoint" />
-            <mxPoint x="214" y="220" as="targetPoint" />
+            <mxPoint x="215" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BILLL964fQdBpIoS6RdD-22" value="圏論" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="BILLL964fQdBpIoS6RdD-21">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BILLL964fQdBpIoS6RdD-25" value="圏" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="BILLL964fQdBpIoS6RdD-10">
-          <mxGeometry x="9" y="160" width="105" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="BILLL964fQdBpIoS6RdD-26" value="ラポール&#xa;形成" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="BILLL964fQdBpIoS6RdD-25">
-          <mxGeometry x="18.120000000000108" y="30" width="68.75" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BILLL964fQdBpIoS6RdD-29" value="射" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="BILLL964fQdBpIoS6RdD-10">
           <mxGeometry x="215" y="160" width="105" height="110" as="geometry" />
