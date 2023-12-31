@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T00:32:11.118Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zBmQUYXGkbhkNsOm2y5o" version="22.1.15" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-12-31T00:32:26.192Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="dCD5oqx1lPwCq3fNTsI8" version="22.1.15" type="github" pages="13">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="430" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -231,17 +231,8 @@
         <mxCell id="BILLL964fQdBpIoS6RdD-10" value="状態：" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1645" y="680" width="495" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="BILLL964fQdBpIoS6RdD-21" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#004C99;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="BILLL964fQdBpIoS6RdD-10" source="BILLL964fQdBpIoS6RdD-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="114" y="220" as="sourcePoint" />
-            <mxPoint x="215" y="215" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BILLL964fQdBpIoS6RdD-22" value="圏論" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="BILLL964fQdBpIoS6RdD-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="BILLL964fQdBpIoS6RdD-29" value="射" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="BILLL964fQdBpIoS6RdD-10">
-          <mxGeometry x="215" y="160" width="105" height="110" as="geometry" />
+          <mxGeometry x="30" y="160" width="105" height="110" as="geometry" />
         </mxCell>
         <mxCell id="BILLL964fQdBpIoS6RdD-31" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#6666FF;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;" edge="1" parent="BILLL964fQdBpIoS6RdD-29">
           <mxGeometry relative="1" as="geometry">
@@ -250,6 +241,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BILLL964fQdBpIoS6RdD-32" value="ラポール形成" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="BILLL964fQdBpIoS6RdD-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BILLL964fQdBpIoS6RdD-21" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#004C99;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BILLL964fQdBpIoS6RdD-25" target="BILLL964fQdBpIoS6RdD-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1759" y="900" as="sourcePoint" />
+            <mxPoint x="1860" y="895" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BILLL964fQdBpIoS6RdD-22" value="圏論" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="BILLL964fQdBpIoS6RdD-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
