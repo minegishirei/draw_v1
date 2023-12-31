@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T00:36:25.446Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="uvKdQ14Ygf5oQM3unZ-U" version="22.1.15" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-12-31T00:37:19.537Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="1yRFPr-NK5AqWHa0XJzu" version="22.1.15" type="github" pages="13">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="500" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -208,7 +208,7 @@
           <mxGeometry x="39.999999999999886" y="40" width="69.68" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BILLL964fQdBpIoS6RdD-4" value="圏論" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="BILLL964fQdBpIoS6RdD-1">
-          <mxGeometry x="100.00000000000001" y="190" width="68.75" height="70" as="geometry" />
+          <mxGeometry x="100.00000000000001" y="200" width="68.75" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BILLL964fQdBpIoS6RdD-5" value="Agile" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="BILLL964fQdBpIoS6RdD-1">
           <mxGeometry x="20" y="140" width="71.72" height="70" as="geometry" />
@@ -224,6 +224,9 @@
         </mxCell>
         <mxCell id="BILLL964fQdBpIoS6RdD-3" value="Vim" style="rounded=1;fillColor=#1699D3;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="BILLL964fQdBpIoS6RdD-33">
           <mxGeometry x="17.080000000000013" y="30" width="69.79" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BILLL964fQdBpIoS6RdD-40" value="UIUX" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="BILLL964fQdBpIoS6RdD-1">
+          <mxGeometry x="109.68000000000006" y="120" width="69.79" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BILLL964fQdBpIoS6RdD-10" value="状態：" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1645" y="680" width="495" height="280" as="geometry" />
