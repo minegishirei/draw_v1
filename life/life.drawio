@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T10:06:10.296Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="yxOVfRsBOXP1RNzCB7s3" version="22.1.15" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-12-31T10:06:19.027Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="W9_aDNDYRHiEeuLV1dWB" version="22.1.15" type="github" pages="13">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="578" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -330,8 +330,8 @@
         <mxCell id="BILLL964fQdBpIoS6RdD-58" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;何もない&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BILLL964fQdBpIoS6RdD-43">
           <mxGeometry x="10" y="60" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BILLL964fQdBpIoS6RdD-62" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;カオス&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BILLL964fQdBpIoS6RdD-43">
-          <mxGeometry y="140" width="50" height="40" as="geometry" />
+        <mxCell id="BILLL964fQdBpIoS6RdD-62" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;カオス&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BILLL964fQdBpIoS6RdD-43">
+          <mxGeometry x="10" y="140" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BILLL964fQdBpIoS6RdD-63" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;カオス&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BILLL964fQdBpIoS6RdD-43">
           <mxGeometry x="130" y="140" width="40" height="40" as="geometry" />
