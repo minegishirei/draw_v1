@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T10:03:56.878Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="GL-gpBFcW20L45r5SRDS" version="22.1.15" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-12-31T10:04:45.847Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="JxA1Zccy_Vv0xd5t2Av9" version="22.1.15" type="github" pages="13">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
-    <mxGraphModel dx="578" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="168" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -298,12 +298,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BILLL964fQdBpIoS6RdD-43" value="状態：圏論による独自理論の構築" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2040" y="680" width="240" height="280" as="geometry" />
+          <mxGeometry x="2030" y="680" width="590" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="BILLL964fQdBpIoS6RdD-50" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#004C99;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="BILLL964fQdBpIoS6RdD-43">
+        <mxCell id="BILLL964fQdBpIoS6RdD-50" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#004C99;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="BILLL964fQdBpIoS6RdD-43" source="BILLL964fQdBpIoS6RdD-62">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="67.99999999998772" y="219.99999999999977" as="sourcePoint" />
-            <mxPoint x="150" y="220" as="targetPoint" />
+            <mxPoint x="67.99999999998772" y="159.57999999999976" as="sourcePoint" />
+            <mxPoint x="130" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BILLL964fQdBpIoS6RdD-51" value="圏論" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="BILLL964fQdBpIoS6RdD-50">
@@ -329,6 +329,9 @@
         </mxCell>
         <mxCell id="BILLL964fQdBpIoS6RdD-58" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;何もない&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BILLL964fQdBpIoS6RdD-43">
           <mxGeometry x="10" y="70" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BILLL964fQdBpIoS6RdD-62" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;何もない&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BILLL964fQdBpIoS6RdD-43">
+          <mxGeometry x="10" y="140" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
