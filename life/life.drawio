@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T11:10:37.273Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="TslhD56eK3_f5aSBfY9I" version="22.1.15" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-12-31T11:29:34.999Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="LViVloK7ku8xsuOl9qV9" version="22.1.15" type="github" pages="13">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="666" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -423,7 +423,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CL9DkSJlGBnOhkRjz52_" name="2023year">
-    <mxGraphModel dx="3059" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3491" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -638,7 +638,7 @@
           <mxGeometry x="1230" y="348" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vRdqMrBxbwJmefkBfVml-1" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Docker(Lv4→8)&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;・今年最も工数を割いた技術が「Docker」&lt;br&gt;&lt;br&gt;・これまではただひたすら「便利だなぁ」と思っていたが、Discordのコミュニティを開き、技術ブログを更新し、業界をリードし始める体制をとれたのが大きい。&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="-520" y="600" width="190" height="200" as="geometry" />
+          <mxGeometry x="-719" y="800" width="190" height="200" as="geometry" />
         </mxCell>
         <mxCell id="vRdqMrBxbwJmefkBfVml-2" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;周囲の評価&lt;/b&gt;&lt;/span&gt;&lt;br&gt;・エンジニアとして「大人な対応」が目立った。肉体年齢と精神年齢の差異が半端ない。&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;・ので、今年の漢字は「成」&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="-1400" y="120" width="190" height="200" as="geometry" />
@@ -736,16 +736,19 @@
           <mxGeometry x="-719" y="600" width="190" height="240" as="geometry" />
         </mxCell>
         <mxCell id="IZOFRnWUSI8T0Dl4SdaO-1" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Vim(Lv2→7)&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;・上がり幅がえぐいのが、「Vim」&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・自分の技術の根幹を支える最も基礎的な技術である。&lt;br&gt;&lt;br&gt;・基本的なVim操作だけで高いレベルに持って行ってくれる。&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="-320" y="600" width="190" height="200" as="geometry" />
+          <mxGeometry x="-520" y="600" width="190" height="200" as="geometry" />
         </mxCell>
         <mxCell id="dHiqjkkpietMkUIKHjye-1" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;2022&lt;br&gt;&lt;/b&gt;&lt;/span&gt;【who am i】&lt;br&gt;・自分はアーキテクトになりたい&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;【生活】&lt;br&gt;・北海道を脱出。&lt;br&gt;メンタル的な安定性の獲得に動き出せた。&lt;br&gt;&lt;br&gt;【収入】&lt;br&gt;300万ほど&lt;br&gt;&lt;br&gt;【アーキテクチャ】&lt;br&gt;・なんとなく関数型プログラミング。以前は関数型プログラミングはjavascriptのmap,reduce,join,filterのみだという考え方であった。&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;【会社の評価】&lt;br&gt;・ちょっとコードがかけるだけのエンジニア&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;【エディター】&lt;br&gt;こだわりなし。&lt;br&gt;&lt;br&gt;&lt;br&gt;【エンジニア心理学】&lt;br&gt;心理学の情報は集めていたが、それをアウトプットする手段はなかった。&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="-1640" y="320" width="190" height="550" as="geometry" />
+          <mxGeometry x="-320" y="600" width="190" height="550" as="geometry" />
         </mxCell>
         <mxCell id="dHiqjkkpietMkUIKHjye-2" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;2023&lt;br&gt;&lt;/b&gt;&lt;/span&gt;【who am i】&lt;br&gt;・自分は10xプログラマーになりたいし、なる方法を伝えたい。&lt;br&gt;そのためには、4つの技術的な要素が必須であり、加えて2つの人間的な問題に取り組みたい。&lt;br&gt;&lt;br&gt;【生活】&lt;br&gt;・和光での安定した生活。&lt;br&gt;メンタル、身体含め安定した。&lt;br&gt;&lt;br&gt;&lt;br&gt;【収入】&lt;br&gt;ほぼ倍。不満なし。&lt;br&gt;&lt;br&gt;【アーキテクチャ】&lt;br&gt;・Haskellという具体的かつ数学的な武器&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;【会社の評価】&lt;br&gt;・「大人な対応」「えぐいエンジニア」&lt;br&gt;&lt;br&gt;【VIm】&lt;br&gt;&lt;b&gt;・基本的なVim操作だけで高いレベルに持って行ってくれる。&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;【エンジニア心理学】&lt;br&gt;エンジニア心理学を確立し、&lt;br&gt;「人の問題」も含めて取り組めるようになる。&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="-1400" y="320" width="190" height="560" as="geometry" />
+          <mxGeometry x="-120" y="600" width="190" height="560" as="geometry" />
         </mxCell>
         <mxCell id="xzU8bhUA8rUe8o8cuaHZ-1" value="圏論" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1300" y="188" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SHZoFr0c9WjXlaAdT16--1" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;ダラダラ考える&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-1640" y="320" width="440" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -798,7 +801,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20231218" id="qDZ8kboyXPqC4G4zveMq">
-    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="q4rX0ZSOSa0GFTOWTn08-0" />
         <mxCell id="q4rX0ZSOSa0GFTOWTn08-1" parent="q4rX0ZSOSa0GFTOWTn08-0" />
@@ -856,17 +859,17 @@
         <mxCell id="NyFYBWoFVTW_5JFH4mMA-1" value="スクラム&#xa;マスター&#xa;の会" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="q4rX0ZSOSa0GFTOWTn08-1" vertex="1">
           <mxGeometry x="520" y="120.5" width="70" height="229.5" as="geometry" />
         </mxCell>
-        <mxCell id="d_ggm12w56vL1yxhzcst-0" value="Vim" style="rounded=1;fillColor=#1699D3;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="q4rX0ZSOSa0GFTOWTn08-1">
+        <mxCell id="d_ggm12w56vL1yxhzcst-0" value="Vim" style="rounded=1;fillColor=#1699D3;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="q4rX0ZSOSa0GFTOWTn08-1" vertex="1">
           <mxGeometry x="520" y="359.5" width="70" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="d_ggm12w56vL1yxhzcst-1" value="Vim" style="rounded=1;fillColor=#1699D3;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="q4rX0ZSOSa0GFTOWTn08-1">
+        <mxCell id="d_ggm12w56vL1yxhzcst-1" value="Vim" style="rounded=1;fillColor=#1699D3;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="q4rX0ZSOSa0GFTOWTn08-1" vertex="1">
           <mxGeometry x="440" y="359.5" width="70" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="20231211" id="Pv2ygcAqwSPzIHBQICAB">
-    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="wqsgkcLu4AGD86Iv31x0-0" />
         <mxCell id="wqsgkcLu4AGD86Iv31x0-1" parent="wqsgkcLu4AGD86Iv31x0-0" />
