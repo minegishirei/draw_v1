@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T12:02:31.895Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="AhSePOFrguXy23kLmpIf" version="22.1.15" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-12-31T12:03:11.818Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="6kmHKdkuBGxGt0jrTsm6" version="22.1.15" type="github" pages="13">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="666" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,13 +127,13 @@
           <mxGeometry x="1470" y="197" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nU4CDknDRYQ1V7SzBWqK-4" value="myworking&#xa;半年以上&#xa;使用" style="rounded=1;fillColor=#1699D3;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1470" y="279" width="70" height="70" as="geometry" />
+          <mxGeometry x="1470" y="279" width="530" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nU4CDknDRYQ1V7SzBWqK-5" value="Vimゴリラ&#xa;完全理解" style="rounded=1;fillColor=#1699D3;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1550" y="279" width="70" height="70" as="geometry" />
+          <mxGeometry x="2020" y="277" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nU4CDknDRYQ1V7SzBWqK-6" value="トラック&#xa;マウス&#xa;封印" style="rounded=1;fillColor=#1699D3;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1630" y="279" width="70" height="70" as="geometry" />
+          <mxGeometry x="2100" y="277" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nU4CDknDRYQ1V7SzBWqK-7" value="行動を&#xa;変える&#xa;デザイン" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1470" y="441" width="70" height="70" as="geometry" />
