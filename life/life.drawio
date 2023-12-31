@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T00:38:28.253Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jWSDot1gOwdkAr3EFfs0" version="22.1.15" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-12-31T00:39:06.493Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7osRfgLAuDEezIZLeILA" version="22.1.15" type="github" pages="13">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="500" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -169,7 +169,7 @@
           <mxGeometry x="1630" y="117" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="E-fuVK-2oUL1VDxeC7mp-1" value="まず初めにプランを練る。" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1158.92" y="970" width="270" height="70" as="geometry" />
+          <mxGeometry x="1270" y="970" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="E-fuVK-2oUL1VDxeC7mp-3" value="状態：素人" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="680" width="330" height="280" as="geometry" />
@@ -193,7 +193,7 @@
           <mxGeometry x="230" y="60" width="68.75" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7sNiNrf3S9Rm7AmQDc8W-1" value="全ての土台は&#xa;数学（圏論）" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="880" y="970" width="270" height="70" as="geometry" />
+          <mxGeometry x="888.96" y="970" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="E-fuVK-2oUL1VDxeC7mp-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="E-fuVK-2oUL1VDxeC7mp-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
