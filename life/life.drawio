@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T01:24:46.467Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="_eCk779yCMdBF5Uk3UVH" version="22.1.15" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-12-31T01:25:12.884Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tff0AFW7221qXxIZ7ire" version="22.1.15" type="github" pages="13">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -288,30 +288,6 @@
         <mxCell id="BILLL964fQdBpIoS6RdD-43" value="状態：" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2040" y="680" width="290.28" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="BILLL964fQdBpIoS6RdD-44" value="射" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="BILLL964fQdBpIoS6RdD-43">
-          <mxGeometry x="30" y="160" width="105" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="BILLL964fQdBpIoS6RdD-45" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#6666FF;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;" edge="1" parent="BILLL964fQdBpIoS6RdD-44">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2.5" y="64.5" as="sourcePoint" />
-            <mxPoint x="102.5" y="64.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BILLL964fQdBpIoS6RdD-46" value="ラポール形成" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="BILLL964fQdBpIoS6RdD-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BILLL964fQdBpIoS6RdD-47" value="射" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="BILLL964fQdBpIoS6RdD-43">
-          <mxGeometry x="30" y="40" width="105" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="BILLL964fQdBpIoS6RdD-48" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#1699D3;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;" edge="1" parent="BILLL964fQdBpIoS6RdD-47">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2.5" y="64.5" as="sourcePoint" />
-            <mxPoint x="102.5" y="64.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BILLL964fQdBpIoS6RdD-49" value="Vim" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="BILLL964fQdBpIoS6RdD-48">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="BILLL964fQdBpIoS6RdD-50" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#004C99;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="BILLL964fQdBpIoS6RdD-43">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="165" y="104.38" as="sourcePoint" />
@@ -319,6 +295,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BILLL964fQdBpIoS6RdD-51" value="圏論" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="BILLL964fQdBpIoS6RdD-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BILLL964fQdBpIoS6RdD-48" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#1699D3;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;" edge="1" parent="BILLL964fQdBpIoS6RdD-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="160" as="sourcePoint" />
+            <mxPoint x="260" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BILLL964fQdBpIoS6RdD-49" value="Vim" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="BILLL964fQdBpIoS6RdD-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BILLL964fQdBpIoS6RdD-45" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#6666FF;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;" edge="1" parent="BILLL964fQdBpIoS6RdD-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="214.5" as="sourcePoint" />
+            <mxPoint x="260" y="214.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BILLL964fQdBpIoS6RdD-46" value="ラポール形成" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="BILLL964fQdBpIoS6RdD-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
