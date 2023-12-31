@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T14:27:18.983Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="oqvigrZeKf9jy_a8Vj0S" version="22.1.15" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-12-31T14:27:48.243Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="TyE4bmbEWYXTxrlix_Cn" version="22.1.15" type="github" pages="5">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -361,7 +361,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2024year" id="uiUMKeZ0txUB_UNjZnf_">
-    <mxGraphModel dx="367" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="765" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-0" />
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-1" parent="Bh7SMV7lsvvrdX1vqtc6-0" />
@@ -385,12 +385,6 @@
         </mxCell>
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-37" value="&lt;h1&gt;年間目標&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="880" y="40" width="480" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Bh7SMV7lsvvrdX1vqtc6-42" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="Bh7SMV7lsvvrdX1vqtc6-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="980" y="750" as="sourcePoint" />
-            <mxPoint x="980" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Ru7E1SiRD02BdjEPUVSw-0" value="5月" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2180" y="108" width="331" height="70" as="geometry" />
@@ -423,7 +417,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CL9DkSJlGBnOhkRjz52_" name="2023year">
-    <mxGraphModel dx="2848" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3059" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
