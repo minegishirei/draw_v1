@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T10:02:56.962Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="o7graqn8dWlFS-M3JXjW" version="22.1.15" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-12-31T10:03:41.337Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="i8WhfwHcj5Mwrdss0CxU" version="22.1.15" type="github" pages="13">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
-    <mxGraphModel dx="258" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="578" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -231,7 +231,7 @@
         <mxCell id="BILLL964fQdBpIoS6RdD-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BILLL964fQdBpIoS6RdD-10" target="BILLL964fQdBpIoS6RdD-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BILLL964fQdBpIoS6RdD-10" value="状態：" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BILLL964fQdBpIoS6RdD-10" value="状態：圏論" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1669.72" y="680" width="290.28" height="280" as="geometry" />
         </mxCell>
         <mxCell id="BILLL964fQdBpIoS6RdD-29" value="射" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="BILLL964fQdBpIoS6RdD-10">
