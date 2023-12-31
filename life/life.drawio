@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T00:27:08.173Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="TarhSklu99nM6WcuopRE" version="22.1.15" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-12-31T00:27:20.048Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="npVkD5W2SzkN606nAx27" version="22.1.15" type="github" pages="13">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -225,9 +225,6 @@
         <mxCell id="BILLL964fQdBpIoS6RdD-10" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1645" y="680" width="375" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="BILLL964fQdBpIoS6RdD-19" value="ラポール&#xa;形成" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="BILLL964fQdBpIoS6RdD-10">
-          <mxGeometry x="15" y="190" width="68.75" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="BILLL964fQdBpIoS6RdD-21" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#004C99;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;" edge="1" parent="BILLL964fQdBpIoS6RdD-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="83.75" y="224.5" as="sourcePoint" />
@@ -248,6 +245,9 @@
         </mxCell>
         <mxCell id="BILLL964fQdBpIoS6RdD-25" value="" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="BILLL964fQdBpIoS6RdD-10">
           <mxGeometry x="230" y="30" width="105" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BILLL964fQdBpIoS6RdD-26" value="ラポール&#xa;形成" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="BILLL964fQdBpIoS6RdD-25">
+          <mxGeometry x="18.120000000000108" y="30" width="68.75" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
