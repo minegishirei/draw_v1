@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T22:50:29.428Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="JrL-iP06jCxMVPwhisgg" version="22.1.16" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-02T22:51:47.083Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="XZ0B0u_hw97ZyDe6Morv" version="22.1.16" type="github" pages="7">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1194" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -404,16 +404,11 @@
       <root>
         <mxCell id="GFNKslzDQird5JkmW8ss-0" />
         <mxCell id="GFNKslzDQird5JkmW8ss-1" parent="GFNKslzDQird5JkmW8ss-0" />
-        <mxCell id="GFNKslzDQird5JkmW8ss-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GFNKslzDQird5JkmW8ss-1" target="GFNKslzDQird5JkmW8ss-27">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="485" y="592" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UMyRLtEWhQ50oZ4kXYxX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GFNKslzDQird5JkmW8ss-1" source="GFNKslzDQird5JkmW8ss-17" target="UMyRLtEWhQ50oZ4kXYxX-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GFNKslzDQird5JkmW8ss-17" value="相手の話したい事" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="GFNKslzDQird5JkmW8ss-1">
-          <mxGeometry x="260" y="80" width="170" height="279.5" as="geometry" />
+          <mxGeometry x="510" y="79.5" width="170" height="279.5" as="geometry" />
         </mxCell>
         <mxCell id="GFNKslzDQird5JkmW8ss-18" value="相手が食いつきそうな&lt;br&gt;話題を振る" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="GFNKslzDQird5JkmW8ss-17">
           <mxGeometry x="10" y="200" width="150" height="73" as="geometry" />
@@ -425,6 +420,9 @@
           <mxGeometry x="10" y="34" width="150" height="148" as="geometry" />
         </mxCell>
         <mxCell id="UMyRLtEWhQ50oZ4kXYxX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GFNKslzDQird5JkmW8ss-1" source="GFNKslzDQird5JkmW8ss-21" target="UMyRLtEWhQ50oZ4kXYxX-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMyRLtEWhQ50oZ4kXYxX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GFNKslzDQird5JkmW8ss-1" source="GFNKslzDQird5JkmW8ss-21" target="UMyRLtEWhQ50oZ4kXYxX-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GFNKslzDQird5JkmW8ss-21" value="相手にしゃべらせる" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="GFNKslzDQird5JkmW8ss-1">
@@ -439,23 +437,8 @@
         <mxCell id="GFNKslzDQird5JkmW8ss-24" value="我々はしゃべらない&lt;br&gt;質問は短く" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="GFNKslzDQird5JkmW8ss-21">
           <mxGeometry x="10" y="214.5" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GFNKslzDQird5JkmW8ss-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GFNKslzDQird5JkmW8ss-1" source="GFNKslzDQird5JkmW8ss-27" target="GFNKslzDQird5JkmW8ss-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GFNKslzDQird5JkmW8ss-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GFNKslzDQird5JkmW8ss-1" source="GFNKslzDQird5JkmW8ss-27" target="GFNKslzDQird5JkmW8ss-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GFNKslzDQird5JkmW8ss-27" value="&lt;font color=&quot;#1a1a1a&quot;&gt;まとまっていなかったら&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="GFNKslzDQird5JkmW8ss-1">
-          <mxGeometry x="410" y="650" width="150" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="GFNKslzDQird5JkmW8ss-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GFNKslzDQird5JkmW8ss-1" source="GFNKslzDQird5JkmW8ss-29" target="GFNKslzDQird5JkmW8ss-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GFNKslzDQird5JkmW8ss-29" value="&lt;font color=&quot;#1a1a1a&quot;&gt;キーワードを&lt;br&gt;かいつまんで&lt;br&gt;オウム返し&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="GFNKslzDQird5JkmW8ss-1">
-          <mxGeometry x="210" y="650" width="150" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="GFNKslzDQird5JkmW8ss-30" value="ミラーリング" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="GFNKslzDQird5JkmW8ss-1">
-          <mxGeometry x="10" y="545.25" width="170" height="279.5" as="geometry" />
+          <mxGeometry x="10" y="520" width="170" height="279.5" as="geometry" />
         </mxCell>
         <mxCell id="GFNKslzDQird5JkmW8ss-31" value="同じ行動をとる" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="GFNKslzDQird5JkmW8ss-30">
           <mxGeometry x="10" y="200" width="150" height="73" as="geometry" />
@@ -465,12 +448,6 @@
         </mxCell>
         <mxCell id="GFNKslzDQird5JkmW8ss-33" value="同じ行動をとる人を&lt;br&gt;無意識に気に入ってしまう心理" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="GFNKslzDQird5JkmW8ss-30">
           <mxGeometry x="10" y="34" width="150" height="148" as="geometry" />
-        </mxCell>
-        <mxCell id="GFNKslzDQird5JkmW8ss-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GFNKslzDQird5JkmW8ss-1" source="GFNKslzDQird5JkmW8ss-36" target="GFNKslzDQird5JkmW8ss-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GFNKslzDQird5JkmW8ss-36" value="&lt;font color=&quot;#1a1a1a&quot;&gt;ほかのチームが補足&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="GFNKslzDQird5JkmW8ss-1">
-          <mxGeometry x="410" y="824.75" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GFNKslzDQird5JkmW8ss-37" value="共通点を強調" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="GFNKslzDQird5JkmW8ss-1">
           <mxGeometry x="600" y="359.5" width="170" height="279.5" as="geometry" />
@@ -483,12 +460,6 @@
         </mxCell>
         <mxCell id="GFNKslzDQird5JkmW8ss-40" value="人と人、集団と集団が横並びに置かれるとき、その集団の「差分」が強調されてしまう。&lt;br&gt;そうではなく、「共通項」に着目することで" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="GFNKslzDQird5JkmW8ss-37">
           <mxGeometry x="10" y="34" width="150" height="148" as="geometry" />
-        </mxCell>
-        <mxCell id="GFNKslzDQird5JkmW8ss-41" value="&lt;font color=&quot;#1a1a1a&quot;&gt;書籍から得たナレッジに基づいて&lt;br&gt;「チーム」がやるべきことを明確にする&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#CCCCCC;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="GFNKslzDQird5JkmW8ss-1">
-          <mxGeometry x="410" y="1020" width="150" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="GFNKslzDQird5JkmW8ss-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GFNKslzDQird5JkmW8ss-1" source="GFNKslzDQird5JkmW8ss-43" target="GFNKslzDQird5JkmW8ss-36">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GFNKslzDQird5JkmW8ss-43" value="素早いレスポンス" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="GFNKslzDQird5JkmW8ss-1">
           <mxGeometry x="10" y="840" width="370" height="279.5" as="geometry" />
@@ -512,7 +483,10 @@
           <mxGeometry x="210" y="209.9999999999999" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UMyRLtEWhQ50oZ4kXYxX-0" value="&lt;font color=&quot;#1a1a1a&quot;&gt;海外の話&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="GFNKslzDQird5JkmW8ss-1">
-          <mxGeometry x="160" y="400" width="150" height="70" as="geometry" />
+          <mxGeometry x="250" y="270" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UMyRLtEWhQ50oZ4kXYxX-4" value="&lt;font color=&quot;#1a1a1a&quot;&gt;子供の話&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="GFNKslzDQird5JkmW8ss-1">
+          <mxGeometry x="360" y="390" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
