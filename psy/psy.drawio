@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T23:00:34.036Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="qZ0FaI10iokvnKTLtg5N" version="22.1.16" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-02T23:00:54.298Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="HsljJuv4UiC9exNL9wi7" version="22.1.16" type="github" pages="7">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1194" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -480,16 +480,16 @@
           <mxGeometry x="210" y="209.9999999999999" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UMyRLtEWhQ50oZ4kXYxX-12" value="メイン" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="GFNKslzDQird5JkmW8ss-1">
-          <mxGeometry x="255" y="160" width="200" height="360.5" as="geometry" />
+          <mxGeometry x="255" y="160" width="200" height="280" as="geometry" />
         </mxCell>
         <mxCell id="UMyRLtEWhQ50oZ4kXYxX-0" value="&lt;font color=&quot;#1a1a1a&quot;&gt;海外の話&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="UMyRLtEWhQ50oZ4kXYxX-12">
-          <mxGeometry x="25" y="120.5" width="150" height="70" as="geometry" />
+          <mxGeometry x="25" y="40" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UMyRLtEWhQ50oZ4kXYxX-4" value="&lt;font color=&quot;#1a1a1a&quot;&gt;子供の話&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="UMyRLtEWhQ50oZ4kXYxX-12">
-          <mxGeometry x="25" y="280.5" width="150" height="70" as="geometry" />
+          <mxGeometry x="25" y="200" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UMyRLtEWhQ50oZ4kXYxX-7" value="&lt;font color=&quot;#1a1a1a&quot;&gt;仕事の話&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="UMyRLtEWhQ50oZ4kXYxX-12">
-          <mxGeometry x="25" y="200.5" width="150" height="70" as="geometry" />
+          <mxGeometry x="25" y="120" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UMyRLtEWhQ50oZ4kXYxX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GFNKslzDQird5JkmW8ss-1" source="UMyRLtEWhQ50oZ4kXYxX-11" target="UMyRLtEWhQ50oZ4kXYxX-12">
           <mxGeometry relative="1" as="geometry" />
