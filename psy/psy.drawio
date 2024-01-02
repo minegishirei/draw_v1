@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T22:59:07.359Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="rNoTldg2Mkpp3qlZWmS7" version="22.1.16" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-02T23:00:11.531Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="i7Nlw4sbr29r-7d0bwKT" version="22.1.16" type="github" pages="7">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1194" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -483,16 +483,16 @@
           <mxGeometry x="255" y="79.5" width="200" height="360.5" as="geometry" />
         </mxCell>
         <mxCell id="UMyRLtEWhQ50oZ4kXYxX-0" value="&lt;font color=&quot;#1a1a1a&quot;&gt;海外の話&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="UMyRLtEWhQ50oZ4kXYxX-12">
-          <mxGeometry x="25" y="33.25" width="150" height="70" as="geometry" />
+          <mxGeometry x="25" y="120.5" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UMyRLtEWhQ50oZ4kXYxX-4" value="&lt;font color=&quot;#1a1a1a&quot;&gt;子供の話&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="UMyRLtEWhQ50oZ4kXYxX-12">
-          <mxGeometry x="25" y="193.25" width="150" height="70" as="geometry" />
+          <mxGeometry x="25" y="280.5" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UMyRLtEWhQ50oZ4kXYxX-7" value="&lt;font color=&quot;#1a1a1a&quot;&gt;仕事の話&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="UMyRLtEWhQ50oZ4kXYxX-12">
-          <mxGeometry x="25" y="113.25" width="150" height="70" as="geometry" />
+          <mxGeometry x="25" y="200.5" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UMyRLtEWhQ50oZ4kXYxX-11" value="&lt;font color=&quot;#1a1a1a&quot;&gt;お店の話&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="UMyRLtEWhQ50oZ4kXYxX-12">
-          <mxGeometry x="25" y="272.75" width="150" height="70" as="geometry" />
+          <mxGeometry x="25" y="40.5" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
