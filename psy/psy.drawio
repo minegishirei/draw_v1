@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T23:03:40.445Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2AErkv_IRQCkQ-9lk3Wv" version="22.1.16" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-02T23:04:07.460Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="mnbXwreuGFj6iPYTZRRt" version="22.1.16" type="github" pages="7">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1194" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -459,7 +459,7 @@
           <mxGeometry x="10" y="34" width="150" height="148" as="geometry" />
         </mxCell>
         <mxCell id="GFNKslzDQird5JkmW8ss-43" value="素早いレスポンス" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="GFNKslzDQird5JkmW8ss-1">
-          <mxGeometry x="470" y="770" width="370" height="279.5" as="geometry" />
+          <mxGeometry x="470" y="770" width="350" height="279.5" as="geometry" />
         </mxCell>
         <mxCell id="GFNKslzDQird5JkmW8ss-44" value="「リアクション」押下" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="GFNKslzDQird5JkmW8ss-43">
           <mxGeometry x="10" y="210" width="150" height="63" as="geometry" />
@@ -474,10 +474,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GFNKslzDQird5JkmW8ss-48" value="「無言」を選択することで&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;勝手にいろいろ想像してしまう&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;不安感をあおることが出来る" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="GFNKslzDQird5JkmW8ss-43">
-          <mxGeometry x="210" y="34" width="150" height="150" as="geometry" />
+          <mxGeometry x="190" y="33" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="GFNKslzDQird5JkmW8ss-49" value="無言戦略" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="GFNKslzDQird5JkmW8ss-43">
-          <mxGeometry x="210" y="209.9999999999999" width="150" height="60" as="geometry" />
+          <mxGeometry x="190" y="209.9999999999999" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UMyRLtEWhQ50oZ4kXYxX-12" value="メイン" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="GFNKslzDQird5JkmW8ss-1">
           <mxGeometry x="255" y="160" width="200" height="280" as="geometry" />
