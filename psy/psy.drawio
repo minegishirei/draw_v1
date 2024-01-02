@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T22:48:00.773Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="DeDqRbzlYE778tLqhwgN" version="22.1.16" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-02T22:48:19.261Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="sr2dzGlgtwJWsDmqS5u3" version="22.1.16" type="github" pages="7">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1194" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -404,12 +404,6 @@
       <root>
         <mxCell id="GFNKslzDQird5JkmW8ss-0" />
         <mxCell id="GFNKslzDQird5JkmW8ss-1" parent="GFNKslzDQird5JkmW8ss-0" />
-        <mxCell id="GFNKslzDQird5JkmW8ss-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GFNKslzDQird5JkmW8ss-1" source="GFNKslzDQird5JkmW8ss-3" target="GFNKslzDQird5JkmW8ss-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GFNKslzDQird5JkmW8ss-3" value="&lt;font color=&quot;#1a1a1a&quot;&gt;書籍を読んでくる&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#CCCCCC;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="GFNKslzDQird5JkmW8ss-1">
-          <mxGeometry x="40" y="80" width="150" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="GFNKslzDQird5JkmW8ss-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GFNKslzDQird5JkmW8ss-1" source="GFNKslzDQird5JkmW8ss-6" target="GFNKslzDQird5JkmW8ss-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -424,27 +418,6 @@
         </mxCell>
         <mxCell id="GFNKslzDQird5JkmW8ss-8" value="&lt;font color=&quot;#1a1a1a&quot;&gt;書籍の内容をどのように活かすか？&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#CCCCCC;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="GFNKslzDQird5JkmW8ss-1">
           <mxGeometry x="410" y="80" width="150" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="GFNKslzDQird5JkmW8ss-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GFNKslzDQird5JkmW8ss-1" source="GFNKslzDQird5JkmW8ss-11" target="GFNKslzDQird5JkmW8ss-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GFNKslzDQird5JkmW8ss-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GFNKslzDQird5JkmW8ss-1" source="GFNKslzDQird5JkmW8ss-11" target="GFNKslzDQird5JkmW8ss-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GFNKslzDQird5JkmW8ss-11" value="&lt;font color=&quot;#1a1a1a&quot;&gt;担当の割り当てを&lt;br&gt;「チーム」にする。&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#CCCCCC;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="GFNKslzDQird5JkmW8ss-1">
-          <mxGeometry x="210" y="80" width="150" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="GFNKslzDQird5JkmW8ss-12" value="行動の一貫性" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="GFNKslzDQird5JkmW8ss-1">
-          <mxGeometry x="110" y="200" width="170" height="279.5" as="geometry" />
-        </mxCell>
-        <mxCell id="GFNKslzDQird5JkmW8ss-13" value="自分の意図に沿わない行動をした後、&lt;br&gt;その行動に合う認識にすり替える" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="GFNKslzDQird5JkmW8ss-12">
-          <mxGeometry x="10" y="200" width="150" height="73" as="geometry" />
-        </mxCell>
-        <mxCell id="GFNKslzDQird5JkmW8ss-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GFNKslzDQird5JkmW8ss-12" source="GFNKslzDQird5JkmW8ss-15" target="GFNKslzDQird5JkmW8ss-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GFNKslzDQird5JkmW8ss-15" value="（記入したくもない）&lt;br&gt;「自己紹介シートに&lt;br&gt;わざわざ時間をかけて&lt;br&gt;記入したのは&lt;br&gt;&lt;br&gt;わたしがこの人たちと仲良くしたいからだ」" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="GFNKslzDQird5JkmW8ss-12">
-          <mxGeometry x="10" y="34" width="150" height="148" as="geometry" />
         </mxCell>
         <mxCell id="GFNKslzDQird5JkmW8ss-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GFNKslzDQird5JkmW8ss-1" source="GFNKslzDQird5JkmW8ss-17" target="GFNKslzDQird5JkmW8ss-6">
           <mxGeometry relative="1" as="geometry" />
