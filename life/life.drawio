@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T09:03:10.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="obasKrmgJcwpcrHpUynx" version="22.1.16" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-05T09:23:22.169Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="47AxWaWMdD1uwad-71Ak" version="22.1.16" type="github" pages="4">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -791,7 +791,7 @@
             <mxPoint x="600" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W6p_zbEorA8epCRSyYyF-11" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;・かなり余力がある。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="W6p_zbEorA8epCRSyYyF-1" vertex="1">
+        <mxCell id="W6p_zbEorA8epCRSyYyF-11" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;・Hask圏という概念が面白そう&lt;br&gt;・ただし、圏論に夢中になりすぎると人間の問題をおろそかにしてしまう。副作用も大事。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="W6p_zbEorA8epCRSyYyF-1" vertex="1">
           <mxGeometry x="610" y="200" width="190" height="370" as="geometry" />
         </mxCell>
         <mxCell id="W6p_zbEorA8epCRSyYyF-12" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;やることリスト&lt;/h1&gt;・行動心理学の基礎（書籍を前に進める）&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="W6p_zbEorA8epCRSyYyF-1" vertex="1">
@@ -821,10 +821,10 @@
         <mxCell id="v_IY5lxjpEOarYmm32Sw-0" value="Haskell&#xa;Cobal&#xa;Installer" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="W6p_zbEorA8epCRSyYyF-1" vertex="1">
           <mxGeometry x="280" y="440" width="70" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="xAp1Jm5n_qt0anWx35Vs-0" value="Haskell&#xa;Cobal&#xa;Installer" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="W6p_zbEorA8epCRSyYyF-1">
+        <mxCell id="xAp1Jm5n_qt0anWx35Vs-0" value="Haskell&#xa;Cobal&#xa;Installer" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="W6p_zbEorA8epCRSyYyF-1" vertex="1">
           <mxGeometry x="360" y="439" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="l0Ia5gjxPPqiWq2bnqMp-0" value="AWS&#xa;Aurora&#xa;CL" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="W6p_zbEorA8epCRSyYyF-1">
+        <mxCell id="l0Ia5gjxPPqiWq2bnqMp-0" value="AWS&#xa;Aurora&#xa;CL" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="W6p_zbEorA8epCRSyYyF-1" vertex="1">
           <mxGeometry x="360" y="200" width="70" height="230" as="geometry" />
         </mxCell>
       </root>
