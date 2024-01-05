@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-17T07:01:25.292Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Hh2GhredDtk2ufAJsqZ7" version="22.1.11" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2024-01-05T09:08:14.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="u5c2Pxky4YvVPYOwxBKr" version="22.1.16" type="github" pages="34">
   <diagram name="4年計画" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="2947.5" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3427.5" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,7 +143,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="engineer_psychology" id="6Vodys6ZSpo44YDPgR1p">
-    <mxGraphModel dx="847" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4F4cJXa1Sza_LHnRdeBN-0" />
         <mxCell id="4F4cJXa1Sza_LHnRdeBN-1" parent="4F4cJXa1Sza_LHnRdeBN-0" />
@@ -219,10 +219,10 @@
         <mxCell id="Fw4zuBBfyjI6oSINcVEQ-13" value="要件定義&#xa;インセプションデッキ" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Fw4zuBBfyjI6oSINcVEQ-7" vertex="1">
           <mxGeometry x="10" y="120" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9EoA7UxWhLyZJ09YY33g-0" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="Fw4zuBBfyjI6oSINcVEQ-7">
+        <mxCell id="9EoA7UxWhLyZJ09YY33g-0" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="Fw4zuBBfyjI6oSINcVEQ-7" vertex="1">
           <mxGeometry x="-180" y="350" width="20" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="9EoA7UxWhLyZJ09YY33g-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="Fw4zuBBfyjI6oSINcVEQ-7">
+        <mxCell id="9EoA7UxWhLyZJ09YY33g-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="Fw4zuBBfyjI6oSINcVEQ-7" vertex="1">
           <mxGeometry x="10" y="350" width="20" height="21" as="geometry" />
         </mxCell>
         <mxCell id="yxNTbKw8Gsc6y1jbnUsn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="4F4cJXa1Sza_LHnRdeBN-1" source="Fw4zuBBfyjI6oSINcVEQ-15" target="yxNTbKw8Gsc6y1jbnUsn-11" edge="1">
@@ -333,16 +333,16 @@
         <mxCell id="AI8B6Nr0zbYibiRW5-P_-0" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00FF00;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="4F4cJXa1Sza_LHnRdeBN-1" vertex="1">
           <mxGeometry x="1770" y="600" width="20" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="9EoA7UxWhLyZJ09YY33g-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4F4cJXa1Sza_LHnRdeBN-1" source="9EoA7UxWhLyZJ09YY33g-3" target="9EoA7UxWhLyZJ09YY33g-4">
+        <mxCell id="9EoA7UxWhLyZJ09YY33g-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="4F4cJXa1Sza_LHnRdeBN-1" source="9EoA7UxWhLyZJ09YY33g-3" target="9EoA7UxWhLyZJ09YY33g-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9EoA7UxWhLyZJ09YY33g-3" value="関数型&#xa;プログラミング" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
+        <mxCell id="9EoA7UxWhLyZJ09YY33g-3" value="関数型&#xa;プログラミング" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="4F4cJXa1Sza_LHnRdeBN-1" vertex="1">
           <mxGeometry x="1770.0000000000002" y="690" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9EoA7UxWhLyZJ09YY33g-4" value="副作用を減らす" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
+        <mxCell id="9EoA7UxWhLyZJ09YY33g-4" value="副作用を減らす" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="4F4cJXa1Sza_LHnRdeBN-1" vertex="1">
           <mxGeometry x="1890.0000000000002" y="690" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9EoA7UxWhLyZJ09YY33g-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4F4cJXa1Sza_LHnRdeBN-1" source="Fw4zuBBfyjI6oSINcVEQ-5" target="9EoA7UxWhLyZJ09YY33g-3">
+        <mxCell id="9EoA7UxWhLyZJ09YY33g-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="4F4cJXa1Sza_LHnRdeBN-1" source="Fw4zuBBfyjI6oSINcVEQ-5" target="9EoA7UxWhLyZJ09YY33g-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CPum7gvJT51E4ubOsvYq-7" value="対顧客&#xa;期待のControl" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="4F4cJXa1Sza_LHnRdeBN-1" vertex="1">
@@ -354,14 +354,14 @@
         <mxCell id="Fw4zuBBfyjI6oSINcVEQ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="4F4cJXa1Sza_LHnRdeBN-1" source="Fw4zuBBfyjI6oSINcVEQ-13" target="CPum7gvJT51E4ubOsvYq-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9EoA7UxWhLyZJ09YY33g-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;" vertex="1" parent="4F4cJXa1Sza_LHnRdeBN-1">
+        <mxCell id="9EoA7UxWhLyZJ09YY33g-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;" parent="4F4cJXa1Sza_LHnRdeBN-1" vertex="1">
           <mxGeometry x="1350" y="468" width="410" height="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="20231113" id="ly-A3d-8wai5wS3ijVHJ">
-    <mxGraphModel dx="1194" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="sTqY6MCDVxhh7C4dcIVL-0" />
         <mxCell id="sTqY6MCDVxhh7C4dcIVL-1" parent="sTqY6MCDVxhh7C4dcIVL-0" />
@@ -396,7 +396,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sTqY6MCDVxhh7C4dcIVL-12" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;・現在のラベル&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;1ニトリ&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;・理想のラベル&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;エンジニア心理学&lt;br&gt;&lt;br&gt;・k8sについてほぼ一冊読んだ&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;→結論はDocker &amp;lt; Kubernetes = AWS Fargate&lt;br&gt;・イベントが多く、知識の貯蓄はできなかった。加えて、ブランディングも特定の成果は得られていない。&lt;br&gt;・チーム内での動きはよいが、それが外まで出ていかない。&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="sTqY6MCDVxhh7C4dcIVL-1" vertex="1">
-          <mxGeometry x="600" y="40" width="190" height="480" as="geometry" />
+          <mxGeometry x="600" y="40" width="190" height="280" as="geometry" />
         </mxCell>
         <mxCell id="sTqY6MCDVxhh7C4dcIVL-13" value="k8s&#xa;Pod管理&#xa;Labels" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="sTqY6MCDVxhh7C4dcIVL-1" vertex="1">
           <mxGeometry x="40" y="121" width="70" height="70" as="geometry" />
@@ -620,7 +620,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20231106" id="sdoinVV_RA1y0E163LUt">
-    <mxGraphModel dx="1194" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-0" />
         <mxCell id="5KxaZ1Xw3t2oB8gz0OcA-1" parent="5KxaZ1Xw3t2oB8gz0OcA-0" />
@@ -939,7 +939,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20231030" id="kyCqZS4gJkg4q31kI1A0">
-    <mxGraphModel dx="1194" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="dnhGhP_LcqGwnIGYPUAV-0" />
         <mxCell id="dnhGhP_LcqGwnIGYPUAV-1" parent="dnhGhP_LcqGwnIGYPUAV-0" />
@@ -1186,7 +1186,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20231021" id="NKgNeAnhcMeK7NzMlNXh">
-    <mxGraphModel dx="1194" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="QLTrLW-lS9hVsvs0kUb8-0" />
         <mxCell id="QLTrLW-lS9hVsvs0kUb8-1" parent="QLTrLW-lS9hVsvs0kUb8-0" />
@@ -1358,7 +1358,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20231016" id="dMYkchNpJjQwnOqHdrBn">
-    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="deHney_l88NqStJrVVFj-0" />
         <mxCell id="deHney_l88NqStJrVVFj-1" parent="deHney_l88NqStJrVVFj-0" />
@@ -1482,7 +1482,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20231009" id="3202Zn6Pcw_C5sTxqR9v">
-    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="V112yTaiyanmbTkWPUjU-0" />
         <mxCell id="V112yTaiyanmbTkWPUjU-1" parent="V112yTaiyanmbTkWPUjU-0" />
@@ -1699,7 +1699,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20231001" id="-ysLqhfka8vNlJl8EMbG">
-    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="zHhiXLO4bl58V0yyxGMU-0" />
         <mxCell id="zHhiXLO4bl58V0yyxGMU-1" parent="zHhiXLO4bl58V0yyxGMU-0" />
@@ -1874,7 +1874,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20230925" id="f5d175xqmvnSxuXtjlm4">
-    <mxGraphModel dx="1194" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="a-nHaTuBKF9KEzWI5Hg_-0" />
         <mxCell id="a-nHaTuBKF9KEzWI5Hg_-1" parent="a-nHaTuBKF9KEzWI5Hg_-0" />
@@ -1960,7 +1960,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20230918" id="l2B7djUBKTRs0aKHYUcL">
-    <mxGraphModel dx="1194" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qTP_yhxat8HFY62yfr_4-0" />
         <mxCell id="qTP_yhxat8HFY62yfr_4-1" parent="qTP_yhxat8HFY62yfr_4-0" />
@@ -2052,7 +2052,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20230911" id="KKM7uV1gFjSsUPC--Hpi">
-    <mxGraphModel dx="1194" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="EIHTL_VZir1eHEpV5tue-0" />
         <mxCell id="EIHTL_VZir1eHEpV5tue-1" parent="EIHTL_VZir1eHEpV5tue-0" />
