@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T12:33:58.007Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="n6th67e5ApohNAUopHlr" version="22.1.16" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-05T08:11:06.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="CtzRCYeOetMM1pNGI26E" version="22.1.16" type="github" pages="4">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
-    <mxGraphModel dx="367" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -361,7 +361,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2024year" id="uiUMKeZ0txUB_UNjZnf_">
-    <mxGraphModel dx="367" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-0" />
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-1" parent="Bh7SMV7lsvvrdX1vqtc6-0" />
@@ -754,7 +754,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20240101" id="nMjGr3g38JgFLWdHsyrh">
-    <mxGraphModel dx="1194" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="W6p_zbEorA8epCRSyYyF-0" />
         <mxCell id="W6p_zbEorA8epCRSyYyF-1" parent="W6p_zbEorA8epCRSyYyF-0" />
@@ -809,17 +809,17 @@
         <mxCell id="YlXMwq97bl7-2Yr-Kz3o-0" value="Monado&#xa;ブログ" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="W6p_zbEorA8epCRSyYyF-1" vertex="1">
           <mxGeometry x="280" y="280" width="70" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="fy1o8xDlu3Q5SGTHKKAs-0" value="行動を&#xa;変える&#xa;デザイン" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="W6p_zbEorA8epCRSyYyF-1" vertex="1">
-          <mxGeometry x="360" y="200" width="70" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="9cngHbxQa3V_2usGo9TX-0" value="myworking&#xa;clipboard&#xa;try...ng" style="rounded=1;fillColor=#1699D3;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="W6p_zbEorA8epCRSyYyF-1" vertex="1">
           <mxGeometry x="280" y="600" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9cngHbxQa3V_2usGo9TX-1" value="myworking&#xa;locale JP" style="rounded=1;fillColor=#1699D3;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="W6p_zbEorA8epCRSyYyF-1" vertex="1">
           <mxGeometry x="280" y="200" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="v_IY5lxjpEOarYmm32Sw-0" value="Haskell&#xa;Cobal&#xa;Installer" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="W6p_zbEorA8epCRSyYyF-1">
+        <mxCell id="v_IY5lxjpEOarYmm32Sw-0" value="Haskell&#xa;Cobal&#xa;Installer" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="W6p_zbEorA8epCRSyYyF-1" vertex="1">
           <mxGeometry x="280" y="440" width="70" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xAp1Jm5n_qt0anWx35Vs-0" value="Haskell&#xa;Cobal&#xa;Installer" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="W6p_zbEorA8epCRSyYyF-1">
+          <mxGeometry x="360" y="439" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
