@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T08:11:06.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="CtzRCYeOetMM1pNGI26E" version="22.1.16" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-05T09:02:15.708Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_UCpevZKDZOlVOH2PL5K" version="22.1.16" type="github" pages="4">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -820,6 +820,9 @@
         </mxCell>
         <mxCell id="xAp1Jm5n_qt0anWx35Vs-0" value="Haskell&#xa;Cobal&#xa;Installer" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="W6p_zbEorA8epCRSyYyF-1">
           <mxGeometry x="360" y="439" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="l0Ia5gjxPPqiWq2bnqMp-0" value="AWS&#xa;Aurora&#xa;CL" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="W6p_zbEorA8epCRSyYyF-1">
+          <mxGeometry x="360" y="200" width="70" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
