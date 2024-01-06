@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-06T01:49:24.730Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Sri41WSpql_Z7_v7htI-" version="22.1.16" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-06T01:49:41.438Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="W9228IIyKWeqcHbEIQDc" version="22.1.16" type="github" pages="3">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -411,7 +411,7 @@
           <mxGeometry x="993.11" y="188" width="560" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RH4g3-PMaS1lxD3qiMD0-0" value="行動を&#xa;変える&#xa;デザイン" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="923.11" y="512" width="310" height="70" as="geometry" />
+          <mxGeometry x="915.11" y="512" width="314.89" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jRalXt3Lo8aVCcbiEd2y-0" value="Monado" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="914.11" y="188" width="69" height="70" as="geometry" />
@@ -438,7 +438,7 @@
           <mxGeometry x="1874.11" y="591" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jypz1bNjbopJdEoWJgeo-0" value="ケース別&#xa;会話の展開" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
-          <mxGeometry x="923.11" y="591" width="70" height="70" as="geometry" />
+          <mxGeometry x="915.11" y="591" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jypz1bNjbopJdEoWJgeo-1" value="ケース別&#xa;会話の展開" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
           <mxGeometry x="1327.11" y="591" width="70" height="70" as="geometry" />
