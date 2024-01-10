@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T02:42:38.645Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="b6_EWEI0VwFdtZvpvJd2" version="22.1.17" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-10T05:36:51.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4QAaauQtxG-8Mk1kPbwZ" version="22.1.18" type="github" pages="4">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -408,7 +408,7 @@
           <mxGeometry x="920" y="350" width="634.11" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qe8sTHdyQwKMezYS5cEN-0" value="Hask圏の理解&#xa;または、わからない点を洗い出す" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1085.55" y="188" width="553.11" height="70" as="geometry" />
+          <mxGeometry x="1165.55" y="188" width="553.11" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RH4g3-PMaS1lxD3qiMD0-0" value="行動を&#xa;変える&#xa;デザイン" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="920" y="512" width="310" height="70" as="geometry" />
@@ -460,6 +460,15 @@
         </mxCell>
         <mxCell id="T1CbnWRcXSP3Cxb9pG7G-1" value="恒等写像" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1000" y="188" width="70.78" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3-p_pDvlx70PaO5AAdoC-0" value="class&#xa;instance" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="1080" y="188" width="70.78" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3-p_pDvlx70PaO5AAdoC-1" value="data" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="1000" y="269" width="70.78" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3-p_pDvlx70PaO5AAdoC-2" value="haskell&#xa;condition" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="1080" y="269" width="70.78" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
