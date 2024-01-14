@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T07:04:28.591Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="RPepx1fF6zF0NWuPX2XL" version="22.1.18" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-01-14T07:06:12.897Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="nNbTuUvTO_Q9RExy2uiD" version="22.1.18" type="github" pages="5">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -533,7 +533,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20240108" id="p7g2yUZmC1Tj4_zTc-m7">
-    <mxGraphModel dx="1405" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="k7c7Z5gG_GLvMIxAdjpV-0" />
         <mxCell id="k7c7Z5gG_GLvMIxAdjpV-1" parent="k7c7Z5gG_GLvMIxAdjpV-0" />
@@ -582,7 +582,7 @@
         <mxCell id="k7c7Z5gG_GLvMIxAdjpV-17" value="Haskell&#xa;data" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="k7c7Z5gG_GLvMIxAdjpV-1" vertex="1">
           <mxGeometry x="121.1" y="200" width="70" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="NqPBeJuywMlHLcyYpzvl-0" value="juchu-da&#xa;メモリ不足" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="k7c7Z5gG_GLvMIxAdjpV-1" vertex="1">
+        <mxCell id="NqPBeJuywMlHLcyYpzvl-0" value="メモリ不足" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="k7c7Z5gG_GLvMIxAdjpV-1" vertex="1">
           <mxGeometry x="120" y="440" width="70.78" height="150" as="geometry" />
         </mxCell>
         <mxCell id="TMweq_H7ISHM09sje3kR-0" value="Docker&#xa;メンバー&#xa;増加" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="k7c7Z5gG_GLvMIxAdjpV-1" vertex="1">
@@ -591,7 +591,7 @@
         <mxCell id="9c0BxjiHzo304VeaoLei-0" value="vim&#xa;使用" style="rounded=1;fillColor=#1699D3;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="k7c7Z5gG_GLvMIxAdjpV-1" vertex="1">
           <mxGeometry x="200" y="120" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9c0BxjiHzo304VeaoLei-1" value="jbck&#xa;database&#xa;connect" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="k7c7Z5gG_GLvMIxAdjpV-1" vertex="1">
+        <mxCell id="9c0BxjiHzo304VeaoLei-1" value="database&#xa;connect" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="k7c7Z5gG_GLvMIxAdjpV-1" vertex="1">
           <mxGeometry x="120" y="600" width="70.78" height="150" as="geometry" />
         </mxCell>
         <mxCell id="-R9XycRmZxP1Rwau1thP-0" value="Haskell&#xa;class" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="k7c7Z5gG_GLvMIxAdjpV-1" vertex="1">
