@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-12T23:51:33.732Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="DnIgIyBJkvZoN6NvpSAI" version="22.1.18" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-14T06:03:43.081Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="xzPaKx6-qhMhS7wDj1Ri" version="22.1.18" type="github" pages="5">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
-    <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="367" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -476,8 +476,88 @@
         <mxCell id="A44UQFyMIV8JrDTXDl7x-0" value="haskell&#xa;where" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1160" y="269" width="70.78" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="j478CvmTv8a5lj066NqU-0" value="jbck&#xa;UIUX" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+        <mxCell id="j478CvmTv8a5lj066NqU-0" value="jbck&#xa;UIUX" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1000" y="512" width="150" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="20240115" id="ZoKVSwKWSyDF-oC-jm3w">
+    <mxGraphModel dx="1194" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0XZcpubZfZXDD1Xv_FV6-0" />
+        <mxCell id="0XZcpubZfZXDD1Xv_FV6-1" parent="0XZcpubZfZXDD1Xv_FV6-0" />
+        <mxCell id="0XZcpubZfZXDD1Xv_FV6-2" value="火" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="0XZcpubZfZXDD1Xv_FV6-1">
+          <mxGeometry x="99" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0XZcpubZfZXDD1Xv_FV6-3" value="水" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="0XZcpubZfZXDD1Xv_FV6-1">
+          <mxGeometry x="179" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0XZcpubZfZXDD1Xv_FV6-4" value="木" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="0XZcpubZfZXDD1Xv_FV6-1">
+          <mxGeometry x="259" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0XZcpubZfZXDD1Xv_FV6-5" value="金" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="0XZcpubZfZXDD1Xv_FV6-1">
+          <mxGeometry x="339" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0XZcpubZfZXDD1Xv_FV6-6" value="土" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="0XZcpubZfZXDD1Xv_FV6-1">
+          <mxGeometry x="419" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0XZcpubZfZXDD1Xv_FV6-7" value="日" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="0XZcpubZfZXDD1Xv_FV6-1">
+          <mxGeometry x="499" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0XZcpubZfZXDD1Xv_FV6-8" value="月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="0XZcpubZfZXDD1Xv_FV6-1">
+          <mxGeometry x="19" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0XZcpubZfZXDD1Xv_FV6-9" value="&lt;h1&gt;テーマ：Haskell入門&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="0XZcpubZfZXDD1Xv_FV6-1">
+          <mxGeometry x="40" y="40" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0XZcpubZfZXDD1Xv_FV6-10" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" edge="1" parent="0XZcpubZfZXDD1Xv_FV6-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="41" y="110" as="sourcePoint" />
+            <mxPoint x="600" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0XZcpubZfZXDD1Xv_FV6-11" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;・圏論に夢中になればなるほど、人間性を失う。&lt;br&gt;・心理学に夢中になる程エンジニアとしての尖を失う。&lt;br&gt;・1スプリントで&lt;br&gt;&lt;br&gt;・また、今現時点で把握していない技術に「データベース」があることがわかった。現時点では「利用できればいいじゃん？」ぐらいにしか思わないが、できないことがあるのが癪だと思っている。&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="0XZcpubZfZXDD1Xv_FV6-1">
+          <mxGeometry x="610" y="200" width="190" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="0XZcpubZfZXDD1Xv_FV6-12" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;やることリスト&lt;/h1&gt;・Haskellの基本文法を終わらせる&lt;br&gt;・jbckフロントエンドのデザインの方針を固める" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="0XZcpubZfZXDD1Xv_FV6-1">
+          <mxGeometry x="610" y="40" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0XZcpubZfZXDD1Xv_FV6-13" value="スクラム&#xa;マスター&#xa;の会" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="0XZcpubZfZXDD1Xv_FV6-1">
+          <mxGeometry x="40" y="120" width="70" height="389" as="geometry" />
+        </mxCell>
+        <mxCell id="0XZcpubZfZXDD1Xv_FV6-14" value="vim&#xa;修理" style="rounded=1;fillColor=#1699D3;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="0XZcpubZfZXDD1Xv_FV6-1">
+          <mxGeometry x="121.42" y="120" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0XZcpubZfZXDD1Xv_FV6-15" value="Haskell&#xa;data" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="0XZcpubZfZXDD1Xv_FV6-1">
+          <mxGeometry x="121.1" y="200" width="70" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0XZcpubZfZXDD1Xv_FV6-16" value="juchu-da&#xa;メモリ不足" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="0XZcpubZfZXDD1Xv_FV6-1">
+          <mxGeometry x="120" y="440" width="70.78" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0XZcpubZfZXDD1Xv_FV6-17" value="Docker&#xa;メンバー&#xa;増加" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="0XZcpubZfZXDD1Xv_FV6-1">
+          <mxGeometry x="121.42000000000002" y="360" width="69.68" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0XZcpubZfZXDD1Xv_FV6-18" value="vim&#xa;使用" style="rounded=1;fillColor=#1699D3;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="0XZcpubZfZXDD1Xv_FV6-1">
+          <mxGeometry x="200" y="120" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0XZcpubZfZXDD1Xv_FV6-19" value="jbck&#xa;database&#xa;connect" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="0XZcpubZfZXDD1Xv_FV6-1">
+          <mxGeometry x="120" y="600" width="70.78" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0XZcpubZfZXDD1Xv_FV6-20" value="Haskell&#xa;class" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="0XZcpubZfZXDD1Xv_FV6-1">
+          <mxGeometry x="200" y="200" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0XZcpubZfZXDD1Xv_FV6-21" value="Haskell&#xa;if" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="0XZcpubZfZXDD1Xv_FV6-1">
+          <mxGeometry x="200" y="280" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0XZcpubZfZXDD1Xv_FV6-22" value="Haskell&#xa;where" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="0XZcpubZfZXDD1Xv_FV6-1">
+          <mxGeometry x="280" y="200" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0XZcpubZfZXDD1Xv_FV6-23" value="デザイン&#xa;MTG" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="0XZcpubZfZXDD1Xv_FV6-1">
+          <mxGeometry x="280" y="360" width="70" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0XZcpubZfZXDD1Xv_FV6-24" value="フロント&#xa;デザイン&#xa;確認" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="0XZcpubZfZXDD1Xv_FV6-1">
+          <mxGeometry x="360" y="120" width="70" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
