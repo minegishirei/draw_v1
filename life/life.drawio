@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T07:02:07.147Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="lRpi7nK_LQKNH_YrbnK-" version="22.1.18" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-01-14T07:04:28.591Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="RPepx1fF6zF0NWuPX2XL" version="22.1.18" type="github" pages="5">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -533,7 +533,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20240108" id="p7g2yUZmC1Tj4_zTc-m7">
-    <mxGraphModel dx="1194" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1405" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="k7c7Z5gG_GLvMIxAdjpV-0" />
         <mxCell id="k7c7Z5gG_GLvMIxAdjpV-1" parent="k7c7Z5gG_GLvMIxAdjpV-0" />
@@ -606,7 +606,7 @@
         <mxCell id="Gp6dUX4_j7afjjqm6kuF-0" value="デザイン&#xa;MTG" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="k7c7Z5gG_GLvMIxAdjpV-1" vertex="1">
           <mxGeometry x="280" y="360" width="70" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="I6KbLLrgvItLyj09hyzi-0" value="フロント&#xa;デザイン&#xa;確認" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="k7c7Z5gG_GLvMIxAdjpV-1" vertex="1">
+        <mxCell id="I6KbLLrgvItLyj09hyzi-0" value="デザイン" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="k7c7Z5gG_GLvMIxAdjpV-1" vertex="1">
           <mxGeometry x="360" y="120" width="70" height="310" as="geometry" />
         </mxCell>
       </root>
