@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T07:50:59.007Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="p0imRCvIKn-JCOW41Hti" version="22.1.18" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-01-15T07:51:16.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8-YuFr5Ls3cSjAlJQbC8" version="22.1.18" type="github" pages="5">
   <diagram name="arch" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -462,22 +462,22 @@
           <mxGeometry x="920" y="269" width="70" height="72" as="geometry" />
         </mxCell>
         <mxCell id="T1CbnWRcXSP3Cxb9pG7G-1" value="恒等写像" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1000" y="188" width="70.78" height="70" as="geometry" />
+          <mxGeometry x="919.22" y="431" width="70.78" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3-p_pDvlx70PaO5AAdoC-0" value="class&#xa;instance" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1000" y="591" width="70.78" height="70" as="geometry" />
+          <mxGeometry x="1000" y="431" width="70.78" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3-p_pDvlx70PaO5AAdoC-1" value="data" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1000" y="269" width="70.78" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3-p_pDvlx70PaO5AAdoC-2" value="haskell&#xa;condition" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1000" y="431" width="70.78" height="70" as="geometry" />
+          <mxGeometry x="1000" y="188" width="70.78" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ry8YSv5Op1cK6eL4UVYr-0" value="圏論&#xa;米田の定理&#xa;理解" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1554.11" y="188" width="325.89" height="70" as="geometry" />
         </mxCell>
         <mxCell id="A44UQFyMIV8JrDTXDl7x-0" value="haskell&#xa;where" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1000" y="670" width="70.78" height="70" as="geometry" />
+          <mxGeometry x="1000" y="591" width="70.78" height="70" as="geometry" />
         </mxCell>
         <mxCell id="j478CvmTv8a5lj066NqU-0" value="jbck&#xa;UIUX" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1000" y="512" width="150" height="70" as="geometry" />
