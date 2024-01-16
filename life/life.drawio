@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T00:59:46.809Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="lwVQjVN4aaBKoA7wyjhB" version="22.1.18" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-16T01:00:50.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="5Yu3yPIo7e96EUnlhrBX" version="22.1.18" type="github" pages="6">
   <diagram name="state" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -180,7 +180,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-1" value="状態：素人" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="360" width="330" height="280" as="geometry" />
+          <mxGeometry x="40" y="40" width="330" height="280" as="geometry" />
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-2" value="Docker" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="EtvrNQNIiaBIp_oZrtTh-1">
           <mxGeometry x="9.999999999999886" y="40" width="69.68" height="70" as="geometry" />
@@ -207,7 +207,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-9" value="状態：素人" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="360" width="330" height="280" as="geometry" />
+          <mxGeometry x="40" y="440" width="330" height="280" as="geometry" />
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-10" value="Docker" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="EtvrNQNIiaBIp_oZrtTh-9">
           <mxGeometry x="39.999999999999886" y="40" width="69.68" height="70" as="geometry" />
@@ -237,7 +237,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-19" value="状態：圏論" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="829.72" y="360" width="290.28" height="280" as="geometry" />
+          <mxGeometry x="40" y="820" width="290.28" height="280" as="geometry" />
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-20" value="射" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="EtvrNQNIiaBIp_oZrtTh-19">
           <mxGeometry x="30" y="160" width="105" height="110" as="geometry" />
