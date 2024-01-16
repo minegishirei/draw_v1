@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T00:56:46.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Zqj49EqQ9lOQFNimXhvJ" version="22.1.18" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-16T00:56:54.455Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="wDyxGth-6maI19FveEtX" version="22.1.18" type="github" pages="6">
   <diagram name="state" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -167,12 +167,6 @@
         </mxCell>
         <mxCell id="gTbo-PKmi0BazbKfQB6u-3" value="世界一やさしい&#xa;圏論勉強会" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1470" y="117" width="230" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="E-fuVK-2oUL1VDxeC7mp-1" value="まず初めにプランを練る。" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1270" y="970" width="310" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="7sNiNrf3S9Rm7AmQDc8W-1" value="全ての土台は&#xa;数学（圏論）" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="888.96" y="970" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PBimJM6hnjkgPSZzA26J-1" value="経験値" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1470" y="441" width="390" height="70" as="geometry" />
