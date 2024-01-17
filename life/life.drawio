@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T06:47:11.945Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="F6nJ24PsG1ki3UV0xVKp" version="22.1.18" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-17T06:47:41.529Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="JOkDTLV0A30lmA0yTPAF" version="22.1.18" type="github" pages="6">
   <diagram name="state" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -513,7 +513,7 @@
         <mxCell id="0XZcpubZfZXDD1Xv_FV6-8" value="月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="0XZcpubZfZXDD1Xv_FV6-1" vertex="1">
           <mxGeometry x="19" y="75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0XZcpubZfZXDD1Xv_FV6-9" value="&lt;h1&gt;テーマ：Haskell入門&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="0XZcpubZfZXDD1Xv_FV6-1" vertex="1">
+        <mxCell id="0XZcpubZfZXDD1Xv_FV6-9" value="&lt;h1&gt;テーマ：Haskell入門 / デザイン案確立&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="0XZcpubZfZXDD1Xv_FV6-1" vertex="1">
           <mxGeometry x="40" y="40" width="480" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0XZcpubZfZXDD1Xv_FV6-10" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" parent="0XZcpubZfZXDD1Xv_FV6-1" edge="1">
