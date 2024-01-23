@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T08:58:35.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="iXfrvcwR7jnVAxIgdMkZ" version="22.1.21" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-23T09:01:38.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="79jeRMHSqZEQkCptnBo3" version="22.1.21" type="github" pages="7">
   <diagram name="state" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -407,7 +407,7 @@
           <mxGeometry x="1880.0000000000002" y="188" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RH4g3-PMaS1lxD3qiMD0-0" value="行動を&#xa;変える&#xa;デザイン" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1245.1100000000001" y="512" width="310" height="70" as="geometry" />
+          <mxGeometry x="1245.16" y="670" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jRalXt3Lo8aVCcbiEd2y-0" value="Monado" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="919.22" y="188" width="70.78" height="70" as="geometry" />
@@ -416,10 +416,10 @@
           <mxGeometry x="840.11" y="431" width="71.72" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qoBEbC7VUqetlN-z6JW1-3" value="UIUX" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="842.0400000000001" y="512" width="69.79" height="70" as="geometry" />
+          <mxGeometry x="840.11" y="670" width="69.79" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qoBEbC7VUqetlN-z6JW1-4" value="ラポール&#xa;形成" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="842.15" y="591" width="68.75" height="70" as="geometry" />
+          <mxGeometry x="840.11" y="510" width="68.75" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qoBEbC7VUqetlN-z6JW1-5" value="Docker" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="840.11" y="268" width="69.68" height="70" as="geometry" />
@@ -431,25 +431,25 @@
           <mxGeometry x="840" y="188" width="68.75" height="70" as="geometry" />
         </mxCell>
         <mxCell id="P20HAH3YQLcSrejL2LfM-1" value="エンジニア心理学&#xa;「みたことがある！」を確立" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1874.11" y="591" width="310" height="70" as="geometry" />
+          <mxGeometry x="1872.07" y="510" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jypz1bNjbopJdEoWJgeo-0" value="ケース別&#xa;会話の展開" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="920" y="591" width="70" height="70" as="geometry" />
+          <mxGeometry x="917.96" y="510" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jypz1bNjbopJdEoWJgeo-1" value="ケース別&#xa;会話の展開" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1327.11" y="591" width="70" height="70" as="geometry" />
+          <mxGeometry x="1325.07" y="510" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jypz1bNjbopJdEoWJgeo-2" value="ケース別&#xa;会話の展開" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1407.11" y="591" width="70" height="70" as="geometry" />
+          <mxGeometry x="1405.07" y="510" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jypz1bNjbopJdEoWJgeo-3" value="ケース別&#xa;会話の展開" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1245.11" y="591" width="70" height="70" as="geometry" />
+          <mxGeometry x="1243.07" y="510" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jypz1bNjbopJdEoWJgeo-5" value="ケース別&#xa;会話の展開" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1713.11" y="591" width="70" height="70" as="geometry" />
+          <mxGeometry x="1711.07" y="510" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jypz1bNjbopJdEoWJgeo-6" value="ケース別&#xa;会話の展開" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1793.11" y="591" width="70" height="70" as="geometry" />
+          <mxGeometry x="1791.07" y="510" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="T1CbnWRcXSP3Cxb9pG7G-0" value="AWS&#xa;Aurora&#xa;Cloudform" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="920" y="269" width="70" height="72" as="geometry" />
@@ -470,13 +470,13 @@
           <mxGeometry x="1554.11" y="188" width="315.89" height="70" as="geometry" />
         </mxCell>
         <mxCell id="A44UQFyMIV8JrDTXDl7x-0" value="haskell&#xa;where" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1000" y="591" width="70.78" height="70" as="geometry" />
+          <mxGeometry x="997.96" y="510" width="70.78" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="j478CvmTv8a5lj066NqU-0" value="jbck&#xa;UIUX" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1000" y="512" width="230" height="70" as="geometry" />
+        <mxCell id="j478CvmTv8a5lj066NqU-0" value="jbck&#xa;UIUX" style="rounded=1;fillColor=#B266FF;strokeColor=#CC99FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
+          <mxGeometry x="1000.05" y="670" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aptqJN1X2nqDKCvHdTp3-0" value="世界一&#xa;やさしい&#xa;圏論勉強会" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1000" y="670" width="70" height="70" as="geometry" />
+          <mxGeometry x="997.96" y="589" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jQR0Lkv0l3frM5dynBtp-0" value="準同型性" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1080" y="268" width="70" height="70" as="geometry" />
