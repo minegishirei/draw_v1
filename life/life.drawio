@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T02:54:07.265Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="MYPdr3SO2AnPvN9Jf9Xb" version="22.1.21" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-26T12:10:55.476Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ojxWFMcs7Xr1jB0Frpw4" version="22.1.21" type="github" pages="7">
   <diagram name="state" id="lc0XdFxbBfCPJv5JOVG3">
-    <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="367" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -357,7 +357,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2024year" id="uiUMKeZ0txUB_UNjZnf_">
-    <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="367" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-0" />
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-1" parent="Bh7SMV7lsvvrdX1vqtc6-0" />
@@ -491,7 +491,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20240122" id="eU_i8JxQTFa7s5gNAN3g">
-    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qmWQ0zXZDR-VOXqVuJrB-0" />
         <mxCell id="qmWQ0zXZDR-VOXqVuJrB-1" parent="qmWQ0zXZDR-VOXqVuJrB-0" />
@@ -549,14 +549,17 @@
         <mxCell id="08wdSQCiJ_CYqbq1PMCV-0" value="jbck&#xa;UIUX" style="rounded=1;fillColor=#B266FF;strokeColor=#CC99FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="qmWQ0zXZDR-VOXqVuJrB-1" vertex="1">
           <mxGeometry x="120" y="440" width="70" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="k7y-_fhIWtzZx61WaDE_-0" value="新人へ期待&#xa;TEM" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="qmWQ0zXZDR-VOXqVuJrB-1">
+        <mxCell id="k7y-_fhIWtzZx61WaDE_-0" value="新人へ期待&#xa;TEM" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="qmWQ0zXZDR-VOXqVuJrB-1" vertex="1">
           <mxGeometry x="200" y="120" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BBDOhhQhqeXWlG9y2Lip-0" value="CICD&#xa;勉強会開催" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="qmWQ0zXZDR-VOXqVuJrB-1">
+          <mxGeometry x="280" y="120" width="70.78" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="20240115" id="ZoKVSwKWSyDF-oC-jm3w">
-    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0XZcpubZfZXDD1Xv_FV6-0" />
         <mxCell id="0XZcpubZfZXDD1Xv_FV6-1" parent="0XZcpubZfZXDD1Xv_FV6-0" />
