@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-27T11:34:59.404Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="YQtYobPndfgGnxKomhul" version="23.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-27T11:35:54.795Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="oFdkNNGKWziADBn0gTt7" version="23.0.2" type="github" pages="7">
   <diagram name="state" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -178,12 +178,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
-    <mxGraphModel dx="1194" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="1809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-1" value="状態：素人" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="330" height="280" as="geometry" />
+          <mxGeometry x="410" y="480" width="330" height="280" as="geometry" />
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-2" value="Docker" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="EtvrNQNIiaBIp_oZrtTh-1" vertex="1">
           <mxGeometry x="9.999999999999886" y="40" width="69.68" height="70" as="geometry" />
@@ -204,7 +204,7 @@
           <mxGeometry x="230" y="60" width="68.75" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-9" value="状態：素人" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="440" width="330" height="280" as="geometry" />
+          <mxGeometry x="40" y="40" width="330" height="280" as="geometry" />
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-10" value="Docker" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="EtvrNQNIiaBIp_oZrtTh-9" vertex="1">
           <mxGeometry x="39.999999999999886" y="40" width="69.68" height="70" as="geometry" />
@@ -231,7 +231,7 @@
           <mxGeometry x="10" y="75" width="71.72" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-19" value="状態：圏論" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="820" width="320" height="280" as="geometry" />
+          <mxGeometry x="40" y="-260" width="320" height="280" as="geometry" />
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-20" value="射" style="swimlane;whiteSpace=wrap;html=1;" parent="EtvrNQNIiaBIp_oZrtTh-19" vertex="1">
           <mxGeometry x="200" y="40" width="105" height="110" as="geometry" />
@@ -280,8 +280,8 @@
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-31" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#004C99;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EtvrNQNIiaBIp_oZrtTh-13" target="EtvrNQNIiaBIp_oZrtTh-20" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="919" y="580" as="sourcePoint" />
-            <mxPoint x="1020" y="575" as="targetPoint" />
+            <mxPoint x="919" y="180" as="sourcePoint" />
+            <mxPoint x="1020" y="175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-32" value="関手" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="EtvrNQNIiaBIp_oZrtTh-31" connectable="0" vertex="1">
@@ -289,8 +289,8 @@
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-33" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#004C99;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="EtvrNQNIiaBIp_oZrtTh-15" target="EtvrNQNIiaBIp_oZrtTh-23" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="454.47" as="sourcePoint" />
-            <mxPoint x="830" y="450" as="targetPoint" />
+            <mxPoint x="740" y="54.47000000000003" as="sourcePoint" />
+            <mxPoint x="830" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-34" value="関手" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="EtvrNQNIiaBIp_oZrtTh-33" connectable="0" vertex="1">
