@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-27T11:38:53.128Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="1MkdbMX1FghRFuqX3TsB" version="23.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-27T11:38:58.612Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="bD7NHJnssC7H1yEz54NR" version="23.0.2" type="github" pages="7">
   <diagram name="state" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -183,7 +183,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-1" value="状態：素人" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="410" y="480" width="330" height="280" as="geometry" />
+          <mxGeometry x="410" y="110" width="330" height="280" as="geometry" />
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-2" value="Docker" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="EtvrNQNIiaBIp_oZrtTh-1" vertex="1">
           <mxGeometry x="9.999999999999886" y="40" width="69.68" height="70" as="geometry" />
