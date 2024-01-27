@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-27T11:38:39.657Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3J10pYEQOmea3VdxaBJo" version="23.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-27T11:38:53.128Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="1MkdbMX1FghRFuqX3TsB" version="23.0.2" type="github" pages="7">
   <diagram name="state" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -297,7 +297,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-35" value="状態：圏論による独自理論の構築" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="40" width="590" height="280" as="geometry" />
+          <mxGeometry x="40" y="-550" width="590" height="280" as="geometry" />
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-36" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#004C99;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="EtvrNQNIiaBIp_oZrtTh-35" source="EtvrNQNIiaBIp_oZrtTh-43" target="EtvrNQNIiaBIp_oZrtTh-44" edge="1">
           <mxGeometry relative="1" as="geometry">
