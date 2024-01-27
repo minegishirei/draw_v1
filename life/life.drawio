@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-27T11:28:39.322Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="879IDSGhGxYnhpvKNU2_" version="23.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-27T11:34:59.404Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="YQtYobPndfgGnxKomhul" version="23.0.2" type="github" pages="7">
   <diagram name="state" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -284,7 +284,7 @@
             <mxPoint x="1020" y="575" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EtvrNQNIiaBIp_oZrtTh-32" value="圏論" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="EtvrNQNIiaBIp_oZrtTh-31" connectable="0" vertex="1">
+        <mxCell id="EtvrNQNIiaBIp_oZrtTh-32" value="関手" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="EtvrNQNIiaBIp_oZrtTh-31" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-33" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#004C99;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="EtvrNQNIiaBIp_oZrtTh-15" target="EtvrNQNIiaBIp_oZrtTh-23" edge="1">
@@ -293,7 +293,7 @@
             <mxPoint x="830" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EtvrNQNIiaBIp_oZrtTh-34" value="圏論" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="EtvrNQNIiaBIp_oZrtTh-33" connectable="0" vertex="1">
+        <mxCell id="EtvrNQNIiaBIp_oZrtTh-34" value="関手" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="EtvrNQNIiaBIp_oZrtTh-33" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-35" value="状態：圏論による独自理論の構築" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
