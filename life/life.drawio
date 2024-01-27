@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-27T11:07:51.359Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="6KVk4IodjtAV6GuaUz5h" version="23.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-27T11:28:39.322Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="879IDSGhGxYnhpvKNU2_" version="23.0.2" type="github" pages="7">
   <diagram name="state" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,7 +171,7 @@
         <mxCell id="PBimJM6hnjkgPSZzA26J-1" value="経験値" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1470" y="441" width="390" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="QVxZH25WMLB67DkVGijq-1" value="薄い言葉&#xa;重い言葉" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="QVxZH25WMLB67DkVGijq-1" value="薄い言葉&#xa;重い言葉" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2030" y="520" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
@@ -297,7 +297,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-35" value="状態：圏論による独自理論の構築" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="1220" width="590" height="280" as="geometry" />
+          <mxGeometry x="380" y="40" width="590" height="280" as="geometry" />
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-36" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#004C99;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="EtvrNQNIiaBIp_oZrtTh-35" source="EtvrNQNIiaBIp_oZrtTh-43" target="EtvrNQNIiaBIp_oZrtTh-44" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -487,13 +487,13 @@
         <mxCell id="GwFR8R6grh2XvskKRjrV-0" value="Haskell&#xa;Compiler" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1080" y="430" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="qGFE-_6TUpEKcDIa3ldZ-0" value="新人へ期待&#xa;TEM" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+        <mxCell id="qGFE-_6TUpEKcDIa3ldZ-0" value="新人へ期待&#xa;TEM" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1160.05" y="510" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6jQH_a4es7nJc6ZHCs8M-0" value="Astro&#xa;NeoVim" style="rounded=1;fillColor=#1699D3;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+        <mxCell id="6jQH_a4es7nJc6ZHCs8M-0" value="Astro&#xa;NeoVim" style="rounded=1;fillColor=#1699D3;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1160.05" y="350" width="69.79" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="itSseKWkZj9hSzpp6NN0-0" value="行動を&#xa;変える&#xa;デザイン" style="rounded=1;fillColor=#B266FF;strokeColor=#CC99FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+        <mxCell id="itSseKWkZj9hSzpp6NN0-0" value="行動を&#xa;変える&#xa;デザイン" style="rounded=1;fillColor=#B266FF;strokeColor=#CC99FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1240.5" y="590" width="239.5" height="70" as="geometry" />
         </mxCell>
       </root>
@@ -567,10 +567,10 @@
         <mxCell id="Cq0RcZI-IcrRlzzhnl2R-0" value="ユーザー&#xa;データ&#xa;認証API" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="qmWQ0zXZDR-VOXqVuJrB-1" vertex="1">
           <mxGeometry x="280" y="280" width="70.78" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="c2RFLoELoAnxM2EyDwfg-0" value="Lisp&#xa;勉強会" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="qmWQ0zXZDR-VOXqVuJrB-1">
+        <mxCell id="c2RFLoELoAnxM2EyDwfg-0" value="Lisp&#xa;勉強会" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="qmWQ0zXZDR-VOXqVuJrB-1" vertex="1">
           <mxGeometry x="280" y="440" width="70.78" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="VVQ-DltNWLTYukbLecYN-0" value="jbck&#xa;UIUX" style="rounded=1;fillColor=#B266FF;strokeColor=#CC99FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="qmWQ0zXZDR-VOXqVuJrB-1">
+        <mxCell id="VVQ-DltNWLTYukbLecYN-0" value="jbck&#xa;UIUX" style="rounded=1;fillColor=#B266FF;strokeColor=#CC99FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="qmWQ0zXZDR-VOXqVuJrB-1" vertex="1">
           <mxGeometry x="360" y="120" width="70" height="150" as="geometry" />
         </mxCell>
       </root>
