@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-27T11:38:02.327Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="dPvntP1oKx7iN0Xz_ft3" version="23.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-27T11:38:39.657Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3J10pYEQOmea3VdxaBJo" version="23.0.2" type="github" pages="7">
   <diagram name="state" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -207,7 +207,7 @@
           <mxGeometry x="40" y="110" width="330" height="280" as="geometry" />
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-10" value="Docker" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="EtvrNQNIiaBIp_oZrtTh-9" vertex="1">
-          <mxGeometry x="39.999999999999886" y="40" width="69.68" height="70" as="geometry" />
+          <mxGeometry x="79.99999999999989" y="160" width="69.68" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-13" value="圏" style="swimlane;whiteSpace=wrap;html=1;" parent="EtvrNQNIiaBIp_oZrtTh-9" vertex="1">
           <mxGeometry x="199.79" y="40" width="105" height="110" as="geometry" />
@@ -216,19 +216,19 @@
           <mxGeometry x="18.120000000000108" y="30" width="68.75" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-15" value="圏" style="swimlane;whiteSpace=wrap;html=1;" parent="EtvrNQNIiaBIp_oZrtTh-9" vertex="1">
-          <mxGeometry x="30" y="160" width="105" height="110" as="geometry" />
+          <mxGeometry x="30" y="40" width="105" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-16" value="Vim" style="rounded=1;fillColor=#1699D3;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="EtvrNQNIiaBIp_oZrtTh-15" vertex="1">
           <mxGeometry x="17.080000000000013" y="30" width="69.79" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-17" value="UIUX" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="EtvrNQNIiaBIp_oZrtTh-9" vertex="1">
-          <mxGeometry x="130.00000000000006" y="75" width="69.79" height="70" as="geometry" />
+          <mxGeometry x="235.00000000000006" y="200" width="69.79" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-11" value="圏論" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="EtvrNQNIiaBIp_oZrtTh-9" vertex="1">
-          <mxGeometry x="130" y="160" width="68.75" height="70" as="geometry" />
+          <mxGeometry x="180" y="160" width="68.75" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-12" value="Agile" style="rounded=1;fillColor=#109e81;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="EtvrNQNIiaBIp_oZrtTh-9" vertex="1">
-          <mxGeometry x="10" y="75" width="71.72" height="70" as="geometry" />
+          <mxGeometry y="200" width="71.72" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-19" value="状態：圏論" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="-260" width="320" height="280" as="geometry" />
@@ -287,7 +287,7 @@
         <mxCell id="EtvrNQNIiaBIp_oZrtTh-32" value="関手" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="EtvrNQNIiaBIp_oZrtTh-31" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EtvrNQNIiaBIp_oZrtTh-33" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#004C99;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="EtvrNQNIiaBIp_oZrtTh-15" target="EtvrNQNIiaBIp_oZrtTh-23" edge="1">
+        <mxCell id="EtvrNQNIiaBIp_oZrtTh-33" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#004C99;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="EtvrNQNIiaBIp_oZrtTh-15" target="EtvrNQNIiaBIp_oZrtTh-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="740" y="54.47000000000003" as="sourcePoint" />
             <mxPoint x="830" y="50" as="targetPoint" />
