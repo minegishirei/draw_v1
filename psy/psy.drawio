@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-28T11:25:38.121Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kfKKQW3I0O47OjsOaMIY" version="23.0.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-01-28T11:30:56.622Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="oh_Kzos8mN0pxYTUZycg" version="23.0.2" type="github" pages="8">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1194" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -420,7 +420,7 @@
           <mxGeometry x="100" y="40" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xecrEPeFtxI3QT_FLIcB-2" value="&lt;font color=&quot;#000000&quot;&gt;ちょっと相談&lt;br&gt;いいですか？&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="610" y="210" width="150" height="60" as="geometry" />
+          <mxGeometry x="560" y="525" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xecrEPeFtxI3QT_FLIcB-3" value="&lt;font color=&quot;#000000&quot;&gt;ちょっと相談&lt;br&gt;いいですか？&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="610" y="90" width="150" height="60" as="geometry" />
