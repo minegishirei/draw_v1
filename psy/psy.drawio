@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-28T11:07:51.591Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="HqmLB7GWKpwfslJ74n4r" version="23.0.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-01-28T11:11:33.559Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="fTiVieBQSe-B7xXnOmOp" version="23.0.2" type="github" pages="8">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1194" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -423,7 +423,13 @@
           <mxGeometry x="339" y="40" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xecrEPeFtxI3QT_FLIcB-3" value="&lt;font color=&quot;#000000&quot;&gt;ちょっと相談&lt;br&gt;いいですか？&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="339" y="170" width="150" height="60" as="geometry" />
+          <mxGeometry x="610" y="90" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wbSNjIOasBKMrMAYr1Wq-1" value="威厳(ゆっくりしゃべる)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="210" width="200" height="280.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wbSNjIOasBKMrMAYr1Wq-6" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;相談というのはデザインのことについてです。&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="wbSNjIOasBKMrMAYr1Wq-1">
+          <mxGeometry x="10" y="30" width="180" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
