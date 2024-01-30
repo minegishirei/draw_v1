@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T23:05:52.691Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VCYx4r9N0ASZezyl1EWK" version="23.0.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-01-30T23:16:52.439Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9R81ZsaQFKOrRlTXnN8W" version="23.0.2" type="github" pages="8">
   <diagram name="state" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -437,13 +437,13 @@
           <mxGeometry x="917.96" y="510" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jypz1bNjbopJdEoWJgeo-1" value="ケース別&#xa;会話の展開" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1325.07" y="510" width="70" height="70" as="geometry" />
+          <mxGeometry x="1320.32" y="510" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jypz1bNjbopJdEoWJgeo-2" value="ケース別&#xa;会話の展開" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1405.07" y="510" width="70" height="70" as="geometry" />
+          <mxGeometry x="1401.07" y="510" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jypz1bNjbopJdEoWJgeo-3" value="ケース別&#xa;会話の展開" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1243.07" y="510" width="70" height="70" as="geometry" />
+          <mxGeometry x="1240.5" y="510" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jypz1bNjbopJdEoWJgeo-5" value="ケース別&#xa;会話の展開" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1711.07" y="510" width="70" height="70" as="geometry" />
@@ -473,7 +473,7 @@
           <mxGeometry x="997.96" y="510" width="70.78" height="70" as="geometry" />
         </mxCell>
         <mxCell id="j478CvmTv8a5lj066NqU-0" value="jbck&#xa;UIUX" style="rounded=1;fillColor=#B266FF;strokeColor=#CC99FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="997.4599999999999" y="590" width="230" height="70" as="geometry" />
+          <mxGeometry x="997.46" y="590" width="312.54" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aptqJN1X2nqDKCvHdTp3-0" value="世界一&#xa;やさしい&#xa;圏論勉強会" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1080.05" y="510" width="70" height="70" as="geometry" />
@@ -494,13 +494,16 @@
           <mxGeometry x="1160.05" y="350" width="69.79" height="70" as="geometry" />
         </mxCell>
         <mxCell id="itSseKWkZj9hSzpp6NN0-0" value="行動を&#xa;変える&#xa;デザイン" style="rounded=1;fillColor=#B266FF;strokeColor=#CC99FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1240.5" y="590" width="239.5" height="70" as="geometry" />
+          <mxGeometry x="1320.32" y="590" width="239.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7E724pbm7jZKlNEOCbff-0" value="jbck&#xa;UIUX" style="rounded=1;fillColor=#B266FF;strokeColor=#CC99FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="1234.11" y="670" width="75.89" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="20240129" id="YT6Y1YQv-_jAS4uwgdAE">
-    <mxGraphModel dx="1194" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="dBQ8vBlGCZIQDa5-0BF6-0" />
         <mxCell id="dBQ8vBlGCZIQDa5-0BF6-1" parent="dBQ8vBlGCZIQDa5-0BF6-0" />
