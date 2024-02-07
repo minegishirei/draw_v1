@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T01:29:03.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="QOEUkOsxPI9uqVJt4wXp" version="23.1.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-02-07T12:44:26.450Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="-p56Ns64_bbwE2a52xwK" version="23.1.0" type="github" pages="9">
   <diagram name="state" id="lc0XdFxbBfCPJv5JOVG3">
-    <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="367" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -509,7 +509,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20240205" id="u8vwv2vFTpZclQnCcgvx">
-    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="9UkTS8UDLZztZ7JFwCbC-0" />
         <mxCell id="9UkTS8UDLZztZ7JFwCbC-1" parent="9UkTS8UDLZztZ7JFwCbC-0" />
@@ -552,11 +552,17 @@
         <mxCell id="9UkTS8UDLZztZ7JFwCbC-13" value="jbck&#xa;UIUX" style="rounded=1;fillColor=#B266FF;strokeColor=#CC99FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="9UkTS8UDLZztZ7JFwCbC-1" vertex="1">
           <mxGeometry x="40" y="120" width="70" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="VzcHqNk1xB6bjrcrilMp-0" value="ユーザー&#xa;データ&#xa;認証API" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="9UkTS8UDLZztZ7JFwCbC-1">
+        <mxCell id="VzcHqNk1xB6bjrcrilMp-0" value="ユーザー&#xa;データ&#xa;認証API" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="9UkTS8UDLZztZ7JFwCbC-1" vertex="1">
           <mxGeometry x="40" y="440" width="70.78" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="VzcHqNk1xB6bjrcrilMp-1" value="jbck&#xa;UIUX&#xa;ログイン" style="rounded=1;fillColor=#B266FF;strokeColor=#CC99FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="9UkTS8UDLZztZ7JFwCbC-1">
+        <mxCell id="VzcHqNk1xB6bjrcrilMp-1" value="jbck&#xa;UIUX&#xa;ログイン" style="rounded=1;fillColor=#B266FF;strokeColor=#CC99FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="9UkTS8UDLZztZ7JFwCbC-1" vertex="1">
           <mxGeometry x="120" y="120" width="70" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XGKnnVJeUBBvJSO7vHpY-0" value="jbck&#xa;UIUX&#xa;検索結果" style="rounded=1;fillColor=#B266FF;strokeColor=#CC99FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="9UkTS8UDLZztZ7JFwCbC-1">
+          <mxGeometry x="200" y="120" width="70" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XGKnnVJeUBBvJSO7vHpY-1" value="jbck&#xa;UIUX&#xa;ページ内&#xa;リンク" style="rounded=1;fillColor=#B266FF;strokeColor=#CC99FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="9UkTS8UDLZztZ7JFwCbC-1">
+          <mxGeometry x="200" y="280" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
