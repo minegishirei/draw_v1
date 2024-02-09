@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T01:19:07.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="z25wdPfSicGo7RLmc7Qg" version="23.1.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-02-09T01:20:54.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="KTwq8xdGTKvM0pwIvzmS" version="23.1.2" type="github" pages="9">
   <diagram name="state" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -579,7 +579,7 @@
         <mxCell id="w8DakGF6w3ixBz3ZTjFR-1" value="飲み会幹事" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="9UkTS8UDLZztZ7JFwCbC-1">
           <mxGeometry x="360" y="200" width="70.78" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="w8DakGF6w3ixBz3ZTjFR-2" value="飲み会幹事" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="9UkTS8UDLZztZ7JFwCbC-1">
+        <mxCell id="w8DakGF6w3ixBz3ZTjFR-2" value="Agile&#xa;研修" style="rounded=1;fillColor=#999999;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="9UkTS8UDLZztZ7JFwCbC-1">
           <mxGeometry x="360" y="280" width="70.78" height="70" as="geometry" />
         </mxCell>
       </root>
