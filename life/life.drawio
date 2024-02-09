@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T10:25:07.915Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="k6mFrYyuhAsV08Fznfy-" version="23.1.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-02-09T10:45:25.139Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="TsSK14JgwLcFiEGafrig" version="23.1.2" type="github" pages="9">
   <diagram name="state" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -176,12 +176,6 @@
         </mxCell>
         <mxCell id="QVxZH25WMLB67DkVGijq-1" value="薄い言葉&#xa;重い言葉" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2030" y="359" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="YPsCKF8d9ywqvDxoCWRE-1" value="デバッグするという工程&#xa;脆弱性をつくという工程&#xa;これらは共通点がある" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="881" y="520" width="151" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="YPsCKF8d9ywqvDxoCWRE-2" value="セキュリティ" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1069.28" y="520" width="70.72" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
