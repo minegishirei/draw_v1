@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T06:02:48.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="mzU56LVpHDXthLzqtJcl" version="23.1.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-02-09T06:13:34.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="4gEgEhhhgOGUsL09PW4I" version="23.1.2" type="github" pages="9">
   <diagram name="state" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -543,7 +543,7 @@
             <mxPoint x="600" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9UkTS8UDLZztZ7JFwCbC-11" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;・フロントエンドをフルパワーで取り組んだ。&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・Figmaの使い方も把握してきている&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="9UkTS8UDLZztZ7JFwCbC-1" vertex="1">
+        <mxCell id="9UkTS8UDLZztZ7JFwCbC-11" value="&lt;h1&gt;今週の振り返り&lt;/h1&gt;・金曜日の1on1で、実力よりもキャリアを重要視する考え方を持っていることが分かった。&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;はっきり言って、&lt;br&gt;かなり失望した。&lt;br&gt;自分は実力主義の世界で、お互いの技術を認め合えるような世界が良いと思っていた。そうではなくて、年齢がすべての世界であり、自分はこの世界では底辺でしかない。&lt;br&gt;&lt;br&gt;・&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="9UkTS8UDLZztZ7JFwCbC-1" vertex="1">
           <mxGeometry x="610" y="200" width="190" height="280" as="geometry" />
         </mxCell>
         <mxCell id="9UkTS8UDLZztZ7JFwCbC-12" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;やることリスト&lt;/h1&gt;・jbckデザイン" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="9UkTS8UDLZztZ7JFwCbC-1" vertex="1">
