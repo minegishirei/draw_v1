@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-12T08:58:37.885Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="3D_txKkEX_sBdwM8RV1m" version="23.1.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-02-12T09:01:22.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="PeXfqJnle9loxDR5Bp_c" version="23.1.2" type="github" pages="10">
   <diagram name="state" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -622,7 +622,7 @@
           <mxGeometry x="120" y="120" width="70" height="230" as="geometry" />
         </mxCell>
         <mxCell id="ykNH2Bd9k_AUBz1OZ90j-0" value="Docker&#xa;trouble&#xa;shooting" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="3lIcsOLVbUGWmg2Yyuxf-1">
-          <mxGeometry x="40" y="520" width="70" height="70" as="geometry" />
+          <mxGeometry x="40" y="520" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
