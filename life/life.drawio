@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T12:29:06.230Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="IlQctw3U90QJO5C9sAff" version="23.1.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-02-18T13:06:02.363Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="bmSTdGgniE3lKg0LM-eG" version="23.1.5" type="github" pages="11">
   <diagram name="state" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -623,6 +623,9 @@
         </mxCell>
         <mxCell id="nfqZXzEb1XVHQ9gFFJ-0-12" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;やることリスト&lt;/h1&gt;・心理学&lt;br&gt;・jbckデザイン&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;・コンテナランタイム（youki）のビルド" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="nfqZXzEb1XVHQ9gFFJ-0-1">
           <mxGeometry x="610" y="40" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="estMWF4nZxKGCOvWo2Fr-0" value="ラポール&#xa;形成" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="nfqZXzEb1XVHQ9gFFJ-0-1">
+          <mxGeometry x="40" y="120" width="68.75" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
