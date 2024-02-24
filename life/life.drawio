@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-24T03:28:38.933Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="lUpIpofqN7ajOwcPhxdW" version="23.1.6" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-02-24T03:30:27.558Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="f0_2svHzMlEI_wuyOEAf" version="23.1.6" type="github" pages="12">
   <diagram name="state" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -530,7 +530,7 @@
           <mxGeometry x="1000" y="200" width="70.78" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ry8YSv5Op1cK6eL4UVYr-0" value="圏論&#xa;米田の定理&#xa;理解" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1554.11" y="200" width="315.89" height="70" as="geometry" />
+          <mxGeometry x="1560" y="200" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="A44UQFyMIV8JrDTXDl7x-0" value="haskell&#xa;where" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="920" y="442" width="70.78" height="70" as="geometry" />
@@ -545,7 +545,7 @@
           <mxGeometry x="1080" y="280" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="H8V6MKHcd4WymPwhdcRi-0" value="Haskell&#xa;Oreilly&#xa;入門読破" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1080" y="200" width="460" height="70" as="geometry" />
+          <mxGeometry x="1080" y="200" width="470" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GwFR8R6grh2XvskKRjrV-0" value="Haskell&#xa;Compiler" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1080" y="442" width="70" height="70" as="geometry" />
@@ -650,6 +650,9 @@
         </mxCell>
         <mxCell id="wcwhrWfLJvsCWX0Dj85q-0" value="What&#xa;is&#xa;Youki" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
           <mxGeometry x="1400" y="680" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AcJ7TZOZP5maGgw8Lkc6-0" value="dotfiles" style="rounded=1;fillColor=#1699D3;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="1560.0000000000002" y="360.5" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
