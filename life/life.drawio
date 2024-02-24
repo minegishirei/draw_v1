@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-24T03:30:58.024Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="l-ieiZoEYn8kfG6Xxppb" version="23.1.6" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-02-24T03:31:05.195Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="atLhulc8ijmKGToztISy" version="23.1.6" type="github" pages="12">
   <diagram name="state" id="lc0XdFxbBfCPJv5JOVG3">
     <mxGraphModel dx="367" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -536,7 +536,7 @@
           <mxGeometry x="920" y="442" width="70.78" height="70" as="geometry" />
         </mxCell>
         <mxCell id="j478CvmTv8a5lj066NqU-0" value="jbck&#xa;UIUX" style="rounded=1;fillColor=#B266FF;strokeColor=#CC99FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="999.46" y="601" width="310.54" height="70" as="geometry" />
+          <mxGeometry x="999.46" y="600" width="310.54" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aptqJN1X2nqDKCvHdTp3-0" value="世界一&#xa;やさしい&#xa;圏論勉強会" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1159.84" y="282" width="70" height="70" as="geometry" />
