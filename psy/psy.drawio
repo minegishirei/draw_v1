@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T08:16:30.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="xUTmFTpqCQlrcdOdaryI" version="23.1.6" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-02-26T08:18:00.003Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="NhC5SKfSiGy1S43FZWMv" version="23.1.6" type="github" pages="9">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -185,18 +185,6 @@
         </mxCell>
         <mxCell id="HNqLQNwx-MG5eSBJAj62-11" value="無作為に選んだ人に&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;１、「デートの頻度」を問いかける&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;２，「今幸せか？」を問いかける&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;デートの頻度に比例して幸せ度合が増加した" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#CC99FF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="HNqLQNwx-MG5eSBJAj62-1" vertex="1">
           <mxGeometry x="10" y="33" width="150" height="148" as="geometry" />
-        </mxCell>
-        <mxCell id="8zx2KFzAG-iw0LaA0TS7-1" value="威厳(ゆっくりしゃべる)" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="199.5" width="170" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="8zx2KFzAG-iw0LaA0TS7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="8zx2KFzAG-iw0LaA0TS7-1" source="8zx2KFzAG-iw0LaA0TS7-3" target="8zx2KFzAG-iw0LaA0TS7-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8zx2KFzAG-iw0LaA0TS7-3" value="&lt;div&gt;- 「沈黙」を選択 : 誠実性が上がる&lt;/div&gt;&lt;div&gt;- 「多弁」を選択 : 誠実性が下がる&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#FCAD90;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="8zx2KFzAG-iw0LaA0TS7-1" vertex="1">
-          <mxGeometry x="10" y="32" width="150" height="148" as="geometry" />
-        </mxCell>
-        <mxCell id="8zx2KFzAG-iw0LaA0TS7-4" value="＜ゆっくりしゃべる＞&lt;br&gt;誠実性/威厳" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="8zx2KFzAG-iw0LaA0TS7-1" vertex="1">
-          <mxGeometry x="10" y="214.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8zx2KFzAG-iw0LaA0TS7-5" value="悔いなき選択(言語)" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="200" width="380" height="279.5" as="geometry" />
