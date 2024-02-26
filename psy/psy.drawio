@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T08:21:05.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="hBGKtuJh8dWlRHXRS-Cc" version="23.1.6" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-02-26T08:26:11.439Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="s1ORUh7jsuXjQLSi7VZo" version="23.1.6" type="github" pages="9">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -540,7 +540,7 @@
         <mxCell id="JuepEtLFrB7OHv0gC4WY-1" value="テストを行わなかったときと比べて&lt;br&gt;テストをおこなったときのほうがプロジェクトの成功確率が&lt;br&gt;上がります。" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#FCAD90;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="540" y="385.75" width="150" height="148" as="geometry" />
         </mxCell>
-        <mxCell id="m0iSNNY-5TfHxD37bBtF-1" value="ちなみに西さん品質という言葉はご存じですかね？" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#CC99FF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+        <mxCell id="m0iSNNY-5TfHxD37bBtF-1" value="プロジェクトの&lt;br&gt;品質はどの程度担保したいか？" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#CC99FF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="440" y="681.5" width="150" height="148" as="geometry" />
         </mxCell>
         <mxCell id="9hO9bl5JzqF1mVfw5k1v-1" value="行動の一貫性" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
