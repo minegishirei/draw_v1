@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T12:01:48.764Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tXZwLJBEdePUEeF7JBY0" version="23.1.6" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-02-26T12:02:34.760Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="cGodIefBe95NsUT3s_pj" version="23.1.6" type="github" pages="11">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="1784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -502,6 +502,9 @@
         <mxCell id="shAARSRhWd7LK3E0k7zg-0" value="Create&#xa;My Container&#xa;From Scruch" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1JK6sxtEXFhx812PISsB-1" vertex="1">
           <mxGeometry x="40" y="120" width="390" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="CoVyYmrkGXsdNqyBXlRh-0" value="ケース別&#xa;会話の展開" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1JK6sxtEXFhx812PISsB-1">
+          <mxGeometry x="40" y="200" width="70" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -582,7 +585,7 @@
         <mxCell id="tLzqxX6DVy1uGDQj5zRa-0" value="multi&#xa;stage&#xa;build" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="nfqZXzEb1XVHQ9gFFJ-0-1" vertex="1">
           <mxGeometry x="440" y="120" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="tA3CHYiIS2wMpnPcX2y1-0" value="Create&#xa;My Container&#xa;From Scruch" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="nfqZXzEb1XVHQ9gFFJ-0-1">
+        <mxCell id="tA3CHYiIS2wMpnPcX2y1-0" value="Create&#xa;My Container&#xa;From Scruch" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="nfqZXzEb1XVHQ9gFFJ-0-1" vertex="1">
           <mxGeometry x="440" y="200" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
