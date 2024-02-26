@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T08:05:23.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="fmWEBJwX-vy8dmH2wJsE" version="23.1.6" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-02-26T08:06:48.368Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="6gxhmKi_dpc08TZKF_U9" version="23.1.6" type="github" pages="9">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -404,6 +404,49 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EX0fOMvzROrq4MbKgnco-1" value="&lt;font color=&quot;#000000&quot;&gt;ちょっと相談&lt;br&gt;いいですか？&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hdCI6QdxYPmtm5lr5B-G-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DeFxqp6BBCRxFicI65Bh-1" target="hdCI6QdxYPmtm5lr5B-G-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeFxqp6BBCRxFicI65Bh-1" value="悔いなき選択(言語)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="380" height="279.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DeFxqp6BBCRxFicI65Bh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DeFxqp6BBCRxFicI65Bh-1" source="DeFxqp6BBCRxFicI65Bh-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="162" y="243" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DeFxqp6BBCRxFicI65Bh-3" value="「死亡率」&lt;br&gt;現状維持" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="DeFxqp6BBCRxFicI65Bh-1">
+          <mxGeometry x="219" y="213" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DeFxqp6BBCRxFicI65Bh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="DeFxqp6BBCRxFicI65Bh-1" target="DeFxqp6BBCRxFicI65Bh-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="162" y="243" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DeFxqp6BBCRxFicI65Bh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DeFxqp6BBCRxFicI65Bh-1" source="DeFxqp6BBCRxFicI65Bh-6" target="DeFxqp6BBCRxFicI65Bh-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeFxqp6BBCRxFicI65Bh-6" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="DeFxqp6BBCRxFicI65Bh-1">
+          <mxGeometry x="219" y="33" width="150" height="149.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DeFxqp6BBCRxFicI65Bh-7" value="言語" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DeFxqp6BBCRxFicI65Bh-1">
+          <mxGeometry x="160" y="213" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DeFxqp6BBCRxFicI65Bh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DeFxqp6BBCRxFicI65Bh-1" source="DeFxqp6BBCRxFicI65Bh-9" target="DeFxqp6BBCRxFicI65Bh-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeFxqp6BBCRxFicI65Bh-9" value="癌の外科手術の効果について死亡率の代わりに生存率が示された場合、&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;医師が手術を選択する割合は34%増加した&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;McNeil 1982" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#FCAD90;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="DeFxqp6BBCRxFicI65Bh-1">
+          <mxGeometry x="10" y="34.5" width="150" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="DeFxqp6BBCRxFicI65Bh-10" value="「生存率」&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;変革" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="DeFxqp6BBCRxFicI65Bh-1">
+          <mxGeometry x="10" y="213" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hdCI6QdxYPmtm5lr5B-G-2" value="プロジェクトの失敗確率は&lt;br&gt;65%となります。" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="185" width="150" height="149.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
