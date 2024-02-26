@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T08:13:56.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="k-jkjWf8PtPfMOmJs6tq" version="23.1.6" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-02-26T08:15:00.450Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="sQTWPdq3LC5cyCfhIpmR" version="23.1.6" type="github" pages="9">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -441,8 +441,10 @@
         <mxCell id="EX0fOMvzROrq4MbKgnco-1" value="&lt;font color=&quot;#000000&quot;&gt;ちょっと相談&lt;br&gt;いいですか？&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hdCI6QdxYPmtm5lr5B-G-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DeFxqp6BBCRxFicI65Bh-1" target="hdCI6QdxYPmtm5lr5B-G-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="hdCI6QdxYPmtm5lr5B-G-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DeFxqp6BBCRxFicI65Bh-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="538" y="379.75" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="DeFxqp6BBCRxFicI65Bh-1" value="悔いなき選択(言語)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="240" width="380" height="279.5" as="geometry" />
@@ -477,12 +479,6 @@
         </mxCell>
         <mxCell id="DeFxqp6BBCRxFicI65Bh-10" value="「生存率」&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;変革" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="DeFxqp6BBCRxFicI65Bh-1">
           <mxGeometry x="10" y="213" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hdCI6QdxYPmtm5lr5B-G-2" value="テストを行わなかった場合、&lt;br&gt;プロジェクトの&lt;br&gt;失敗確率は&lt;br&gt;65%となります。" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="540" y="305" width="150" height="149.5" as="geometry" />
-        </mxCell>
-        <mxCell id="hdCI6QdxYPmtm5lr5B-G-4" value="テストを行わなかった場合、&lt;br&gt;プロジェクトの&lt;br&gt;失敗確率は&lt;br&gt;65%となります。" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="540" y="480" width="150" height="149.5" as="geometry" />
         </mxCell>
         <mxCell id="iX74cdzcN6162Pf39HRQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iX74cdzcN6162Pf39HRQ-1" target="iX74cdzcN6162Pf39HRQ-11">
           <mxGeometry relative="1" as="geometry" />
@@ -521,9 +517,9 @@
         <mxCell id="iX74cdzcN6162Pf39HRQ-10" value="「みんなやってるよ」&lt;br&gt;取り組む" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="iX74cdzcN6162Pf39HRQ-1">
           <mxGeometry x="10" y="213" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iX74cdzcN6162Pf39HRQ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iX74cdzcN6162Pf39HRQ-11" target="hdCI6QdxYPmtm5lr5B-G-2">
+        <mxCell id="iX74cdzcN6162Pf39HRQ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iX74cdzcN6162Pf39HRQ-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="615" y="288.75" as="targetPoint" />
+            <mxPoint x="615" y="303" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iX74cdzcN6162Pf39HRQ-11" value="一般的に" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#FCAD90;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
@@ -552,6 +548,9 @@
         </mxCell>
         <mxCell id="89e3j4DfTyg-5gJ0JP5z-8" value="無作為に選んだ人に&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;１、「デートの頻度」を問いかける&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;２，「今幸せか？」を問いかける&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;デートの頻度に比例して幸せ度合が増加した" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#CC99FF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="89e3j4DfTyg-5gJ0JP5z-1">
           <mxGeometry x="10" y="33" width="150" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="JuepEtLFrB7OHv0gC4WY-1" value="テストを行わなかったときと比べて&lt;br&gt;テストをおこなったときのほうがプロジェクトの成功確率は&lt;br&gt;上がります。" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#FCAD90;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="305.75" width="150" height="148" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
