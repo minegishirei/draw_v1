@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T08:55:43.245Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="n8Tr-MFNfiLGr0OdXyLA" version="23.1.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-02-28T08:56:14.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="mFpOrim-iChwARcImfJL" version="23.1.7" type="github" pages="9">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -513,8 +513,14 @@
         <mxCell id="iX74cdzcN6162Pf39HRQ-11" value="一般的に" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#FCAD90;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="540" y="265.75" width="150" height="68" as="geometry" />
         </mxCell>
+        <mxCell id="kWt8MF3SpQgwHCIC92aW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JuepEtLFrB7OHv0gC4WY-1" target="kWt8MF3SpQgwHCIC92aW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JuepEtLFrB7OHv0gC4WY-1" value="テストを行わなかったときと比べて&lt;br&gt;テストをおこなったときのほうがプロジェクトの成功確率が&lt;br&gt;上がります。" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#FCAD90;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="540" y="385.75" width="150" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="kWt8MF3SpQgwHCIC92aW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kWt8MF3SpQgwHCIC92aW-1" target="kWt8MF3SpQgwHCIC92aW-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kWt8MF3SpQgwHCIC92aW-1" value="もったいない" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="800" y="490" width="380" height="279.5" as="geometry" />
@@ -552,6 +558,9 @@
         </mxCell>
         <mxCell id="kWt8MF3SpQgwHCIC92aW-11" value="&lt;font color=&quot;#000000&quot;&gt;ので、&lt;br&gt;そもそも完全に理解した後で合意してない&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="320" y="840" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kWt8MF3SpQgwHCIC92aW-12" value="時間をかけた成果物" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#FCAD90;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="710" width="150" height="148" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
