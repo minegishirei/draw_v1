@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-02T23:25:47.192Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="90wFpHDFN1j1Cp8ItXKC" version="24.0.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-03-02T23:26:35.828Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jxNV6H1prG8hR48FW4eN" version="24.0.0" type="github" pages="11">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="1784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -357,9 +357,6 @@
         <mxCell id="7E724pbm7jZKlNEOCbff-0" value="jbck&#xa;UIUX" style="rounded=1;fillColor=#B266FF;strokeColor=#CC99FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1239.75" y="282" width="70" height="231" as="geometry" />
         </mxCell>
-        <mxCell id="mPTt3LZTsxk55QQu-T8V-0" value="kuroeさん&#xa;Docker&#xa;ブログ" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1160.57" y="443" width="68.75" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="mPTt3LZTsxk55QQu-T8V-1" value="UIUX" style="rounded=1;fillColor=#B266FF;strokeColor=#CC99FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="838.75" y="602" width="70" height="70" as="geometry" />
         </mxCell>
@@ -454,6 +451,9 @@
         </mxCell>
         <mxCell id="rkPz1xewlicb8WfL4c3t-0" value="Django&#xa;with&#xa;gunicorn" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;arcSize=16;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1480" y="439.75" width="70" height="150.25" as="geometry" />
+        </mxCell>
+        <mxCell id="HHo__-b8YiFIu3pCASbS-0" value="kuroeさん&#xa;Docker&#xa;ブログ" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="1160.05" y="442" width="69.68" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
