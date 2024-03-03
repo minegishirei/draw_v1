@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-02T23:29:20.868Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="q5C-CPME5imazzrmqxqa" version="24.0.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-03-03T12:35:06.044Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="xanUqnAc7EJ4wp3R7uhO" version="24.0.0" type="github" pages="12">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="1784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -452,11 +452,97 @@
         <mxCell id="rkPz1xewlicb8WfL4c3t-0" value="Django&#xa;with&#xa;gunicorn" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;arcSize=16;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1480" y="439.75" width="70" height="150.25" as="geometry" />
         </mxCell>
-        <mxCell id="HHo__-b8YiFIu3pCASbS-0" value="kuroeさん&#xa;Docker&#xa;ブログ" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+        <mxCell id="HHo__-b8YiFIu3pCASbS-0" value="kuroeさん&#xa;Docker&#xa;ブログ" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1160.05" y="442" width="69.68" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KQI9FGFh5roUn3MVKCb1-0" value="会社の&#xa;トップ" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+        <mxCell id="KQI9FGFh5roUn3MVKCb1-0" value="会社の&#xa;トップ" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1561.25" y="280" width="68.75" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="20240303" id="WjeSb4u9JLmuxQQ0CFpp">
+    <mxGraphModel dx="1194" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-0" />
+        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-1" parent="bRLvQ9_YwYW6N6oQfSwO-0" />
+        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-2" value="火" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+          <mxGeometry x="99" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-3" value="水" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+          <mxGeometry x="179" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-4" value="木" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+          <mxGeometry x="259" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-5" value="金" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+          <mxGeometry x="339" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-6" value="土" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+          <mxGeometry x="419" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-7" value="日" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+          <mxGeometry x="499" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-8" value="月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+          <mxGeometry x="19" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-9" value="&lt;h1&gt;テーマ：コンテナランタイム/PSY&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+          <mxGeometry x="40" y="40" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-10" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" edge="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="41" y="110" as="sourcePoint" />
+            <mxPoint x="600" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-11" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;今週の振り返り&lt;/h1&gt;・【現状】&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;開発へコミットする時間が大部分を占めている。&lt;br&gt;その分、心理学に割く時間が取れないが、コンテナについての学習の時間は取れている。&lt;br&gt;&lt;br&gt;・【来週】&lt;br&gt;開発に取られる時間は、おそらくこのまま。Youkiのドキュメントを読み切ることが今の課題&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;・【コミュニケーション】&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;パーソルホールディングスには&lt;br&gt;まじで期待できない。→期待しているから、怒りが出る。（アジャイルは適度な期待に基づくスピード感のある開発がメリット）コミュニケーション手法（今やるべきことの判断力と発言の積極性）が開発メンバーに期待できない今、自分でその期待を満たさなければならない。&lt;br&gt;&lt;br&gt;・仕様書のようなテストが必要。&lt;br&gt;&lt;br&gt;いずれ来る転職に備えなければならない。&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+          <mxGeometry x="610" y="200" width="190" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-12" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;やることリスト&lt;/h1&gt;・コンテナランタイムの０からの作成&lt;br&gt;・PSY" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+          <mxGeometry x="610" y="40" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-13" value="Create&#xa;My Container&#xa;From Scruch" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+          <mxGeometry x="40" y="120" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-14" value="品質&#xa;悔いなき&#xa;選択" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+          <mxGeometry x="40" y="200" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-15" value="jbck&#xa;UIUX" style="rounded=1;fillColor=#B266FF;strokeColor=#CC99FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+          <mxGeometry x="40" y="280" width="70" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-16" value="Vagrant&#xa;file" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+          <mxGeometry x="40" y="440" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-17" value="Valorant" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+          <mxGeometry x="200" y="840" width="70" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-18" value="Docker&#xa;non root&#xa;user&#xa;&#xa;is so&#xa;difficult" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+          <mxGeometry x="120" y="280" width="70" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-19" value="Docker&#xa;Base&#xa;Image&#xa;Change&#xa;&#xa;or&#xa;delete&#xa;zlib1g&#xa;&#xa;is so&#xa;difficult" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+          <mxGeometry x="200" y="200" width="70" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-20" value="Django&#xa;with&#xa;gunicorn" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+          <mxGeometry x="200" y="440" width="70" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-21" value="品質&#xa;悔いなき&#xa;選択" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+          <mxGeometry x="200" y="680" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-22" value="Valorant" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+          <mxGeometry x="120" y="520" width="70" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-23" value="Valorant" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+          <mxGeometry x="40" y="520" width="70" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-24" value="同情させる&#xa;プラン" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+          <mxGeometry x="200" y="760" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-25" value="Docker&#xa;distroless" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+          <mxGeometry x="280" y="200" width="70" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-26" value="飲み会&#xa;幹事" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+          <mxGeometry x="360" y="200" width="70" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
