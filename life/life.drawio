@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-03T23:12:17.028Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="FSSiL5huD6itQTUkDx4v" version="24.0.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-03-03T23:14:13.093Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="pcuEPBWq0aiU-8ssZCUm" version="24.0.0" type="github" pages="12">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="1784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -502,11 +502,11 @@
         <mxCell id="bRLvQ9_YwYW6N6oQfSwO-12" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;やることリスト&lt;/h1&gt;・コンテナランタイムの０からの作成&lt;br&gt;・PSY" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
           <mxGeometry x="610" y="40" width="190" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="eSaGNkJbUQyFvc8n5lAJ-0" value="Docker&#xa;non root&#xa;user&#xa;&#xa;is so&#xa;difficult" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
-          <mxGeometry x="40" y="120" width="70" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="ecoHbqYzXEBTbELa3wmQ-0" value="飲み会&#xa;幹事" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
-          <mxGeometry x="40" y="280" width="70" height="150" as="geometry" />
+          <mxGeometry x="40" y="200" width="70" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="JBSNccHD5FON9L0SlQL_-0" value="Create&#xa;My Container&#xa;From Scruch" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+          <mxGeometry x="40" y="120" width="390" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
