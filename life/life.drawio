@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-03T12:35:40.692Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="qAkzuz-F5Ytay69kSctL" version="24.0.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-03-03T12:37:26.050Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="OxUkRfPYF2wou5WwuUn3" version="24.0.0" type="github" pages="12">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="1784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -501,48 +501,6 @@
         </mxCell>
         <mxCell id="bRLvQ9_YwYW6N6oQfSwO-12" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;やることリスト&lt;/h1&gt;・コンテナランタイムの０からの作成&lt;br&gt;・PSY" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
           <mxGeometry x="610" y="40" width="190" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-13" value="Create&#xa;My Container&#xa;From Scruch" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
-          <mxGeometry x="40" y="120" width="390" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-14" value="品質&#xa;悔いなき&#xa;選択" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
-          <mxGeometry x="40" y="200" width="150" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-15" value="jbck&#xa;UIUX" style="rounded=1;fillColor=#B266FF;strokeColor=#CC99FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
-          <mxGeometry x="40" y="280" width="70" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-16" value="Vagrant&#xa;file" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
-          <mxGeometry x="40" y="440" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-17" value="Valorant" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
-          <mxGeometry x="200" y="840" width="70" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-18" value="Docker&#xa;non root&#xa;user&#xa;&#xa;is so&#xa;difficult" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
-          <mxGeometry x="120" y="280" width="70" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-19" value="Docker&#xa;Base&#xa;Image&#xa;Change&#xa;&#xa;or&#xa;delete&#xa;zlib1g&#xa;&#xa;is so&#xa;difficult" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
-          <mxGeometry x="200" y="200" width="70" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-20" value="Django&#xa;with&#xa;gunicorn" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
-          <mxGeometry x="200" y="440" width="70" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-21" value="品質&#xa;悔いなき&#xa;選択" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
-          <mxGeometry x="200" y="680" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-22" value="Valorant" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
-          <mxGeometry x="120" y="520" width="70" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-23" value="Valorant" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
-          <mxGeometry x="40" y="520" width="70" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-24" value="同情させる&#xa;プラン" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
-          <mxGeometry x="200" y="760" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-25" value="Docker&#xa;distroless" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
-          <mxGeometry x="280" y="200" width="70" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-26" value="飲み会&#xa;幹事" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
-          <mxGeometry x="360" y="200" width="70" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
