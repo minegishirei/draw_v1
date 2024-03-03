@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-03T23:06:35.242Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4ATxqzGIuiBpkwku4Zh0" version="24.0.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-03-03T23:10:31.298Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NOT3Gn0oNKWKtqjAzYt8" version="24.0.0" type="github" pages="12">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="1784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -496,7 +496,7 @@
             <mxPoint x="600" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-11" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;今週の振り返り&lt;/h1&gt;・【現状】&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;開発へコミットする時間が大部分を占めている。&lt;br&gt;その分、心理学に割く時間が取れないが、コンテナについての学習の時間は取れている。&lt;br&gt;&lt;br&gt;・【来週】&lt;br&gt;開発に取られる時間は、おそらくこのまま。Youkiのドキュメントを読み切ることが今の課題&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;・【コミュニケーション】&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;パーソルホールディングスには&lt;br&gt;まじで期待できない。→期待しているから、怒りが出る。（アジャイルは適度な期待に基づくスピード感のある開発がメリット）コミュニケーション手法（今やるべきことの判断力と発言の積極性）が開発メンバーに期待できない今、自分でその期待を満たさなければならない。&lt;br&gt;&lt;br&gt;・仕様書のようなテストが必要。&lt;br&gt;&lt;br&gt;いずれ来る転職に備えなければならない。&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+        <mxCell id="bRLvQ9_YwYW6N6oQfSwO-11" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;今週の振り返り&lt;/h1&gt;・【現状】&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
           <mxGeometry x="610" y="200" width="190" height="560" as="geometry" />
         </mxCell>
         <mxCell id="bRLvQ9_YwYW6N6oQfSwO-12" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;やることリスト&lt;/h1&gt;・コンテナランタイムの０からの作成&lt;br&gt;・PSY" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
