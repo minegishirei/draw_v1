@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T09:10:45.737Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="pN-zZQPRU9JoRAHDqF9t" version="24.0.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-03-04T11:52:41.830Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VKEZKrqasF8n-eYHrJuE" version="24.0.1" type="github" pages="12">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
-    <mxGraphModel dx="1674" dy="1987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="1784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -458,11 +458,14 @@
         <mxCell id="KQI9FGFh5roUn3MVKCb1-0" value="会社の&#xa;トップ" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1561.25" y="280" width="68.75" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="Ck0iX1CtV-i4qzaiQbn--0" value="Docker&#xa;distroless" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="1560" y="441" width="70" height="69" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="20240303" id="WjeSb4u9JLmuxQQ0CFpp">
-    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bRLvQ9_YwYW6N6oQfSwO-0" />
         <mxCell id="bRLvQ9_YwYW6N6oQfSwO-1" parent="bRLvQ9_YwYW6N6oQfSwO-0" />
@@ -520,10 +523,10 @@
         <mxCell id="tTIuq0dG54kUxL7HCFHH-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="bRLvQ9_YwYW6N6oQfSwO-1" vertex="1">
           <mxGeometry x="40" y="520" width="20" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="AbylwQS3bM2GJ9deG7To-0" value="負荷テスト" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+        <mxCell id="AbylwQS3bM2GJ9deG7To-0" value="負荷テスト" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="bRLvQ9_YwYW6N6oQfSwO-1" vertex="1">
           <mxGeometry x="39" y="680" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="AbylwQS3bM2GJ9deG7To-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+        <mxCell id="AbylwQS3bM2GJ9deG7To-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="bRLvQ9_YwYW6N6oQfSwO-1" vertex="1">
           <mxGeometry x="40" y="120" width="20" height="21" as="geometry" />
         </mxCell>
       </root>
