@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T23:46:12.785Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="K4beXZaCIyCZba7rK6ce" version="24.0.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-03-05T23:46:45.182Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kJ5OgJaeWKBPdfQlhxLH" version="24.0.2" type="github" pages="12">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1184" dy="2949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -279,6 +279,15 @@
         </mxCell>
         <mxCell id="Grk3ASspi7itF8LlZDWV-4" value="会議領域" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="MkggtV5wi_TIvpfta4GQ-1">
           <mxGeometry x="330" y="130" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Grk3ASspi7itF8LlZDWV-7" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#6666FF;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="-960" as="sourcePoint" />
+            <mxPoint x="590" y="-960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Grk3ASspi7itF8LlZDWV-8" value="終了局面を読み切る" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Grk3ASspi7itF8LlZDWV-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
