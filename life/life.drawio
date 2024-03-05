@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T23:41:10.140Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Dd3k0pfq75XHGQ5j2aPi" version="24.0.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-03-05T23:41:25.992Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="aEkZr6YTQmhxbtFyJMMt" version="24.0.2" type="github" pages="12">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1184" dy="2949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -240,8 +240,8 @@
         </mxCell>
         <mxCell id="MkggtV5wi_TIvpfta4GQ-6" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#6666FF;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;" edge="1" parent="MkggtV5wi_TIvpfta4GQ-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="259.68" y="234.5" as="sourcePoint" />
-            <mxPoint x="359.68" y="234.5" as="targetPoint" />
+            <mxPoint x="259.68" y="154.5" as="sourcePoint" />
+            <mxPoint x="359.68" y="154.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MkggtV5wi_TIvpfta4GQ-7" value="心理術" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MkggtV5wi_TIvpfta4GQ-6">
@@ -251,19 +251,19 @@
           <mxGeometry x="10" y="60" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dy35aeAQ4Ue6G7NFQhnv-1" value="Docker" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="MkggtV5wi_TIvpfta4GQ-1">
-          <mxGeometry x="39.999999999999886" y="200" width="69.68" height="70" as="geometry" />
+          <mxGeometry x="39.999999999999886" y="120" width="69.68" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dy35aeAQ4Ue6G7NFQhnv-2" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#004C99;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MkggtV5wi_TIvpfta4GQ-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="109.68" y="234.5" as="sourcePoint" />
-            <mxPoint x="189.68" y="234.5" as="targetPoint" />
+            <mxPoint x="109.68" y="154.5" as="sourcePoint" />
+            <mxPoint x="189.68" y="154.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dy35aeAQ4Ue6G7NFQhnv-3" value="圏論" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="dy35aeAQ4Ue6G7NFQhnv-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dy35aeAQ4Ue6G7NFQhnv-4" value="観察力の&#xa;基礎" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="MkggtV5wi_TIvpfta4GQ-1">
-          <mxGeometry x="189.9999999999999" y="200" width="69.68" height="70" as="geometry" />
+          <mxGeometry x="189.9999999999999" y="120" width="69.68" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
