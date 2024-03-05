@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T22:38:22.438Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="BPk0VlG-MYQow2f1QfNO" version="24.0.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-03-05T22:40:21.933Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="fPq_EcNaiuQ1rVztGaKa" version="24.0.1" type="github" pages="12">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="1784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -428,7 +428,7 @@
         <mxCell id="zBPXHjlnpG0N1R4RMS1n-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Bh7SMV7lsvvrdX1vqtc6-1" source="zBPXHjlnpG0N1R4RMS1n-18" target="zBPXHjlnpG0N1R4RMS1n-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zBPXHjlnpG0N1R4RMS1n-18" value="全ての基礎&#xa;理解力の拡張" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
+        <mxCell id="zBPXHjlnpG0N1R4RMS1n-18" value="観察力の基礎" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="400" y="281" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zBPXHjlnpG0N1R4RMS1n-19" value="Docker" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
