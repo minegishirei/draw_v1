@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T00:37:07.635Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="bjF8eLQZohpqJQPmP5Hv" version="24.0.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-03-06T00:41:46.349Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="fGN53qcWZ0gNZWCcCTVP" version="24.0.1" type="github" pages="12">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1674" dy="3156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -295,7 +295,7 @@
             <mxPoint x="335" y="-1290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w_5Dbx7o6U0aqmBPSLym-2" value="&lt;div&gt;心理術の&lt;/div&gt;&lt;div&gt;持続力&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="w_5Dbx7o6U0aqmBPSLym-1">
+        <mxCell id="w_5Dbx7o6U0aqmBPSLym-2" value="&lt;div&gt;心理術の&lt;/div&gt;&lt;div&gt;持続力&lt;/div&gt;&lt;div&gt;リフレッシュ&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="w_5Dbx7o6U0aqmBPSLym-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
