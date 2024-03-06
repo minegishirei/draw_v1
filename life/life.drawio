@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T08:54:32.730Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="4GR9lpiPQ51mYWVhKzXW" version="24.0.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-03-06T08:55:49.843Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="BoTATdFIJR0Zks8Mp2Um" version="24.0.2" type="github" pages="12">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1674" dy="3156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -609,6 +609,9 @@
         </mxCell>
         <mxCell id="UYownk2o83FEoijslv9Q-0" value="コンテナ&#xa;人間" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
           <mxGeometry x="200" y="120" width="70" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="UYownk2o83FEoijslv9Q-1" value="Meeting&#xa;Control" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="bRLvQ9_YwYW6N6oQfSwO-1">
+          <mxGeometry x="200" y="360" width="70" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
