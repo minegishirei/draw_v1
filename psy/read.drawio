@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T07:41:47.397Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="LW1Ln1v7LOS4gnnr9oqE" version="24.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-11T07:42:17.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="QIE4fdu2G3g7r4N8p5Vr" version="24.0.4" type="github" pages="2">
   <diagram name="word" id="ly8JrdTY6ocZCnAn5Q8D">
     <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aPSkY1ON9DCGhRT_XYcT-3" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;「私」を多く言う人は&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;- 会話のボールを意識する人&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;- 権力者&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;- 正直者&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;これらの要素を自由要旨する&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;spacing=5;arcSize=0;perimeterSpacing=2;" parent="aPSkY1ON9DCGhRT_XYcT-1" vertex="1">
-          <mxGeometry x="10" y="30" width="150" height="148" as="geometry" />
+          <mxGeometry x="10" y="30" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="aPSkY1ON9DCGhRT_XYcT-4" value="&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;「私」の高頻度&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;「ボール」を意識している/権力/正直&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=0;perimeterSpacing=2;" parent="aPSkY1ON9DCGhRT_XYcT-1" vertex="1">
           <mxGeometry x="10" y="210" width="150" height="64" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-XlEV9ZUg759hKqU9tYz-4" value="仲間意識が強いが&lt;div&gt;決断力が低いケースが多い&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;spacing=5;arcSize=0;perimeterSpacing=2;" vertex="1" parent="-XlEV9ZUg759hKqU9tYz-1">
-          <mxGeometry x="10" y="34" width="150" height="148" as="geometry" />
+          <mxGeometry x="10" y="30" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
