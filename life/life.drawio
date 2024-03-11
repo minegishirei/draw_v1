@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T08:51:10.622Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="g4j0aITm-SuKT7Ptuhi2" version="24.0.4" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2024-03-11T08:52:48.734Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="rU-b3paSGk6GFTreZ3mh" version="24.0.4" type="github" pages="13">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1674" dy="3156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -344,10 +344,31 @@
           <mxGeometry x="360" y="130" width="390" height="130" as="geometry" />
         </mxCell>
         <mxCell id="4OIpWaBSAvoMjhRQVzah-2" value="本質の把握" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Grk3ASspi7itF8LlZDWV-22">
-          <mxGeometry x="30.31999999999988" y="40" width="69.68" height="70" as="geometry" />
+          <mxGeometry x="13.99999999999988" y="40" width="69.68" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4OIpWaBSAvoMjhRQVzah-3" value="誘導" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Grk3ASspi7itF8LlZDWV-22">
-          <mxGeometry x="150" y="40" width="69.79" height="70" as="geometry" />
+          <mxGeometry x="300" y="40" width="69.79" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4OIpWaBSAvoMjhRQVzah-7" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#1699D3;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Grk3ASspi7itF8LlZDWV-22" source="4OIpWaBSAvoMjhRQVzah-2" target="4OIpWaBSAvoMjhRQVzah-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="109.99999999994952" y="74.5" as="sourcePoint" />
+            <mxPoint x="168" y="74.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4OIpWaBSAvoMjhRQVzah-8" value="AIM" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="4OIpWaBSAvoMjhRQVzah-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4OIpWaBSAvoMjhRQVzah-9" value="終了局面図" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Grk3ASspi7itF8LlZDWV-22">
+          <mxGeometry x="160.11" y="40" width="69.79" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4OIpWaBSAvoMjhRQVzah-10" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#6666FF;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Grk3ASspi7itF8LlZDWV-22" source="4OIpWaBSAvoMjhRQVzah-9" target="4OIpWaBSAvoMjhRQVzah-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-90.32" y="114.5" as="sourcePoint" />
+            <mxPoint x="10" y="75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4OIpWaBSAvoMjhRQVzah-11" value="心理術" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="4OIpWaBSAvoMjhRQVzah-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4OIpWaBSAvoMjhRQVzah-4" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#1699D3;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Grk3ASspi7itF8LlZDWV-9">
           <mxGeometry relative="1" as="geometry">
