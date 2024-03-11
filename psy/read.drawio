@@ -1,70 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T06:03:00.002Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Ud6hdETIktkoa2oIDMFr" version="24.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-11T06:55:18.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="pSc3wNEPsAJrNwasiCgy" version="24.0.4" type="github" pages="2">
   <diagram name="ページ1" id="ly8JrdTY6ocZCnAn5Q8D">
     <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_HP7iNYSpRR4GRTfLSb4-1" value="威厳(ゆっくりしゃべる)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="200" width="170" height="280.5" as="geometry" />
-        </mxCell>
-        <mxCell id="_HP7iNYSpRR4GRTfLSb4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="_HP7iNYSpRR4GRTfLSb4-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="85" y="182" as="sourcePoint" />
-            <mxPoint x="85" y="212.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_HP7iNYSpRR4GRTfLSb4-3" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;- 「沈黙」を選択 : 誠実性が上がる&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;- 「多弁」を選択 : 誠実性が下がる&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="_HP7iNYSpRR4GRTfLSb4-1">
-          <mxGeometry x="10" y="30" width="150" height="148" as="geometry" />
-        </mxCell>
-        <mxCell id="_HP7iNYSpRR4GRTfLSb4-4" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;＜ゆっくりしゃべる＞誠実性/威厳&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="_HP7iNYSpRR4GRTfLSb4-1">
-          <mxGeometry x="10" y="214" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_HP7iNYSpRR4GRTfLSb4-5" value="ネガティブ選択/ ポジティブ選択" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="40" y="200" width="380" height="279.5" as="geometry" />
-        </mxCell>
-        <mxCell id="_HP7iNYSpRR4GRTfLSb4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_HP7iNYSpRR4GRTfLSb4-5" source="_HP7iNYSpRR4GRTfLSb4-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="162" y="243" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_HP7iNYSpRR4GRTfLSb4-7" value="「死亡率」&lt;br&gt;現状維持" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="_HP7iNYSpRR4GRTfLSb4-5">
-          <mxGeometry x="219" y="213" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_HP7iNYSpRR4GRTfLSb4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_HP7iNYSpRR4GRTfLSb4-5" target="_HP7iNYSpRR4GRTfLSb4-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="162" y="243" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_HP7iNYSpRR4GRTfLSb4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="_HP7iNYSpRR4GRTfLSb4-5" source="_HP7iNYSpRR4GRTfLSb4-10" target="_HP7iNYSpRR4GRTfLSb4-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_HP7iNYSpRR4GRTfLSb4-10" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="_HP7iNYSpRR4GRTfLSb4-5">
-          <mxGeometry x="219" y="33" width="150" height="149.5" as="geometry" />
-        </mxCell>
-        <mxCell id="_HP7iNYSpRR4GRTfLSb4-11" value="言語" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HP7iNYSpRR4GRTfLSb4-5">
-          <mxGeometry x="160" y="213" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_HP7iNYSpRR4GRTfLSb4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="_HP7iNYSpRR4GRTfLSb4-5" source="_HP7iNYSpRR4GRTfLSb4-13" target="_HP7iNYSpRR4GRTfLSb4-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_HP7iNYSpRR4GRTfLSb4-13" value="癌の外科手術の効果について死亡率の代わりに生存率が示された場合、&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;医師が手術を選択する割合は34%増加した&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;McNeil 1982" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#FCAD90;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="_HP7iNYSpRR4GRTfLSb4-5">
-          <mxGeometry x="10" y="34.5" width="150" height="148" as="geometry" />
-        </mxCell>
-        <mxCell id="_HP7iNYSpRR4GRTfLSb4-14" value="「生存率」&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;変革" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="_HP7iNYSpRR4GRTfLSb4-5">
-          <mxGeometry x="10" y="213" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_HP7iNYSpRR4GRTfLSb4-15" value="行動の一貫性" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="200.25" width="170" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="_HP7iNYSpRR4GRTfLSb4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="_HP7iNYSpRR4GRTfLSb4-15" source="_HP7iNYSpRR4GRTfLSb4-17" target="_HP7iNYSpRR4GRTfLSb4-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_HP7iNYSpRR4GRTfLSb4-17" value="質問をしてしまった" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#FCAD90;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="_HP7iNYSpRR4GRTfLSb4-15">
-          <mxGeometry x="10" y="32" width="150" height="148" as="geometry" />
-        </mxCell>
-        <mxCell id="_HP7iNYSpRR4GRTfLSb4-18" value="自分の意図に沿わない行動をした後、&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;その行動に合う認識にすり替える" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="_HP7iNYSpRR4GRTfLSb4-15">
-          <mxGeometry x="10" y="200" width="150" height="74.5" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
