@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T08:49:35.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="z8VlrVl1wZTpyyJ7xbf6" version="24.0.4" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2024-03-11T08:50:39.446Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="AmfI1cx0mchO5jcWox_D" version="24.0.4" type="github" pages="13">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1674" dy="3156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -290,7 +290,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Grk3ASspi7itF8LlZDWV-9" value="状態：圏論からのスキル化" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-1510" width="590" height="280" as="geometry" />
+          <mxGeometry x="40" y="-1510" width="760" height="280" as="geometry" />
         </mxCell>
         <mxCell id="Grk3ASspi7itF8LlZDWV-10" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#1699D3;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="Grk3ASspi7itF8LlZDWV-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -348,6 +348,15 @@
         </mxCell>
         <mxCell id="4OIpWaBSAvoMjhRQVzah-3" value="誘導" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Grk3ASspi7itF8LlZDWV-22">
           <mxGeometry x="150" y="40" width="69.79" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4OIpWaBSAvoMjhRQVzah-4" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#1699D3;shape=flexArrow;width=3;endSize=7.17;endWidth=6;strokeColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Grk3ASspi7itF8LlZDWV-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179.99999999994952" y="79.5" as="sourcePoint" />
+            <mxPoint x="238" y="79.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4OIpWaBSAvoMjhRQVzah-5" value="AIM" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="4OIpWaBSAvoMjhRQVzah-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
