@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T01:34:05.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="vGrTMxMvzhDj-nORs0YH" version="24.0.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-03-11T03:05:00.857Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="NP2Xb8-5iGwrIY6EqiqJ" version="24.0.4" type="github" pages="10">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
     <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -63,7 +63,7 @@
           <mxGeometry x="10" y="34.5" width="150" height="148" as="geometry" />
         </mxCell>
         <mxCell id="YfliR0bhEtSgLjte0KYL-1771" value="アンカリング(数字)" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="499.5" width="170" height="280" as="geometry" />
+          <mxGeometry x="640" y="500" width="170" height="280" as="geometry" />
         </mxCell>
         <mxCell id="YfliR0bhEtSgLjte0KYL-1772" value="釘を刺す" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#B266FF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="YfliR0bhEtSgLjte0KYL-1771" vertex="1">
           <mxGeometry x="10" y="207" width="150" height="60" as="geometry" />
@@ -78,7 +78,7 @@
           <mxGeometry x="530" y="40" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6f1NRzMg2CFPpkSIdht1-1759" value="デフォルト戦略" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="499.5" width="370" height="280" as="geometry" />
+          <mxGeometry x="440" y="499.5" width="170" height="280" as="geometry" />
         </mxCell>
         <mxCell id="6f1NRzMg2CFPpkSIdht1-1760" value="デフォルト変更" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#B266FF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="6f1NRzMg2CFPpkSIdht1-1759" vertex="1">
           <mxGeometry x="10" y="207" width="150" height="60" as="geometry" />
