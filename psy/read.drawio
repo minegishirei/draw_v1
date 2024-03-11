@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T07:59:07.762Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="F8S256lR1xQ2FwNtotPQ" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-11T08:00:06.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="sO0TMElx6w0zZ9gblcYS" version="24.0.4" type="github">
   <diagram name="word" id="ly8JrdTY6ocZCnAn5Q8D">
     <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="-XlEV9ZUg759hKqU9tYz-4" value="仲間意識が強いが&lt;div&gt;決断力が低いケースが多い&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;spacing=5;arcSize=0;perimeterSpacing=2;" vertex="1" parent="-XlEV9ZUg759hKqU9tYz-1">
           <mxGeometry x="10" y="30" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="lMSPIOYMENWqqAaY9oEz-1" value="まぁ" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lMSPIOYMENWqqAaY9oEz-1" value="「まぁ」" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="80" width="170" height="279.5" as="geometry" />
         </mxCell>
         <mxCell id="lMSPIOYMENWqqAaY9oEz-3" value="「死亡率」&lt;br&gt;現状維持" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="lMSPIOYMENWqqAaY9oEz-1">
@@ -40,7 +40,7 @@
         <mxCell id="lMSPIOYMENWqqAaY9oEz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lMSPIOYMENWqqAaY9oEz-1" source="lMSPIOYMENWqqAaY9oEz-6" target="lMSPIOYMENWqqAaY9oEz-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lMSPIOYMENWqqAaY9oEz-6" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="lMSPIOYMENWqqAaY9oEz-1">
+        <mxCell id="lMSPIOYMENWqqAaY9oEz-6" value="&lt;div&gt;妥協。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;「本当は納得していないけど、争いごとを避けたいから肯定しておくか」といった心理が働いた結果、「まぁ…」と言ってしまいます。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="lMSPIOYMENWqqAaY9oEz-1">
           <mxGeometry x="10" y="30" width="150" height="149.5" as="geometry" />
         </mxCell>
       </root>
