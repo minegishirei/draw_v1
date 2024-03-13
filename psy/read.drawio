@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T02:40:49.421Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="SpNYymcBkxpKZNjRDNw8" version="24.0.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-13T02:41:06.565Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="QBV_59y1aerf9TZVkhf_" version="24.0.5" type="github" pages="3">
   <diagram name="word" id="ly8JrdTY6ocZCnAn5Q8D">
     <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -86,9 +86,11 @@
         <mxCell id="-l6WhKaZY_UiSqFfSO3f-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="-l6WhKaZY_UiSqFfSO3f-6" source="-l6WhKaZY_UiSqFfSO3f-13" target="-l6WhKaZY_UiSqFfSO3f-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-l6WhKaZY_UiSqFfSO3f-13" value="瞬きの数が増えだしたら、緊張やストレスの合図だと思ってよ" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;spacing=5;arcSize=0;perimeterSpacing=2;" parent="-l6WhKaZY_UiSqFfSO3f-6" vertex="1">
-          <mxGeometry x="200" y="30" width="150" height="149.5" as="geometry" />
-        </mxCell>
+        <UserObject label="瞬きの数が増えだしたら、緊張やストレスの合図だと思ってよ" link="https://zenn.dev/minegishirei/books/engineer_psychology/viewer/1000eye#%E6%A5%B5%E7%AB%AF%E3%81%AB%E5%B0%91%E3%81%AA%E3%81%84%E7%9E%AC%E3%81%8D%EF%BC%9A%E5%99%93%E3%81%AE%E5%8F%AF%E8%83%BD%E6%80%A7%E3%80%81%E7%B7%8A%E5%BC%B5%E7%8A%B6%E6%85%8B" id="-l6WhKaZY_UiSqFfSO3f-13">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;spacing=5;arcSize=0;perimeterSpacing=2;" parent="-l6WhKaZY_UiSqFfSO3f-6" vertex="1">
+            <mxGeometry x="200" y="30" width="150" height="149.5" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
