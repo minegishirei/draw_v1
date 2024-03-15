@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T12:25:47.753Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VDINn0Wim5IHsyX57ou0" version="24.0.6" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2024-03-15T12:27:34.042Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="b2mjJ1wlp-Kn82Wb9MHJ" version="24.0.6" type="github" pages="13">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="2953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -696,6 +696,9 @@
         </mxCell>
         <mxCell id="b5dPpz4A6uypHBLZRqHJ-0" value="社内&#xa;副業を&#xa;見つける&#xa;&#xa;オンライン&#xa;講師の&#xa;選択肢が&#xa;面白い" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="igs5DEczEBQNnCCTeKsN-1" vertex="1">
           <mxGeometry x="360" y="120" width="70" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="O8VYNt_zBhunmvCwF4iJ-0" value="書き込み" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="igs5DEczEBQNnCCTeKsN-1">
+          <mxGeometry x="360" y="280" width="70" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
