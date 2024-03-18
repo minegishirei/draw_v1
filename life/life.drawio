@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T09:21:48.967Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="QUWEIbdKRr8tVwFEvVtn" version="24.0.7" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2024-03-18T09:21:58.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="-D3GF1a1YywfnBde2iZf" version="24.0.7" type="github" pages="14">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1674" dy="3156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -679,6 +679,9 @@
         <mxCell id="FsuYx_pd5feSYPufzxYy-0" value="書き込み" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="IQKbyxErifDmOWK2NKDO-1">
           <mxGeometry x="120" y="120" width="70" height="230" as="geometry" />
         </mxCell>
+        <mxCell id="hrHGPjlp870BikEuSsSK-0" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="IQKbyxErifDmOWK2NKDO-1">
+          <mxGeometry x="40" y="120" width="20" height="21" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -754,7 +757,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20240303" id="WjeSb4u9JLmuxQQ0CFpp">
-    <mxGraphModel dx="1194" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bRLvQ9_YwYW6N6oQfSwO-0" />
         <mxCell id="bRLvQ9_YwYW6N6oQfSwO-1" parent="bRLvQ9_YwYW6N6oQfSwO-0" />
