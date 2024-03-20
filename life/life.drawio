@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T11:31:02.828Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="T-uSIagbAAixDnPb44WC" version="24.0.7" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2024-03-20T12:52:30.689Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tBSkHucM9ql-7b6VNr7C" version="24.0.7" type="github" pages="14">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="2953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -694,11 +694,14 @@
         <mxCell id="U2exLBq_NMLQp7WIcg-M-0" value="お出かけ" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="IQKbyxErifDmOWK2NKDO-1" vertex="1">
           <mxGeometry x="200" y="120" width="70" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="_w9RSYfdBQx2pYYjW50f-0" value="zenn psy&#xa;リリースできる品質に&#xa;4万文字でも低めの額で&#xa;出品する" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;arcSize=14;" vertex="1" parent="IQKbyxErifDmOWK2NKDO-1">
+        <mxCell id="_w9RSYfdBQx2pYYjW50f-0" value="zenn psy&#xa;リリースできる品質に&#xa;4万文字でも低めの額で&#xa;出品する" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;arcSize=14;" parent="IQKbyxErifDmOWK2NKDO-1" vertex="1">
           <mxGeometry x="280" y="120" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="uO7iKlVdZ37HEOpVsKQS-0" value="psy&#xa;draw.io&#xa;の&#xa;使い方" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;arcSize=14;" vertex="1" parent="IQKbyxErifDmOWK2NKDO-1">
+        <mxCell id="uO7iKlVdZ37HEOpVsKQS-0" value="psy&#xa;draw.io&#xa;の&#xa;使い方" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;arcSize=14;" parent="IQKbyxErifDmOWK2NKDO-1" vertex="1">
           <mxGeometry x="360" y="200" width="70" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="F93zxWNS_lXXuNg9mnni-0" value="zennpsy&#xa;38000" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="IQKbyxErifDmOWK2NKDO-1">
+          <mxGeometry x="200" y="440" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
