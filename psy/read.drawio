@@ -1,12 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T06:10:29.076Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="P-hJMP0eVNjx9mcz5ebW" version="24.0.7" type="github" pages="4">
-  <diagram id="tb0k2htkoV3MRNE8dkfv" name="ページ4">
-    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="app.diagrams.net" modified="2024-03-22T06:11:04.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="JF_gmvWjaCCgYQyoLO-D" version="24.0.7" type="github" pages="4">
   <diagram name="eye" id="4vUhu1GpD3GjMyQlFbg2">
     <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -252,6 +244,14 @@
         <mxCell id="OTaXlqLlgNGNt6BDEM93-33" value="近づきたい、仲良くなりたい人が見つかれば、価値ある情報を提供して特別扱いをして距離を縮めていきます。" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;spacing=5;arcSize=0;perimeterSpacing=2;" parent="OTaXlqLlgNGNt6BDEM93-30" vertex="1">
           <mxGeometry x="10" y="30" width="150" height="150" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tb0k2htkoV3MRNE8dkfv" name="ページ4">
+    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
