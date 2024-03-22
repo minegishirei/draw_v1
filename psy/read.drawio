@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T02:23:47.490Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="_gCkNDq3urYA1qA_ArKl" version="24.0.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-22T02:24:01.005Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Mb49Q9Y8A871Km2sKMC-" version="24.0.7" type="github" pages="3">
   <diagram name="eye" id="4vUhu1GpD3GjMyQlFbg2">
     <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
         <mxCell id="OTaXlqLlgNGNt6BDEM93-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OTaXlqLlgNGNt6BDEM93-1" source="OTaXlqLlgNGNt6BDEM93-4" target="OTaXlqLlgNGNt6BDEM93-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OTaXlqLlgNGNt6BDEM93-4" value="仲間意識が強いが&lt;div&gt;決断力が低いケースが多い&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;spacing=5;arcSize=0;perimeterSpacing=2;" vertex="1" parent="OTaXlqLlgNGNt6BDEM93-1">
+        <mxCell id="OTaXlqLlgNGNt6BDEM93-4" value="近づきたい、仲良くなりたい人が見つかれば、価値ある情報を提供して特別扱いをして距離を縮めていきます。" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;spacing=5;arcSize=0;perimeterSpacing=2;" vertex="1" parent="OTaXlqLlgNGNt6BDEM93-1">
           <mxGeometry x="10" y="30" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
