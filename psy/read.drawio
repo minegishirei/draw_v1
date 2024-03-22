@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T02:26:52.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Hu7TZvL58UM-Niasc6zN" version="24.0.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-22T02:26:58.686Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Rde_OTsNm24amEs6LFfW" version="24.0.7" type="github" pages="3">
   <diagram name="eye" id="4vUhu1GpD3GjMyQlFbg2">
     <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
         <mxCell id="w3Bc-AOvnXZtBDZ2W15Q-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="w3Bc-AOvnXZtBDZ2W15Q-9" source="w3Bc-AOvnXZtBDZ2W15Q-12" target="w3Bc-AOvnXZtBDZ2W15Q-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w3Bc-AOvnXZtBDZ2W15Q-12" value="&lt;div&gt;妥協。&lt;/div&gt;&lt;div&gt;「本当は納得していないけど、争いごとを避けたいから肯定しておくか」といった心理が働いた結果、「まぁ…」と言ってしまいます。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;spacing=5;arcSize=7;perimeterSpacing=2;" parent="w3Bc-AOvnXZtBDZ2W15Q-9" vertex="1">
+        <mxCell id="w3Bc-AOvnXZtBDZ2W15Q-12" value="&lt;div&gt;妥協。&lt;/div&gt;&lt;div&gt;「本当は納得していないけど、争いごとを避けたいから肯定しておくか」といった心理が働いた結果、「まぁ…」と言ってしまいます。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;spacing=5;arcSize=0;perimeterSpacing=2;" parent="w3Bc-AOvnXZtBDZ2W15Q-9" vertex="1">
           <mxGeometry x="10" y="30" width="150" height="149.5" as="geometry" />
         </mxCell>
         <mxCell id="OTaXlqLlgNGNt6BDEM93-1" value="「ここだけの話」" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
