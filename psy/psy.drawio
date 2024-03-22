@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T07:54:02.483Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="v1PjN9YbDYoa61wMF4jY" version="24.0.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-03-22T09:40:26.806Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="q9SRQWDDt0x7E1xVSztc" version="24.0.7" type="github" pages="10">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="treasure_map">
-    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2575" dy="1258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -326,6 +326,65 @@
         </mxCell>
         <mxCell id="-IgBwSJbNMGjTXRnX1jy-10" value="「みんなやってるよ」&lt;br&gt;取り組む" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="-IgBwSJbNMGjTXRnX1jy-1" vertex="1">
           <mxGeometry x="10" y="213" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v6EkRVNgPDiRZStdtIp8-1" value="瞳孔" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1400" width="560" height="279.5" as="geometry" />
+        </mxCell>
+        <mxCell id="v6EkRVNgPDiRZStdtIp8-2" value="瞳孔が少し開く:リラックスした状態&lt;div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=0;perimeterSpacing=2;" vertex="1" parent="v6EkRVNgPDiRZStdtIp8-1">
+          <mxGeometry x="10" y="210" width="150" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="v6EkRVNgPDiRZStdtIp8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="v6EkRVNgPDiRZStdtIp8-1" source="v6EkRVNgPDiRZStdtIp8-4" target="v6EkRVNgPDiRZStdtIp8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="微笑んだり笑ったりすると、通常は瞳孔が少しだけ開きます。" link="https://zenn.dev/minegishirei/books/engineer_psychology/viewer/1000eye#%E7%9E%AC%E3%81%8D%E3%81%AE%E5%9B%9E%E6%95%B0%E3%81%8C10%E7%A7%92%E3%81%AB1~2%E5%9B%9E%EF%BC%9A%E6%AD%A3%E5%B8%B8%E3%81%AA%E7%8A%B6%E6%85%8B" id="v6EkRVNgPDiRZStdtIp8-4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;spacing=5;arcSize=0;perimeterSpacing=2;" vertex="1" parent="v6EkRVNgPDiRZStdtIp8-1">
+            <mxGeometry x="10" y="30" width="150" height="150" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="v6EkRVNgPDiRZStdtIp8-5" value="目を見開く:瞳孔を広げ脅威を見つけるため" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=0;perimeterSpacing=2;" vertex="1" parent="v6EkRVNgPDiRZStdtIp8-1">
+          <mxGeometry x="200" y="210" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v6EkRVNgPDiRZStdtIp8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="v6EkRVNgPDiRZStdtIp8-1" source="v6EkRVNgPDiRZStdtIp8-7" target="v6EkRVNgPDiRZStdtIp8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="この「瞳孔が開く」という現象は、重要な場面でこそ顕著に現れます。" link="https://zenn.dev/minegishirei/books/engineer_psychology/viewer/1000eye#%E6%A5%B5%E7%AB%AF%E3%81%AB%E5%B0%91%E3%81%AA%E3%81%84%E7%9E%AC%E3%81%8D%EF%BC%9A%E5%99%93%E3%81%AE%E5%8F%AF%E8%83%BD%E6%80%A7%E3%80%81%E7%B7%8A%E5%BC%B5%E7%8A%B6%E6%85%8B" id="v6EkRVNgPDiRZStdtIp8-7">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;spacing=5;arcSize=0;perimeterSpacing=2;" vertex="1" parent="v6EkRVNgPDiRZStdtIp8-1">
+            <mxGeometry x="200" y="30" width="150" height="149.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="v6EkRVNgPDiRZStdtIp8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="v6EkRVNgPDiRZStdtIp8-1" source="v6EkRVNgPDiRZStdtIp8-9" target="v6EkRVNgPDiRZStdtIp8-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="誰かが目を細めたときは、何か恐怖を感じている状態であり、情報の処理に時間がかかっていると判断してよいです。" link="https://qiita.com/" id="v6EkRVNgPDiRZStdtIp8-9">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=0;perimeterSpacing=2;" vertex="1" parent="v6EkRVNgPDiRZStdtIp8-1">
+            <mxGeometry x="400" y="30" width="150" height="150" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="v6EkRVNgPDiRZStdtIp8-10" value="目が細くなる:理解しようとしているor疑いを持つ" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=0;perimeterSpacing=2;" vertex="1" parent="v6EkRVNgPDiRZStdtIp8-1">
+          <mxGeometry x="400" y="210" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v6EkRVNgPDiRZStdtIp8-11" value="サッカード" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1400" width="170" height="279.5" as="geometry" />
+        </mxCell>
+        <mxCell id="v6EkRVNgPDiRZStdtIp8-12" value="目の焦点が動かない:集中状態" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#FF66B3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=0;perimeterSpacing=2;" vertex="1" parent="v6EkRVNgPDiRZStdtIp8-11">
+          <mxGeometry x="10" y="210" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v6EkRVNgPDiRZStdtIp8-13" value="&lt;div&gt;論文「眼球運動の変化に基づく心理状態の推定」によると&lt;/div&gt;&lt;div&gt;課題遂行中に眼球運動の頻度や振幅（これを、サッカード現象と呼ぶ）が減少したことがわかった。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#FF99CC;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=0;perimeterSpacing=2;" vertex="1" parent="v6EkRVNgPDiRZStdtIp8-11">
+          <mxGeometry x="10" y="30" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="v6EkRVNgPDiRZStdtIp8-14" value="視線" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1400" width="170" height="279.5" as="geometry" />
+        </mxCell>
+        <mxCell id="v6EkRVNgPDiRZStdtIp8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="v6EkRVNgPDiRZStdtIp8-14" source="v6EkRVNgPDiRZStdtIp8-16" target="v6EkRVNgPDiRZStdtIp8-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="物事が不可能に思えるときや、人が不運に見舞われたときに、天井や空を見上げる人もいます。" link="https://qiita.com/" id="v6EkRVNgPDiRZStdtIp8-16">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=0;perimeterSpacing=2;" vertex="1" parent="v6EkRVNgPDiRZStdtIp8-14">
+            <mxGeometry x="10" y="30" width="150" height="150" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="v6EkRVNgPDiRZStdtIp8-17" value="見上げる:信じられない" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=0;perimeterSpacing=2;" vertex="1" parent="v6EkRVNgPDiRZStdtIp8-14">
+          <mxGeometry x="10" y="210" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
