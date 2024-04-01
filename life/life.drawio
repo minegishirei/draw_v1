@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T12:27:35.226Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="0icImOaBXW36F4qkuP0-" version="24.0.7" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2024-04-01T08:58:19.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ULJlrKGyZOeOdqWUqVCX" version="24.2.1" type="github" pages="15">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
-    <mxGraphModel dx="1194" dy="2953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="3156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -632,6 +632,50 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram name="20240325" id="aXGiF4NYmLky-7iVswwG">
+    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="7AQRocq0L8nqHasCjimv-0" />
+        <mxCell id="7AQRocq0L8nqHasCjimv-1" parent="7AQRocq0L8nqHasCjimv-0" />
+        <mxCell id="7AQRocq0L8nqHasCjimv-2" value="火" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="7AQRocq0L8nqHasCjimv-1">
+          <mxGeometry x="99" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7AQRocq0L8nqHasCjimv-3" value="水" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="7AQRocq0L8nqHasCjimv-1">
+          <mxGeometry x="179" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7AQRocq0L8nqHasCjimv-4" value="木" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="7AQRocq0L8nqHasCjimv-1">
+          <mxGeometry x="259" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7AQRocq0L8nqHasCjimv-5" value="金" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="7AQRocq0L8nqHasCjimv-1">
+          <mxGeometry x="339" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7AQRocq0L8nqHasCjimv-6" value="土" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="7AQRocq0L8nqHasCjimv-1">
+          <mxGeometry x="419" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7AQRocq0L8nqHasCjimv-7" value="日" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="7AQRocq0L8nqHasCjimv-1">
+          <mxGeometry x="499" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7AQRocq0L8nqHasCjimv-8" value="月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="7AQRocq0L8nqHasCjimv-1">
+          <mxGeometry x="19" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7AQRocq0L8nqHasCjimv-9" value="&lt;h1&gt;テーマ：心理学&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="7AQRocq0L8nqHasCjimv-1">
+          <mxGeometry x="40" y="40" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7AQRocq0L8nqHasCjimv-10" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" edge="1" parent="7AQRocq0L8nqHasCjimv-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="41" y="110" as="sourcePoint" />
+            <mxPoint x="600" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7AQRocq0L8nqHasCjimv-11" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;今週の振り返り&lt;/h1&gt;【現状】&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="7AQRocq0L8nqHasCjimv-1">
+          <mxGeometry x="610" y="200" width="190" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="7AQRocq0L8nqHasCjimv-12" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;やることリスト&lt;/h1&gt;&lt;div&gt;・PSY&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="7AQRocq0L8nqHasCjimv-1">
+          <mxGeometry x="610" y="40" width="190" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram name="20240318" id="TQkmsrCXxPplDvxbFxzo">
     <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -672,42 +716,6 @@
         </mxCell>
         <mxCell id="IQKbyxErifDmOWK2NKDO-12" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;やることリスト&lt;/h1&gt;&lt;div&gt;・PSY&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="IQKbyxErifDmOWK2NKDO-1" vertex="1">
           <mxGeometry x="610" y="40" width="190" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="IQKbyxErifDmOWK2NKDO-13" value="信頼関係&#xa;構築" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="IQKbyxErifDmOWK2NKDO-1" vertex="1">
-          <mxGeometry x="40" y="120" width="70" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="FsuYx_pd5feSYPufzxYy-0" value="書き込み" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="IQKbyxErifDmOWK2NKDO-1" vertex="1">
-          <mxGeometry x="120" y="120" width="70" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="hrHGPjlp870BikEuSsSK-0" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="IQKbyxErifDmOWK2NKDO-1" vertex="1">
-          <mxGeometry x="40" y="120" width="20" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="tA76lDpR7V1BdKGy1B0z-0" value="zennpsy&#xa;31928" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="IQKbyxErifDmOWK2NKDO-1" vertex="1">
-          <mxGeometry x="40" y="360" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="bU_IGhediZXI1rV8_0eo-0" value="zennpsy&#xa;35000" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="IQKbyxErifDmOWK2NKDO-1" vertex="1">
-          <mxGeometry x="120" y="360" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="bU_IGhediZXI1rV8_0eo-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="IQKbyxErifDmOWK2NKDO-1" vertex="1">
-          <mxGeometry x="119" y="360" width="20" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="U2exLBq_NMLQp7WIcg-M-0" value="お出かけ" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="IQKbyxErifDmOWK2NKDO-1" vertex="1">
-          <mxGeometry x="200" y="120" width="70" height="310" as="geometry" />
-        </mxCell>
-        <mxCell id="_w9RSYfdBQx2pYYjW50f-0" value="zenn psy&#xa;リリースできる品質に&#xa;4万文字でも低めの額で&#xa;出品する" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;arcSize=14;" parent="IQKbyxErifDmOWK2NKDO-1" vertex="1">
-          <mxGeometry x="280" y="120" width="150" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="uO7iKlVdZ37HEOpVsKQS-0" value="psy&#xa;draw.io&#xa;の&#xa;使い方" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;arcSize=14;" parent="IQKbyxErifDmOWK2NKDO-1" vertex="1">
-          <mxGeometry x="360" y="200" width="70" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="F93zxWNS_lXXuNg9mnni-0" value="zennpsy&#xa;38000" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="IQKbyxErifDmOWK2NKDO-1" vertex="1">
-          <mxGeometry x="200" y="440" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="F93zxWNS_lXXuNg9mnni-1" value="zennpsy&#xa;84922&#xa;(draw.io&#xa;含む)" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="IQKbyxErifDmOWK2NKDO-1" vertex="1">
-          <mxGeometry x="200" y="520" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="sM3Zyupki1yqdNPSs5aR-0" value="zennpsy&#xa;88667&#xa;(draw.io&#xa;含む)" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="IQKbyxErifDmOWK2NKDO-1" vertex="1">
-          <mxGeometry x="280" y="440" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
