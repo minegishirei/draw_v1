@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T00:39:26.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="jEXIwZGKjvf3FZWTKfV_" version="24.2.1" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2024-04-08T01:14:54.474Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="OpJU62ETquXaHwazGS7Q" version="24.2.1" type="github" pages="17">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1674" dy="3156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -684,24 +684,6 @@
         </mxCell>
         <mxCell id="wXL6szIcjYbS21GgoOeU-13" value="Open&#xa;Search&#xa;環境構築" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="wXL6szIcjYbS21GgoOeU-1">
           <mxGeometry x="40" y="120" width="70" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="wXL6szIcjYbS21GgoOeU-14" value="Open&#xa;Search&#xa;類似検索" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="wXL6szIcjYbS21GgoOeU-1">
-          <mxGeometry x="120" y="120" width="70" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="wXL6szIcjYbS21GgoOeU-15" value="nginx&#xa;reverse&#xa;proxy&#xa;server" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="wXL6szIcjYbS21GgoOeU-1">
-          <mxGeometry x="40" y="400" width="70" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="wXL6szIcjYbS21GgoOeU-16" value="Open&#xa;Search&#xa;Django" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="wXL6szIcjYbS21GgoOeU-1">
-          <mxGeometry x="40" y="320" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="wXL6szIcjYbS21GgoOeU-17" value="Open&#xa;Search&#xa;類似検索" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="wXL6szIcjYbS21GgoOeU-1">
-          <mxGeometry x="280" y="120" width="70" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="wXL6szIcjYbS21GgoOeU-18" value="ECS&#xa;Multi&#xa;Container" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="wXL6szIcjYbS21GgoOeU-1">
-          <mxGeometry x="360" y="120" width="70" height="310" as="geometry" />
-        </mxCell>
-        <mxCell id="wXL6szIcjYbS21GgoOeU-19" value="ECS&#xa;Multi&#xa;Container" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="wXL6szIcjYbS21GgoOeU-1">
-          <mxGeometry x="280" y="280" width="70" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
