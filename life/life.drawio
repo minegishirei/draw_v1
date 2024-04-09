@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T13:00:00.333Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="IXh44CJeqPxD7rszNNDz" version="24.2.3" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2024-04-09T13:01:21.466Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="xYuxOnhHTOgs1I7n4oi8" version="24.2.3" type="github" pages="17">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="2953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -430,7 +430,7 @@
           <mxGeometry x="920" y="442" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qe8sTHdyQwKMezYS5cEN-0" value="Hask圏の理解&#xa;または、わからない点を洗い出す" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="2040" y="200" width="230" height="70" as="geometry" />
+          <mxGeometry x="3480" y="199" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jRalXt3Lo8aVCcbiEd2y-0" value="Monado" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="919.22" y="200" width="70.78" height="70" as="geometry" />
@@ -475,7 +475,7 @@
           <mxGeometry x="1000" y="200" width="70.78" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ry8YSv5Op1cK6eL4UVYr-0" value="圏論&#xa;米田の定理&#xa;理解" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="2280" y="200" width="310" height="70" as="geometry" />
+          <mxGeometry x="3720" y="199" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="A44UQFyMIV8JrDTXDl7x-0" value="haskell&#xa;where" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="920" y="362" width="70.78" height="70" as="geometry" />
@@ -638,8 +638,11 @@
         <mxCell id="FjeknVnULqctq_wNdwAw-0" value="Open&#xa;Search" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1880" y="200" width="70" height="387.5" as="geometry" />
         </mxCell>
-        <mxCell id="pMwYDgXReLPqg8cn-fJU-0" value="ECS&#xa;Multi&#xa;Container" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+        <mxCell id="pMwYDgXReLPqg8cn-fJU-0" value="ECS&#xa;Multi&#xa;Container" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1960" y="200" width="70" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="e7v0zS1ufhWjI3h5iKMD-0" value="複業" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="2040" y="200.5" width="630" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
