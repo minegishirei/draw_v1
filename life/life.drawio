@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T23:32:37.771Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="OZShb5XHe8X0YqLSMrhF" version="24.2.3" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2024-04-09T23:34:44.832Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="vJ_loJBqBdI-xJl10qLj" version="24.2.3" type="github" pages="17">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="2953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -400,7 +400,7 @@
           <mxGeometry x="1874.11" y="120" width="331" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-37" value="&lt;h1&gt;年間目標：現金化&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="893.11" y="40" width="920" height="40" as="geometry" />
+          <mxGeometry x="893.11" y="40" width="266.89" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ru7E1SiRD02BdjEPUVSw-0" value="5月" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2193.11" y="120" width="331" height="70" as="geometry" />
