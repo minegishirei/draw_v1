@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T07:53:19.231Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="PEVKIKaZAOMipyR2W1FT" version="24.2.3" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2024-04-10T09:15:29.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="dLDlyzAzIZ85yktM1nXl" version="24.2.3" type="github" pages="17">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1674" dy="3156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -709,11 +709,14 @@
         <mxCell id="5kN3AkUiwBBsKkb0xW4c-0" value="Docker&#xa;run&#xa;詳細" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="wXL6szIcjYbS21GgoOeU-1" vertex="1">
           <mxGeometry x="120" y="520" width="70" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Z_D2oMBKYoj3VESSrwwW-0" value="Open&#xa;search&#xa;サポート&#xa;問い合わせ" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="wXL6szIcjYbS21GgoOeU-1">
+        <mxCell id="Z_D2oMBKYoj3VESSrwwW-0" value="Open&#xa;search&#xa;サポート&#xa;問い合わせ" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="wXL6szIcjYbS21GgoOeU-1" vertex="1">
           <mxGeometry x="200" y="120" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Z_D2oMBKYoj3VESSrwwW-1" value="Open&#xa;search&#xa;類似検索&#xa;委託" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="wXL6szIcjYbS21GgoOeU-1">
+        <mxCell id="Z_D2oMBKYoj3VESSrwwW-1" value="Open&#xa;search&#xa;類似検索&#xa;委託" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="wXL6szIcjYbS21GgoOeU-1" vertex="1">
           <mxGeometry x="200" y="200" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_fTvh4rw_jm91-Ryxcga-0" value="Container&#xa;on&#xa;AWS" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="wXL6szIcjYbS21GgoOeU-1">
+          <mxGeometry x="200" y="280" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
