@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T23:32:37.672Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3AaDl6TGAgQt-SRjRmU8" version="24.2.8" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-04-23T23:32:59.898Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jGvAnYE9mzd3xJGdrKOo" version="24.2.8" type="github" pages="18">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="2978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -427,7 +427,7 @@
           <mxGeometry x="4432.11" y="120" width="331" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Nnz3KufJM8YvIq1ucivo-0" value="myworking&#xa;思考0で使える" style="rounded=1;fillColor=#019e95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="920" y="442" width="230" height="70" as="geometry" />
+          <mxGeometry x="919.9" y="517.5" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qe8sTHdyQwKMezYS5cEN-0" value="Hask圏の理解&#xa;または、わからない点を洗い出す" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="3480" y="199" width="230" height="70" as="geometry" />
@@ -442,7 +442,7 @@
           <mxGeometry x="840.11" y="280" width="69.68" height="70" as="geometry" />
         </mxCell>
         <mxCell id="i2unB3EMkpE1uEA1lS_7-0" value="Vim" style="rounded=1;fillColor=#019e95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="838.85" y="442" width="69.79" height="70" as="geometry" />
+          <mxGeometry x="838.75" y="517.5" width="69.79" height="70" as="geometry" />
         </mxCell>
         <mxCell id="P20HAH3YQLcSrejL2LfM-0" value="Haskell" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="840" y="200" width="68.75" height="70" as="geometry" />
@@ -490,7 +490,7 @@
           <mxGeometry x="1159.73" y="679" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6jQH_a4es7nJc6ZHCs8M-0" value="Astro&#xa;NeoVim" style="rounded=1;fillColor=#019e95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1159.41" y="360.5" width="69.79" height="70" as="geometry" />
+          <mxGeometry x="1160" y="517.5" width="69.79" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7E724pbm7jZKlNEOCbff-0" value="jbck&#xa;UIUX" style="rounded=1;fillColor=#B266FF;strokeColor=#CC99FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1240.5" y="203" width="70" height="308" as="geometry" />
