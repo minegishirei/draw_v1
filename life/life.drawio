@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T08:56:14.709Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="07wZXTWndiYprJPFC1iT" version="24.2.5" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2024-04-23T09:04:30.742Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="kFLJMhFfBSxNDaVrg2NZ" version="24.2.5" type="github" pages="19">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1674" dy="3156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -665,7 +665,7 @@
         <mxCell id="nxaWoVZWUnP83pNudGsD-0" value="Open&#xa;Search" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2040" y="198.38" width="70" height="387.5" as="geometry" />
         </mxCell>
-        <mxCell id="bq7IDlNxe4QY1jKf78TL-0" value="基礎力" style="rounded=1;fillColor=#FF9933;strokeColor=#FF8000;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+        <mxCell id="bq7IDlNxe4QY1jKf78TL-0" value="AWS" style="rounded=1;fillColor=#FF9933;strokeColor=#FF8000;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
           <mxGeometry x="400" y="680.1800000000001" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
