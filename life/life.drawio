@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T09:59:23.564Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="AN2qHORiJiHAAzyas1rA" version="24.2.8" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-04-23T10:40:31.526Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ECQpi2YGGHndw4x7wChD" version="24.2.8" type="github" pages="18">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
-    <mxGraphModel dx="1674" dy="3156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="2978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -383,7 +383,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2024year" id="uiUMKeZ0txUB_UNjZnf_">
-    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-0" />
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-1" parent="Bh7SMV7lsvvrdX1vqtc6-0" />
@@ -653,17 +653,17 @@
         <mxCell id="bq7IDlNxe4QY1jKf78TL-0" value="AWS" style="rounded=1;fillColor=#FF9933;strokeColor=#FF8000;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="400" y="680.1800000000001" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rbuCsb3qMlLkSIBxqQ3k-1" value="金を稼ぐ" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+        <mxCell id="rbuCsb3qMlLkSIBxqQ3k-1" value="金を稼ぐ" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="400" y="760" width="150" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="9ZePPUEqSTuQamWhkgxR-0" value="AWS&#xa;CF&#xa;WAF&#xa;fix" style="rounded=1;fillColor=#FF9933;strokeColor=#FF8000;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+        <mxCell id="9ZePPUEqSTuQamWhkgxR-0" value="AWS&#xa;CF&#xa;WAF&#xa;fix" style="rounded=1;fillColor=#FF9933;strokeColor=#FF8000;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2040" y="438.75" width="70" height="71.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="20240422" id="T5gSQF7ivlWrojVcbaOC">
-    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="dp7smig5iPpN__WvHa1W-0" />
         <mxCell id="dp7smig5iPpN__WvHa1W-1" parent="dp7smig5iPpN__WvHa1W-0" />
@@ -718,14 +718,14 @@
         <mxCell id="2-ecXMn2w_7d8ZVx-0Mz-0" value="AWS&#xa;CF&#xa;WAF&#xa;fix" style="rounded=1;fillColor=#FF9933;strokeColor=#FF8000;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="dp7smig5iPpN__WvHa1W-1" vertex="1">
           <mxGeometry x="120" y="360" width="70" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="nSSZOtDRVlqUB6Qu3s8u-0" value="Pair&#xa;Program&#xa;&#xa;DjangoCoding" style="rounded=1;fillColor=#99CCFF;strokeColor=#99CCFF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="dp7smig5iPpN__WvHa1W-1" vertex="1">
+        <mxCell id="nSSZOtDRVlqUB6Qu3s8u-0" value="Pair&#xa;Program&#xa;&#xa;DjangoCoding" style="rounded=1;fillColor=#66B2FF;strokeColor=#99CCFF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="dp7smig5iPpN__WvHa1W-1" vertex="1">
           <mxGeometry x="120" y="520" width="70" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="20240408" id="p3BIz-SYk3PkDnaxWt4h">
-    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="wXL6szIcjYbS21GgoOeU-0" />
         <mxCell id="wXL6szIcjYbS21GgoOeU-1" parent="wXL6szIcjYbS21GgoOeU-0" />
