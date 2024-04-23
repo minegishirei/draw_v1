@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T10:51:22.593Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="D6PufEYXBvaBmdXFQwme" version="24.2.8" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-04-23T10:51:40.792Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="M0G1dQPOyc_QCxvtPLtF" version="24.2.8" type="github" pages="18">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="2978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -517,7 +517,7 @@
           <mxGeometry x="577.25" y="200" width="68.75" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zBPXHjlnpG0N1R4RMS1n-2" value="心理学" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="577.25" y="522" width="68.75" height="70" as="geometry" />
+          <mxGeometry x="577.25" y="518.75" width="68.75" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zBPXHjlnpG0N1R4RMS1n-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Bh7SMV7lsvvrdX1vqtc6-1" source="zBPXHjlnpG0N1R4RMS1n-4" target="zBPXHjlnpG0N1R4RMS1n-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -537,7 +537,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zBPXHjlnpG0N1R4RMS1n-8" value="心理学" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="400" y="522" width="150" height="70" as="geometry" />
+          <mxGeometry x="400" y="519.75" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zBPXHjlnpG0N1R4RMS1n-9" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=#CCCCCC;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="666.8500000000001" y="534.75" width="160" height="40" as="geometry" />
@@ -642,10 +642,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BCTeM3Qxspm3P5T-Rhqx-0" value="人間としての&#xa;魅力をあげること" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="400" y="602" width="150" height="70" as="geometry" />
+          <mxGeometry x="400" y="599" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BCTeM3Qxspm3P5T-Rhqx-1" value="人間力" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="577.25" y="602" width="68.75" height="70" as="geometry" />
+          <mxGeometry x="577.25" y="599" width="68.75" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nxaWoVZWUnP83pNudGsD-0" value="Open&#xa;Search" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2040" y="198.38" width="70" height="231.62" as="geometry" />
