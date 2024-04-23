@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T09:30:30.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ed6LcxpHpaDCA7dPKkNl" version="24.2.8" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-04-23T09:30:37.925Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="MiUpQ_Nr-ZFhiZNPAouo" version="24.2.8" type="github" pages="18">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1674" dy="3156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -613,9 +613,6 @@
         </mxCell>
         <mxCell id="OBDiVQjEH2x2G646U2dl-1" value="脆弱性0&#xa;人間" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1560" y="680" width="70" height="69" as="geometry" />
-        </mxCell>
-        <mxCell id="mrHPIKawm6f0uAVBSmkX-0" value="Docker&#xa;Udemyコース&#xa;リリース" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="2200" y="277.75" width="630" height="69" as="geometry" />
         </mxCell>
         <mxCell id="bqTH6t_CRzPVLOfNTGQf-0" value="Udemy&#xa;講師&#xa;アカウント&#xa;作成" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1640" y="200.5" width="70" height="149.5" as="geometry" />
