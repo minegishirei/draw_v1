@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T09:30:48.102Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="L7_Eoqk9HCczuTdr-Ebf" version="24.2.8" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-04-23T09:30:53.430Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="5AkBgs95Rj4f3t0sDsLn" version="24.2.8" type="github" pages="18">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1674" dy="3156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -447,9 +447,6 @@
         <mxCell id="P20HAH3YQLcSrejL2LfM-0" value="Haskell" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="840" y="200" width="68.75" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="P20HAH3YQLcSrejL2LfM-1" value="エンジニア心理学&#xa;「みたことがある！」を確立" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="2200" y="437.38" width="310" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="jypz1bNjbopJdEoWJgeo-0" value="ケース別&#xa;会話の展開" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="917.96" y="522" width="70" height="70" as="geometry" />
         </mxCell>
@@ -458,9 +455,6 @@
         </mxCell>
         <mxCell id="jypz1bNjbopJdEoWJgeo-3" value="ケース別&#xa;会話の展開" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1240.5" y="523" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="jypz1bNjbopJdEoWJgeo-6" value="ケース別&#xa;会話の展開" style="rounded=1;fillColor=#6666FF;strokeColor=#6666FF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="2200" y="517.5" width="67.93" height="70" as="geometry" />
         </mxCell>
         <mxCell id="T1CbnWRcXSP3Cxb9pG7G-1" value="恒等写像" style="rounded=1;fillColor=#004C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="919.22" y="280" width="70.78" height="70" as="geometry" />
