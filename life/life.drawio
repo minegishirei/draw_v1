@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T08:20:21.937Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ikt3ymUjTS5V2cgwCm6o" version="24.3.0" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-04-26T08:52:52.211Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="H3noZQWsa9y8MB-8q0YQ" version="24.3.0" type="github" pages="18">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="2953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -748,6 +748,9 @@
         </mxCell>
         <mxCell id="vHEMnF0n2SaNhhg8VbZU-3" value="AWS" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
           <mxGeometry x="1960" y="600.5" width="71.64" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RWv0qMUqhygq35rrETLG-0" value=" AWS&#xa;サービスカタログ&#xa;アジャイルか" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="2199.78" y="-440" width="310" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
