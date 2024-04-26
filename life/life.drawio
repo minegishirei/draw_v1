@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T06:12:31.472Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="QYoZdvxOzoWXCVocEhSB" version="24.3.0" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-04-26T06:13:44.458Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="lOpmbOeb2VOD2ZqT6DrL" version="24.3.0" type="github" pages="18">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="2953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -383,7 +383,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2024year" id="uiUMKeZ0txUB_UNjZnf_">
-    <mxGraphModel dx="1194" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="1784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-0" />
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-1" parent="Bh7SMV7lsvvrdX1vqtc6-0" />
@@ -627,7 +627,7 @@
           <mxGeometry x="1960" y="200" width="70" height="230" as="geometry" />
         </mxCell>
         <mxCell id="e7v0zS1ufhWjI3h5iKMD-0" value="複業" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="2200" y="600" width="629.89" height="69" as="geometry" />
+          <mxGeometry x="1880.1100000000001" y="-29" width="629.89" height="69" as="geometry" />
         </mxCell>
         <mxCell id="e7v0zS1ufhWjI3h5iKMD-1" value="ブログ&#xa;マネタイズ" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1880.11" y="600" width="309.89" height="69" as="geometry" />
@@ -707,8 +707,8 @@
         <mxCell id="CJGJ9xjIOzubEeCd7xv0-0" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&lt;font size=&quot;1&quot;&gt;三ヶ月単位で、やるべきことスプリントゴールを決める。そのスプリントゴールに向かって&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&lt;font size=&quot;1&quot;&gt;作業をすることで、人生の目標を達成することができる&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
           <mxGeometry x="40" y="383.75" width="140" height="126.25" as="geometry" />
         </mxCell>
-        <mxCell id="CJGJ9xjIOzubEeCd7xv0-1" value="&lt;h1&gt;年間目標：現金化&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=#E6E6E6;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
-          <mxGeometry x="1879.8899999999999" y="78" width="950" height="36" as="geometry" />
+        <mxCell id="CJGJ9xjIOzubEeCd7xv0-1" value="&lt;h1&gt;年間目標：現金化&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=#E6E6E6;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;align=center;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="1879.8899999999999" y="82" width="950" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
