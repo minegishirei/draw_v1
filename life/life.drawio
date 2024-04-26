@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T11:02:14.991Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="GIILpmEjlRXSlprD-DTR" version="24.3.0" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2024-04-26T11:17:37.674Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Or8M_x8NWtPSBb9xNoo3" version="24.3.0" type="github" pages="19">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="4122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -805,29 +805,14 @@
         <mxCell id="mmjsGmUXRZGhKli4uvX5-12" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;やることリスト&lt;/h1&gt;&lt;div&gt;・PSY&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="mmjsGmUXRZGhKli4uvX5-1">
           <mxGeometry x="610" y="40" width="190" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="mmjsGmUXRZGhKli4uvX5-13" value="scrum&#xa;event" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="mmjsGmUXRZGhKli4uvX5-1">
-          <mxGeometry x="360" y="121" width="70" height="389" as="geometry" />
+        <mxCell id="mmjsGmUXRZGhKli4uvX5-13" value="MTG準備" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="mmjsGmUXRZGhKli4uvX5-1">
+          <mxGeometry x="40" y="120" width="70" height="230" as="geometry" />
         </mxCell>
         <mxCell id="mmjsGmUXRZGhKli4uvX5-14" value="scrum&#xa;event" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="mmjsGmUXRZGhKli4uvX5-1">
           <mxGeometry x="280" y="120" width="70" height="389" as="geometry" />
         </mxCell>
-        <mxCell id="mmjsGmUXRZGhKli4uvX5-15" value="目標&#xa;設定" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="mmjsGmUXRZGhKli4uvX5-1">
-          <mxGeometry x="40" y="121" width="70" height="229" as="geometry" />
-        </mxCell>
-        <mxCell id="mmjsGmUXRZGhKli4uvX5-16" value="Pair&#xa;Program&#xa;&#xa;Django&#xa;Coding" style="rounded=1;fillColor=#66B2FF;strokeColor=#99CCFF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="mmjsGmUXRZGhKli4uvX5-1">
-          <mxGeometry x="120" y="520" width="70" height="230" as="geometry" />
-        </mxCell>
         <mxCell id="mmjsGmUXRZGhKli4uvX5-17" value="Open&#xa;search&#xa;&#xa;primary&#xa;id" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="mmjsGmUXRZGhKli4uvX5-1">
           <mxGeometry x="120" y="121" width="70" height="229" as="geometry" />
-        </mxCell>
-        <mxCell id="mmjsGmUXRZGhKli4uvX5-18" value="AWS&#xa;CF&#xa;WAF&#xa;fix" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="mmjsGmUXRZGhKli4uvX5-1">
-          <mxGeometry x="120" y="360" width="70" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="mmjsGmUXRZGhKli4uvX5-19" value="Pair&#xa;Program&#xa;&#xa;React&#xa;Coding" style="rounded=1;fillColor=#66B2FF;strokeColor=#99CCFF;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="mmjsGmUXRZGhKli4uvX5-1">
-          <mxGeometry x="200" y="520" width="70" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="mmjsGmUXRZGhKli4uvX5-20" value="OpnSearch&#xa;Words" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="mmjsGmUXRZGhKli4uvX5-1">
-          <mxGeometry x="200" y="120" width="70" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
