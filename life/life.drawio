@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-28T06:58:07.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="03u7TMLxvcAmOFwl2YUy" version="24.2.8" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2024-04-28T06:59:20.775Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="jm7-D1dhylTsw3zYzttv" version="24.2.8" type="github" pages="19">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1674" dy="4325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -775,9 +775,6 @@
         </mxCell>
         <mxCell id="qzdjB-W2LdewoaEbzD0Z-1" value="Architect&#xa;blog&#xa;attack" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2119.84" y="199" width="70.16" height="69" as="geometry" />
-        </mxCell>
-        <mxCell id="qzdjB-W2LdewoaEbzD0Z-2" value="SQL" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="2120" y="-280" width="390" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
