@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-28T07:05:09.633Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="tzpC8GRxRJs8UCdQ4G_A" version="24.2.8" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2024-04-28T07:05:21.287Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="uKpXNE3e8n4meCVXA_AR" version="24.2.8" type="github" pages="19">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1674" dy="4325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -656,9 +656,6 @@
         <mxCell id="e7v0zS1ufhWjI3h5iKMD-0" value="複業" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2199.78" y="-200" width="629.89" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="e7v0zS1ufhWjI3h5iKMD-1" value="ブログ&#xa;マネタイズ" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="2199.7799999999997" y="-520" width="309.89" height="69" as="geometry" />
-        </mxCell>
         <mxCell id="c4h0luWL1eRa8xh-gyWp-1" value="開業届" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1879.89" y="-120" width="310" height="70" as="geometry" />
         </mxCell>
@@ -754,9 +751,6 @@
         </mxCell>
         <mxCell id="CJGJ9xjIOzubEeCd7xv0-7" value="【調査】ブログの現状を整理" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1879.8899999999999" y="-360" width="309.89" height="69" as="geometry" />
-        </mxCell>
-        <mxCell id="CJGJ9xjIOzubEeCd7xv0-8" value="ケーススタディ" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1879.8899999999999" y="-520" width="309.89" height="69" as="geometry" />
         </mxCell>
         <mxCell id="CJGJ9xjIOzubEeCd7xv0-9" value="スクラムの研究" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1879.89" y="-440" width="310" height="70" as="geometry" />
