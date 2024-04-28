@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-28T07:00:00.239Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Z61smde5-6lpIaACIRBW" version="24.2.8" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2024-04-28T07:01:12.944Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="fTnDB0IBff1gR68EFpU4" version="24.2.8" type="github" pages="19">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1674" dy="4325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -410,7 +410,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2024year" id="uiUMKeZ0txUB_UNjZnf_">
-    <mxGraphModel dx="1674" dy="1987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3044" dy="2656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-0" />
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-1" parent="Bh7SMV7lsvvrdX1vqtc6-0" />
@@ -778,6 +778,9 @@
         </mxCell>
         <mxCell id="qzdjB-W2LdewoaEbzD0Z-2" value="SQL" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2840.11" y="-120" width="390" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="FvhjM-UMrIHRwDnvG5Qk-1" value="Architect&#xa;organize content" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="2840.11" y="-200" width="310" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
