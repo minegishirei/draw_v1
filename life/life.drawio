@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T10:31:47.167Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="sHLEu3X2Af8DPmRbZZgk" version="24.3.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-04-30T10:32:13.211Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="nWtl0oG8NGxYYPufBxXn" version="24.3.1" type="github" pages="6">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="4088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -493,7 +493,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20240429" id="W_7P5e1TE54jH6IneF1L">
-    <mxGraphModel dx="1674" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="mmjsGmUXRZGhKli4uvX5-0" />
         <mxCell id="mmjsGmUXRZGhKli4uvX5-1" parent="mmjsGmUXRZGhKli4uvX5-0" />
@@ -518,7 +518,7 @@
         <mxCell id="mmjsGmUXRZGhKli4uvX5-8" value="月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="mmjsGmUXRZGhKli4uvX5-1" vertex="1">
           <mxGeometry x="19" y="75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mmjsGmUXRZGhKli4uvX5-9" value="&lt;h1&gt;テーマ：人事を尽くして天命を待つ&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="mmjsGmUXRZGhKli4uvX5-1" vertex="1">
+        <mxCell id="mmjsGmUXRZGhKli4uvX5-9" value="&lt;h1&gt;テーマ：準備&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="mmjsGmUXRZGhKli4uvX5-1" vertex="1">
           <mxGeometry x="40" y="40" width="480" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mmjsGmUXRZGhKli4uvX5-10" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" parent="mmjsGmUXRZGhKli4uvX5-1" edge="1">
@@ -542,7 +542,7 @@
         <mxCell id="mmjsGmUXRZGhKli4uvX5-17" value="Open&#xa;search&#xa;&#xa;primary&#xa;id" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="mmjsGmUXRZGhKli4uvX5-1" vertex="1">
           <mxGeometry x="200" y="120" width="70" height="229" as="geometry" />
         </mxCell>
-        <mxCell id="JAcDAGpPGNjnSt7H0TE5-0" value="スクラム&#xa;研修&#xa;受験" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="mmjsGmUXRZGhKli4uvX5-1">
+        <mxCell id="JAcDAGpPGNjnSt7H0TE5-0" value="スクラム&#xa;研修&#xa;受験" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="mmjsGmUXRZGhKli4uvX5-1" vertex="1">
           <mxGeometry x="120" y="280" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
@@ -691,7 +691,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20240401" id="oLyfW8B5cQ7qM8Wx-LiT">
-    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="_V9W-r5Bzd1cfo6X25OV-0" />
         <mxCell id="_V9W-r5Bzd1cfo6X25OV-1" parent="_V9W-r5Bzd1cfo6X25OV-0" />
