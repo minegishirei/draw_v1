@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T10:33:50.285Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Fl89yXBiATH5Cl7MgXpg" version="24.3.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-04-30T10:34:22.111Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="UFreUWRdCGus5OrIRRi4" version="24.3.1" type="github" pages="6">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="4088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -435,9 +435,6 @@
         <mxCell id="e7v0zS1ufhWjI3h5iKMD-0" value="複業" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2200" y="200" width="629.89" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="c4h0luWL1eRa8xh-gyWp-1" value="開業届" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1879.89" y="-120" width="310" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="c4h0luWL1eRa8xh-gyWp-2" value="ココナラ&#xa;登録" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1879.89" y="599" width="70.11" height="69" as="geometry" />
         </mxCell>
@@ -456,8 +453,8 @@
         <mxCell id="CJGJ9xjIOzubEeCd7xv0-4" value="crowd&#xa;works&#xa;登録" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1879.89" y="679" width="70.11" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="CJGJ9xjIOzubEeCd7xv0-5" value="市場調査" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1879.89" y="-200" width="309.89" height="69" as="geometry" />
+        <mxCell id="CJGJ9xjIOzubEeCd7xv0-5" value="開業届" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
+          <mxGeometry x="1720" y="-1000" width="309.89" height="69" as="geometry" />
         </mxCell>
         <mxCell id="CJGJ9xjIOzubEeCd7xv0-6" value="何かしらの受注を得る" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2200" y="-120" width="310" height="69" as="geometry" />
