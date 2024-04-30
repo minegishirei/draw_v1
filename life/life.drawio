@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T10:47:22.550Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="X5Xj8tYbG9h0eiv8Amw5" version="24.3.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-04-30T10:47:47.391Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="DR6UypBsJ4YPnPWyuoAX" version="24.3.1" type="github" pages="6">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="4088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -482,9 +482,6 @@
         </mxCell>
         <mxCell id="FvhjM-UMrIHRwDnvG5Qk-2" value=" AWS&#xa;サービスカタログ&#xa;agile" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2199.89" y="279" width="310.22" height="72.62" as="geometry" />
-        </mxCell>
-        <mxCell id="2TB5Tsj4iu3cfr1h1QYa-0" value="blog&#xa;pv, entry&#xa;search.py" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1040" y="280.63" width="150.11" height="69" as="geometry" />
         </mxCell>
         <mxCell id="dix4tFbaiDG4c1JDxWVH-0" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;現金生成プロジェクト&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="880" y="40" width="440" height="40" as="geometry" />
