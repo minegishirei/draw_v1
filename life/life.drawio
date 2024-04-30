@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T10:34:22.111Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="UFreUWRdCGus5OrIRRi4" version="24.3.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-04-30T10:35:05.626Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="vn73iL934VWtM-foMV1n" version="24.3.1" type="github" pages="6">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="4088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -410,7 +410,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2024year" id="uiUMKeZ0txUB_UNjZnf_">
-    <mxGraphModel dx="-460" dy="1750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="367" dy="1750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-0" />
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-1" parent="Bh7SMV7lsvvrdX1vqtc6-0" />
@@ -445,7 +445,7 @@
           <mxGeometry x="2040" y="439.63" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CJGJ9xjIOzubEeCd7xv0-2" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;これまでは大量の知識をストックすることに注力する人生であった。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;そして、知識をストックしていけば自然と技術力も上がり、成果も生み出せると考えていた。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;これからはそれらの知識を換金していき、元をとりにいく・&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1720" y="-1080" width="600" height="110" as="geometry" />
+          <mxGeometry x="880" y="80" width="600" height="110" as="geometry" />
         </mxCell>
         <mxCell id="CJGJ9xjIOzubEeCd7xv0-3" value="Flame&#xa;value&#xa;&#xa;ブログ化" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1960" y="440.5" width="70" height="149.5" as="geometry" />
@@ -454,10 +454,10 @@
           <mxGeometry x="1879.89" y="679" width="70.11" height="69" as="geometry" />
         </mxCell>
         <mxCell id="CJGJ9xjIOzubEeCd7xv0-5" value="開業届" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1720" y="-1000" width="309.89" height="69" as="geometry" />
+          <mxGeometry x="880" y="160" width="309.89" height="69" as="geometry" />
         </mxCell>
         <mxCell id="CJGJ9xjIOzubEeCd7xv0-6" value="何かしらの受注を得る" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="2200" y="-120" width="310" height="69" as="geometry" />
+          <mxGeometry x="1200.1100000000001" y="440.63" width="310" height="69" as="geometry" />
         </mxCell>
         <mxCell id="CJGJ9xjIOzubEeCd7xv0-7" value="blog&#xa;situation&#xa;search" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2119.89" y="279" width="70.11" height="69" as="geometry" />
@@ -469,7 +469,7 @@
           <mxGeometry x="2040" y="522" width="69.89" height="69" as="geometry" />
         </mxCell>
         <mxCell id="qzdjB-W2LdewoaEbzD0Z-0" value="agile&#xa;organize&#xa;content" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1879.89" y="-280" width="150.11" height="69" as="geometry" />
+          <mxGeometry x="880" y="280.63" width="150.11" height="69" as="geometry" />
         </mxCell>
         <mxCell id="qzdjB-W2LdewoaEbzD0Z-1" value="Architect&#xa;blog&#xa;no leaks" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2119.84" y="199" width="70.16" height="69" as="geometry" />
@@ -484,10 +484,10 @@
           <mxGeometry x="2199.89" y="279" width="310.22" height="72.62" as="geometry" />
         </mxCell>
         <mxCell id="2TB5Tsj4iu3cfr1h1QYa-0" value="blog&#xa;pv, entry&#xa;search.py" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="2039.89" y="-280" width="150.11" height="69" as="geometry" />
+          <mxGeometry x="1040" y="280.63" width="150.11" height="69" as="geometry" />
         </mxCell>
         <mxCell id="dix4tFbaiDG4c1JDxWVH-0" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;現金化&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
-          <mxGeometry x="1720" y="-1120" width="180" height="40" as="geometry" />
+          <mxGeometry x="880" y="40" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
