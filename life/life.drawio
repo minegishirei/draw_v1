@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-01T09:35:11.673Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="UMAFxE9pnEMjk-_KcGwV" version="24.3.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-05-01T09:35:22.341Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="cwRSyA0KPfv1QyLU7qEP" version="24.3.1" type="github" pages="6">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="4088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -466,7 +466,7 @@
           <mxGeometry x="2119.84" y="199" width="70.16" height="69" as="geometry" />
         </mxCell>
         <mxCell id="FvhjM-UMrIHRwDnvG5Qk-2" value=" AWS&#xa;サービスカタログ&#xa;agile" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="879.78" y="520" width="310.22" height="72.62" as="geometry" />
+          <mxGeometry x="880" y="440.5" width="310.22" height="72.62" as="geometry" />
         </mxCell>
         <mxCell id="dix4tFbaiDG4c1JDxWVH-0" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;現金生成プロジェクト&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="880" y="40" width="440" height="40" as="geometry" />
@@ -493,7 +493,7 @@
           <mxGeometry x="2201.11" y="198.38" width="68.89" height="151.62" as="geometry" />
         </mxCell>
         <mxCell id="RjkAwbo-k76zZElFyvUJ-0" value="adsense&#xa;開業届&#xa;関連調査" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="879.7800000000001" y="601" width="310" height="69" as="geometry" />
+          <mxGeometry x="880.0000000000001" y="521.5" width="310" height="69" as="geometry" />
         </mxCell>
         <mxCell id="uDgXPZ4IRyCEFPW6FUE5-0" value="開業届&#xa;会社側の&#xa;申請内容&#xa;確認" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
           <mxGeometry x="2201.11" y="361" width="68.89" height="149" as="geometry" />
