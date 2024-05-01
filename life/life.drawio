@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-01T13:00:53.119Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="at6nItUgQuRo1QyJSCgz" version="24.3.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-05-01T13:04:55.433Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="oOZ-RvkA8uSZxxA1nwDb" version="24.3.1" type="github" pages="6">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="4088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -502,7 +502,7 @@
           <mxGeometry x="1200" y="521" width="310.22" height="149" as="geometry" />
         </mxCell>
         <mxCell id="jem9MDrquva8wTJ9x832-0" value="crowdworksでの&#xa;仕事応募3件" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1200" y="439.63" width="150" height="69" as="geometry" />
+          <mxGeometry x="1200" y="441" width="150" height="69" as="geometry" />
         </mxCell>
         <mxCell id="O2drOm-FjnMiRH6_OKmj-0" value="career millによる&#xa;仕事の受注" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1200" y="679" width="310" height="151" as="geometry" />
