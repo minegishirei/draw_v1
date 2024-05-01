@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-01T09:28:59.758Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="mcBnuENr52o7a0Ameo6n" version="24.3.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-05-01T09:29:15.142Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="L3cs1UP0isKG5nq9YwBa" version="24.3.1" type="github" pages="6">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="4088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -493,7 +493,7 @@
           <mxGeometry x="880" y="238" width="320" height="41" as="geometry" />
         </mxCell>
         <mxCell id="u71bAMLQggnwsxkIeTdK-0" value="Ops&#xa;類似検索" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="2201.11" y="198.38" width="68.89" height="69" as="geometry" />
+          <mxGeometry x="2201.11" y="198.38" width="68.89" height="151.62" as="geometry" />
         </mxCell>
         <mxCell id="RjkAwbo-k76zZElFyvUJ-0" value="adsense&#xa;開業届&#xa;関連調査" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="879.7800000000001" y="601" width="310" height="69" as="geometry" />
