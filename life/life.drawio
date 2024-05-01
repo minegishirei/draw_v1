@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-01T09:29:15.142Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="L3cs1UP0isKG5nq9YwBa" version="24.3.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-05-01T09:29:41.992Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="qRM6yS0Y27FOZf8Dil5R" version="24.3.1" type="github" pages="6">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="4088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -410,7 +410,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2024year" id="uiUMKeZ0txUB_UNjZnf_">
-    <mxGraphModel dx="367" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="500" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-0" />
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-1" parent="Bh7SMV7lsvvrdX1vqtc6-0" />
@@ -542,9 +542,6 @@
         <mxCell id="mmjsGmUXRZGhKli4uvX5-12" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;やることリスト&lt;/h1&gt;&lt;div&gt;・&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="mmjsGmUXRZGhKli4uvX5-1" vertex="1">
           <mxGeometry x="610" y="40" width="190" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="mmjsGmUXRZGhKli4uvX5-13" value="MTG準備" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="mmjsGmUXRZGhKli4uvX5-1" vertex="1">
-          <mxGeometry x="40" y="120" width="70" height="230" as="geometry" />
-        </mxCell>
         <mxCell id="mmjsGmUXRZGhKli4uvX5-14" value="事務処理" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="mmjsGmUXRZGhKli4uvX5-1" vertex="1">
           <mxGeometry x="120" y="120" width="70" height="150" as="geometry" />
         </mxCell>
@@ -552,7 +549,7 @@
           <mxGeometry x="120" y="280" width="70" height="229" as="geometry" />
         </mxCell>
         <mxCell id="WgekWlu3WGz3QGBnVp-j-0" value="SQL" style="rounded=1;fillColor=#99004D;strokeColor=#CC0066;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="mmjsGmUXRZGhKli4uvX5-1" vertex="1">
-          <mxGeometry x="40" y="359.5" width="70.11" height="150.5" as="geometry" />
+          <mxGeometry x="40" y="119.5" width="70.11" height="150.5" as="geometry" />
         </mxCell>
         <mxCell id="bGTzdtS-umjceg454gi3-0" value="スクラム&#xa;研修&#xa;受験" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="mmjsGmUXRZGhKli4uvX5-1" vertex="1">
           <mxGeometry x="120" y="520" width="70.11" height="190" as="geometry" />
@@ -565,6 +562,9 @@
         </mxCell>
         <mxCell id="Nb0qo0HQum1Rnz8RFqg1-0" value="Ops&#xa;類似検索&#xa;全文検索&#xa;画面連携" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="mmjsGmUXRZGhKli4uvX5-1">
           <mxGeometry x="200" y="359.5" width="68.89" height="150.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mimmAzuP0v1H7To0PIri-0" value="MTG準備" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="mmjsGmUXRZGhKli4uvX5-1">
+          <mxGeometry x="360" y="120" width="70" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
