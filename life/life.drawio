@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-01T11:16:41.990Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="FLRqeeDaB82dccKKZ-GR" version="24.3.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-05-01T11:17:11.807Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="w1YLFb06TmUGHi5v5oyx" version="24.3.1" type="github" pages="6">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="4088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -501,8 +501,8 @@
         <mxCell id="BgLac-sgipm2_eCyMTth-0" value="crowdworks,coconara,lancers,menta&#xa;そのほか、のいずれかで受注を行う" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
           <mxGeometry x="1200" y="521" width="310.22" height="149" as="geometry" />
         </mxCell>
-        <mxCell id="jem9MDrquva8wTJ9x832-0" value="crowdworksでの&#xa;仕事応募" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
-          <mxGeometry x="1200" y="441" width="150" height="69" as="geometry" />
+        <mxCell id="jem9MDrquva8wTJ9x832-0" value="crowdworksでの&#xa;仕事応募3件" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="1200" y="439.63" width="150" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
