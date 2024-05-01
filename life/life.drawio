@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-01T09:27:43.986Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="lYNy6sI8OijDduA-BzkZ" version="24.3.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-05-01T09:28:04.573Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="oRCqqGp4wfdJG_H_gO24" version="24.3.1" type="github" pages="6">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="4088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -451,7 +451,7 @@
           <mxGeometry x="1879.89" y="679" width="70.11" height="69" as="geometry" />
         </mxCell>
         <mxCell id="CJGJ9xjIOzubEeCd7xv0-5" value="開業届&#xa;調査" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="879.78" y="679" width="309.89" height="69" as="geometry" />
+          <mxGeometry x="879.78" y="679" width="150.22" height="69" as="geometry" />
         </mxCell>
         <mxCell id="CJGJ9xjIOzubEeCd7xv0-6" value="何かしらの受注を得る" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="880.0000000000001" y="441" width="310" height="69" as="geometry" />
