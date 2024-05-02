@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T08:41:50.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="T22_ZDZYYpszkK5TInUD" version="24.3.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-05-02T08:44:16.262Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="TosYJyVa1XSACTVibzYW" version="24.3.1" type="github" pages="6">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1674" dy="4291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -498,17 +498,17 @@
         <mxCell id="uDgXPZ4IRyCEFPW6FUE5-1" value="開業届&#xa;具体的な&#xa;手順調査&#xa;個人申請" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2001.22" y="521" width="70" height="189" as="geometry" />
         </mxCell>
-        <mxCell id="BgLac-sgipm2_eCyMTth-0" value="crowdworks,coconara,lancers,menta&#xa;そのほか、のいずれかで受注を行う" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1200" y="521" width="310.22" height="149" as="geometry" />
-        </mxCell>
         <mxCell id="jem9MDrquva8wTJ9x832-0" value="crowdworksでの&#xa;仕事応募3件" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1200" y="441" width="150" height="69" as="geometry" />
+          <mxGeometry x="2001.22" y="719" width="150" height="69" as="geometry" />
         </mxCell>
         <mxCell id="O2drOm-FjnMiRH6_OKmj-0" value="career millによる&#xa;仕事の受注" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="879.78" y="439.63" width="310" height="151" as="geometry" />
         </mxCell>
         <mxCell id="IjRPSqqAqVnbWI1QZb6b-0" value="開業届&#xa;提出" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1200" y="279.69" width="150" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="2ifa0EmPVzTGZxBye0xH-0" value="Crowd&#xa;works&#xa;Docker&#xa;コーチ" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="1998" y="800" width="70" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
