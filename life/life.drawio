@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T08:40:25.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="-NwGhz1nZBVEdtVsNC5w" version="24.3.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-05-02T08:41:50.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="T22_ZDZYYpszkK5TInUD" version="24.3.1" type="github" pages="6">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1674" dy="4291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -539,7 +539,7 @@
         <mxCell id="mmjsGmUXRZGhKli4uvX5-8" value="月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="mmjsGmUXRZGhKli4uvX5-1" vertex="1">
           <mxGeometry x="19" y="75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mmjsGmUXRZGhKli4uvX5-9" value="&lt;h1&gt;テーマ：準備&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="mmjsGmUXRZGhKli4uvX5-1" vertex="1">
+        <mxCell id="mmjsGmUXRZGhKli4uvX5-9" value="&lt;h1&gt;テーマ：現金化の準備&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="mmjsGmUXRZGhKli4uvX5-1" vertex="1">
           <mxGeometry x="40" y="40" width="480" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mmjsGmUXRZGhKli4uvX5-10" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" parent="mmjsGmUXRZGhKli4uvX5-1" edge="1">
@@ -583,6 +583,9 @@
         </mxCell>
         <mxCell id="pXBvSl6RRGZHbpJViATP-2" value="Django&#xa;OpenAI&#xa;連携" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="mmjsGmUXRZGhKli4uvX5-1">
           <mxGeometry x="281.11" y="200" width="68.89" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pXBvSl6RRGZHbpJViATP-3" value="Crowd&#xa;works&#xa;Docker&#xa;コーチ" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="mmjsGmUXRZGhKli4uvX5-1">
+          <mxGeometry x="280" y="640" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
