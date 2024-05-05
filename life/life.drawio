@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-05T11:24:59.990Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="BbRCcQzUxFtJ0GU7Ip0W" version="24.3.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-05-05T11:25:31.444Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="W-7_YS5LEidMZYxPdAdS" version="24.3.1" type="github" pages="7">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="4122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -410,7 +410,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2024year" id="uiUMKeZ0txUB_UNjZnf_">
-    <mxGraphModel dx="367" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1010" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-0" />
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-1" parent="Bh7SMV7lsvvrdX1vqtc6-0" />
@@ -505,7 +505,7 @@
           <mxGeometry x="879.78" y="439.63" width="310" height="151" as="geometry" />
         </mxCell>
         <mxCell id="IjRPSqqAqVnbWI1QZb6b-0" value="開業届&#xa;提出" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1200" y="279.69" width="150" height="69" as="geometry" />
+          <mxGeometry x="1998" y="1040" width="150" height="69" as="geometry" />
         </mxCell>
         <mxCell id="2ifa0EmPVzTGZxBye0xH-0" value="Crowd&#xa;works&#xa;Docker&#xa;コーチ" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1998" y="800" width="70" height="150" as="geometry" />
