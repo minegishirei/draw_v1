@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-05T11:24:49.221Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2ytc3ExHdLFj9fPzuEUl" version="24.3.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-05-05T11:24:59.990Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="BbRCcQzUxFtJ0GU7Ip0W" version="24.3.1" type="github" pages="7">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="4122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -556,42 +556,6 @@
         </mxCell>
         <mxCell id="Z8sS5krxIo8eQhFAcss6-12" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;やることリスト&lt;/h1&gt;&lt;div&gt;・&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="Z8sS5krxIo8eQhFAcss6-1">
           <mxGeometry x="610" y="40" width="190" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="Z8sS5krxIo8eQhFAcss6-13" value="事務処理" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Z8sS5krxIo8eQhFAcss6-1">
-          <mxGeometry x="120" y="120" width="70" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="Z8sS5krxIo8eQhFAcss6-14" value="Open&#xa;search&#xa;&#xa;api実装" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Z8sS5krxIo8eQhFAcss6-1">
-          <mxGeometry x="120" y="280" width="70" height="229" as="geometry" />
-        </mxCell>
-        <mxCell id="Z8sS5krxIo8eQhFAcss6-15" value="SQL" style="rounded=1;fillColor=#99004D;strokeColor=#CC0066;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Z8sS5krxIo8eQhFAcss6-1">
-          <mxGeometry x="40" y="119.5" width="70.11" height="150.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Z8sS5krxIo8eQhFAcss6-16" value="スクラム&#xa;研修&#xa;受験" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Z8sS5krxIo8eQhFAcss6-1">
-          <mxGeometry x="120" y="520" width="70.11" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="Z8sS5krxIo8eQhFAcss6-17" value="Ops&#xa;類似検索" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Z8sS5krxIo8eQhFAcss6-1">
-          <mxGeometry x="200" y="120" width="68.89" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="Z8sS5krxIo8eQhFAcss6-18" value="React&#xa;OpenAI&#xa;画面作成" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Z8sS5krxIo8eQhFAcss6-1">
-          <mxGeometry x="280" y="120" width="68.89" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Z8sS5krxIo8eQhFAcss6-19" value="Ops&#xa;類似検索&#xa;全文検索&#xa;画面連携" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Z8sS5krxIo8eQhFAcss6-1">
-          <mxGeometry x="200" y="359.5" width="68.89" height="150.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Z8sS5krxIo8eQhFAcss6-20" value="MTG準備" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Z8sS5krxIo8eQhFAcss6-1">
-          <mxGeometry x="280" y="279" width="70" height="151" as="geometry" />
-        </mxCell>
-        <mxCell id="Z8sS5krxIo8eQhFAcss6-21" value="開業届&#xa;具体的な&#xa;手順調査&#xa;個人申請" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Z8sS5krxIo8eQhFAcss6-1">
-          <mxGeometry x="280" y="440" width="70" height="189" as="geometry" />
-        </mxCell>
-        <mxCell id="Z8sS5krxIo8eQhFAcss6-22" value="Django&#xa;OpenAI&#xa;連携" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Z8sS5krxIo8eQhFAcss6-1">
-          <mxGeometry x="281.11" y="200" width="68.89" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Z8sS5krxIo8eQhFAcss6-23" value="Crowd&#xa;works&#xa;Docker&#xa;コーチ" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Z8sS5krxIo8eQhFAcss6-1">
-          <mxGeometry x="280" y="640" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Z8sS5krxIo8eQhFAcss6-24" value="mine&#xa;family&#xa;mtg" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Z8sS5krxIo8eQhFAcss6-1">
-          <mxGeometry x="360" y="120" width="70" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
