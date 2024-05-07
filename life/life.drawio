@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T11:22:23.000Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Tgkm1IvYNjqQe3mOoOy0" version="24.3.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-05-07T11:24:29.651Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="KHuN-T7Clp2sUeapY1BH" version="24.3.1" type="github" pages="7">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="4122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -386,10 +386,13 @@
           <mxGeometry x="10" y="60" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3vcQB0C9pp6So1rZS9XH-7" value="有言実行&#xa;できるといったことは&#xa;大体できてしまう" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="3vcQB0C9pp6So1rZS9XH-1" vertex="1">
-          <mxGeometry x="40" y="120" width="160" height="70" as="geometry" />
+          <mxGeometry x="40" y="300" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3vcQB0C9pp6So1rZS9XH-24" value="デッキの中身&#xa;育てデッキ" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="3vcQB0C9pp6So1rZS9XH-1" vertex="1">
-          <mxGeometry x="40" y="227" width="160" height="70" as="geometry" />
+          <mxGeometry x="190" y="45" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0A6_qlnSRbyEr8-nvlEl-3" value="適応能力" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="3vcQB0C9pp6So1rZS9XH-1">
+          <mxGeometry x="364" y="45" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="igPosv9aw8RWdcacOeQP-1" value="状態：圏論からのスキル化" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="-2450" width="760" height="450" as="geometry" />
