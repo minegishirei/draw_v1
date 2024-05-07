@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T11:38:18.114Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Ro5ZFwyWb3lbgrZrw1Au" version="24.3.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-05-07T11:38:46.394Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="_baYGjcDs8OXTWkf7557" version="24.3.1" type="github" pages="7">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="4122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -416,7 +416,7 @@
           <mxGeometry x="159" y="290" width="71" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mrgv56XyLkmAIUHV8rIz-1" value="Adsense" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="igPosv9aw8RWdcacOeQP-1" vertex="1">
-          <mxGeometry x="240" y="150" width="70" height="70" as="geometry" />
+          <mxGeometry x="400" y="130" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0A6_qlnSRbyEr8-nvlEl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="igPosv9aw8RWdcacOeQP-1" source="O58Z6bpeXVQQ9t5ceDUv-2" target="mdJNGc4BsN1ddH7MZ3hf-1">
           <mxGeometry relative="1" as="geometry">
@@ -443,10 +443,10 @@
           <mxGeometry x="160" y="42" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6SzB1PvdnZIplH8IDjRf-7" value="rakuten&#xa;nisa" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="igPosv9aw8RWdcacOeQP-1" vertex="1">
-          <mxGeometry x="324" y="150" width="70" height="70" as="geometry" />
+          <mxGeometry x="484" y="130" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0A6_qlnSRbyEr8-nvlEl-2" value="github&#xa;workflow" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="igPosv9aw8RWdcacOeQP-1">
-          <mxGeometry x="80" y="150" width="68.89" height="130" as="geometry" />
+          <mxGeometry x="240" y="130" width="68.89" height="130" as="geometry" />
         </mxCell>
         <mxCell id="0A6_qlnSRbyEr8-nvlEl-1" value="Ops&#xa;類似検索" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2001.22" y="198.38" width="68.89" height="151.62" as="geometry" />
