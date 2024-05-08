@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T21:43:24.996Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="GZ79B12hDfJShrZ-_EhV" version="24.3.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-05-08T21:43:36.798Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="TYCp301LbaForbLg743a" version="24.3.1" type="github" pages="7">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="4122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -412,7 +412,7 @@
           <mxGeometry x="160" y="220" width="71" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mrgv56XyLkmAIUHV8rIz-1" value="Adsense" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="igPosv9aw8RWdcacOeQP-1" vertex="1">
-          <mxGeometry x="161" y="130" width="70" height="70" as="geometry" />
+          <mxGeometry x="120" y="130" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6SzB1PvdnZIplH8IDjRf-2" value="ブランド&#xa;お仕事" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="igPosv9aw8RWdcacOeQP-1" vertex="1">
           <mxGeometry x="240" y="130" width="70" height="70" as="geometry" />
@@ -439,7 +439,7 @@
           <mxGeometry x="320" y="220" width="71" height="70" as="geometry" />
         </mxCell>
         <mxCell id="23HnC6ELXMvJBvl6ndmi-1" value="psy" style="rounded=1;fillColor=#9933FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="igPosv9aw8RWdcacOeQP-1" vertex="1">
-          <mxGeometry x="30" y="220" width="71" height="70" as="geometry" />
+          <mxGeometry x="80" y="220" width="71" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0A6_qlnSRbyEr8-nvlEl-1" value="Ops&#xa;類似検索" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2001.22" y="198.38" width="68.89" height="151.62" as="geometry" />
