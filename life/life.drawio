@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T22:19:09.376Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="vvTay64pMDJMVKXpzuAm" version="24.3.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-05-10T09:01:03.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="DaStyejuks4pYw0-g9O3" version="24.3.1" type="github" pages="7">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
-    <mxGraphModel dx="1194" dy="4122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="4325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -557,8 +557,14 @@
         <mxCell id="sy9g1yM_Yq8RHw6R8ZGp-0" value="github workflow&#xa;コミットメッセージ&#xa;twitter 自動更新" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1360" y="359.25" width="150" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="I5ubxtixsAxM_yNUDxKH-0" value="twitter&#xa;api&#xa;自動投稿" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+        <mxCell id="I5ubxtixsAxM_yNUDxKH-0" value="twitter&#xa;api&#xa;自動投稿" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2078" y="760.5" width="70" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4rG8ws6c1SlvqcpLNa1-0" value="adsense&#xa;シンガポール税務状況&#xa;申告" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="1200" y="279" width="150" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4rG8ws6c1SlvqcpLNa1-1" value="blog nize" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="1360" y="279" width="150" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -607,7 +613,7 @@
         <mxCell id="c9he1mSMV7eE_cGQCcRw-0" value="career&#xa;mill&#xa;応募" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Z8sS5krxIo8eQhFAcss6-1" vertex="1">
           <mxGeometry x="120" y="120" width="70" height="189" as="geometry" />
         </mxCell>
-        <mxCell id="XRIFUhCEkweV6agZStBp-0" value="twitter&#xa;api&#xa;自動投稿" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Z8sS5krxIo8eQhFAcss6-1">
+        <mxCell id="XRIFUhCEkweV6agZStBp-0" value="twitter&#xa;api&#xa;自動投稿" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Z8sS5krxIo8eQhFAcss6-1" vertex="1">
           <mxGeometry x="120" y="320" width="70" height="150" as="geometry" />
         </mxCell>
       </root>
