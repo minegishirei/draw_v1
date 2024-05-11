@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-11T12:17:37.861Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="55prdpZkutHnRMLBDt_q" version="24.4.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-05-11T12:17:53.778Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="YEDfYPAdc8u0QPs308c6" version="24.4.0" type="github" pages="7">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="4122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -538,9 +538,6 @@
         </mxCell>
         <mxCell id="jem9MDrquva8wTJ9x832-0" value="crowdworksでの&#xa;仕事応募3件" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2001.22" y="679.5" width="150" height="69" as="geometry" />
-        </mxCell>
-        <mxCell id="O2drOm-FjnMiRH6_OKmj-0" value="career millによる&#xa;仕事の受注" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;arcSize=6;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="879.78" y="439.63" width="310" height="151" as="geometry" />
         </mxCell>
         <mxCell id="IjRPSqqAqVnbWI1QZb6b-0" value="開業届&#xa;提出" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1998" y="920.5" width="150" height="69" as="geometry" />
