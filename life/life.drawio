@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-11T12:14:43.562Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="wOtiuX5ROD1vx6y9Pb3_" version="24.4.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-05-11T12:17:17.365Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="aBZ9Cd2J3k3do-Jh1b9G" version="24.4.0" type="github" pages="7">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="4122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -515,8 +515,8 @@
         <mxCell id="lVmYAGw4MpWY2NuWbSjo-0" value="SQL" style="rounded=1;fillColor=#99004D;strokeColor=#CC0066;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1920.06" y="760" width="70.11" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7MEk6LX-jioqfNSh1Tb8-0" value="career millによる&#xa;複業申請" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1200" y="361" width="150" height="69" as="geometry" />
+        <mxCell id="7MEk6LX-jioqfNSh1Tb8-0" value="career &#xa;millによる&#xa;複業申請" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
+          <mxGeometry x="2081.22" y="439.63" width="68.78" height="69" as="geometry" />
         </mxCell>
         <mxCell id="IWEipg_T6QGvgxRQ6BZF-0" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;Ready&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1200" y="238" width="320" height="41" as="geometry" />
@@ -554,8 +554,8 @@
         <mxCell id="e9A8P2gPNJfUBQx6PJER-0" value="Linux" style="rounded=1;fillColor=#003366;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2081.22" y="200" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="sy9g1yM_Yq8RHw6R8ZGp-0" value="github workflow&#xa;コミットメッセージ&#xa;twitter 自動更新" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="2081.22" y="281" width="150" height="69" as="geometry" />
+        <mxCell id="sy9g1yM_Yq8RHw6R8ZGp-0" value="github &#xa;workflow&#xa;コミット&#xa;メッセージ&#xa;twitter&#xa;自動更新" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
+          <mxGeometry x="2081.22" y="281" width="68.78" height="149" as="geometry" />
         </mxCell>
         <mxCell id="I5ubxtixsAxM_yNUDxKH-0" value="twitter&#xa;api&#xa;自動投稿" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2078" y="760.5" width="70" height="71" as="geometry" />
