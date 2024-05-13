@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T13:19:00.058Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3M8GzFmZZ_4ppNDhi8qp" version="24.4.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-05-13T13:21:55.552Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kCPwXNA61-o6wktqKHBa" version="24.4.0" type="github" pages="7">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1194" dy="4122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -401,31 +401,31 @@
           <mxGeometry x="214" y="300" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="igPosv9aw8RWdcacOeQP-1" value="状態：圏論からのスキル化" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-2640" width="1380" height="640" as="geometry" />
+          <mxGeometry x="40" y="-2730" width="1380" height="730" as="geometry" />
         </mxCell>
         <mxCell id="mrgv56XyLkmAIUHV8rIz-1" value="Adsense" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="igPosv9aw8RWdcacOeQP-1" vertex="1">
-          <mxGeometry x="281" y="30" width="70" height="70" as="geometry" />
+          <mxGeometry x="521" y="30" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6SzB1PvdnZIplH8IDjRf-2" value="ブランド&#xa;お仕事" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="igPosv9aw8RWdcacOeQP-1" vertex="1">
-          <mxGeometry x="130" y="30" width="70" height="70" as="geometry" />
+          <mxGeometry x="360" y="30" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="23HnC6ELXMvJBvl6ndmi-1" value="psy" style="rounded=1;fillColor=#9933FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="igPosv9aw8RWdcacOeQP-1" vertex="1">
-          <mxGeometry x="1000" y="110" width="71.56" height="70" as="geometry" />
+          <mxGeometry x="1000" y="170" width="71.56" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Dfa-E0xlwEBQt9Fx6Zw6-2" value="Tweet" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="igPosv9aw8RWdcacOeQP-1" vertex="1">
-          <mxGeometry x="800" y="110" width="71" height="70" as="geometry" />
+          <mxGeometry x="800" y="170" width="71" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sJaqupTVhL84KE7qlRt1-1" value="Internet" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="igPosv9aw8RWdcacOeQP-1" vertex="1">
-          <mxGeometry x="1005.22" y="510" width="70" height="70" as="geometry" />
+          <mxGeometry x="1005.22" y="570" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sJaqupTVhL84KE7qlRt1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="igPosv9aw8RWdcacOeQP-1" source="sJaqupTVhL84KE7qlRt1-6" target="sJaqupTVhL84KE7qlRt1-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sJaqupTVhL84KE7qlRt1-6" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="igPosv9aw8RWdcacOeQP-1" vertex="1">
-          <mxGeometry x="1171" y="180" width="30" height="60" as="geometry" />
+          <mxGeometry x="1171" y="240" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sJaqupTVhL84KE7qlRt1-9" value="Github Workflow" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="igPosv9aw8RWdcacOeQP-1" vertex="1">
-          <mxGeometry x="921" y="230" width="240" height="240" as="geometry" />
+          <mxGeometry x="921" y="290" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="sJaqupTVhL84KE7qlRt1-26" value="サイトを自動ツイート" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="sJaqupTVhL84KE7qlRt1-9" vertex="1">
           <mxGeometry y="30" width="240" height="30" as="geometry" />
@@ -467,22 +467,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sJaqupTVhL84KE7qlRt1-33" value="Me" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="igPosv9aw8RWdcacOeQP-1" vertex="1">
-          <mxGeometry x="1251" y="275" width="30" height="60" as="geometry" />
+          <mxGeometry x="1251" y="335" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pXqdYK-wdsycdL4smANg-10" value="Tweet" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="igPosv9aw8RWdcacOeQP-1">
-          <mxGeometry x="160" y="110" width="71" height="70" as="geometry" />
+          <mxGeometry x="160" y="170" width="71" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pXqdYK-wdsycdL4smANg-11" value="Internet" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="igPosv9aw8RWdcacOeQP-1">
-          <mxGeometry x="365.22" y="510" width="70" height="70" as="geometry" />
+          <mxGeometry x="365.22" y="570" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pXqdYK-wdsycdL4smANg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="igPosv9aw8RWdcacOeQP-1" source="pXqdYK-wdsycdL4smANg-13" target="pXqdYK-wdsycdL4smANg-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pXqdYK-wdsycdL4smANg-13" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="igPosv9aw8RWdcacOeQP-1">
-          <mxGeometry x="531" y="180" width="30" height="60" as="geometry" />
+          <mxGeometry x="531" y="240" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pXqdYK-wdsycdL4smANg-14" value="Github Workflow" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="igPosv9aw8RWdcacOeQP-1">
-          <mxGeometry x="281" y="230" width="240" height="240" as="geometry" />
+          <mxGeometry x="281" y="290" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="pXqdYK-wdsycdL4smANg-15" value="サイトを自動ツイート" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pXqdYK-wdsycdL4smANg-14">
           <mxGeometry y="30" width="240" height="30" as="geometry" />
@@ -518,10 +518,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pXqdYK-wdsycdL4smANg-28" value="Me" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="igPosv9aw8RWdcacOeQP-1">
-          <mxGeometry x="611" y="275" width="30" height="60" as="geometry" />
+          <mxGeometry x="611" y="335" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wKx60gtkJDJb-Gv8d6iq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="igPosv9aw8RWdcacOeQP-1" source="wKx60gtkJDJb-Gv8d6iq-1" target="6SzB1PvdnZIplH8IDjRf-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wKx60gtkJDJb-Gv8d6iq-1" value="techblog" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="igPosv9aw8RWdcacOeQP-1">
-          <mxGeometry x="360" y="110" width="70" height="70" as="geometry" />
+          <mxGeometry x="360" y="170" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wKx60gtkJDJb-Gv8d6iq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="igPosv9aw8RWdcacOeQP-1" source="wKx60gtkJDJb-Gv8d6iq-1" target="pXqdYK-wdsycdL4smANg-13">
           <mxGeometry relative="1" as="geometry" />
