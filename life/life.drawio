@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T01:28:12.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="NYRxTpaF7TFAinrNwoFf" version="24.4.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-05-14T01:28:31.744Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="inIBPyEmVxSu21DgnZuA" version="24.4.0" type="github" pages="8">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1674" dy="4325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -636,7 +636,7 @@
         <mxCell id="McpSjPLml_QS5teODYgN-0" value="ブログ広告収入&#xa;1700円" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1680" y="840.5" width="310" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="e9A8P2gPNJfUBQx6PJER-0" value="Linux" style="rounded=1;fillColor=#003366;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
+        <mxCell id="e9A8P2gPNJfUBQx6PJER-0" value="Linux&#xa;commands" style="rounded=1;fillColor=#003366;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2081.22" y="200" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sy9g1yM_Yq8RHw6R8ZGp-0" value="github &#xa;workflow&#xa;コミット&#xa;メッセージ&#xa;twitter&#xa;自動更新" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
