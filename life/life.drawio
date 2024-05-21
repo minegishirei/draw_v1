@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T09:03:47.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="B284YpKS7wH5AWhF4iz7" version="24.4.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-05-21T09:04:34.461Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="dwjCz6nxZ5KWabhVoGd_" version="24.4.4" type="github" pages="9">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1674" dy="4325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -645,11 +645,14 @@
         <mxCell id="Q4rG8ws6c1SlvqcpLNa1-0" value="adsense&#xa;シンガポール税務状況&#xa;申告" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1200" y="279" width="150" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="PZPe4HMLJ-Q1mN1r4oiD-0" value="htmx勉強" style="rounded=1;fillColor=#CCE5FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+        <mxCell id="PZPe4HMLJ-Q1mN1r4oiD-0" value="htmx勉強" style="rounded=1;fillColor=#CCE5FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2160" y="200" width="70" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="KA6Usqp6oFnGQaBMjyrR-0" value="エージェント&#xa;経由での&#xa;仕事の応募" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+        <mxCell id="KA6Usqp6oFnGQaBMjyrR-0" value="エージェント&#xa;経由での&#xa;仕事の応募" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2160" y="440.13" width="70" height="149.87" as="geometry" />
+        </mxCell>
+        <mxCell id="b3cb7-IKWhNGYH02ALli-0" value="htmx勉強" style="rounded=1;fillColor=#CCE5FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="2081.22" y="600" width="68.78" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
