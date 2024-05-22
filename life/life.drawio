@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T07:07:06.821Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Ti3Hv9lkyGVgdIA1leao" version="24.4.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-05-22T08:25:46.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="WPaKZ1djFvc5wWmpVlmB" version="24.4.4" type="github" pages="9">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1674" dy="4325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -588,9 +588,6 @@
         <mxCell id="qzdjB-W2LdewoaEbzD0Z-1" value="Architect&#xa;blog&#xa;no leaks" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1920.06" y="679.5" width="70.16" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="FvhjM-UMrIHRwDnvG5Qk-2" value=" AWS&#xa;サービスカタログ&#xa;agile" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="879.78" y="279" width="310.22" height="69" as="geometry" />
-        </mxCell>
         <mxCell id="dix4tFbaiDG4c1JDxWVH-0" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;現金生成プロジェクト&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="880" y="40" width="760" height="40" as="geometry" />
         </mxCell>
@@ -616,7 +613,7 @@
           <mxGeometry x="2001.22" y="198.38" width="68.89" height="151.62" as="geometry" />
         </mxCell>
         <mxCell id="RjkAwbo-k76zZElFyvUJ-0" value="adsense&#xa;開業届&#xa;関連調査" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="880" y="359.25" width="150" height="69" as="geometry" />
+          <mxGeometry x="880" y="279" width="150" height="69" as="geometry" />
         </mxCell>
         <mxCell id="uDgXPZ4IRyCEFPW6FUE5-0" value="開業届&#xa;会社側の&#xa;申請内容&#xa;確認" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2001.22" y="361" width="68.89" height="149" as="geometry" />
