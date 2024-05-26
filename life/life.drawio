@@ -639,16 +639,16 @@
         <mxCell id="Q4rG8ws6c1SlvqcpLNa1-0" value="adsense&#xa;シンガポール税務状況&#xa;申告" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1200" y="279" width="150" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="PZPe4HMLJ-Q1mN1r4oiD-0" value="htmx勉強" style="rounded=1;fillColor=#CCE5FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
+        <mxCell id="PZPe4HMLJ-Q1mN1r4oiD-0" value="htmx勉強" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2160" y="200" width="70" height="230" as="geometry" />
         </mxCell>
         <mxCell id="KA6Usqp6oFnGQaBMjyrR-0" value="エージェント&#xa;経由での&#xa;仕事の応募" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2160" y="600" width="70" height="149.87" as="geometry" />
         </mxCell>
-        <mxCell id="b3cb7-IKWhNGYH02ALli-0" value="htmx勉強" style="rounded=1;fillColor=#CCE5FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
+        <mxCell id="b3cb7-IKWhNGYH02ALli-0" value="htmx勉強" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2082.4399999999996" y="600" width="68.78" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7KKX7esQVvyX1TRgWnlD-0" value="ps1&#xa;整理" style="rounded=1;fillColor=#CCE5FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
+        <mxCell id="7KKX7esQVvyX1TRgWnlD-0" value="ps1&#xa;整理" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2160" y="440" width="70" height="150" as="geometry" />
         </mxCell>
         <mxCell id="3tSdVxGOhxIU4z1z2rU1-1" value="Ops&#xa;ブログ化" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
@@ -701,10 +701,10 @@
         <mxCell id="zb8e3RBAqq4UxbrJUcpe-0" value="shuumatu&#xa;worker&#xa;面接" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="m6ehuwL86jf89FseahlH-1" vertex="1">
           <mxGeometry x="40" y="120" width="68.78" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hslM2C7I0s6rdZ03Guvq-0" value="htmx勉強" style="rounded=1;fillColor=#CCE5FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="m6ehuwL86jf89FseahlH-1" vertex="1">
+        <mxCell id="hslM2C7I0s6rdZ03Guvq-0" value="htmx勉強" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="m6ehuwL86jf89FseahlH-1" vertex="1">
           <mxGeometry x="120" y="120" width="70" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="hslM2C7I0s6rdZ03Guvq-1" value="powershell&#xa;整理" style="rounded=1;fillColor=#CCE5FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="m6ehuwL86jf89FseahlH-1" vertex="1">
+        <mxCell id="hslM2C7I0s6rdZ03Guvq-1" value="powershell&#xa;整理" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="m6ehuwL86jf89FseahlH-1" vertex="1">
           <mxGeometry x="120" y="280" width="70" height="150" as="geometry" />
         </mxCell>
         <mxCell id="hslM2C7I0s6rdZ03Guvq-2" value="履歴書作成" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="m6ehuwL86jf89FseahlH-1" vertex="1">
@@ -713,7 +713,7 @@
         <mxCell id="lcwPXwam1WJqtvP2P3Ql-0" value="履歴書作成" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="m6ehuwL86jf89FseahlH-1" vertex="1">
           <mxGeometry x="200" y="120" width="68.78" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="v5WJdylbsU1KamBXO6z7-0" value="powershell&#xa;整理" style="rounded=1;fillColor=#CCE5FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="m6ehuwL86jf89FseahlH-1" vertex="1">
+        <mxCell id="v5WJdylbsU1KamBXO6z7-0" value="powershell&#xa;整理" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="m6ehuwL86jf89FseahlH-1" vertex="1">
           <mxGeometry x="200" y="200" width="70" height="230" as="geometry" />
         </mxCell>
         <mxCell id="zlrcpxC-2yKsrKCB1fo9-0" value="おやすみ" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="m6ehuwL86jf89FseahlH-1">
@@ -763,7 +763,7 @@
         <mxCell id="AaKzymEYCoxYR7D4HVxv-12" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;やることリスト&lt;/h1&gt;&lt;div&gt;・&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="AaKzymEYCoxYR7D4HVxv-1" vertex="1">
           <mxGeometry x="610" y="40" width="190" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="AaKzymEYCoxYR7D4HVxv-13" value="htmx勉強" style="rounded=1;fillColor=#CCE5FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="AaKzymEYCoxYR7D4HVxv-1" vertex="1">
+        <mxCell id="AaKzymEYCoxYR7D4HVxv-13" value="htmx勉強" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="AaKzymEYCoxYR7D4HVxv-1" vertex="1">
           <mxGeometry x="120" y="120" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Pr8sY9tLyTnN29Nb1z5h-0" value="agent&#xa;経由での&#xa;仕事の応募" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="AaKzymEYCoxYR7D4HVxv-1">
