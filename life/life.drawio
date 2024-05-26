@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T11:28:30.983Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="S6K1qKxqI7vSFf8jvpVk" version="24.4.6" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-05-26T08:45:01.108Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="LHSqvCvvDBHK2DSTimQ2" version="24.4.8" type="github" pages="9">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1674" dy="4325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -536,7 +536,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2024year" id="uiUMKeZ0txUB_UNjZnf_">
-    <mxGraphModel dx="847" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="367" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-0" />
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-1" parent="Bh7SMV7lsvvrdX1vqtc6-0" />
@@ -630,9 +630,6 @@
         <mxCell id="2ifa0EmPVzTGZxBye0xH-0" value="Crowd&#xa;works&#xa;Docker&#xa;コーチ" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1998" y="760.5" width="70" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="McpSjPLml_QS5teODYgN-0" value="ブログ広告収入&#xa;1700円" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1680" y="840.5" width="310" height="69" as="geometry" />
-        </mxCell>
         <mxCell id="e9A8P2gPNJfUBQx6PJER-0" value="Linux&#xa;commands" style="rounded=1;fillColor=#003366;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2081.22" y="200" width="70" height="70" as="geometry" />
         </mxCell>
@@ -653,6 +650,9 @@
         </mxCell>
         <mxCell id="7KKX7esQVvyX1TRgWnlD-0" value="ps1&#xa;整理" style="rounded=1;fillColor=#CCE5FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2160" y="440" width="70" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="3tSdVxGOhxIU4z1z2rU1-1" value="Ops&#xa;ブログ化" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="2160" y="760" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -775,7 +775,14 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="20240505" id="wl6Rtz8FfM4QZqNQqriv" />
+  <diagram name="20240505" id="wl6Rtz8FfM4QZqNQqriv">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram name="20240429" id="W_7P5e1TE54jH6IneF1L">
     <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
