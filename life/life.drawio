@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T00:48:16.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="dwU1_4PbGRkrP4rBXNYd" version="24.4.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-05-28T00:49:24.709Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="b_F17sjoNIfdNfbSgMhu" version="24.4.7" type="github" pages="10">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1674" dy="4325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -697,6 +697,9 @@
         </mxCell>
         <mxCell id="rG76zNIXvMfucgHNmfDA-12" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;やることリスト&lt;/h1&gt;&lt;div&gt;・&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="rG76zNIXvMfucgHNmfDA-1">
           <mxGeometry x="610" y="40" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5GFKsPRuZ-XJwUKOVsN6-0" value="Ops&#xa;異議&#xa;申し立て" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="rG76zNIXvMfucgHNmfDA-1">
+          <mxGeometry x="120" y="120" width="70" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
