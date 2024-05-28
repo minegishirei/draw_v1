@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T00:11:58.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="fMICDCH9cFD-ghbukbd3" version="24.4.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-05-28T00:48:16.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="dwU1_4PbGRkrP4rBXNYd" version="24.4.7" type="github" pages="10">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1674" dy="4325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -698,32 +698,11 @@
         <mxCell id="rG76zNIXvMfucgHNmfDA-12" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;やることリスト&lt;/h1&gt;&lt;div&gt;・&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="rG76zNIXvMfucgHNmfDA-1">
           <mxGeometry x="610" y="40" width="190" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="rG76zNIXvMfucgHNmfDA-13" value="shuumatu&#xa;worker&#xa;面接" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="rG76zNIXvMfucgHNmfDA-1">
-          <mxGeometry x="40" y="120" width="68.78" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="rG76zNIXvMfucgHNmfDA-14" value="htmx勉強" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="rG76zNIXvMfucgHNmfDA-1">
-          <mxGeometry x="120" y="120" width="70" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="rG76zNIXvMfucgHNmfDA-15" value="powershell&#xa;整理" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="rG76zNIXvMfucgHNmfDA-1">
-          <mxGeometry x="120" y="280" width="70" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="rG76zNIXvMfucgHNmfDA-16" value="履歴書作成" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="rG76zNIXvMfucgHNmfDA-1">
-          <mxGeometry x="120" y="440" width="68.78" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="rG76zNIXvMfucgHNmfDA-17" value="履歴書作成" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="rG76zNIXvMfucgHNmfDA-1">
-          <mxGeometry x="200" y="120" width="68.78" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="rG76zNIXvMfucgHNmfDA-18" value="powershell&#xa;整理" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="rG76zNIXvMfucgHNmfDA-1">
-          <mxGeometry x="200" y="200" width="70" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="rG76zNIXvMfucgHNmfDA-19" value="おやすみ" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="rG76zNIXvMfucgHNmfDA-1">
-          <mxGeometry x="280" y="120" width="70" height="200" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="20240520" id="zb_UmA9rZezc76D01gxN">
-    <mxGraphModel dx="1194" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="m6ehuwL86jf89FseahlH-0" />
         <mxCell id="m6ehuwL86jf89FseahlH-1" parent="m6ehuwL86jf89FseahlH-0" />
@@ -781,8 +760,11 @@
         <mxCell id="v5WJdylbsU1KamBXO6z7-0" value="powershell&#xa;整理" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="m6ehuwL86jf89FseahlH-1" vertex="1">
           <mxGeometry x="200" y="200" width="70" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="zlrcpxC-2yKsrKCB1fo9-0" value="おやすみ" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="m6ehuwL86jf89FseahlH-1">
+        <mxCell id="zlrcpxC-2yKsrKCB1fo9-0" value="おやすみ" style="rounded=1;fillColor=#F19C99;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="m6ehuwL86jf89FseahlH-1" vertex="1">
           <mxGeometry x="280" y="120" width="70" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="P2LXM4fNAon1hBJysQac-0" value="Ops&#xa;ブログ化" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="m6ehuwL86jf89FseahlH-1">
+          <mxGeometry x="280" y="360" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
