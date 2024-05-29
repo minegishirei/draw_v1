@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T11:36:40.557Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="dMXP3miwhrA_wYDCKtAR" version="24.4.8" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-05-29T11:37:05.014Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="A5nhEmWrtkRH0wmgKxfY" version="24.4.8" type="github" pages="10">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1674" dy="4325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -546,10 +546,10 @@
         <mxCell id="Ru7E1SiRD02BdjEPUVSw-0" value="5月&lt;div&gt;1270円:500円の利益&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(310記事+&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;90&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1999" y="120" width="331" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ru7E1SiRD02BdjEPUVSw-1" value="6月&lt;div&gt;目標1400円:(355記事)&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
+        <mxCell id="Ru7E1SiRD02BdjEPUVSw-1" value="6月&lt;div&gt;目標1400円:(355記事+45)&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2320" y="120" width="331" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ru7E1SiRD02BdjEPUVSw-2" value="7月&lt;div&gt;目標:1630円(400記事)&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
+        <mxCell id="Ru7E1SiRD02BdjEPUVSw-2" value="7月&lt;div&gt;目標:1630円(400記事+45)&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2640" y="120" width="331" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FjeknVnULqctq_wNdwAw-0" value="Open&#xa;Search" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
