@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T11:47:58.786Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ItZAwqlp444UhM8RqR7s" version="24.4.9" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-05-29T11:48:23.417Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="V_J2B_aRFJsadB2Ev-aA" version="24.4.9" type="github" pages="10">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1674" dy="4325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -772,6 +772,12 @@
         </mxCell>
         <mxCell id="FuzB6WC6P9fntJcACoMR-1" value="応募" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="rG76zNIXvMfucgHNmfDA-1">
           <mxGeometry x="120" y="280" width="68.78" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="W_9o2OQEkNyxs34X1rUH-0" value="htmx勉強" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="rG76zNIXvMfucgHNmfDA-1">
+          <mxGeometry x="120" y="360" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="W_9o2OQEkNyxs34X1rUH-2" value="Django" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="rG76zNIXvMfucgHNmfDA-1">
+          <mxGeometry x="200" y="360" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
