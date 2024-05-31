@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T01:03:02.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ILL2ZVPqCZrsuOZZj4vr" version="24.4.10" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-05-31T01:23:43.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="6taaiFDTBlhFyRqkdeXy" version="24.4.10" type="github" pages="10">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1674" dy="4325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -734,6 +734,9 @@
         </mxCell>
         <mxCell id="R8tUJaJFocIrCn0yIEDM-1" value="システムコールをマスターする" style="rounded=1;fillColor=#003366;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
           <mxGeometry x="880" y="839.25" width="230" height="71.25" as="geometry" />
+        </mxCell>
+        <mxCell id="R8tUJaJFocIrCn0yIEDM-2" value="ITプロパートナー&#xa;面談" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="1040" y="280" width="150" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
