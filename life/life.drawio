@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T12:18:39.432Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="IUBcq5rdi9gWEcRSs3vD" version="24.4.13" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-06-04T12:19:23.772Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ygHTmuLcoAIAg4bxKOuO" version="24.4.13" type="github" pages="11">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1674" dy="4325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -785,7 +785,7 @@
             <mxPoint x="600" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="meBE3Dsflqo-zL5UMOUz-11" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;今週の振り返り&lt;/h1&gt;&lt;div&gt;Linuxコマンドの網羅を試みる中、「エンジニア個人の持つ知識の量」＝「フィジカル」であると感じるようになった。&lt;/div&gt;&lt;div&gt;&lt;b&gt;今後持っている知識の量を莫大に増やすことで「フィジカルでごり押しする戦法」&lt;/b&gt;も使えるようになると思う。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;今後優先的に学ぶべきは&lt;/div&gt;&lt;div&gt;・Terraformの知識（上司からの命令で優位に立っている人間をフィジカルですりつぶせる）&lt;br&gt;&lt;/div&gt;&lt;div&gt;・ネットワークの知識（エラーが頻繁に出るため）&lt;/div&gt;&lt;div&gt;・Linuxコマンドの知識（低レイヤーの基本で、単体よりも知識の広がりを）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ブログの稼ぎも月600は余裕で越えているため、代替800円は稼げている。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="meBE3Dsflqo-zL5UMOUz-1" vertex="1">
+        <mxCell id="meBE3Dsflqo-zL5UMOUz-11" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;今週の振り返り&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="meBE3Dsflqo-zL5UMOUz-1" vertex="1">
           <mxGeometry x="610" y="40" width="190" height="560" as="geometry" />
         </mxCell>
         <mxCell id="meBE3Dsflqo-zL5UMOUz-14" value="Flexy&#xa;インタビュ&#xa;17:00" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="meBE3Dsflqo-zL5UMOUz-1" vertex="1">
@@ -794,10 +794,10 @@
         <mxCell id="p_5bVhlFqICY9NFm3MgM-0" value="rds&#xa;研究" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="meBE3Dsflqo-zL5UMOUz-1" vertex="1">
           <mxGeometry x="40" y="120" width="70" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="dWzc6kY8mMdMKzsdP2bF-0" value="副業&#xa;応募" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="meBE3Dsflqo-zL5UMOUz-1">
+        <mxCell id="dWzc6kY8mMdMKzsdP2bF-0" value="副業&#xa;応募" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="meBE3Dsflqo-zL5UMOUz-1" vertex="1">
           <mxGeometry x="120" y="120" width="70" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="dWzc6kY8mMdMKzsdP2bF-1" value="副業&#xa;応募" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="meBE3Dsflqo-zL5UMOUz-1">
+        <mxCell id="dWzc6kY8mMdMKzsdP2bF-1" value="副業&#xa;応募" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="meBE3Dsflqo-zL5UMOUz-1" vertex="1">
           <mxGeometry x="120" y="201" width="70" height="71" as="geometry" />
         </mxCell>
       </root>
