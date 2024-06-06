@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T12:08:31.189Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="BSGSOEd_ioKGItYrEFuW" version="24.4.13" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-06-06T12:10:48.659Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="R-jgw5CxTCVkdLV2iebC" version="24.4.14" type="github" pages="11">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1674" dy="4325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -788,8 +788,8 @@
         <mxCell id="meBE3Dsflqo-zL5UMOUz-11" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;今週の振り返り&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="meBE3Dsflqo-zL5UMOUz-1" vertex="1">
           <mxGeometry x="610" y="40" width="190" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="meBE3Dsflqo-zL5UMOUz-14" value="Flexy&#xa;インタビュ&#xa;17:00" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="meBE3Dsflqo-zL5UMOUz-1" vertex="1">
-          <mxGeometry x="280" y="120" width="68.78" height="70" as="geometry" />
+        <mxCell id="meBE3Dsflqo-zL5UMOUz-14" value="Flexy&#xa;インタビュ&#xa;17:00&#xa;&#xa;めちゃ&#xa;めちゃ&#xa;有意義" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="meBE3Dsflqo-zL5UMOUz-1" vertex="1">
+          <mxGeometry x="280" y="120" width="68.78" height="150" as="geometry" />
         </mxCell>
         <mxCell id="p_5bVhlFqICY9NFm3MgM-0" value="rds&#xa;研究" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="meBE3Dsflqo-zL5UMOUz-1" vertex="1">
           <mxGeometry x="40" y="120" width="70" height="150" as="geometry" />
@@ -806,7 +806,7 @@
         <mxCell id="_uZ-mnHBXoozFfg38Yqj-0" value="Linux&#xa;commands" style="rounded=1;fillColor=#003366;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="meBE3Dsflqo-zL5UMOUz-1" vertex="1">
           <mxGeometry x="120" y="360" width="70" height="71.25" as="geometry" />
         </mxCell>
-        <mxCell id="22uz1Ck3TzCtr9_-WLh1-0" value="Terraform&#xa;install" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="meBE3Dsflqo-zL5UMOUz-1">
+        <mxCell id="22uz1Ck3TzCtr9_-WLh1-0" value="Terraform&#xa;install" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="meBE3Dsflqo-zL5UMOUz-1" vertex="1">
           <mxGeometry x="200" y="121" width="71.22" height="69" as="geometry" />
         </mxCell>
       </root>
