@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T01:30:21.949Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="GBIa8Ezo5WpaZlESag1q" version="24.4.15" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-06-11T11:44:59.961Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="XFNlk_NY5Qm_fY8h07CI" version="24.5.2" type="github" pages="11">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1674" dy="4325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -739,13 +739,16 @@
           <mxGeometry x="1040" y="280" width="150" height="69" as="geometry" />
         </mxCell>
         <mxCell id="Wcgys1yiG3Tgd5nDHHkd-0" value="Terraform" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="1360" y="278" width="150" height="70" as="geometry" />
+          <mxGeometry x="2320" y="362" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="puhZukPkQBPwcBEEzLGa-0" value="開業届&#xa;会社側の&#xa;申請&#xa;完了" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2241.11" y="599.25" width="68.89" height="149" as="geometry" />
         </mxCell>
         <mxCell id="81a9tqTZ4Sl8yr0M491i-0" value="副業&#xa;応募" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2320" y="281" width="70" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="5pIAOK8ICATInqJaHDMN-0" value="indeed&#xa;atcros&#xa;書類選考&#xa;通過" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="2400" y="198.38" width="70" height="151.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
