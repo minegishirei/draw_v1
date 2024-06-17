@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-14T22:05:29.537Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="5yIBo_Maoj0wh53G9AfD" version="24.5.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-06-17T00:48:15.860Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="zRN6fm7kG9Y3F8LbtxWl" version="24.5.4" type="github" pages="13">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1493" dy="4275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -702,8 +702,76 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="20240620" id="R72tHW4ZHb-gov4QYw-a">
-    <mxGraphModel dx="1194" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="20240617" id="_YqeHzfHczxq2HflVeQP">
+    <mxGraphModel dx="1301" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="GUEGgpxKi4FOipZk6vhW-0" />
+        <mxCell id="GUEGgpxKi4FOipZk6vhW-1" parent="GUEGgpxKi4FOipZk6vhW-0" />
+        <mxCell id="GUEGgpxKi4FOipZk6vhW-2" value="火" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="GUEGgpxKi4FOipZk6vhW-1">
+          <mxGeometry x="99" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GUEGgpxKi4FOipZk6vhW-3" value="水" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="GUEGgpxKi4FOipZk6vhW-1">
+          <mxGeometry x="179" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GUEGgpxKi4FOipZk6vhW-4" value="木" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="GUEGgpxKi4FOipZk6vhW-1">
+          <mxGeometry x="259" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GUEGgpxKi4FOipZk6vhW-5" value="金" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="GUEGgpxKi4FOipZk6vhW-1">
+          <mxGeometry x="339" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GUEGgpxKi4FOipZk6vhW-6" value="土" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="GUEGgpxKi4FOipZk6vhW-1">
+          <mxGeometry x="419" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GUEGgpxKi4FOipZk6vhW-7" value="日" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="GUEGgpxKi4FOipZk6vhW-1">
+          <mxGeometry x="499" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GUEGgpxKi4FOipZk6vhW-8" value="月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="GUEGgpxKi4FOipZk6vhW-1">
+          <mxGeometry x="19" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GUEGgpxKi4FOipZk6vhW-9" value="&lt;h1&gt;テーマ：仕事の応募&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="GUEGgpxKi4FOipZk6vhW-1">
+          <mxGeometry x="40" y="40" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GUEGgpxKi4FOipZk6vhW-10" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" edge="1" parent="GUEGgpxKi4FOipZk6vhW-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="41" y="110" as="sourcePoint" />
+            <mxPoint x="600" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUEGgpxKi4FOipZk6vhW-11" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;今週の振り返り&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="GUEGgpxKi4FOipZk6vhW-1">
+          <mxGeometry x="610" y="40" width="190" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="GUEGgpxKi4FOipZk6vhW-12" value="書類選考&#xa;通過" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="GUEGgpxKi4FOipZk6vhW-1">
+          <mxGeometry x="200" y="280" width="68.78" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="GUEGgpxKi4FOipZk6vhW-13" value="Terraform&#xa;install" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="GUEGgpxKi4FOipZk6vhW-1">
+          <mxGeometry x="40" y="120" width="71.22" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="GUEGgpxKi4FOipZk6vhW-14" value="Terraform&#xa;install" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="GUEGgpxKi4FOipZk6vhW-1">
+          <mxGeometry x="40" y="201" width="71.22" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="GUEGgpxKi4FOipZk6vhW-15" value="Terraform&#xa;install" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="GUEGgpxKi4FOipZk6vhW-1">
+          <mxGeometry x="120" y="120" width="71.22" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="GUEGgpxKi4FOipZk6vhW-16" value="Terraform&#xa;install" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="GUEGgpxKi4FOipZk6vhW-1">
+          <mxGeometry x="200" y="120" width="71.22" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="GUEGgpxKi4FOipZk6vhW-17" value="Django" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="GUEGgpxKi4FOipZk6vhW-1">
+          <mxGeometry x="120" y="280" width="70" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="GUEGgpxKi4FOipZk6vhW-18" value="Django" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="GUEGgpxKi4FOipZk6vhW-1">
+          <mxGeometry x="201.22" y="560" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GUEGgpxKi4FOipZk6vhW-19" value="Django" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="GUEGgpxKi4FOipZk6vhW-1">
+          <mxGeometry x="41.22" y="280" width="70" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="GUEGgpxKi4FOipZk6vhW-20" value="Terraform&#xa;install" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="GUEGgpxKi4FOipZk6vhW-1">
+          <mxGeometry x="280" y="120" width="71.22" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="20240610" id="R72tHW4ZHb-gov4QYw-a">
+    <mxGraphModel dx="1301" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="shw_PaBk4C9pwKjskR2B-0" />
         <mxCell id="shw_PaBk4C9pwKjskR2B-1" parent="shw_PaBk4C9pwKjskR2B-0" />
@@ -764,7 +832,7 @@
         <mxCell id="vbBX_ghjEpi-H5XFkfkc-2" value="Django" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="shw_PaBk4C9pwKjskR2B-1" vertex="1">
           <mxGeometry x="41.22" y="280" width="70" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="xs3Wxt0aslH1-4I2_JA3-0" value="Terraform&#xa;install" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="shw_PaBk4C9pwKjskR2B-1">
+        <mxCell id="xs3Wxt0aslH1-4I2_JA3-0" value="Terraform&#xa;install" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="shw_PaBk4C9pwKjskR2B-1" vertex="1">
           <mxGeometry x="280" y="120" width="71.22" height="150" as="geometry" />
         </mxCell>
       </root>
