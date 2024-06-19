@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T08:14:34.632Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="7BnKiZjsiz3vJ4tYuYrW" version="24.5.4" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2024-06-19T08:15:03.178Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="fQdhJv_cqXIlwu87RcLy" version="24.5.4" type="github" pages="13">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1493" dy="4275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -746,11 +746,14 @@
         <mxCell id="GUEGgpxKi4FOipZk6vhW-12" value="書類選考&#xa;通過" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="GUEGgpxKi4FOipZk6vhW-1" vertex="1">
           <mxGeometry x="40" y="120" width="68.78" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="GUEGgpxKi4FOipZk6vhW-16" value="Terraform&#xa;install" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="GUEGgpxKi4FOipZk6vhW-1" vertex="1">
-          <mxGeometry x="200" y="120" width="71.22" height="150" as="geometry" />
+        <mxCell id="GUEGgpxKi4FOipZk6vhW-16" value="EC2を&#xa;Terraform&#xa;で建ててみる" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="GUEGgpxKi4FOipZk6vhW-1" vertex="1">
+          <mxGeometry x="120" y="120" width="71.22" height="150" as="geometry" />
         </mxCell>
         <mxCell id="GUEGgpxKi4FOipZk6vhW-20" value="Terraform&#xa;install" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="GUEGgpxKi4FOipZk6vhW-1" vertex="1">
           <mxGeometry x="280" y="120" width="71.22" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpPy1GH1DxGsVf8GGF0-0" value="面談実施" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="GUEGgpxKi4FOipZk6vhW-1">
+          <mxGeometry x="40" y="280" width="68.78" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
