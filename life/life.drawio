@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T09:03:13.717Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1kICnOF6aj5Oy6tHLvBB" version="24.5.5" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2024-06-22T02:50:24.728Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tMc3RXenqd-vrjbSdAht" version="24.5.5" type="github" pages="13">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1493" dy="4275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -706,7 +706,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20240617" id="_YqeHzfHczxq2HflVeQP">
-    <mxGraphModel dx="1541" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="GUEGgpxKi4FOipZk6vhW-0" />
         <mxCell id="GUEGgpxKi4FOipZk6vhW-1" parent="GUEGgpxKi4FOipZk6vhW-0" />
@@ -754,6 +754,9 @@
         </mxCell>
         <mxCell id="zJpPy1GH1DxGsVf8GGF0-0" value="面談実施" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="GUEGgpxKi4FOipZk6vhW-1" vertex="1">
           <mxGeometry x="40" y="280" width="68.78" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="uNx32S1LS5WVYy8qFyN7-0" value="コード&#xa;試験&#xa;&#xa;3問&#xa;2時間制限&#xa;1時間正解" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="GUEGgpxKi4FOipZk6vhW-1">
+          <mxGeometry x="440" y="120" width="68.78" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
