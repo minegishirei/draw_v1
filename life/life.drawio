@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T11:13:12.567Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="xP80LE81hGmqx0ouLIbf" version="24.6.2" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2024-06-24T11:57:45.853Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="rDjCcEMDhlKbkvA5NhMh" version="24.6.2" type="github" pages="14">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1493" dy="4275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -476,7 +476,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2024year" id="uiUMKeZ0txUB_UNjZnf_">
-    <mxGraphModel dx="765" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="430" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-0" />
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-1" parent="Bh7SMV7lsvvrdX1vqtc6-0" />
@@ -749,8 +749,11 @@
         <mxCell id="puucK8A4rUilPA4kx6EM-11" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;今週の振り返り&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="puucK8A4rUilPA4kx6EM-1" vertex="1">
           <mxGeometry x="610" y="40" width="190" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="wmmNcVElsvrR_aWrHBbl-0" value="Adsense&#xa;報酬&#xa;受け取り" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="puucK8A4rUilPA4kx6EM-1">
+        <mxCell id="wmmNcVElsvrR_aWrHBbl-0" value="内定" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="puucK8A4rUilPA4kx6EM-1">
           <mxGeometry x="40" y="120" width="68.78" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="u35efiSoBpnp9Gyj1fmC-0" value="VPCとは&#xa;&#xa;protected&#xa;private&#xa;public&#xa;の違いとは" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="puucK8A4rUilPA4kx6EM-1">
+          <mxGeometry x="120" y="120" width="71.22" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
