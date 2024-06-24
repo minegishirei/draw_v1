@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T12:01:52.958Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Jm_Fs1hr5nwrnTCtfRoS" version="24.6.2" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2024-06-24T12:02:33.004Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="HXKfSO0gkOdFYGd7f-iV" version="24.6.2" type="github" pages="14">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1493" dy="4275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -710,6 +710,9 @@
         </mxCell>
         <mxCell id="IVonYh8H95s-F6pR-PON-0" value="VPCとは&#xa;&#xa;protected&#xa;private&#xa;public&#xa;の違いとは&#xa;&#xa;それの&#xa;実装方法" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
           <mxGeometry x="1360" y="279.5" width="71.22" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="HEtNAx8yDRKmErYH0Z5b-0" value="見積もりの&#xa;やり方" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="1440" y="280" width="71.22" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
