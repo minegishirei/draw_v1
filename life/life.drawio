@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T00:56:43.019Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="cFWNeWXbrs1vq9jdlyGV" version="24.6.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2024-06-24T01:02:32.704Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="YAOl9IdHMhFzZs-ZomCr" version="24.6.1" type="github" pages="14">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1493" dy="4275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -746,26 +746,8 @@
             <mxPoint x="600" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="puucK8A4rUilPA4kx6EM-11" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;今週の振り返り&lt;/h1&gt;&lt;div&gt;エンジニアとして最強になった&lt;/div&gt;&lt;div&gt;今できないこともGithub Actionsを使えば1週間でマスターする。&lt;/div&gt;&lt;div&gt;会社でのアピールは失敗したかもしれないが、副業を見つけて経験値を分散させることで対策可能。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;というか開発チームの上層部で対立が起きている可能性がある。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;あとの課題は、副業を見つけて経験値の底上げ。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;以下の考え方にシフトチェンジ&lt;/div&gt;&lt;div&gt;&lt;b&gt;上手く行ったこと。&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;初手から成功したことから&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;努力を始めよう&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;マーケティングの戦略と同じ。&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;「絶対に一回目で成功させる！」&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;が大事&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;じゃあ具体的に何やるか?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="puucK8A4rUilPA4kx6EM-1">
+        <mxCell id="puucK8A4rUilPA4kx6EM-11" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;今週の振り返り&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="puucK8A4rUilPA4kx6EM-1">
           <mxGeometry x="610" y="40" width="190" height="560" as="geometry" />
-        </mxCell>
-        <mxCell id="puucK8A4rUilPA4kx6EM-12" value="書類選考&#xa;通過" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="puucK8A4rUilPA4kx6EM-1">
-          <mxGeometry x="40" y="120" width="68.78" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="puucK8A4rUilPA4kx6EM-13" value="EC2を&#xa;Terraform&#xa;で建ててみる" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="puucK8A4rUilPA4kx6EM-1">
-          <mxGeometry x="120" y="120" width="71.22" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="puucK8A4rUilPA4kx6EM-14" value="Terraform&#xa;install" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="puucK8A4rUilPA4kx6EM-1">
-          <mxGeometry x="280" y="120" width="71.22" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="puucK8A4rUilPA4kx6EM-15" value="面談実施" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="puucK8A4rUilPA4kx6EM-1">
-          <mxGeometry x="40" y="280" width="68.78" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="puucK8A4rUilPA4kx6EM-16" value="コード&#xa;試験&#xa;&#xa;3問&#xa;2時間制限&#xa;1時間正解" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="puucK8A4rUilPA4kx6EM-1">
-          <mxGeometry x="360" y="120" width="68.78" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="puucK8A4rUilPA4kx6EM-17" value="Terraform&#xa;&#xa;EC2&#xa;user_data&#xa;&#xa;ssh設定" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="puucK8A4rUilPA4kx6EM-1">
-          <mxGeometry x="360" y="280" width="71.22" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
