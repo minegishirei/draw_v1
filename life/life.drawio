@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T00:53:55.660Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="PDX6lMZF8o3bkqB9pyKt" version="24.6.3" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2024-07-04T00:56:04.097Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2dEcI2-1jZfWGBHNm7MP" version="24.6.3" type="github" pages="14">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1327" dy="4189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -474,9 +474,6 @@
         </mxCell>
         <mxCell id="JHlf3TxTEQhZrFdNS1kI-1" value="状態：圏論からのスキル化" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="-3480" width="1380" height="730" as="geometry" />
-        </mxCell>
-        <mxCell id="JHlf3TxTEQhZrFdNS1kI-2" value="Adsense" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="JHlf3TxTEQhZrFdNS1kI-1">
-          <mxGeometry x="521" y="30" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JHlf3TxTEQhZrFdNS1kI-3" value="ブランド&#xa;お仕事" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="JHlf3TxTEQhZrFdNS1kI-1">
           <mxGeometry x="120" y="40" width="70" height="70" as="geometry" />
