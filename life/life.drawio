@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T00:58:54.467Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="iijyAT7wqm80oY__2ZBC" version="24.6.3" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2024-07-04T00:59:16.215Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="lpVnwGyB-L2pFcsZnoc8" version="24.6.3" type="github" pages="14">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1327" dy="4189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -490,7 +490,7 @@
         <mxCell id="JHlf3TxTEQhZrFdNS1kI-4" value="Haskell" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="JHlf3TxTEQhZrFdNS1kI-25">
           <mxGeometry x="99" y="40" width="71" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7HkvuhLWkOqbQwCYd5de-2" value="Django" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="JHlf3TxTEQhZrFdNS1kI-25">
+        <mxCell id="7HkvuhLWkOqbQwCYd5de-2" value="Python" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="JHlf3TxTEQhZrFdNS1kI-25">
           <mxGeometry x="99" y="120" width="71" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7HkvuhLWkOqbQwCYd5de-3" value="Docker" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="JHlf3TxTEQhZrFdNS1kI-25">
@@ -498,6 +498,9 @@
         </mxCell>
         <mxCell id="gy_MRG555wwDk64535U_-1" value="Arch" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="JHlf3TxTEQhZrFdNS1kI-25">
           <mxGeometry x="100" y="200" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8p56535Rd03QEzrIcmqj-5" value="Django" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="JHlf3TxTEQhZrFdNS1kI-25">
+          <mxGeometry x="179" y="40" width="71" height="70" as="geometry" />
         </mxCell>
         <mxCell id="T0hhv4CYac_xe9Lu0SNb-1" value="残課題" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="JHlf3TxTEQhZrFdNS1kI-1">
           <mxGeometry x="560" y="320" width="480" height="360" as="geometry" />
