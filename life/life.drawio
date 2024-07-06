@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-06T09:59:59.428Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="24.6.4" etag="7YhmLVt2tUdRdLMldMgR" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2024-07-06T10:00:26.964Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="24.6.4" etag="rxI1i9R_LVRucCr00vHN" type="github" pages="15">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arch">
     <mxGraphModel dx="1257" dy="5322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -455,7 +455,7 @@
           <mxGeometry x="40" y="-3870" width="1380" height="1120" as="geometry" />
         </mxCell>
         <mxCell id="T0hhv4CYac_xe9Lu0SNb-1" value="残課題" style="swimlane;whiteSpace=wrap;html=1;" parent="JHlf3TxTEQhZrFdNS1kI-1" vertex="1">
-          <mxGeometry x="229" y="230" width="270" height="360" as="geometry" />
+          <mxGeometry x="720" y="700" width="270" height="360" as="geometry" />
         </mxCell>
         <mxCell id="T0hhv4CYac_xe9Lu0SNb-5" value="security" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="T0hhv4CYac_xe9Lu0SNb-1" vertex="1">
           <mxGeometry x="14" y="40" width="70" height="310" as="geometry" />
@@ -467,7 +467,7 @@
           <mxGeometry x="180" y="40" width="70.11" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wUl-jKKBIIJhtIVpl3m--18" value="今できること" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="JHlf3TxTEQhZrFdNS1kI-1">
-          <mxGeometry x="551" y="90" width="650" height="580" as="geometry" />
+          <mxGeometry x="10" y="40" width="650" height="580" as="geometry" />
         </mxCell>
         <mxCell id="3vcQB0C9pp6So1rZS9XH-7" value="有言実行&#xa;できるといったことは&#xa;大体できてしまう" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="wUl-jKKBIIJhtIVpl3m--18" vertex="1">
           <mxGeometry x="419" y="40" width="160" height="70" as="geometry" />
@@ -508,8 +508,8 @@
         <mxCell id="8p56535Rd03QEzrIcmqj-5" value="Django" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="JHlf3TxTEQhZrFdNS1kI-25" vertex="1">
           <mxGeometry x="100" y="200" width="71" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="3vcQB0C9pp6So1rZS9XH-1" value="状態：圏論からのスキル化" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="-4610" width="540" height="530" as="geometry" />
+        <mxCell id="3vcQB0C9pp6So1rZS9XH-1" value="状態：圏論からのスキル化" style="swimlane;whiteSpace=wrap;html=1;" parent="JHlf3TxTEQhZrFdNS1kI-1" vertex="1">
+          <mxGeometry x="690" y="40" width="540" height="580" as="geometry" />
         </mxCell>
         <mxCell id="wUl-jKKBIIJhtIVpl3m--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3vcQB0C9pp6So1rZS9XH-1" source="3vcQB0C9pp6So1rZS9XH-24" target="wUl-jKKBIIJhtIVpl3m--15">
           <mxGeometry relative="1" as="geometry" />
