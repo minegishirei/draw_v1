@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-06T10:13:57.636Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="24.6.4" etag="mJ8zeK-DU67__pIIbT24" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2024-07-06T10:14:03.617Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="24.6.4" etag="4h1EV088pm1ZGC1J0q47" type="github" pages="15">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arch">
     <mxGraphModel dx="1257" dy="5322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -518,7 +518,7 @@
           <mxGeometry x="100" y="200" width="71" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wUl-jKKBIIJhtIVpl3m--20" value="リソース&#xa;確保" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="wUl-jKKBIIJhtIVpl3m--18">
-          <mxGeometry x="75" y="80" width="70" height="70" as="geometry" />
+          <mxGeometry x="75" y="60" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3vcQB0C9pp6So1rZS9XH-1" value="状態：圏論からのスキル化" style="swimlane;whiteSpace=wrap;html=1;" parent="JHlf3TxTEQhZrFdNS1kI-1" vertex="1">
           <mxGeometry x="690" y="40" width="540" height="580" as="geometry" />
