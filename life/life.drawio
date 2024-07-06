@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-06T08:17:49.591Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="6Eed2IeRJsZXUu4BmweV" version="24.6.4" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2024-07-06T08:18:24.030Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Y8AA8Vg9xx8FafQ2ywRm" version="24.6.4" type="github" pages="15">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1327" dy="4189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -927,7 +927,7 @@
         <mxCell id="cW7Sk3L7eB5WAPOLx6Wx-0" value="Terraform&#xa;&#xa;EC2&#xa;user_data&#xa;&#xa;ssh設定" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="GUEGgpxKi4FOipZk6vhW-1" vertex="1">
           <mxGeometry x="360" y="280" width="71.22" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="JaoqHJHNAn_lgQLHbcFk-0" value="Adsense&#xa;報酬&#xa;受け取り" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="GUEGgpxKi4FOipZk6vhW-1">
+        <mxCell id="JaoqHJHNAn_lgQLHbcFk-0" value="Adsense&#xa;報酬&#xa;受け取り" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="GUEGgpxKi4FOipZk6vhW-1" vertex="1">
           <mxGeometry x="520" y="120" width="68.78" height="310" as="geometry" />
         </mxCell>
       </root>
