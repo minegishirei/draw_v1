@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-06T07:53:14.500Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="P9Zr2TZCeNkl2hyhXGDG" version="24.6.4" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2024-07-06T07:55:47.515Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="w0tk7GVhf0D_exCsdqMo" version="24.6.4" type="github" pages="15">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1327" dy="4189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -809,17 +809,8 @@
         <mxCell id="XLljby66l8256dPo0O80-11" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;今週の振り返り&lt;/h1&gt;&lt;div&gt;ネットワークについて理解度が高くなった。VPCは基礎の応用だが、それがわかった今AWSで怖いものはない。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;フロントエンド、バックエンドもぼちぼち。Docker初めAWSのインフラ周りもまぁよし。&lt;/div&gt;&lt;div&gt;残りの課題はセキュリティとDBかな。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="XLljby66l8256dPo0O80-1" vertex="1">
           <mxGeometry x="610" y="40" width="190" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="XLljby66l8256dPo0O80-12" value="内定" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="XLljby66l8256dPo0O80-1" vertex="1">
-          <mxGeometry x="40" y="120" width="68.78" height="310" as="geometry" />
-        </mxCell>
-        <mxCell id="XLljby66l8256dPo0O80-13" value="VPCとは&#xa;&#xa;サブネット&#xa;protected&#xa;private&#xa;public&#xa;の違いとは&#xa;&#xa;ルート&#xa;テーブル&#xa;&#xa;IGW&#xa;&#xa;それの&#xa;実装方法" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="XLljby66l8256dPo0O80-1" vertex="1">
-          <mxGeometry x="120" y="120" width="71.22" height="310" as="geometry" />
-        </mxCell>
-        <mxCell id="XLljby66l8256dPo0O80-14" value="Network&#xa;ACL&#xa;&#xa;設定方法" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="XLljby66l8256dPo0O80-1" vertex="1">
-          <mxGeometry x="200" y="120" width="71.22" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="XLljby66l8256dPo0O80-15" value="上長説得&#xa;&#xa;どう考えても&#xa;納得&#xa;できない" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="XLljby66l8256dPo0O80-1" vertex="1">
-          <mxGeometry x="200" y="280" width="70.11" height="150" as="geometry" />
+        <mxCell id="XLljby66l8256dPo0O80-13" value="VPC" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;arcSize=6;" parent="XLljby66l8256dPo0O80-1" vertex="1">
+          <mxGeometry x="40" y="120" width="160" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
