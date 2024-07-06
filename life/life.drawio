@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-06T10:34:39.969Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="24.6.4" etag="iuG5d9jZonlWNfg7GuTs" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2024-07-06T10:34:56.786Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="24.6.4" etag="dbOd3HAZO7U8k6cL_Yh2" type="github" pages="15">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arch">
     <mxGraphModel dx="1493" dy="5444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -567,6 +567,9 @@
         </mxCell>
         <mxCell id="wUl-jKKBIIJhtIVpl3m--41" value="いかつい絵面のドラゴンが&#xa;大量に出てくる" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="3vcQB0C9pp6So1rZS9XH-1">
           <mxGeometry x="10" y="610" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wUl-jKKBIIJhtIVpl3m--42" value="閣ループ" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="3vcQB0C9pp6So1rZS9XH-1">
+          <mxGeometry x="180" y="690" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wUl-jKKBIIJhtIVpl3m--25" value="なんとかできそうなこと" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="JHlf3TxTEQhZrFdNS1kI-1">
           <mxGeometry x="20" y="840" width="540" height="560" as="geometry" />
