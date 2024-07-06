@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-06T07:55:47.515Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="w0tk7GVhf0D_exCsdqMo" version="24.6.4" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2024-07-06T07:56:27.755Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="i5cw5TiVeQgaf_D4Ty_-" version="24.6.4" type="github" pages="15">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1327" dy="4189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -811,6 +811,12 @@
         </mxCell>
         <mxCell id="XLljby66l8256dPo0O80-13" value="VPC" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;arcSize=6;" parent="XLljby66l8256dPo0O80-1" vertex="1">
           <mxGeometry x="40" y="120" width="160" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="J5MvHFCLXeq0VnrO5zSq-0" value="Terraform" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="XLljby66l8256dPo0O80-1">
+          <mxGeometry x="360" y="120" width="71.22" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="J5MvHFCLXeq0VnrO5zSq-1" value="Terraform" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="XLljby66l8256dPo0O80-1">
+          <mxGeometry x="280" y="120" width="71.22" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
