@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-06T11:27:16.251Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="24.6.4" etag="l9XKKKsjhhHuuWiF6GwP" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2024-07-06T11:28:05.501Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="24.6.4" etag="2E8SLpeUoIMuL_Xw1-TF" type="github" pages="15">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arch">
     <mxGraphModel dx="1405" dy="5398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -589,14 +589,23 @@
         <mxCell id="wUl-jKKBIIJhtIVpl3m--45" value="大量の知識を&#xa;横に並べる" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="wUl-jKKBIIJhtIVpl3m--44">
           <mxGeometry x="70" y="245" width="160" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="wUl-jKKBIIJhtIVpl3m--53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="wUl-jKKBIIJhtIVpl3m--44" source="wUl-jKKBIIJhtIVpl3m--48" target="wUl-jKKBIIJhtIVpl3m--52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wUl-jKKBIIJhtIVpl3m--48" value="Googleのトレンド" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="wUl-jKKBIIJhtIVpl3m--44">
-          <mxGeometry x="270" y="370" width="150" height="70" as="geometry" />
+          <mxGeometry x="270" y="460" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wUl-jKKBIIJhtIVpl3m--49" value="これらを元に&#xa;未来予知と&#xa;改変を&#xa;同時に行う" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="wUl-jKKBIIJhtIVpl3m--44">
           <mxGeometry x="75" y="120" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="wUl-jKKBIIJhtIVpl3m--51" value="Googleのトレンド" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="wUl-jKKBIIJhtIVpl3m--44">
-          <mxGeometry x="460" y="370" width="150" height="70" as="geometry" />
+        <mxCell id="wUl-jKKBIIJhtIVpl3m--54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="wUl-jKKBIIJhtIVpl3m--44" source="wUl-jKKBIIJhtIVpl3m--51" target="wUl-jKKBIIJhtIVpl3m--52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wUl-jKKBIIJhtIVpl3m--51" value="ゴミ知識" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="wUl-jKKBIIJhtIVpl3m--44">
+          <mxGeometry x="460" y="460" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wUl-jKKBIIJhtIVpl3m--52" value="Workflowループ" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="wUl-jKKBIIJhtIVpl3m--44">
+          <mxGeometry x="340" y="220" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
