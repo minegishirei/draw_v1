@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-06T10:40:36.846Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="24.6.4" etag="irEz6EuJNgOfy71dSMkC" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2024-07-06T10:43:09.205Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="24.6.4" etag="LvxHamvWNHO_9dM6zbhV" type="github" pages="15">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arch">
     <mxGraphModel dx="1706" dy="5553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -521,7 +521,7 @@
           <mxGeometry x="180" y="40" width="70.11" height="150" as="geometry" />
         </mxCell>
         <mxCell id="3vcQB0C9pp6So1rZS9XH-1" value="状態：圏論からのスキル化" style="swimlane;whiteSpace=wrap;html=1;" parent="JHlf3TxTEQhZrFdNS1kI-1" vertex="1">
-          <mxGeometry x="690" y="40" width="540" height="780" as="geometry" />
+          <mxGeometry x="690" y="40" width="650" height="780" as="geometry" />
         </mxCell>
         <mxCell id="wUl-jKKBIIJhtIVpl3m--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3vcQB0C9pp6So1rZS9XH-1" source="3vcQB0C9pp6So1rZS9XH-24" target="wUl-jKKBIIJhtIVpl3m--15">
           <mxGeometry relative="1" as="geometry" />
