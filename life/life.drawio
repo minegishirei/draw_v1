@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T02:36:28.680Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="w5JiZkMTNSafjGh-IZ9b" version="24.6.4" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2024-07-10T11:32:25.198Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="A78-9mh5kIuLiFoavxna" version="24.6.4" type="github" pages="16">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arch">
     <mxGraphModel dx="1405" dy="5398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -617,7 +617,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2024year" id="uiUMKeZ0txUB_UNjZnf_">
-    <mxGraphModel dx="367" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="430" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-0" />
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-1" parent="Bh7SMV7lsvvrdX1vqtc6-0" />
@@ -855,11 +855,14 @@
         <mxCell id="qsnoKpCirOSn80luGT5y-0" value="VPC" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2640" y="199.38" width="70" height="790.62" as="geometry" />
         </mxCell>
+        <mxCell id="E7oKeVPsJAwTrfSyDZhZ-0" value="Architect" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="2720" y="198.31" width="70" height="231.62" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="20240708" id="45-ac4_bv4sfYHFMWfPe">
-    <mxGraphModel dx="1194" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="t9VLouZuPDf3Kfegnsmm-0" />
         <mxCell id="t9VLouZuPDf3Kfegnsmm-1" parent="t9VLouZuPDf3Kfegnsmm-0" />
@@ -899,8 +902,14 @@
         <mxCell id="t9VLouZuPDf3Kfegnsmm-14" value="Terraform&#xa;secrets" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="t9VLouZuPDf3Kfegnsmm-1" vertex="1">
           <mxGeometry x="40" y="120" width="71.22" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="sXCwrkPRbm8CJQDHZMYs-0" value="Terraform&#xa;provision" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="t9VLouZuPDf3Kfegnsmm-1">
+        <mxCell id="sXCwrkPRbm8CJQDHZMYs-0" value="Terraform&#xa;provision" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="t9VLouZuPDf3Kfegnsmm-1" vertex="1">
           <mxGeometry x="120" y="120" width="71.22" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="4M4gs1I_QAlIoVPvZ7XR-0" value="Architect" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="t9VLouZuPDf3Kfegnsmm-1">
+          <mxGeometry x="200" y="120" width="70" height="231.62" as="geometry" />
+        </mxCell>
+        <mxCell id="4M4gs1I_QAlIoVPvZ7XR-1" value="Architect" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="t9VLouZuPDf3Kfegnsmm-1">
+          <mxGeometry x="121.22" y="290" width="70" height="231.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
