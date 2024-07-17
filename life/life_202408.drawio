@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T23:12:50.304Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kx4tGilypIyMQDJgqHA3" version="24.7.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-17T23:13:23.014Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="b2AJYO2jxJ_k9SZYMRFs" version="24.7.1" type="github" pages="3">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1592" dy="4326" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -527,7 +527,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2024year" id="uiUMKeZ0txUB_UNjZnf_">
-    <mxGraphModel dx="310" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="258" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-0" />
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-1" parent="Bh7SMV7lsvvrdX1vqtc6-0" />
@@ -687,8 +687,8 @@
         <mxCell id="xcgMnLf05yoiY70a_JQR-0" value="リット&#xa;シティ&#xa;選考通過" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2400" y="440" width="70" height="150.62" as="geometry" />
         </mxCell>
-        <mxCell id="eG5RxnxaQDqGbWCEAFoJ-0" value="Terraform&#xa;EC2&#xa;&#xa;実戦で&#xa;SG&#xa;EC2&#xa;S3&#xa;を建てて&#xa;連携する&#xa;ところまで" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="2481" y="198.38" width="70" height="231.62" as="geometry" />
+        <mxCell id="eG5RxnxaQDqGbWCEAFoJ-0" value="AWS" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
+          <mxGeometry x="880" y="279" width="70" height="71" as="geometry" />
         </mxCell>
         <mxCell id="eG5RxnxaQDqGbWCEAFoJ-1" value="リット&#xa;シティ&#xa;&#xa;面接&#xa;高評価&#xa;" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2481" y="440" width="70" height="312.62" as="geometry" />
