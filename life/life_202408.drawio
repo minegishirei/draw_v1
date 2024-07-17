@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T23:40:09.466Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="z9FonFueSoI0EBpw9Gc7" version="24.7.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-17T23:50:52.804Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="pg4BrO6U3NZ4rpS42H1C" version="24.7.1" type="github" pages="3">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
     <mxGraphModel dx="1405" dy="4260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -506,10 +506,10 @@
           <mxGeometry x="250" y="320" width="270" height="360" as="geometry" />
         </mxCell>
         <mxCell id="T0hhv4CYac_xe9Lu0SNb-5" value="security" style="rounded=1;fillColor=#001933;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="T0hhv4CYac_xe9Lu0SNb-1" vertex="1">
-          <mxGeometry x="18" y="40" width="70" height="310" as="geometry" />
+          <mxGeometry x="18" y="200" width="70" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="8p56535Rd03QEzrIcmqj-1" value="psy" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="T0hhv4CYac_xe9Lu0SNb-1" vertex="1">
-          <mxGeometry x="99.94" y="40" width="70.11" height="150" as="geometry" />
+        <mxCell id="8p56535Rd03QEzrIcmqj-1" value="psy&#xa;&#xa;部下や&#xa;チームを&#xa;持つ直前&#xa;で良い。&#xa;そのことを&#xa;上長に&#xa;アナウンス" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="T0hhv4CYac_xe9Lu0SNb-1" vertex="1">
+          <mxGeometry x="18" y="40" width="70.11" height="150" as="geometry" />
         </mxCell>
         <mxCell id="8p56535Rd03QEzrIcmqj-2" value="ブログ" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="JHlf3TxTEQhZrFdNS1kI-1" vertex="1">
           <mxGeometry x="50" y="240" width="160" height="70" as="geometry" />
