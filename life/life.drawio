@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-20T03:03:02.173Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9dvepB4imqsUEycxMx_-" version="24.7.1" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2024-07-20T03:04:17.622Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="HadGc0beAstIPkzJuVIF" version="24.7.1" type="github" pages="17">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arch">
     <mxGraphModel dx="1194" dy="5316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -562,20 +562,11 @@
         <mxCell id="wUl-jKKBIIJhtIVpl3m--24" value="4ターン目&#xa;2ターン目&#xa;ヘブンズフォース" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="3vcQB0C9pp6So1rZS9XH-1" vertex="1">
           <mxGeometry x="361" y="370" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="wUl-jKKBIIJhtIVpl3m--39" value="ループしだす" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="3vcQB0C9pp6So1rZS9XH-1" vertex="1">
-          <mxGeometry x="360" y="610" width="160" height="70" as="geometry" />
+        <mxCell id="1wWkkXLgHwmSnJV007dE-2" value="硬さ + 効果無効" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="3vcQB0C9pp6So1rZS9XH-1">
+          <mxGeometry x="10" y="450" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="wUl-jKKBIIJhtIVpl3m--40" value="最速 2t kill" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="3vcQB0C9pp6So1rZS9XH-1" vertex="1">
-          <mxGeometry x="180" y="610" width="160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="wUl-jKKBIIJhtIVpl3m--41" value="いかつい絵面のドラゴンが&#xa;大量に出てくる" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="3vcQB0C9pp6So1rZS9XH-1" vertex="1">
-          <mxGeometry x="10" y="610" width="160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="wUl-jKKBIIJhtIVpl3m--42" value="閣ループ" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="3vcQB0C9pp6So1rZS9XH-1" vertex="1">
-          <mxGeometry x="180" y="530" width="160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="wUl-jKKBIIJhtIVpl3m--43" value="↑&#xa;最強" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="3vcQB0C9pp6So1rZS9XH-1" vertex="1">
-          <mxGeometry x="180" y="693" width="160" height="70" as="geometry" />
+        <mxCell id="1wWkkXLgHwmSnJV007dE-3" value="硬さ + 適応力" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="3vcQB0C9pp6So1rZS9XH-1">
+          <mxGeometry x="180" y="450" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wUl-jKKBIIJhtIVpl3m--25" value="なんとかできそうなこと" style="swimlane;whiteSpace=wrap;html=1;" parent="JHlf3TxTEQhZrFdNS1kI-1" vertex="1">
           <mxGeometry x="20" y="840" width="650" height="560" as="geometry" />
