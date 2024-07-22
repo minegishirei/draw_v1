@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T23:03:02.809Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="X5N2n12ro_fKJ8XlUI8z" version="24.7.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-07-22T23:03:13.830Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="EuIbEfD2pTxiDtleoD4M" version="24.7.1" type="github" pages="18">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arch">
     <mxGraphModel dx="1194" dy="5316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -902,9 +902,6 @@
         <mxCell id="UD9iQaWB23zOfVyJY366-11" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;今週の振り返り&lt;/h1&gt;&lt;div&gt;副業 &amp;amp; 本業共にインフラへの肩入れが強くなった。&lt;/div&gt;&lt;div&gt;それとともに、「インフラだけやってればいいの？」という考えも出てくる。&lt;/div&gt;&lt;div&gt;「お金を稼ぐ」という点ではインフラ人間は問題ないが、もっとワクワクするためには人生のアーキテクチャを書き直してみても良いと思った。&lt;/div&gt;&lt;div&gt;期限は8月まで。&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="UD9iQaWB23zOfVyJY366-1">
           <mxGeometry x="610" y="40" width="190" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="UD9iQaWB23zOfVyJY366-12" value="VPC" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="UD9iQaWB23zOfVyJY366-1">
-          <mxGeometry x="120" y="120" width="71.22" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="UD9iQaWB23zOfVyJY366-13" value="アーキ&#xa;作成" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="UD9iQaWB23zOfVyJY366-1">
           <mxGeometry x="40" y="120" width="70" height="150" as="geometry" />
         </mxCell>
@@ -916,6 +913,9 @@
         </mxCell>
         <mxCell id="UD9iQaWB23zOfVyJY366-17" value=" Selenium&#xa;on&#xa;Lambda" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="UD9iQaWB23zOfVyJY366-1">
           <mxGeometry x="200" y="438" width="70" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SgbqLJiwhw3BJ3Rcl22t-0" value="アーキ&#xa;作成" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="UD9iQaWB23zOfVyJY366-1">
+          <mxGeometry x="120" y="120" width="70" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
