@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T23:23:51.844Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NEwX5O1_qkInste7VJ2u" version="24.7.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-07-22T23:24:27.286Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="LweACVX2WacXGY5xjBLY" version="24.7.1" type="github" pages="18">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arch">
     <mxGraphModel dx="1327" dy="5387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -572,16 +572,16 @@
           <mxGeometry x="20" y="840" width="650" height="560" as="geometry" />
         </mxCell>
         <mxCell id="wUl-jKKBIIJhtIVpl3m--58" value="本業" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="wUl-jKKBIIJhtIVpl3m--25" vertex="1">
-          <mxGeometry x="33" y="50" width="70" height="70" as="geometry" />
+          <mxGeometry x="33" y="40" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AiM3wdv-sN5OOCEN4weV-1" value="盤石な&#xa;エンジニアリング基盤" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="wUl-jKKBIIJhtIVpl3m--25">
-          <mxGeometry x="33" y="210" width="230" height="70" as="geometry" />
+          <mxGeometry x="33" y="200" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AiM3wdv-sN5OOCEN4weV-4" value="副業" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="wUl-jKKBIIJhtIVpl3m--25">
-          <mxGeometry x="113" y="50" width="70" height="70" as="geometry" />
+          <mxGeometry x="113" y="40" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AiM3wdv-sN5OOCEN4weV-6" value="ブログ" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="wUl-jKKBIIJhtIVpl3m--25">
-          <mxGeometry x="33" y="130" width="230" height="70" as="geometry" />
+          <mxGeometry x="33" y="120" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wUl-jKKBIIJhtIVpl3m--44" value="背伸びしたらいけそうなこと" style="swimlane;whiteSpace=wrap;html=1;" parent="JHlf3TxTEQhZrFdNS1kI-1" vertex="1">
           <mxGeometry x="690" y="840" width="650" height="560" as="geometry" />
