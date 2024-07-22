@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T23:31:59.572Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="JQ2xT2nx7PYYhxIcErOU" version="24.7.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-07-22T23:33:27.628Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="o-iv_5SQDhMuLFaXGD_w" version="24.7.1" type="github" pages="18">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arch">
     <mxGraphModel dx="1327" dy="5387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -597,6 +597,15 @@
         </mxCell>
         <mxCell id="wUl-jKKBIIJhtIVpl3m--44" value="背伸びしたらいけそうなこと" style="swimlane;whiteSpace=wrap;html=1;" parent="JHlf3TxTEQhZrFdNS1kI-1" vertex="1">
           <mxGeometry x="690" y="840" width="650" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="FR30waCB6nlkXYJwCrjb-5" value="硬さ" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="wUl-jKKBIIJhtIVpl3m--44">
+          <mxGeometry x="20" y="50" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FR30waCB6nlkXYJwCrjb-6" value="観察" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="wUl-jKKBIIJhtIVpl3m--44">
+          <mxGeometry x="230" y="50" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FR30waCB6nlkXYJwCrjb-7" value="適応" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="wUl-jKKBIIJhtIVpl3m--44">
+          <mxGeometry x="440" y="50" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
