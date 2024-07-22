@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T23:20:18.971Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="H9WDcpzFrpxOvTgte8k9" version="24.7.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-07-22T23:21:02.508Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="S5-Y2Lwzvj_cHAccLxUM" version="24.7.1" type="github" pages="18">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arch">
     <mxGraphModel dx="1327" dy="5387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -574,20 +574,20 @@
         <mxCell id="wUl-jKKBIIJhtIVpl3m--44" value="背伸びしたらいけそうなこと" style="swimlane;whiteSpace=wrap;html=1;" parent="JHlf3TxTEQhZrFdNS1kI-1" vertex="1">
           <mxGeometry x="690" y="840" width="650" height="560" as="geometry" />
         </mxCell>
+        <mxCell id="wUl-jKKBIIJhtIVpl3m--58" value="本業" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="wUl-jKKBIIJhtIVpl3m--44" vertex="1">
+          <mxGeometry x="119.99999999999996" y="100" width="70" height="70" as="geometry" />
+        </mxCell>
         <mxCell id="1wWkkXLgHwmSnJV007dE-4" value="psy" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="wUl-jKKBIIJhtIVpl3m--44" vertex="1">
           <mxGeometry x="390" y="100" width="70.11" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="AiM3wdv-sN5OOCEN4weV-5" value="ゴリ押し" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="wUl-jKKBIIJhtIVpl3m--44">
-          <mxGeometry x="97" y="270" width="200" height="200" as="geometry" />
+        <mxCell id="AiM3wdv-sN5OOCEN4weV-1" value="盤石な&#xa;エンジニアリング基盤" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="wUl-jKKBIIJhtIVpl3m--44">
+          <mxGeometry x="120" y="180" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="wUl-jKKBIIJhtIVpl3m--58" value="本業" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="AiM3wdv-sN5OOCEN4weV-5" vertex="1">
-          <mxGeometry x="24.999999999999957" y="30" width="70" height="70" as="geometry" />
+        <mxCell id="AiM3wdv-sN5OOCEN4weV-4" value="副業" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="wUl-jKKBIIJhtIVpl3m--44">
+          <mxGeometry x="200" y="100" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="AiM3wdv-sN5OOCEN4weV-1" value="盤石な&#xa;エンジニアリング基盤" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="AiM3wdv-sN5OOCEN4weV-5">
-          <mxGeometry x="25" y="110" width="150" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="AiM3wdv-sN5OOCEN4weV-4" value="副業" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="AiM3wdv-sN5OOCEN4weV-5">
-          <mxGeometry x="105" y="30" width="70" height="70" as="geometry" />
+        <mxCell id="AiM3wdv-sN5OOCEN4weV-6" value="ブログ" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="wUl-jKKBIIJhtIVpl3m--44">
+          <mxGeometry x="280" y="100" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
