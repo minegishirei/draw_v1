@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T23:24:27.286Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="LweACVX2WacXGY5xjBLY" version="24.7.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-07-22T23:26:40.856Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="vJ6jS2RK1DxTIkic9ITo" version="24.7.1" type="github" pages="18">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arch">
     <mxGraphModel dx="1327" dy="5387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -589,7 +589,7 @@
         <mxCell id="1wWkkXLgHwmSnJV007dE-4" value="状況解析力" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="wUl-jKKBIIJhtIVpl3m--44" vertex="1">
           <mxGeometry x="10" y="40" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="AiM3wdv-sN5OOCEN4weV-7" value="状況解析力" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="wUl-jKKBIIJhtIVpl3m--44">
+        <mxCell id="AiM3wdv-sN5OOCEN4weV-7" value="状況解析力" style="rounded=1;fillColor=#1A1A1A;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="wUl-jKKBIIJhtIVpl3m--44">
           <mxGeometry x="10" y="120" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
