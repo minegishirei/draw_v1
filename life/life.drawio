@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T00:48:21.936Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="mFe3vjQBtoCEIJlEFtj4" version="24.7.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-07-23T00:48:35.957Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="G7WzjpBqOm-GNkI9oorr" version="24.7.1" type="github" pages="18">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arch">
     <mxGraphModel dx="1405" dy="5429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -610,7 +610,7 @@
         <mxCell id="FR30waCB6nlkXYJwCrjb-25" value="4to2" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="FR30waCB6nlkXYJwCrjb-13">
           <mxGeometry x="200" y="97" width="173" height="123" as="geometry" />
         </mxCell>
-        <mxCell id="FR30waCB6nlkXYJwCrjb-26" value="強制的に" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="FR30waCB6nlkXYJwCrjb-13">
+        <mxCell id="FR30waCB6nlkXYJwCrjb-26" value="強制的に導入" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="FR30waCB6nlkXYJwCrjb-13">
           <mxGeometry x="17" y="97" width="123" height="123" as="geometry" />
         </mxCell>
       </root>
