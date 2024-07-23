@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T00:02:02.306Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="oX6HZg3A14JBgQ8ZFouU" version="24.7.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-07-23T00:02:51.966Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Ghtk6-KdwRQ4vr3GWK_S" version="24.7.1" type="github" pages="18">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arch">
     <mxGraphModel dx="1493" dy="5476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -587,7 +587,7 @@
           <mxGeometry x="183" y="280" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wUl-jKKBIIJhtIVpl3m--44" value="背伸びしたらいけそうなこと" style="swimlane;whiteSpace=wrap;html=1;" parent="JHlf3TxTEQhZrFdNS1kI-1" vertex="1">
-          <mxGeometry x="690" y="450" width="650" height="950" as="geometry" />
+          <mxGeometry x="690" y="450" width="650" height="260" as="geometry" />
         </mxCell>
         <mxCell id="FR30waCB6nlkXYJwCrjb-5" value="硬さ(ゴリラ)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="wUl-jKKBIIJhtIVpl3m--44">
           <mxGeometry x="20" y="50" width="80" height="90" as="geometry" />
@@ -605,7 +605,10 @@
           <mxGeometry x="180" y="30" width="70" height="150" as="geometry" />
         </mxCell>
         <mxCell id="FR30waCB6nlkXYJwCrjb-7" value="適応" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="wUl-jKKBIIJhtIVpl3m--44">
-          <mxGeometry x="400" y="50" width="90" height="90" as="geometry" />
+          <mxGeometry x="400" y="50" width="170" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="FR30waCB6nlkXYJwCrjb-12" value="無限の知識を&#xa;集める&#xa;GithubFlow" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="FR30waCB6nlkXYJwCrjb-7">
+          <mxGeometry x="10" y="30" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
