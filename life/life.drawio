@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T00:11:19.985Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="x1lPit-bLVvqIx4IpyJX" version="24.7.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-07-23T00:15:14.577Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="DrWH33ij75oTSL7F4Hgx" version="24.7.1" type="github" pages="18">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arch">
     <mxGraphModel dx="1493" dy="5476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -525,18 +525,6 @@
         </mxCell>
         <mxCell id="3vcQB0C9pp6So1rZS9XH-1" value="状態：圏論からのスキル化" style="swimlane;whiteSpace=wrap;html=1;" parent="JHlf3TxTEQhZrFdNS1kI-1" vertex="1">
           <mxGeometry x="690" y="40" width="650" height="400" as="geometry" />
-        </mxCell>
-        <mxCell id="wUl-jKKBIIJhtIVpl3m--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="3vcQB0C9pp6So1rZS9XH-1" source="3vcQB0C9pp6So1rZS9XH-24" target="wUl-jKKBIIJhtIVpl3m--15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3vcQB0C9pp6So1rZS9XH-24" value="デッキの中身&#xa;育てデッキ" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="3vcQB0C9pp6So1rZS9XH-1" vertex="1">
-          <mxGeometry x="361" y="50" width="160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="wUl-jKKBIIJhtIVpl3m--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="3vcQB0C9pp6So1rZS9XH-1" source="0A6_qlnSRbyEr8-nvlEl-3" target="wUl-jKKBIIJhtIVpl3m--15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0A6_qlnSRbyEr8-nvlEl-3" value="適応能力&#xa;時間稼ぎと変化量&#xa;DIO + 潔&#xa;フィジカル + " style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="3vcQB0C9pp6So1rZS9XH-1" vertex="1">
-          <mxGeometry x="361" y="130" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0A6_qlnSRbyEr8-nvlEl-5" value="能力的には柔軟性&#xa;精神的にはゴリラ" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="3vcQB0C9pp6So1rZS9XH-1" vertex="1">
           <mxGeometry x="361" y="210" width="160" height="70" as="geometry" />
