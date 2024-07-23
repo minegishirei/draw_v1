@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T00:15:14.577Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="DrWH33ij75oTSL7F4Hgx" version="24.7.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-07-23T00:20:45.239Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kxs8TqSMN9yJS6HQWPe8" version="24.7.1" type="github" pages="18">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arch">
-    <mxGraphModel dx="1493" dy="5476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1405" dy="5429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -529,7 +529,7 @@
         <mxCell id="0A6_qlnSRbyEr8-nvlEl-5" value="能力的には柔軟性&#xa;精神的にはゴリラ" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="3vcQB0C9pp6So1rZS9XH-1" vertex="1">
           <mxGeometry x="361" y="210" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="wUl-jKKBIIJhtIVpl3m--4" value="先行封殺何もできない" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="3vcQB0C9pp6So1rZS9XH-1" vertex="1">
+        <mxCell id="wUl-jKKBIIJhtIVpl3m--4" value="先行封殺何もできない&#xa;フィールド魔法" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="3vcQB0C9pp6So1rZS9XH-1" vertex="1">
           <mxGeometry x="10" y="210" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wUl-jKKBIIJhtIVpl3m--15" value="無理ゲー" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="3vcQB0C9pp6So1rZS9XH-1" vertex="1">
