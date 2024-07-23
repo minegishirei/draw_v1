@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T00:01:27.346Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="F3D8j2KdbMLtPC31VkBj" version="24.7.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-07-23T00:02:02.306Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="oX6HZg3A14JBgQ8ZFouU" version="24.7.1" type="github" pages="18">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arch">
     <mxGraphModel dx="1493" dy="5476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -590,10 +590,10 @@
           <mxGeometry x="690" y="450" width="650" height="950" as="geometry" />
         </mxCell>
         <mxCell id="FR30waCB6nlkXYJwCrjb-5" value="硬さ(ゴリラ)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="wUl-jKKBIIJhtIVpl3m--44">
-          <mxGeometry x="20" y="50" width="200" height="200" as="geometry" />
+          <mxGeometry x="20" y="50" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FR30waCB6nlkXYJwCrjb-6" value="解析力" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="wUl-jKKBIIJhtIVpl3m--44">
-          <mxGeometry x="20" y="300" width="260" height="190" as="geometry" />
+          <mxGeometry x="120" y="50" width="260" height="190" as="geometry" />
         </mxCell>
         <mxCell id="FR30waCB6nlkXYJwCrjb-8" value="心理学的&#xa;解析力" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="FR30waCB6nlkXYJwCrjb-6">
           <mxGeometry x="10" y="30" width="160" height="70" as="geometry" />
@@ -605,7 +605,7 @@
           <mxGeometry x="180" y="30" width="70" height="150" as="geometry" />
         </mxCell>
         <mxCell id="FR30waCB6nlkXYJwCrjb-7" value="適応" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="wUl-jKKBIIJhtIVpl3m--44">
-          <mxGeometry x="440" y="50" width="200" height="200" as="geometry" />
+          <mxGeometry x="400" y="50" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
