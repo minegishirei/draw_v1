@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="24.7.4" pages="18">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arch">
-    <mxGraphModel dx="1194" dy="5316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1327" dy="5387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -612,6 +612,9 @@
         </mxCell>
         <mxCell id="FR30waCB6nlkXYJwCrjb-26" value="ひたすら考える -&amp;gt; 45桂速攻" style="swimlane;whiteSpace=wrap;html=1;" parent="FR30waCB6nlkXYJwCrjb-13" vertex="1">
           <mxGeometry x="17" y="97" width="373" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="8nMdXX4wFc3SnuNA06p0-1" value="ワーキングメモリーの&#xa;超絶強化" style="rounded=1;fillColor=#1A1A1A;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="FR30waCB6nlkXYJwCrjb-26">
+          <mxGeometry x="13" y="30" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
