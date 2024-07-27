@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="24.7.5" pages="18">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arch">
-    <mxGraphModel dx="1592" dy="5529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1405" dy="5429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -607,17 +607,11 @@
         <mxCell id="FR30waCB6nlkXYJwCrjb-24" value="・超早い段階で&lt;div&gt;・相手が何かをできる前に&lt;/div&gt;&lt;div&gt;・全部を終わらせる&lt;/div&gt;&lt;div&gt;・自分が超頭いい前提&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="FR30waCB6nlkXYJwCrjb-13" vertex="1">
           <mxGeometry x="10" y="27" width="160" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="FR30waCB6nlkXYJwCrjb-25" value="4to2" style="swimlane;whiteSpace=wrap;html=1;" parent="FR30waCB6nlkXYJwCrjb-13" vertex="1">
-          <mxGeometry x="400" y="97" width="173" height="123" as="geometry" />
-        </mxCell>
         <mxCell id="FR30waCB6nlkXYJwCrjb-26" value="ひたすら考える -&amp;gt; 45桂速攻" style="swimlane;whiteSpace=wrap;html=1;" parent="FR30waCB6nlkXYJwCrjb-13" vertex="1">
           <mxGeometry x="17" y="97" width="373" height="123" as="geometry" />
         </mxCell>
         <mxCell id="8nMdXX4wFc3SnuNA06p0-1" value="ワーキングメモリーの&#xa;超絶強化" style="rounded=1;fillColor=#1A1A1A;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="FR30waCB6nlkXYJwCrjb-26" vertex="1">
           <mxGeometry x="13" y="40" width="160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="8nMdXX4wFc3SnuNA06p0-3" value="思考時間 10分" style="rounded=1;fillColor=#1A1A1A;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="FR30waCB6nlkXYJwCrjb-26" vertex="1">
-          <mxGeometry x="184" y="40" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8nMdXX4wFc3SnuNA06p0-2" value="ひたすら鍛えたワーキングメモリーで、相手の思考が追いつかないスピードでぶん殴る" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="FR30waCB6nlkXYJwCrjb-13" vertex="1">
           <mxGeometry x="180" y="27" width="160" height="73" as="geometry" />
