@@ -721,6 +721,12 @@
         <mxCell id="RX5ra8nryUKqk7P2S72R-54" value="ワーキングメモリーの&#xa;超絶強化" style="rounded=1;fillColor=#1A1A1A;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-53">
           <mxGeometry x="13" y="40" width="187" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="RX5ra8nryUKqk7P2S72R-63" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-53">
+          <mxGeometry x="213" y="40" width="197" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RX5ra8nryUKqk7P2S72R-64" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-53">
+          <mxGeometry x="423" y="40" width="197" height="70" as="geometry" />
+        </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-55" value="ひたすら鍛えたワーキングメモリーで、&lt;br&gt;相手の思考が追いつく前に詰ませるプラン" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-51">
           <mxGeometry x="17" y="173" width="323" height="73" as="geometry" />
         </mxCell>
