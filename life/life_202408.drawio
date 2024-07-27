@@ -716,10 +716,10 @@
           <mxGeometry x="75" y="60" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-51" value="ケースB（2T Loop）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-2">
-          <mxGeometry x="240" y="510" width="650" height="260" as="geometry" />
+          <mxGeometry x="220" y="490" width="670" height="260" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-53" value="ひたすら考える -&amp;gt; 45桂速攻" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-51">
-          <mxGeometry x="17" y="97" width="613" height="123" as="geometry" />
+          <mxGeometry x="17" y="97" width="643" height="123" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-54" value="ワーキングメモリーの&#xa;超絶強化" style="rounded=1;fillColor=#1A1A1A;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-53">
           <mxGeometry x="13" y="40" width="187" height="70" as="geometry" />
@@ -734,10 +734,10 @@
           <mxGeometry x="17" y="24" width="323" height="73" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-42" value="ケースA（mahorage）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-2">
-          <mxGeometry x="220" y="40" width="670" height="460" as="geometry" />
+          <mxGeometry x="220" y="40" width="670" height="430" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-44" value="解析力" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-42">
-          <mxGeometry x="210" y="50" width="260" height="190" as="geometry" />
+          <mxGeometry x="300" y="50" width="180" height="280" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-45" value="心理学的&#xa;解析力" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-44">
           <mxGeometry x="10" y="30" width="160" height="70" as="geometry" />
@@ -745,17 +745,17 @@
         <mxCell id="RX5ra8nryUKqk7P2S72R-46" value="観察力" style="rounded=1;fillColor=#1A1A1A;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-44">
           <mxGeometry x="10" y="110" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RX5ra8nryUKqk7P2S72R-47" value="ケース&#xa;スタディ" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-44">
-          <mxGeometry x="180" y="30" width="70" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-48" value="適応" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-42">
-          <mxGeometry x="490" y="50" width="170" height="190" as="geometry" />
+          <mxGeometry x="490" y="50" width="170" height="280" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-49" value="無限の知識を&#xa;集める&#xa;GithubFlow" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-48">
           <mxGeometry x="10" y="30" width="150" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="RX5ra8nryUKqk7P2S72R-47" value="ケース&#xa;スタディ" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-48">
+          <mxGeometry x="10" y="110" width="150" height="70" as="geometry" />
+        </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-10" value="ゴリラ力" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-42">
-          <mxGeometry x="10" y="50" width="189" height="360" as="geometry" />
+          <mxGeometry x="10" y="50" width="270" height="280" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-11" value="Terraform" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-10">
           <mxGeometry x="14" y="40" width="70" height="70" as="geometry" />
@@ -767,19 +767,22 @@
           <mxGeometry x="14" y="200" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-14" value="Haskell" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-10">
-          <mxGeometry x="99" y="40" width="71" height="70" as="geometry" />
+          <mxGeometry x="190" y="40" width="71" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-15" value="Python" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-10">
-          <mxGeometry x="99" y="120" width="71" height="70" as="geometry" />
+          <mxGeometry x="190" y="120" width="71" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-16" value="Docker" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-10">
-          <mxGeometry x="14" y="280" width="70" height="70" as="geometry" />
+          <mxGeometry x="100" y="40" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-17" value="Arch" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-10">
-          <mxGeometry x="100" y="280" width="70" height="70" as="geometry" />
+          <mxGeometry x="100" y="120" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-18" value="Django" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-10">
-          <mxGeometry x="100" y="200" width="71" height="70" as="geometry" />
+          <mxGeometry x="190" y="200" width="71" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RX5ra8nryUKqk7P2S72R-61" value="自分自身の知識量で相手からのワンパンを耐え抜き、&lt;br&gt;必要な行動を自分自身の観察力と心理学的解析力で考案。&lt;br&gt;足りない知識をGithubFlowで埋めるプラン" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-42">
+          <mxGeometry x="10" y="340" width="530" height="73" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-25" value="状態：圏論からのスキル化" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-1">
           <mxGeometry x="950" y="40" width="650" height="400" as="geometry" />
