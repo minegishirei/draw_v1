@@ -689,7 +689,7 @@
           <mxGeometry x="40" y="-6200" width="1600" height="1250" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-2" value="今できること" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-1">
-          <mxGeometry x="20" y="40" width="650" height="780" as="geometry" />
+          <mxGeometry x="20" y="40" width="910" height="780" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-3" value="有言実行" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-2">
           <mxGeometry x="290" y="260" width="150" height="70" as="geometry" />
@@ -743,16 +743,13 @@
           <mxGeometry x="75" y="60" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-20" value="残課題" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-2">
-          <mxGeometry x="270" y="340" width="360" height="360" as="geometry" />
+          <mxGeometry x="700" y="35" width="180" height="360" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-21" value="security" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-20">
-          <mxGeometry x="18" y="40" width="70" height="310" as="geometry" />
+          <mxGeometry x="18" y="40" width="70" height="230" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-22" value="DB" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-20">
-          <mxGeometry x="99" y="40" width="70" height="310" as="geometry" />
-        </mxCell>
-        <mxCell id="RX5ra8nryUKqk7P2S72R-23" value="エンジニア&#xa;心理学" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-20">
-          <mxGeometry x="180" y="40" width="70.11" height="150" as="geometry" />
+          <mxGeometry x="99" y="40" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-24" value="無限の知識を&#xa;集める&#xa;GithubFlow" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-2">
           <mxGeometry x="290" y="180" width="150" height="70" as="geometry" />
