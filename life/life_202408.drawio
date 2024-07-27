@@ -748,9 +748,6 @@
         <mxCell id="RX5ra8nryUKqk7P2S72R-51" value="ケースB（2T Loop）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-2">
           <mxGeometry x="240" y="510" width="650" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="RX5ra8nryUKqk7P2S72R-52" value="・超早い段階で&lt;div&gt;・相手が何かをできる前に&lt;/div&gt;&lt;div&gt;・全部を終わらせる&lt;/div&gt;&lt;div&gt;・自分が超頭いい前提&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-51">
-          <mxGeometry x="10" y="27" width="160" height="73" as="geometry" />
-        </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-53" value="ひたすら考える -&amp;gt; 45桂速攻" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-51">
           <mxGeometry x="17" y="97" width="613" height="123" as="geometry" />
         </mxCell>
@@ -763,8 +760,8 @@
         <mxCell id="RX5ra8nryUKqk7P2S72R-59" value="詰将棋" style="rounded=1;fillColor=#1A1A1A;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-53">
           <mxGeometry x="413" y="40" width="187" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RX5ra8nryUKqk7P2S72R-55" value="ひたすら鍛えたワーキングメモリーで、相手の思考が追いつかないスピードでぶん殴る" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-51">
-          <mxGeometry x="180" y="27" width="160" height="73" as="geometry" />
+        <mxCell id="RX5ra8nryUKqk7P2S72R-55" value="ひたすら鍛えたワーキングメモリーで、&lt;br&gt;相手の思考が追いつく前に詰ませるプラン" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-51">
+          <mxGeometry x="17" y="24" width="323" height="73" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-42" value="ケースA（mahorage）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-2">
           <mxGeometry x="240" y="240" width="650" height="260" as="geometry" />
