@@ -686,7 +686,7 @@
           <mxGeometry x="180" y="27" width="160" height="73" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-1" value="状態：圏論からのスキル化" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-6200" width="1380" height="1250" as="geometry" />
+          <mxGeometry x="40" y="-6200" width="1600" height="1250" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-2" value="今できること" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-1">
           <mxGeometry x="20" y="40" width="650" height="780" as="geometry" />
@@ -758,7 +758,7 @@
           <mxGeometry x="290" y="180" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-25" value="状態：圏論からのスキル化" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-1">
-          <mxGeometry x="690" y="40" width="650" height="400" as="geometry" />
+          <mxGeometry x="950" y="40" width="650" height="400" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-26" value="能力的には柔軟性&#xa;精神的にはゴリラ" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-25">
           <mxGeometry x="361" y="210" width="160" height="70" as="geometry" />
@@ -809,7 +809,7 @@
           <mxGeometry x="33" y="280" width="557" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-42" value="ケースA（mahorage）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-1">
-          <mxGeometry x="690" y="450" width="650" height="260" as="geometry" />
+          <mxGeometry x="950" y="450" width="650" height="260" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-43" value="硬さ(ゴリラ)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-42">
           <mxGeometry x="17" y="160" width="80" height="80" as="geometry" />
@@ -836,7 +836,7 @@
           <mxGeometry x="7" y="20" width="100" height="130" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-51" value="ケースB（2T Loop）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-1">
-          <mxGeometry x="690" y="733" width="650" height="260" as="geometry" />
+          <mxGeometry x="950" y="733" width="650" height="260" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-52" value="・超早い段階で&lt;div&gt;・相手が何かをできる前に&lt;/div&gt;&lt;div&gt;・全部を終わらせる&lt;/div&gt;&lt;div&gt;・自分が超頭いい前提&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-51">
           <mxGeometry x="10" y="27" width="160" height="73" as="geometry" />
@@ -849,9 +849,6 @@
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-55" value="ひたすら鍛えたワーキングメモリーで、相手の思考が追いつかないスピードでぶん殴る" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-51">
           <mxGeometry x="180" y="27" width="160" height="73" as="geometry" />
-        </mxCell>
-        <mxCell id="RX5ra8nryUKqk7P2S72R-57" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;過去の人生から考える&lt;/h1&gt;&lt;p&gt;将棋で苦労&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="830" y="-6390" width="460" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
