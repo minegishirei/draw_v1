@@ -772,8 +772,8 @@
         <mxCell id="RX5ra8nryUKqk7P2S72R-17" value="Arch" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-10">
           <mxGeometry x="100" y="120" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RX5ra8nryUKqk7P2S72R-18" value="Django" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-10">
-          <mxGeometry x="190" y="200" width="71" height="70" as="geometry" />
+        <mxCell id="RX5ra8nryUKqk7P2S72R-35" value="盤石な&#xa;エンジニアリング基盤" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-10">
+          <mxGeometry x="8.5" y="200" width="251.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-61" value="自分自身の知識量で相手からのワンパンを耐え抜き、&lt;br&gt;必要な行動を自分自身の観察力と心理学的解析力で考案。&lt;br&gt;足りない知識をGithubFlowで埋めるプラン" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-42">
           <mxGeometry x="10" y="340" width="530" height="73" as="geometry" />
@@ -807,9 +807,6 @@
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-34" value="本業" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-33">
           <mxGeometry x="33" y="40" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="RX5ra8nryUKqk7P2S72R-35" value="盤石な&#xa;エンジニアリング基盤" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-33">
-          <mxGeometry x="33" y="200" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-36" value="副業" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-33">
           <mxGeometry x="113" y="40" width="70" height="70" as="geometry" />
