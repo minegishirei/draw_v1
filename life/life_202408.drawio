@@ -692,7 +692,7 @@
           <mxGeometry x="20" y="40" width="910" height="780" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-3" value="有言実行" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-2">
-          <mxGeometry x="290" y="260" width="150" height="70" as="geometry" />
+          <mxGeometry x="279" y="50" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RX5ra8nryUKqk7P2S72R-2" source="RX5ra8nryUKqk7P2S72R-5" target="RX5ra8nryUKqk7P2S72R-19">
           <mxGeometry relative="1" as="geometry" />
@@ -742,17 +742,47 @@
         <mxCell id="RX5ra8nryUKqk7P2S72R-19" value="リソース&#xa;確保" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-2">
           <mxGeometry x="75" y="60" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RX5ra8nryUKqk7P2S72R-20" value="残課題" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-2">
-          <mxGeometry x="700" y="35" width="180" height="360" as="geometry" />
-        </mxCell>
-        <mxCell id="RX5ra8nryUKqk7P2S72R-21" value="security" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-20">
-          <mxGeometry x="18" y="40" width="70" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="RX5ra8nryUKqk7P2S72R-22" value="DB" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-20">
-          <mxGeometry x="99" y="40" width="70" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-24" value="無限の知識を&#xa;集める&#xa;GithubFlow" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-2">
-          <mxGeometry x="290" y="180" width="150" height="70" as="geometry" />
+          <mxGeometry x="480" y="50" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RX5ra8nryUKqk7P2S72R-51" value="ケースB（2T Loop）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-2">
+          <mxGeometry x="240" y="510" width="650" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="RX5ra8nryUKqk7P2S72R-52" value="・超早い段階で&lt;div&gt;・相手が何かをできる前に&lt;/div&gt;&lt;div&gt;・全部を終わらせる&lt;/div&gt;&lt;div&gt;・自分が超頭いい前提&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-51">
+          <mxGeometry x="10" y="27" width="160" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="RX5ra8nryUKqk7P2S72R-53" value="ひたすら考える -&amp;gt; 45桂速攻" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-51">
+          <mxGeometry x="17" y="97" width="373" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="RX5ra8nryUKqk7P2S72R-54" value="ワーキングメモリーの&#xa;超絶強化" style="rounded=1;fillColor=#1A1A1A;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-53">
+          <mxGeometry x="13" y="40" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RX5ra8nryUKqk7P2S72R-55" value="ひたすら鍛えたワーキングメモリーで、相手の思考が追いつかないスピードでぶん殴る" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-51">
+          <mxGeometry x="180" y="27" width="160" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="RX5ra8nryUKqk7P2S72R-42" value="ケースA（mahorage）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-2">
+          <mxGeometry x="240" y="240" width="650" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="RX5ra8nryUKqk7P2S72R-43" value="硬さ(ゴリラ)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-42">
+          <mxGeometry x="17" y="50" width="153" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="RX5ra8nryUKqk7P2S72R-44" value="解析力" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-42">
+          <mxGeometry x="190" y="50" width="260" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="RX5ra8nryUKqk7P2S72R-45" value="心理学的&#xa;解析力" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-44">
+          <mxGeometry x="10" y="30" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RX5ra8nryUKqk7P2S72R-46" value="観察力" style="rounded=1;fillColor=#1A1A1A;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-44">
+          <mxGeometry x="10" y="110" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RX5ra8nryUKqk7P2S72R-47" value="ケース&#xa;スタディ" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-44">
+          <mxGeometry x="180" y="30" width="70" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="RX5ra8nryUKqk7P2S72R-48" value="適応" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-42">
+          <mxGeometry x="470" y="50" width="170" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="RX5ra8nryUKqk7P2S72R-49" value="無限の知識を&#xa;集める&#xa;GithubFlow" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-48">
+          <mxGeometry x="10" y="30" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-25" value="状態：圏論からのスキル化" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-1">
           <mxGeometry x="950" y="40" width="650" height="400" as="geometry" />
@@ -805,47 +835,14 @@
         <mxCell id="RX5ra8nryUKqk7P2S72R-41" value="将棋力&#xa;ワーキングメモリ" style="rounded=1;fillColor=#1A1A1A;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-33">
           <mxGeometry x="33" y="280" width="557" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RX5ra8nryUKqk7P2S72R-42" value="ケースA（mahorage）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-1">
-          <mxGeometry x="950" y="450" width="650" height="260" as="geometry" />
+        <mxCell id="RX5ra8nryUKqk7P2S72R-20" value="残課題" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-1">
+          <mxGeometry x="960" y="740" width="180" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="RX5ra8nryUKqk7P2S72R-43" value="硬さ(ゴリラ)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-42">
-          <mxGeometry x="17" y="160" width="80" height="80" as="geometry" />
+        <mxCell id="RX5ra8nryUKqk7P2S72R-21" value="security" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-20">
+          <mxGeometry x="18" y="40" width="70" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="RX5ra8nryUKqk7P2S72R-44" value="解析力" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-42">
-          <mxGeometry x="120" y="50" width="260" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="RX5ra8nryUKqk7P2S72R-45" value="心理学的&#xa;解析力" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-44">
-          <mxGeometry x="10" y="30" width="160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="RX5ra8nryUKqk7P2S72R-46" value="観察力" style="rounded=1;fillColor=#1A1A1A;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-44">
-          <mxGeometry x="10" y="110" width="160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="RX5ra8nryUKqk7P2S72R-47" value="ケース&#xa;スタディ" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-44">
-          <mxGeometry x="180" y="30" width="70" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="RX5ra8nryUKqk7P2S72R-48" value="適応" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-42">
-          <mxGeometry x="400" y="50" width="170" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="RX5ra8nryUKqk7P2S72R-49" value="無限の知識を&#xa;集める&#xa;GithubFlow" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-48">
-          <mxGeometry x="10" y="30" width="150" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="RX5ra8nryUKqk7P2S72R-50" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;硬さが足りない&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;ゴリラ力で対応&lt;/span&gt;&lt;/div&gt;&lt;div&gt;しなければ&lt;/div&gt;&lt;div&gt;解析も適応も&lt;/div&gt;&lt;div&gt;できない&lt;/div&gt;&lt;div&gt;肝心の適応も&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-42">
-          <mxGeometry x="7" y="20" width="100" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="RX5ra8nryUKqk7P2S72R-51" value="ケースB（2T Loop）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-1">
-          <mxGeometry x="950" y="733" width="650" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="RX5ra8nryUKqk7P2S72R-52" value="・超早い段階で&lt;div&gt;・相手が何かをできる前に&lt;/div&gt;&lt;div&gt;・全部を終わらせる&lt;/div&gt;&lt;div&gt;・自分が超頭いい前提&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-51">
-          <mxGeometry x="10" y="27" width="160" height="73" as="geometry" />
-        </mxCell>
-        <mxCell id="RX5ra8nryUKqk7P2S72R-53" value="ひたすら考える -&amp;gt; 45桂速攻" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-51">
-          <mxGeometry x="17" y="97" width="373" height="123" as="geometry" />
-        </mxCell>
-        <mxCell id="RX5ra8nryUKqk7P2S72R-54" value="ワーキングメモリーの&#xa;超絶強化" style="rounded=1;fillColor=#1A1A1A;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-53">
-          <mxGeometry x="13" y="40" width="160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="RX5ra8nryUKqk7P2S72R-55" value="ひたすら鍛えたワーキングメモリーで、相手の思考が追いつかないスピードでぶん殴る" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-51">
-          <mxGeometry x="180" y="27" width="160" height="73" as="geometry" />
+        <mxCell id="RX5ra8nryUKqk7P2S72R-22" value="DB" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-20">
+          <mxGeometry x="99" y="40" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
