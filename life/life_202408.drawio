@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="24.7.5" pages="3">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
-    <mxGraphModel dx="1194" dy="6485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1493" dy="6645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -686,7 +686,7 @@
           <mxGeometry x="180" y="27" width="160" height="73" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-1" value="状態：圏論からのスキル化" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-5800" width="1600" height="850" as="geometry" />
+          <mxGeometry x="40" y="-5800" width="1190" height="850" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-2" value="今できること" style="swimlane;whiteSpace=wrap;html=1;" parent="RX5ra8nryUKqk7P2S72R-1" vertex="1">
           <mxGeometry x="20" y="40" width="910" height="780" as="geometry" />
@@ -778,7 +778,7 @@
         <mxCell id="RX5ra8nryUKqk7P2S72R-61" value="自分自身の知識量で相手からのワンパンを耐え抜き、&lt;br&gt;必要な行動を自分自身の観察力と心理学的解析力で考案。&lt;br&gt;足りない知識をGithubFlowで埋めるプラン" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="RX5ra8nryUKqk7P2S72R-42" vertex="1">
           <mxGeometry x="10" y="340" width="530" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="ekEbcG4CuKsy9JVvrpM2-2" value="ケースC 高羽さん" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="RX5ra8nryUKqk7P2S72R-2">
+        <mxCell id="ekEbcG4CuKsy9JVvrpM2-2" value="ケースC 高羽さん" style="swimlane;whiteSpace=wrap;html=1;" parent="RX5ra8nryUKqk7P2S72R-2" vertex="1">
           <mxGeometry x="10" y="490" width="200" height="260" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-20" value="残課題" style="swimlane;whiteSpace=wrap;html=1;" parent="RX5ra8nryUKqk7P2S72R-1" vertex="1">
