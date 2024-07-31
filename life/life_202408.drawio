@@ -887,7 +887,7 @@
             <mxPoint x="600" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="puucK8A4rUilPA4kx6EM-11" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;今週の振り返り&lt;/h1&gt;&lt;div&gt;ついに案件を獲得することができた。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="puucK8A4rUilPA4kx6EM-1" vertex="1">
+        <mxCell id="puucK8A4rUilPA4kx6EM-11" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;今週の振り返り&lt;/h1&gt;&lt;div&gt;ついに案件を獲得することができた。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="puucK8A4rUilPA4kx6EM-1" vertex="1">
           <mxGeometry x="610" y="40" width="190" height="560" as="geometry" />
         </mxCell>
         <mxCell id="u35efiSoBpnp9Gyj1fmC-0" value="API&#xa;Gateway" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="puucK8A4rUilPA4kx6EM-1" vertex="1">
@@ -896,7 +896,7 @@
         <mxCell id="0fao8etbN_SHogAp4jKM-1" value="Terraform&#xa;provider" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="puucK8A4rUilPA4kx6EM-1" vertex="1">
           <mxGeometry x="40" y="360" width="71.22" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="r57N0RFrxI_qC0iAjMyq-1" value="副業&#xa;継続！" style="rounded=1;fillColor=#333333;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="puucK8A4rUilPA4kx6EM-1">
+        <mxCell id="r57N0RFrxI_qC0iAjMyq-1" value="副業&#xa;継続！" style="rounded=1;fillColor=#333333;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="puucK8A4rUilPA4kx6EM-1" vertex="1">
           <mxGeometry x="120" y="120" width="71.22" height="310" as="geometry" />
         </mxCell>
       </root>
