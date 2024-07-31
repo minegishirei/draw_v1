@@ -902,6 +902,9 @@
         <mxCell id="Vyl3mKYt_t0aXuHjs9LA-0" value="API設計" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="puucK8A4rUilPA4kx6EM-1">
           <mxGeometry x="200" y="120" width="71.22" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="c42egPrRed9TfIXX0uXn-0" value="印象が&#xa;最悪の相手&#xa;から&#xa;ただただ&#xa;気に入られる&#xa;ためだけに&#xa;動く方法&#xa;&#xa;すごいね！&#xa;" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="puucK8A4rUilPA4kx6EM-1">
+          <mxGeometry x="280" y="120" width="70" height="230" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
