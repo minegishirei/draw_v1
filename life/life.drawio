@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="24.7.6" pages="4">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
-    <mxGraphModel dx="1592" dy="6698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1592" dy="7867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -788,6 +788,111 @@
           <mxGeometry x="18" y="280" width="187" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-58" value="45桂速攻" style="rounded=1;fillColor=#1A1A1A;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="RX5ra8nryUKqk7P2S72R-20" vertex="1">
+          <mxGeometry x="18" y="360" width="187" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-1" value="状態：圏論からのスキル化" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-6695" width="1190" height="850" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-2" value="今できること" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-1">
+          <mxGeometry x="20" y="40" width="910" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jk-8av8z0sdPc6n0qqWk-2" source="jk-8av8z0sdPc6n0qqWk-4" target="jk-8av8z0sdPc6n0qqWk-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-4" value="ブログ" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-2">
+          <mxGeometry x="30" y="260" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jk-8av8z0sdPc6n0qqWk-2" source="jk-8av8z0sdPc6n0qqWk-6" target="jk-8av8z0sdPc6n0qqWk-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-6" value="本業" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-2">
+          <mxGeometry x="30" y="180" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jk-8av8z0sdPc6n0qqWk-2" source="jk-8av8z0sdPc6n0qqWk-8" target="jk-8av8z0sdPc6n0qqWk-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-8" value="副業" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-2">
+          <mxGeometry x="120" y="180" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-9" value="リソース&#xa;確保" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-2">
+          <mxGeometry x="75" y="60" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-10" value="ケースB（2T Loop）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-2">
+          <mxGeometry x="220" y="490" width="670" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-11" value="ひたすら考える -&amp;gt; 45桂速攻" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-10">
+          <mxGeometry x="17" y="50" width="643" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-12" value="ワーキングメモリーの&#xa;超絶強化" style="rounded=1;fillColor=#1A1A1A;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-11">
+          <mxGeometry x="13" y="40" width="187" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-11">
+          <mxGeometry x="213" y="40" width="197" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-11">
+          <mxGeometry x="423" y="40" width="197" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-15" value="ひたすら鍛えたワーキングメモリーで、&lt;br&gt;相手の思考が追いつく前に詰ませるプラン" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-10">
+          <mxGeometry x="17" y="173" width="323" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-16" value="ケースA（mahorage）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-2">
+          <mxGeometry x="220" y="40" width="670" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-17" value="解析力" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-16">
+          <mxGeometry x="300" y="50" width="180" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-18" value="心理学的&#xa;解析力" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-17">
+          <mxGeometry x="10" y="30" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-19" value="観察力" style="rounded=1;fillColor=#4C0099;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-17">
+          <mxGeometry x="10" y="110" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-20" value="適応" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-16">
+          <mxGeometry x="490" y="50" width="170" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-21" value="学習" style="rounded=1;fillColor=#4C0099;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-20">
+          <mxGeometry x="10" y="30" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-22" value="ケース&#xa;スタディ" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-20">
+          <mxGeometry x="10" y="110" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-23" value="ゴリラ力" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-16">
+          <mxGeometry x="10" y="50" width="270" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-24" value="Terraform" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-23">
+          <mxGeometry x="14" y="40" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-25" value="AWS" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-23">
+          <mxGeometry x="14" y="120" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-26" value="Haskell" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-23">
+          <mxGeometry x="190" y="40" width="71" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-27" value="Python" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-23">
+          <mxGeometry x="190" y="120" width="71" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-28" value="Container" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-23">
+          <mxGeometry x="100" y="40" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-29" value="Arch" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-23">
+          <mxGeometry x="100" y="120" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-30" value="盤石な&#xa;エンジニアリング基盤" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-23">
+          <mxGeometry x="8.5" y="200" width="251.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-31" value="自分自身の知識量で相手からのワンパンを耐え抜き、&lt;br&gt;必要な行動を自分自身の観察力と心理学的解析力で考案。&lt;br&gt;足りない知識をGithubFlowで埋めるプラン" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-16">
+          <mxGeometry x="10" y="340" width="530" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-32" value="残課題" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-1">
+          <mxGeometry x="950" y="40" width="220" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-33" value="security" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-32">
+          <mxGeometry x="18" y="40" width="70" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-34" value="詰将棋" style="rounded=1;fillColor=#1A1A1A;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-32">
+          <mxGeometry x="18" y="280" width="187" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-35" value="45桂速攻" style="rounded=1;fillColor=#1A1A1A;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-32">
           <mxGeometry x="18" y="360" width="187" height="70" as="geometry" />
         </mxCell>
       </root>
