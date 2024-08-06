@@ -739,13 +739,13 @@
         <mxCell id="RX5ra8nryUKqk7P2S72R-45" value="心理学的&#xa;解析力" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="RX5ra8nryUKqk7P2S72R-44" vertex="1">
           <mxGeometry x="10" y="30" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RX5ra8nryUKqk7P2S72R-46" value="観察力" style="rounded=1;fillColor=#1A1A1A;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="RX5ra8nryUKqk7P2S72R-44" vertex="1">
+        <mxCell id="RX5ra8nryUKqk7P2S72R-46" value="観察力" style="rounded=1;fillColor=#4C0099;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="RX5ra8nryUKqk7P2S72R-44" vertex="1">
           <mxGeometry x="10" y="110" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-48" value="適応" style="swimlane;whiteSpace=wrap;html=1;" parent="RX5ra8nryUKqk7P2S72R-42" vertex="1">
           <mxGeometry x="490" y="50" width="170" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="RX5ra8nryUKqk7P2S72R-49" value="学習" style="rounded=1;fillColor=#FF0000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="RX5ra8nryUKqk7P2S72R-48" vertex="1">
+        <mxCell id="RX5ra8nryUKqk7P2S72R-49" value="学習" style="rounded=1;fillColor=#4C0099;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="RX5ra8nryUKqk7P2S72R-48" vertex="1">
           <mxGeometry x="10" y="30" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-47" value="ケース&#xa;スタディ" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="RX5ra8nryUKqk7P2S72R-48" vertex="1">
