@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="24.7.6" pages="4">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="arrow">
-    <mxGraphModel dx="1493" dy="6645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="6519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -745,7 +745,7 @@
         <mxCell id="RX5ra8nryUKqk7P2S72R-48" value="適応" style="swimlane;whiteSpace=wrap;html=1;" parent="RX5ra8nryUKqk7P2S72R-42" vertex="1">
           <mxGeometry x="490" y="50" width="170" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="RX5ra8nryUKqk7P2S72R-49" value="無限の知識を&#xa;集める&#xa;GithubFlow" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="RX5ra8nryUKqk7P2S72R-48" vertex="1">
+        <mxCell id="RX5ra8nryUKqk7P2S72R-49" value="学習" style="rounded=1;fillColor=#FF0000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="RX5ra8nryUKqk7P2S72R-48" vertex="1">
           <mxGeometry x="10" y="30" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RX5ra8nryUKqk7P2S72R-47" value="ケース&#xa;スタディ" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="RX5ra8nryUKqk7P2S72R-48" vertex="1">
