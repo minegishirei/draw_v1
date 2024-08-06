@@ -902,15 +902,6 @@
         <mxCell id="sTRzrQ4X8GCMmUkwaLdq-15" value="API設計" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="sTRzrQ4X8GCMmUkwaLdq-1">
           <mxGeometry x="200" y="120" width="71.22" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="sTRzrQ4X8GCMmUkwaLdq-16" value="印象が&#xa;最悪の相手&#xa;から&#xa;ただただ&#xa;気に入られる&#xa;ためだけに&#xa;動く方法&#xa;&#xa;すごいね！&#xa;" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="sTRzrQ4X8GCMmUkwaLdq-1">
-          <mxGeometry x="280" y="120" width="70" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="sTRzrQ4X8GCMmUkwaLdq-17" value="黒木さんと&#xa;1on1&#xa;したい&#xa;&#xa;その理解力&#xa;の高さは&#xa;どこから?" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="sTRzrQ4X8GCMmUkwaLdq-1">
-          <mxGeometry x="280" y="360" width="70" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="sTRzrQ4X8GCMmUkwaLdq-18" value="やること&#xa;ねー" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="sTRzrQ4X8GCMmUkwaLdq-1">
-          <mxGeometry x="280" y="500" width="70" height="130" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
