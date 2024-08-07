@@ -791,7 +791,7 @@
           <mxGeometry x="18" y="360" width="187" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jk-8av8z0sdPc6n0qqWk-1" value="状態：圏論からのスキル化" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-6695" width="1190" height="850" as="geometry" />
+          <mxGeometry x="40" y="-6695" width="1590" height="850" as="geometry" />
         </mxCell>
         <mxCell id="jk-8av8z0sdPc6n0qqWk-2" value="今できること" style="swimlane;whiteSpace=wrap;html=1;" parent="jk-8av8z0sdPc6n0qqWk-1" vertex="1">
           <mxGeometry x="20" y="40" width="910" height="780" as="geometry" />
@@ -878,7 +878,7 @@
           <mxGeometry x="10" y="340" width="530" height="73" as="geometry" />
         </mxCell>
         <mxCell id="jk-8av8z0sdPc6n0qqWk-32" value="残課題" style="swimlane;whiteSpace=wrap;html=1;" parent="jk-8av8z0sdPc6n0qqWk-1" vertex="1">
-          <mxGeometry x="950" y="40" width="220" height="780" as="geometry" />
+          <mxGeometry x="1360" y="35" width="220" height="780" as="geometry" />
         </mxCell>
         <mxCell id="jk-8av8z0sdPc6n0qqWk-33" value="security" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="jk-8av8z0sdPc6n0qqWk-32" vertex="1">
           <mxGeometry x="18" y="40" width="70" height="230" as="geometry" />
