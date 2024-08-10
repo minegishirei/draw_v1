@@ -1001,8 +1001,11 @@
         <mxCell id="7E6PMDkoRNFJLK1Lzpti-1" value="security" style="rounded=1;fillColor=#001933;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="880" y="360" width="70" height="71.25" as="geometry" />
         </mxCell>
-        <mxCell id="BS9PbjoWYZlCCYd0q6nu-1" value="有段者&#xa;初勝利" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+        <mxCell id="BS9PbjoWYZlCCYd0q6nu-1" value="有段者&#xa;初勝利" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1680" y="200" width="70" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="b0y3hwFw_C5AMWPRLycf-0" value="CFn&#xa;API&#xa;Gateway&#xa;&#xa;Lambda&#xa;&#xa;Step&#xa;Functions" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="1680" y="279" width="71.22" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
