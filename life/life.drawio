@@ -851,7 +851,7 @@
           <mxGeometry x="10" y="110" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jk-8av8z0sdPc6n0qqWk-23" value="ゴリラ力" style="swimlane;whiteSpace=wrap;html=1;" parent="jk-8av8z0sdPc6n0qqWk-16" vertex="1">
-          <mxGeometry x="10" y="50" width="270" height="280" as="geometry" />
+          <mxGeometry x="10" y="50" width="270" height="370" as="geometry" />
         </mxCell>
         <mxCell id="jk-8av8z0sdPc6n0qqWk-24" value="Terraform" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="jk-8av8z0sdPc6n0qqWk-23" vertex="1">
           <mxGeometry x="14" y="40" width="70" height="70" as="geometry" />
@@ -874,13 +874,16 @@
         <mxCell id="jk-8av8z0sdPc6n0qqWk-30" value="盤石な&#xa;エンジニアリング基盤" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="jk-8av8z0sdPc6n0qqWk-23" vertex="1">
           <mxGeometry x="8.5" y="200" width="251.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jk-8av8z0sdPc6n0qqWk-31" value="自分自身の知識量で相手からのワンパンを耐え抜き、&lt;br&gt;必要な行動を自分自身の観察力と心理学的解析力で考案。&lt;br&gt;足りない知識をGithubFlowで埋めるプラン" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="jk-8av8z0sdPc6n0qqWk-16" vertex="1">
-          <mxGeometry x="10" y="340" width="530" height="73" as="geometry" />
+        <mxCell id="RylWAIbf6681mU2SqSvQ-1" value="security" style="rounded=1;fillColor=#2E3E52;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-23">
+          <mxGeometry x="8.5" y="279" width="251.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="g0RIMWzcNpa5KdBTitAd-1" value="心理学的&#xa;解析力" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-2">
+        <mxCell id="jk-8av8z0sdPc6n0qqWk-31" value="自分自身の知識量で相手からのワンパンを耐え抜き、&lt;br&gt;必要な行動を自分自身の観察力と心理学的解析力で考案。&lt;br&gt;足りない知識をGithubFlowで埋めるプラン" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="jk-8av8z0sdPc6n0qqWk-16" vertex="1">
+          <mxGeometry x="300" y="340" width="360" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="g0RIMWzcNpa5KdBTitAd-1" value="心理学的&#xa;解析力" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="jk-8av8z0sdPc6n0qqWk-2" vertex="1">
           <mxGeometry x="400" y="379" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="g0RIMWzcNpa5KdBTitAd-2" value="リソース&#xa;確保" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="jk-8av8z0sdPc6n0qqWk-2">
+        <mxCell id="g0RIMWzcNpa5KdBTitAd-2" value="リソース&#xa;確保" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="jk-8av8z0sdPc6n0qqWk-2" vertex="1">
           <mxGeometry x="310" y="29" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jk-8av8z0sdPc6n0qqWk-32" value="残課題" style="swimlane;whiteSpace=wrap;html=1;" parent="jk-8av8z0sdPc6n0qqWk-1" vertex="1">
