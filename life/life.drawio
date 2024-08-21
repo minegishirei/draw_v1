@@ -985,7 +985,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2024year" id="uiUMKeZ0txUB_UNjZnf_">
-    <mxGraphModel dx="578" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="367" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-0" />
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-1" parent="Bh7SMV7lsvvrdX1vqtc6-0" />
@@ -1046,8 +1046,17 @@
         <mxCell id="8xfhxPaO2MQkG5Bmj_HO-0" value="Sales&#xa;Force&#xa;API" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1682.44" y="519.75" width="68.78" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="kldPwfeVWtyCRLuwemZ1-0" value="security" style="rounded=1;fillColor=#001933;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+        <mxCell id="kldPwfeVWtyCRLuwemZ1-0" value="security" style="rounded=1;fillColor=#001933;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1760" y="197.75" width="70" height="312.25" as="geometry" />
+        </mxCell>
+        <mxCell id="QwzzVIGYzR208gO_lzR5-0" value="副業&#xa;継続！" style="rounded=1;fillColor=#333333;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="1840" y="201" width="71.22" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="q64Oi5D4X5UD1NIfjHN6-0" value="副業&#xa;RDS&#xa;Parameter" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="1840" y="519.75" width="71.22" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="AYkEsfAeakdJDvXVN-fT-0" value="DB設計&#xa;prisma" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="1760" y="520" width="71.22" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1096,8 +1105,17 @@
         <mxCell id="RngI2RUM7P3E2IRBnAxY-14" value="security" style="rounded=1;fillColor=#001933;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="RngI2RUM7P3E2IRBnAxY-1" vertex="1">
           <mxGeometry x="40" y="120" width="70" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="0ekjbCgK0my9A3owe_Ki-0" value="アーキ図" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RngI2RUM7P3E2IRBnAxY-1">
+        <mxCell id="0ekjbCgK0my9A3owe_Ki-0" value="アーキ図&#xa;" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RngI2RUM7P3E2IRBnAxY-1">
           <mxGeometry x="200" y="120" width="71.22" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xCjl9IVYZpm48EyZh76I-0" value="副業&#xa;RDS&#xa;Parameter" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RngI2RUM7P3E2IRBnAxY-1">
+          <mxGeometry x="120" y="360" width="71.22" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="63L2kSW3jfkU5tolLplu-0" value="副業&#xa;継続！" style="rounded=1;fillColor=#333333;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RngI2RUM7P3E2IRBnAxY-1">
+          <mxGeometry x="120" y="600" width="71.22" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="63L2kSW3jfkU5tolLplu-1" value="副業&#xa;RDS&#xa;Parameter" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RngI2RUM7P3E2IRBnAxY-1">
+          <mxGeometry x="200" y="280" width="71.22" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
