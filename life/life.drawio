@@ -1099,13 +1099,13 @@
         <mxCell id="RngI2RUM7P3E2IRBnAxY-11" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;今週の振り返り&lt;/h1&gt;&lt;div&gt;本業で「あ、好きにやっていいんだ」という前提で動き始めた。&lt;/div&gt;&lt;div&gt;その結果、うまく動いているかどうかが不明。&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="RngI2RUM7P3E2IRBnAxY-1" vertex="1">
           <mxGeometry x="610" y="40" width="190" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="RngI2RUM7P3E2IRBnAxY-12" value="DB設計&#xa;prisma" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="RngI2RUM7P3E2IRBnAxY-1" vertex="1">
+        <mxCell id="RngI2RUM7P3E2IRBnAxY-12" value="本業DB設計&#xa;prisma" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="RngI2RUM7P3E2IRBnAxY-1" vertex="1">
           <mxGeometry x="120" y="120" width="71.22" height="230" as="geometry" />
         </mxCell>
         <mxCell id="RngI2RUM7P3E2IRBnAxY-14" value="security" style="rounded=1;fillColor=#001933;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="RngI2RUM7P3E2IRBnAxY-1" vertex="1">
           <mxGeometry x="40" y="120" width="70" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="0ekjbCgK0my9A3owe_Ki-0" value="アーキ図" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RngI2RUM7P3E2IRBnAxY-1">
+        <mxCell id="0ekjbCgK0my9A3owe_Ki-0" value="本業&#xa;データ連携&#xa;アーキ図" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RngI2RUM7P3E2IRBnAxY-1">
           <mxGeometry x="200" y="120" width="71.22" height="150" as="geometry" />
         </mxCell>
         <mxCell id="xCjl9IVYZpm48EyZh76I-0" value="副業&#xa;RDS&#xa;Parameter" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RngI2RUM7P3E2IRBnAxY-1">
@@ -1117,7 +1117,7 @@
         <mxCell id="63L2kSW3jfkU5tolLplu-1" value="副業&#xa;RDS&#xa;Parameter" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RngI2RUM7P3E2IRBnAxY-1">
           <mxGeometry x="200" y="280" width="71.22" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="vcr-OvTKFmimoLOqr1XS-0" value="アーキ図&#xa;説明" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RngI2RUM7P3E2IRBnAxY-1">
+        <mxCell id="vcr-OvTKFmimoLOqr1XS-0" value="本業&#xa;データ連携&#xa;アーキ図&#xa;説明" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RngI2RUM7P3E2IRBnAxY-1">
           <mxGeometry x="280" y="120" width="71.22" height="230" as="geometry" />
         </mxCell>
       </root>
