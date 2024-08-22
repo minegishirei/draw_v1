@@ -1096,7 +1096,7 @@
             <mxPoint x="600" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RngI2RUM7P3E2IRBnAxY-11" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;今週の振り返り&lt;/h1&gt;&lt;div&gt;本業で「あ、好きにやっていいんだ」という前提で動き始めた。&lt;/div&gt;&lt;div&gt;その結果、うまく動いているかどうかが不明。&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="RngI2RUM7P3E2IRBnAxY-1" vertex="1">
+        <mxCell id="RngI2RUM7P3E2IRBnAxY-11" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;今週の振り返り&lt;/h1&gt;&lt;div&gt;本業で「あ、好きにやっていいんだ」という前提で動き始めた。&lt;/div&gt;&lt;div&gt;その結果、うまく動いているかどうかは不明。&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="RngI2RUM7P3E2IRBnAxY-1" vertex="1">
           <mxGeometry x="610" y="40" width="190" height="560" as="geometry" />
         </mxCell>
         <mxCell id="RngI2RUM7P3E2IRBnAxY-12" value="本業DB設計&#xa;prisma" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="RngI2RUM7P3E2IRBnAxY-1" vertex="1">
