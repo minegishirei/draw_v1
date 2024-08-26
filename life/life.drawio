@@ -1061,7 +1061,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="202400819のコピー" id="m1JaYK59b5dfVpSbCECD">
+  <diagram name="202400826" id="m1JaYK59b5dfVpSbCECD">
     <mxGraphModel dx="1194" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="1fSDXYx7H2uaCcg5gmvT-0" />
@@ -1099,29 +1099,8 @@
         <mxCell id="1fSDXYx7H2uaCcg5gmvT-11" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;今週の振り返り&lt;/h1&gt;&lt;div&gt;本業で「あ、好きにやっていいんだ」という前提で動き始めた。&lt;/div&gt;&lt;div&gt;その結果、うまく動いているかどうかは不明。&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1fSDXYx7H2uaCcg5gmvT-1">
           <mxGeometry x="610" y="40" width="190" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="1fSDXYx7H2uaCcg5gmvT-12" value="本業DB設計&#xa;prisma" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1fSDXYx7H2uaCcg5gmvT-1">
-          <mxGeometry x="120" y="120" width="71.22" height="230" as="geometry" />
-        </mxCell>
         <mxCell id="1fSDXYx7H2uaCcg5gmvT-13" value="security" style="rounded=1;fillColor=#001933;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1fSDXYx7H2uaCcg5gmvT-1">
           <mxGeometry x="40" y="120" width="70" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="1fSDXYx7H2uaCcg5gmvT-14" value="本業&#xa;データ連携&#xa;アーキ図" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1fSDXYx7H2uaCcg5gmvT-1">
-          <mxGeometry x="200" y="120" width="71.22" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="1fSDXYx7H2uaCcg5gmvT-15" value="副業&#xa;RDS&#xa;Parameter" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1fSDXYx7H2uaCcg5gmvT-1">
-          <mxGeometry x="120" y="360" width="71.22" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="1fSDXYx7H2uaCcg5gmvT-16" value="副業&#xa;継続！" style="rounded=1;fillColor=#333333;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1fSDXYx7H2uaCcg5gmvT-1">
-          <mxGeometry x="120" y="600" width="71.22" height="310" as="geometry" />
-        </mxCell>
-        <mxCell id="1fSDXYx7H2uaCcg5gmvT-17" value="副業&#xa;RDS&#xa;Parameter" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1fSDXYx7H2uaCcg5gmvT-1">
-          <mxGeometry x="200" y="280" width="71.22" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="1fSDXYx7H2uaCcg5gmvT-18" value="本業&#xa;データ連携&#xa;アーキ図&#xa;説明" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1fSDXYx7H2uaCcg5gmvT-1">
-          <mxGeometry x="280" y="120" width="71.22" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="EWineZAiQbWggEUWCtFD-0" value="本業&#xa;データ連携&#xa;salesforce&#xa;連携構築" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1fSDXYx7H2uaCcg5gmvT-1">
-          <mxGeometry x="360" y="120" width="71.22" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1170,20 +1149,23 @@
         <mxCell id="RngI2RUM7P3E2IRBnAxY-14" value="security" style="rounded=1;fillColor=#001933;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="RngI2RUM7P3E2IRBnAxY-1" vertex="1">
           <mxGeometry x="40" y="120" width="70" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="0ekjbCgK0my9A3owe_Ki-0" value="本業&#xa;データ連携&#xa;アーキ図" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RngI2RUM7P3E2IRBnAxY-1">
+        <mxCell id="0ekjbCgK0my9A3owe_Ki-0" value="本業&#xa;データ連携&#xa;アーキ図" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="RngI2RUM7P3E2IRBnAxY-1" vertex="1">
           <mxGeometry x="200" y="120" width="71.22" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="xCjl9IVYZpm48EyZh76I-0" value="副業&#xa;RDS&#xa;Parameter" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RngI2RUM7P3E2IRBnAxY-1">
+        <mxCell id="xCjl9IVYZpm48EyZh76I-0" value="副業&#xa;RDS&#xa;Parameter" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="RngI2RUM7P3E2IRBnAxY-1" vertex="1">
           <mxGeometry x="120" y="360" width="71.22" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="63L2kSW3jfkU5tolLplu-0" value="副業&#xa;継続！" style="rounded=1;fillColor=#333333;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RngI2RUM7P3E2IRBnAxY-1">
+        <mxCell id="63L2kSW3jfkU5tolLplu-0" value="副業&#xa;継続！" style="rounded=1;fillColor=#333333;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="RngI2RUM7P3E2IRBnAxY-1" vertex="1">
           <mxGeometry x="120" y="600" width="71.22" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="63L2kSW3jfkU5tolLplu-1" value="副業&#xa;RDS&#xa;Parameter" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RngI2RUM7P3E2IRBnAxY-1">
+        <mxCell id="63L2kSW3jfkU5tolLplu-1" value="副業&#xa;RDS&#xa;Parameter" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="RngI2RUM7P3E2IRBnAxY-1" vertex="1">
           <mxGeometry x="200" y="280" width="71.22" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="vcr-OvTKFmimoLOqr1XS-0" value="本業&#xa;データ連携&#xa;アーキ図&#xa;説明" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RngI2RUM7P3E2IRBnAxY-1">
+        <mxCell id="vcr-OvTKFmimoLOqr1XS-0" value="本業&#xa;データ連携&#xa;アーキ図&#xa;説明" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="RngI2RUM7P3E2IRBnAxY-1" vertex="1">
           <mxGeometry x="280" y="120" width="71.22" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ka8_mtfDdhfQJvC6D-rC-0" value="本業&#xa;データ連携&#xa;salesforce&#xa;連携構築" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="RngI2RUM7P3E2IRBnAxY-1">
+          <mxGeometry x="360" y="120" width="71.22" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
