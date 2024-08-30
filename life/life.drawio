@@ -1099,17 +1099,20 @@
             <mxPoint x="600" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1fSDXYx7H2uaCcg5gmvT-11" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;今週の振り返り&lt;/h1&gt;&lt;div&gt;自分のやるべきことを確定させた&lt;/div&gt;&lt;div&gt;・エンジニア心理学&lt;/div&gt;&lt;div&gt;・セキュリティ&lt;/div&gt;&lt;div&gt;この2本立て。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;エンジニア心理学は、自分自身のブランド価値を向上させる&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1fSDXYx7H2uaCcg5gmvT-1" vertex="1">
+        <mxCell id="1fSDXYx7H2uaCcg5gmvT-11" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;今週の振り返り&lt;/h1&gt;&lt;div&gt;自分のやるべきことを確定させた&lt;/div&gt;&lt;div&gt;・エンジニア心理学&lt;/div&gt;&lt;div&gt;・セキュリティ&lt;/div&gt;&lt;div&gt;この2本立て。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;・エンジニア心理学は、最強の適応力を身につけることと、Qiitaでの発信によりブランド価値を向上させる。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;・セキュリティは、耐久力を向上させる。&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1fSDXYx7H2uaCcg5gmvT-1" vertex="1">
           <mxGeometry x="610" y="40" width="190" height="560" as="geometry" />
         </mxCell>
         <mxCell id="1fSDXYx7H2uaCcg5gmvT-13" value="security" style="rounded=1;fillColor=#001933;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1fSDXYx7H2uaCcg5gmvT-1" vertex="1">
           <mxGeometry x="40" y="120" width="70" height="230" as="geometry" />
         </mxCell>
         <mxCell id="2zSjxhI3AlLbT5ib4Ku8-0" value="エンジニア&#xa;心理学&#xa;開始" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1fSDXYx7H2uaCcg5gmvT-1">
-          <mxGeometry x="200" y="120" width="70" height="150" as="geometry" />
+          <mxGeometry x="120" y="120" width="70" height="150" as="geometry" />
         </mxCell>
         <mxCell id="2zSjxhI3AlLbT5ib4Ku8-1" value="エンジニア&#xa;心理学&#xa;開始" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1fSDXYx7H2uaCcg5gmvT-1">
           <mxGeometry x="360" y="120" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="I7eeljK732k5vdZfHVGL-0" value="休み" style="rounded=1;fillColor=#FF99CC;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1fSDXYx7H2uaCcg5gmvT-1">
+          <mxGeometry x="200" y="120" width="68.78" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
