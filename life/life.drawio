@@ -1117,8 +1117,11 @@
         <mxCell id="I7eeljK732k5vdZfHVGL-0" value="休み" style="rounded=1;fillColor=#FF99CC;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1fSDXYx7H2uaCcg5gmvT-1" vertex="1">
           <mxGeometry x="200" y="120" width="68.78" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="W1bTrU6eJS611OEiOVrL-0" value="キャリア&#xa;振り返り&#xa;転職&#xa;ドラフト" style="rounded=1;fillColor=#333333;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1fSDXYx7H2uaCcg5gmvT-1">
+        <mxCell id="W1bTrU6eJS611OEiOVrL-0" value="キャリア&#xa;振り返り&#xa;転職&#xa;ドラフト" style="rounded=1;fillColor=#333333;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1fSDXYx7H2uaCcg5gmvT-1" vertex="1">
           <mxGeometry x="440" y="120" width="71.22" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Ov19Psmc7gvdsiwD_yht-0" value="キャリア&#xa;振り返り&#xa;転職&#xa;ドラフト" style="rounded=1;fillColor=#333333;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1fSDXYx7H2uaCcg5gmvT-1">
+          <mxGeometry x="520" y="120" width="71.22" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
