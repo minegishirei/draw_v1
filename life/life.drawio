@@ -1114,7 +1114,7 @@
         <mxCell id="_Imv5smNklXuBowLoGio-17" value="キャリア&#xa;振り返り&#xa;転職&#xa;ドラフト" style="rounded=1;fillColor=#333333;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="_Imv5smNklXuBowLoGio-1" vertex="1">
           <mxGeometry x="520" y="120" width="71.22" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="OpZ2uAH0_sJf4ewEhRn1-0" value="React&#xa;MUI" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="_Imv5smNklXuBowLoGio-1">
+        <mxCell id="OpZ2uAH0_sJf4ewEhRn1-0" value="React&#xa;MUI&#xa;styled&#xa;componet" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="_Imv5smNklXuBowLoGio-1">
           <mxGeometry x="120" y="120" width="68.78" height="150" as="geometry" />
         </mxCell>
       </root>
