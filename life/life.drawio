@@ -1017,6 +1017,9 @@
         <mxCell id="T9BdasmDbkO3-ggoIJNe-14" value="心理学&#xa;ニーズ把握&#xa;コツを掴む" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1880" y="200" width="70.11" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="T9BdasmDbkO3-ggoIJNe-15" value="tech lead&#xa;開始" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1800.0000000000002" y="439.75" width="70" height="71" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
