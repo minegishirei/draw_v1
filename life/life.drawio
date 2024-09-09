@@ -1105,20 +1105,14 @@
         <mxCell id="tZFDhQOlibCSgmiDFOFi-11" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;今週の振り返り&lt;/h1&gt;&lt;div&gt;本業での対応は理にかなっていると言えない。理不尽な出来事が続いているが、「こうでもしないと人生のバランスが釣り合わない」と言われているかのようだ。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;どんな出来事が起ころうと、自分のやることは変わらない。&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・エンジニア心理学&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;・セキュリティ&lt;/div&gt;&lt;div&gt;・2tループ&lt;/div&gt;&lt;div&gt;この3本立て。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;・エンジニア心理学は、最強の適応力を身につけることと、Qiitaでの発信によりブランド価値を向上させる。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;・セキュリティは、耐久力を向上させる。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="tZFDhQOlibCSgmiDFOFi-1">
           <mxGeometry x="610" y="40" width="190" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="tZFDhQOlibCSgmiDFOFi-12" value="security" style="rounded=1;fillColor=#001933;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="tZFDhQOlibCSgmiDFOFi-1">
-          <mxGeometry x="40" y="120" width="70" height="230" as="geometry" />
-        </mxCell>
         <mxCell id="tZFDhQOlibCSgmiDFOFi-13" value="React&#xa;MUI&#xa;styled&#xa;componet" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="tZFDhQOlibCSgmiDFOFi-1">
           <mxGeometry x="120" y="120" width="68.78" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="tZFDhQOlibCSgmiDFOFi-14" value="データ連携" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="tZFDhQOlibCSgmiDFOFi-1">
-          <mxGeometry x="40" y="360" width="71.22" height="160" as="geometry" />
         </mxCell>
         <mxCell id="tZFDhQOlibCSgmiDFOFi-15" value="security" style="rounded=1;fillColor=#001933;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="tZFDhQOlibCSgmiDFOFi-1">
           <mxGeometry x="280" y="120" width="70" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="tZFDhQOlibCSgmiDFOFi-16" value="ブログ&#xa;再編" style="rounded=1;fillColor=#333333;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="tZFDhQOlibCSgmiDFOFi-1">
-          <mxGeometry x="360" y="120" width="71.22" height="150" as="geometry" />
+        <mxCell id="tZFDhQOlibCSgmiDFOFi-16" value="キャリア編&#xa;ブログ&#xa;再編" style="rounded=1;fillColor=#333333;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="tZFDhQOlibCSgmiDFOFi-1">
+          <mxGeometry x="40" y="120" width="71.22" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
