@@ -940,7 +940,7 @@
           <mxGeometry x="1360" y="200" width="320" height="130" as="geometry" />
         </mxCell>
         <mxCell id="kAWDG4V6mVrpNdcrgUgY-1" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;・テックリード&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;エンジニア始動&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;or&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;・転職し、リードエンジニアへ昇進&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;・エン心：&lt;/font&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;メンバー募集&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;・CTF：大会でのコツを掴む&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="2040" y="280.5" width="80" height="210" as="geometry" />
+          <mxGeometry x="2010" y="450.5" width="80" height="210" as="geometry" />
         </mxCell>
         <mxCell id="kAWDG4V6mVrpNdcrgUgY-2" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;・可能ならリーダー経験&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;・CTF：大会で優勝&lt;/span&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="2120" y="200" width="80" height="130" as="geometry" />
@@ -1020,7 +1020,7 @@
         <mxCell id="T9BdasmDbkO3-ggoIJNe-15" value="tech lead&#xa;開始" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1800.0000000000002" y="439.75" width="70" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="mRm9UbhAR6zB6eR1Ylhn-1" value="テック&#xa;リード&#xa;エンジニア" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="mRm9UbhAR6zB6eR1Ylhn-1" value="tech lead&#xa;エンジニア&#xa;転職" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2040.0000000000002" y="200" width="70" height="71" as="geometry" />
         </mxCell>
       </root>
