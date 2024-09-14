@@ -1375,8 +1375,11 @@
         <mxCell id="vzbpU7Bv4_fHoGPkb43W-0" value="Chain&#xa;Lambda" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="tZFDhQOlibCSgmiDFOFi-1" vertex="1">
           <mxGeometry x="360" y="120" width="70" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="U86dx5XNOUiDqoWv4AXd-0" value="psy&#xa;&#xa;vorcal&#xa;構造化" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="tZFDhQOlibCSgmiDFOFi-1">
+        <mxCell id="U86dx5XNOUiDqoWv4AXd-0" value="psy&#xa;&#xa;vorcal&#xa;構造化" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="tZFDhQOlibCSgmiDFOFi-1" vertex="1">
           <mxGeometry x="440" y="120" width="70.11" height="308.75" as="geometry" />
+        </mxCell>
+        <mxCell id="MyKpsn2M4W4OgVuoJZeL-0" value="インテリ&#xa;ジェンス&#xa;ギャザ&#xa;リング" style="rounded=1;fillColor=#001933;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="tZFDhQOlibCSgmiDFOFi-1">
+          <mxGeometry x="280" y="120" width="70" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
