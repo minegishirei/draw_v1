@@ -83,7 +83,7 @@
           <mxGeometry x="840" y="649.5" width="68.78" height="70" as="geometry" />
         </mxCell>
         <mxCell id="T9BdasmDbkO3-ggoIJNe-9" value="副業開始" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1800.22" y="609.13" width="70" height="71" as="geometry" />
+          <mxGeometry x="1800.22" y="600" width="70" height="71" as="geometry" />
         </mxCell>
         <mxCell id="T9BdasmDbkO3-ggoIJNe-10" value="心理学&#xa;vorcal&#xa;構築" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1800.11" y="201.5" width="70.11" height="70" as="geometry" />
@@ -101,7 +101,7 @@
           <mxGeometry x="1800.1100000000001" y="280.5" width="70.11" height="70" as="geometry" />
         </mxCell>
         <mxCell id="T9BdasmDbkO3-ggoIJNe-15" value="tech lead&#xa;開始" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1800.2200000000003" y="690" width="70" height="71" as="geometry" />
+          <mxGeometry x="1800.2200000000003" y="680" width="70" height="71" as="geometry" />
         </mxCell>
         <mxCell id="mRm9UbhAR6zB6eR1Ylhn-1" value="tech lead&#xa;エンジニア&#xa;転職" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2040.0000000000002" y="200" width="70" height="71" as="geometry" />
