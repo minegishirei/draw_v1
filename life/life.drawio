@@ -1016,7 +1016,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3elI2iuipEpb0RjXrGl5" name="life">
-    <mxGraphModel dx="367" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="127" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1078,28 +1078,28 @@
           <mxGeometry x="3170" y="200" width="80" height="130" as="geometry" />
         </mxCell>
         <mxCell id="T9BdasmDbkO3-ggoIJNe-1" value="Container" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="880" y="600" width="70" height="69.5" as="geometry" />
+          <mxGeometry x="840" y="409.5" width="70" height="69.5" as="geometry" />
         </mxCell>
         <mxCell id="T9BdasmDbkO3-ggoIJNe-2" value="psy" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="880" y="760" width="70.11" height="70" as="geometry" />
+          <mxGeometry x="840" y="569.5" width="70.11" height="70" as="geometry" />
         </mxCell>
         <mxCell id="T9BdasmDbkO3-ggoIJNe-3" value="コード" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="881.2199999999996" y="680" width="68.78" height="70" as="geometry" />
+          <mxGeometry x="841.2199999999996" y="489.5" width="68.78" height="70" as="geometry" />
         </mxCell>
         <mxCell id="T9BdasmDbkO3-ggoIJNe-4" value="収益関連" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="880" y="280.5" width="70" height="71" as="geometry" />
+          <mxGeometry x="840" y="90" width="70" height="71" as="geometry" />
         </mxCell>
         <mxCell id="T9BdasmDbkO3-ggoIJNe-5" value="OS" style="rounded=1;fillColor=#003366;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="880" y="439.75" width="70" height="71.25" as="geometry" />
+          <mxGeometry x="840" y="249.25" width="70" height="71.25" as="geometry" />
         </mxCell>
         <mxCell id="T9BdasmDbkO3-ggoIJNe-6" value="AWS" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="880" y="520" width="70" height="71" as="geometry" />
+          <mxGeometry x="840" y="329.5" width="70" height="71" as="geometry" />
         </mxCell>
         <mxCell id="T9BdasmDbkO3-ggoIJNe-7" value="security" style="rounded=1;fillColor=#001933;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="880" y="360" width="70" height="71.25" as="geometry" />
+          <mxGeometry x="840" y="169.5" width="70" height="71.25" as="geometry" />
         </mxCell>
         <mxCell id="T9BdasmDbkO3-ggoIJNe-8" value="休み" style="rounded=1;fillColor=#FF99CC;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="880" y="840" width="68.78" height="70" as="geometry" />
+          <mxGeometry x="840" y="649.5" width="68.78" height="70" as="geometry" />
         </mxCell>
         <mxCell id="T9BdasmDbkO3-ggoIJNe-9" value="副業開始" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1800.1100000000001" y="200" width="70" height="71" as="geometry" />
@@ -1146,8 +1146,11 @@
         <mxCell id="VMFeblVdzABGXuNVAHO_-2" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;&lt;div&gt;・知らない人から、人生の中で 「このロゴ,名称見たことある」 が5回以上発生すること&lt;/div&gt;&lt;div&gt;・知らない人から、ダイレクトに仕事の依頼が来ること&lt;/div&gt;&lt;div&gt;・知らない人の間で、それらの情報が一貫性を保つこと&lt;/div&gt;&lt;div&gt;・自分が保有するブログ、Qiita、twitter以外で、名前が出ること(Google検索)&lt;/div&gt;&lt;div&gt;・何らかの勝敗が分かれる競技、競争で一番になること&lt;/div&gt;&lt;div&gt;・知らない人から称号がつけられること&lt;/div&gt;&lt;div&gt;・社内を超える組織に貢献すること&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;マズローの5段階要求のラスト：個人を超えた社会への影響&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;&lt;b&gt;エンジニア心理学&lt;/b&gt;：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;・テックリード向けのエンジニア記事&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;自分のエンジニアとしての技術力と心理学を生かしたチーム、&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;利害関係者との立ち回りを伝授する人&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;・社内での立ち位置を確保するための生存戦略として、コミュニケーション能力を育てるためのガイドとそのためのサイトを作る。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;・コミュニケーション能力を反射で鍛えるサイト。&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;・自分の能力&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;・周囲に与えた影響&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;・常に発信しているイメージ像&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;これらが合致することで、理想のブランドが作られる。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;そのためにやるべきことは以下の通り&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;・ブランドデザインの統一&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;・情報発信&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;・大会の実績作り&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;・ブランドデザインが確立されるような会社への移籍&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1320" y="370" width="320" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="VMFeblVdzABGXuNVAHO_-5" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;- プログラマーとチームリーダーの摩擦を解消する方法論をまとめチームの価値を最大化する&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;div&gt;- 顧客の言葉を理解し、信頼関係を構築し、品質とコスト面で駆け引きを行う方法論をまとめる&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="960" y="170" width="320" height="110" as="geometry" />
+        <mxCell id="VMFeblVdzABGXuNVAHO_-6" value="security" style="rounded=1;fillColor=#001933;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="960" y="359.25" width="320" height="71.25" as="geometry" />
+        </mxCell>
+        <mxCell id="VMFeblVdzABGXuNVAHO_-9" value="&lt;div&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;- プログラマーとチームリーダーの摩擦を解消する方法論をまとめチームの価値を最大化する&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;div&gt;- 顧客の言葉を理解し、信頼関係を構築し、品質とコスト面で駆け引きを行う方法論をまとめる&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br style=&quot;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#019E95;strokeWidth=3;arcSize=9;align=left;" vertex="1" parent="1">
+          <mxGeometry x="960" y="169.5" width="320" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
