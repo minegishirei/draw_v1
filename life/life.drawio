@@ -1113,8 +1113,8 @@
         <mxCell id="mRm9UbhAR6zB6eR1Ylhn-1" value="tech lead&#xa;エンジニア" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2360" y="201.5" width="70" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="mRm9UbhAR6zB6eR1Ylhn-2" value="心理学&#xa;&#xa;メンバー&#xa;募集" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="2039.8899999999999" y="280.5" width="70.11" height="70" as="geometry" />
+        <mxCell id="mRm9UbhAR6zB6eR1Ylhn-2" value="メンバー&#xa;募集" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="2039.8899999999999" y="200.5" width="70.11" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xZs728uj3sjbEIUIh0QS-1" value="CTF&#xa;大会での&#xa;コツを掴む" style="rounded=1;fillColor=#001933;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2039.8900000000003" y="359.25" width="70" height="71.25" as="geometry" />
