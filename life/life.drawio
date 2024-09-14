@@ -1038,9 +1038,6 @@
         <mxCell id="Icef4OOBGAg4U_UX4f9t-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;ブランドが確立されたエンジニア&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="960" y="40" width="760" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Whbl4GmZNMDJ65SFZFv8-1" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;・家 &amp;amp; 結婚&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;・副業の獲得&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;・開業届の提出&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="1720" y="200" width="80" height="130" as="geometry" />
-        </mxCell>
         <mxCell id="yDe6ybEjxr5FJJfAFzlR-1" value="2023" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" parent="1" vertex="1">
           <mxGeometry x="1360" y="120" width="331" height="70" as="geometry" />
         </mxCell>
@@ -1178,6 +1175,12 @@
         </mxCell>
         <mxCell id="mGZSXEqKCVbw685ZEJQO-8" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: x-small;&quot;&gt;&lt;b&gt;・知らない人から、人生の中で 「このロゴ,名称見たことある」 が1回以上発生すること&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#019E95;strokeWidth=3;arcSize=16;align=left;verticalAlign=top;fontColor=#019E95;" vertex="1" parent="1">
           <mxGeometry x="2039.89" y="441.25" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mGZSXEqKCVbw685ZEJQO-9" value="サブ獲得" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="201.5" width="70" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="mGZSXEqKCVbw685ZEJQO-10" value="開業届&#xa;提出" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="280.5" width="70" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
