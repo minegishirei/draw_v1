@@ -1179,6 +1179,9 @@
         <mxCell id="RQwSc7FN99vJ_YUPr9Yb-2" value="心理学&#xa;100記事&#xa;越え" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2440" y="202.5" width="70.11" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="RQwSc7FN99vJ_YUPr9Yb-3" value="心理学&#xa;構造化" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1800.2199999999998" y="760" width="70.11" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
