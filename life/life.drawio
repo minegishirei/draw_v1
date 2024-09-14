@@ -1016,7 +1016,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3elI2iuipEpb0RjXrGl5" name="goal">
-    <mxGraphModel dx="82" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="430" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1048,10 +1048,10 @@
           <mxGeometry x="1360" y="200" width="320" height="130" as="geometry" />
         </mxCell>
         <mxCell id="kAWDG4V6mVrpNdcrgUgY-4" value="&lt;h1&gt;&lt;/h1&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;or&lt;/font&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;・転職し、リードエンジニアへ昇進&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;・家 &amp;amp; 結婚&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;・副業の獲得&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;・開業届の提出&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="2360" y="200" width="80" height="130" as="geometry" />
+          <mxGeometry x="2360" y="290" width="80" height="130" as="geometry" />
         </mxCell>
         <mxCell id="kAWDG4V6mVrpNdcrgUgY-5" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;家賃完済&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="2440" y="200" width="80" height="130" as="geometry" />
+          <mxGeometry x="2440" y="300.5" width="80" height="130" as="geometry" />
         </mxCell>
         <mxCell id="kAWDG4V6mVrpNdcrgUgY-6" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;Myhouse...&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;・副業の獲得&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;・開業届の提出&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="2520" y="200" width="80" height="130" as="geometry" />
@@ -1119,8 +1119,8 @@
         <mxCell id="T9BdasmDbkO3-ggoIJNe-15" value="tech lead&#xa;開始" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1800.2200000000003" y="680" width="70" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="mRm9UbhAR6zB6eR1Ylhn-1" value="tech lead&#xa;エンジニア&#xa;転職" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="2040.0000000000002" y="200" width="70" height="71" as="geometry" />
+        <mxCell id="mRm9UbhAR6zB6eR1Ylhn-1" value="tech lead&#xa;エンジニア" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="2360" y="201.5" width="70" height="71" as="geometry" />
         </mxCell>
         <mxCell id="mRm9UbhAR6zB6eR1Ylhn-2" value="心理学&#xa;&#xa;メンバー&#xa;募集" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2039.8899999999999" y="280.5" width="70.11" height="70" as="geometry" />
@@ -1135,7 +1135,7 @@
           <mxGeometry x="1880" y="280.5" width="70.11" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5O2Yc0ahjdHfmbkfYX9E-2" value="tech lead" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="2120" y="199" width="70" height="71" as="geometry" />
+          <mxGeometry x="2440" y="200" width="70" height="71" as="geometry" />
         </mxCell>
         <mxCell id="VMFeblVdzABGXuNVAHO_-1" value="エンジニアとして、ブランドを確立したい&#xa;そのために、エンジニア心理学を広めて&#xa;世のプロジェクトという点で貢献したい" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="960" y="90" width="310" height="70" as="geometry" />
