@@ -1053,12 +1053,6 @@
         <mxCell id="kAWDG4V6mVrpNdcrgUgY-6" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;Myhouse...&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;・副業の獲得&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;・開業届の提出&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="2520" y="200" width="80" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="WA-nlWdwAt8uMSPwG-o--1" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;・家 &amp;amp; 結婚&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;・副業の獲得&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;・開業届の提出&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="2680" y="200" width="80" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="WA-nlWdwAt8uMSPwG-o--2" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;家賃完済&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="2760" y="200" width="80" height="130" as="geometry" />
-        </mxCell>
         <mxCell id="WA-nlWdwAt8uMSPwG-o--3" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;Myhouse...&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;・副業の獲得&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;・開業届の提出&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="2840" y="200" width="80" height="130" as="geometry" />
         </mxCell>
@@ -1169,6 +1163,12 @@
         </mxCell>
         <mxCell id="_0iLQjTlVe5murt2bJV8-3" value="AWS&#xa;インフラ&#xa;エンジニア" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1800" y="520" width="70" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="mGZSXEqKCVbw685ZEJQO-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: x-small;&quot;&gt;&lt;b&gt;・知らない人から、人生の中で 「このロゴ,名称見たことある」 が5回以上発生すること&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#019E95;strokeWidth=3;arcSize=16;align=left;verticalAlign=top;fontColor=#019E95;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="201" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mGZSXEqKCVbw685ZEJQO-5" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: x-small;&quot;&gt;&lt;b&gt;・知らない人から、人生の中で 「このロゴ,名称見たことある」 が5回以上発生すること&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#019E95;strokeWidth=3;arcSize=16;align=left;verticalAlign=top;fontColor=#019E95;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="280.5" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
