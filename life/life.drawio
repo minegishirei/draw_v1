@@ -1186,7 +1186,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2024_08" id="uiUMKeZ0txUB_UNjZnf_">
-    <mxGraphModel dx="765" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="500" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-0" />
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-1" parent="Bh7SMV7lsvvrdX1vqtc6-0" />
@@ -1312,6 +1312,9 @@
         </mxCell>
         <mxCell id="g9cGODyzLKQa1CBrAhzU-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
           <mxGeometry x="1880.0000000000005" y="38.75" width="20" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="iRqyp7rcj9QUZxd0Yh8y-0" value="インテリ&#xa;ジェンス&#xa;ギャザ&#xa;リング" style="rounded=1;fillColor=#001933;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="2080.11" y="519.5" width="70" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
