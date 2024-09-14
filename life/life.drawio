@@ -1016,7 +1016,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3elI2iuipEpb0RjXrGl5" name="goal">
-    <mxGraphModel dx="578" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="666" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1069,13 +1069,13 @@
           <mxGeometry x="840" y="649.5" width="68.78" height="70" as="geometry" />
         </mxCell>
         <mxCell id="T9BdasmDbkO3-ggoIJNe-9" value="サブ開始" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1800.22" y="600" width="70" height="71" as="geometry" />
+          <mxGeometry x="1800.22" y="680.88" width="70" height="71" as="geometry" />
         </mxCell>
         <mxCell id="T9BdasmDbkO3-ggoIJNe-10" value="心理学&#xa;10記事&#xa;越え" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1800.11" y="201.5" width="70.11" height="70" as="geometry" />
         </mxCell>
         <mxCell id="T9BdasmDbkO3-ggoIJNe-11" value="CTF&#xa;基本攻撃" style="rounded=1;fillColor=#001933;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1800.1100000000001" y="359.25" width="70" height="71.25" as="geometry" />
+          <mxGeometry x="1800.1100000000001" y="440.13" width="70" height="71.25" as="geometry" />
         </mxCell>
         <mxCell id="T9BdasmDbkO3-ggoIJNe-12" value="心理学&#xa;100いいね&#xa;超え&#xa;獲得" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1880" y="201.25" width="70.11" height="70" as="geometry" />
@@ -1087,7 +1087,7 @@
           <mxGeometry x="1800.1100000000001" y="280.5" width="70.11" height="70" as="geometry" />
         </mxCell>
         <mxCell id="T9BdasmDbkO3-ggoIJNe-15" value="tech lead&#xa;開始" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1800.2200000000003" y="680" width="70" height="71" as="geometry" />
+          <mxGeometry x="1800.2200000000003" y="760.88" width="70" height="71" as="geometry" />
         </mxCell>
         <mxCell id="mRm9UbhAR6zB6eR1Ylhn-1" value="tech lead&#xa;エンジニア&#xa;or&#xa;転職" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2360" y="201.5" width="70" height="71" as="geometry" />
@@ -1131,56 +1131,56 @@
         <mxCell id="VMFeblVdzABGXuNVAHO_-16" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;b&gt;・知らない人から称号がつけられること&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#019E95;strokeWidth=3;arcSize=16;align=left;verticalAlign=top;fontColor=#019E95;" parent="1" vertex="1">
           <mxGeometry x="960" y="408.5" width="150" height="70.5" as="geometry" />
         </mxCell>
-        <mxCell id="_0iLQjTlVe5murt2bJV8-1" value="CTF&#xa;調査" style="rounded=1;fillColor=#001933;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1800.1100000000001" y="440" width="70" height="71.25" as="geometry" />
+        <mxCell id="_0iLQjTlVe5murt2bJV8-1" value="CTF&#xa;調査" style="rounded=1;fillColor=#001933;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="1800.1100000000001" y="520.88" width="70" height="71.25" as="geometry" />
         </mxCell>
-        <mxCell id="_0iLQjTlVe5murt2bJV8-3" value="AWS&#xa;インフラ&#xa;エンジニア" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="520" width="70" height="71" as="geometry" />
+        <mxCell id="_0iLQjTlVe5murt2bJV8-3" value="AWS&#xa;インフラ&#xa;エンジニア" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="600.88" width="70" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="mGZSXEqKCVbw685ZEJQO-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: x-small;&quot;&gt;&lt;b&gt;・知らない人から、人生の中で 「このロゴ,名称見たことある」 が5回以上発生すること&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#019E95;strokeWidth=3;arcSize=16;align=left;verticalAlign=top;fontColor=#019E95;" vertex="1" parent="1">
+        <mxCell id="mGZSXEqKCVbw685ZEJQO-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: x-small;&quot;&gt;&lt;b&gt;・知らない人から、人生の中で 「このロゴ,名称見たことある」 が5回以上発生すること&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#019E95;strokeWidth=3;arcSize=16;align=left;verticalAlign=top;fontColor=#019E95;" parent="1" vertex="1">
           <mxGeometry x="2680" y="201" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="mGZSXEqKCVbw685ZEJQO-6" value="&lt;div&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;b&gt;・全員の印象が一致していること&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#019E95;strokeWidth=3;arcSize=16;align=left;verticalAlign=top;fontColor=#019E95;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="mGZSXEqKCVbw685ZEJQO-6" value="&lt;div&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;b&gt;・全員の印象が一致していること&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#019E95;strokeWidth=3;arcSize=16;align=left;verticalAlign=top;fontColor=#019E95;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="960" y="489.5" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="mGZSXEqKCVbw685ZEJQO-7" value="&lt;div&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;b&gt;・全員の印象が一致していること&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#019E95;strokeWidth=3;arcSize=16;align=left;verticalAlign=top;fontColor=#019E95;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="mGZSXEqKCVbw685ZEJQO-7" value="&lt;div&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;b&gt;・全員の印象が一致していること&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#019E95;strokeWidth=3;arcSize=16;align=left;verticalAlign=top;fontColor=#019E95;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="2039.8899999999999" y="280.5" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="mGZSXEqKCVbw685ZEJQO-8" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: x-small;&quot;&gt;&lt;b&gt;・知らない人から、人生の中で 「このロゴ,名称見たことある」 が1回以上発生すること&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#019E95;strokeWidth=3;arcSize=16;align=left;verticalAlign=top;fontColor=#019E95;" vertex="1" parent="1">
+        <mxCell id="mGZSXEqKCVbw685ZEJQO-8" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: x-small;&quot;&gt;&lt;b&gt;・知らない人から、人生の中で 「このロゴ,名称見たことある」 が1回以上発生すること&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#019E95;strokeWidth=3;arcSize=16;align=left;verticalAlign=top;fontColor=#019E95;" parent="1" vertex="1">
           <mxGeometry x="2360.11" y="281.5" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="mGZSXEqKCVbw685ZEJQO-9" value="サブ獲得" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="mGZSXEqKCVbw685ZEJQO-9" value="サブ獲得" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1720" y="201.5" width="70" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="mGZSXEqKCVbw685ZEJQO-10" value="開業届&#xa;提出" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="mGZSXEqKCVbw685ZEJQO-10" value="開業届&#xa;提出" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1720" y="280.5" width="70" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="mGZSXEqKCVbw685ZEJQO-11" value="結婚❤️" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="mGZSXEqKCVbw685ZEJQO-11" value="結婚❤️" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1720" y="359.5" width="70" height="390.5" as="geometry" />
         </mxCell>
-        <mxCell id="mGZSXEqKCVbw685ZEJQO-12" value="サブ&#xa;やりきり" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="mGZSXEqKCVbw685ZEJQO-12" value="サブ&#xa;やりきり" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1880.0000000000002" y="520" width="70" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="mGZSXEqKCVbw685ZEJQO-13" value="house&#xa;done" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="mGZSXEqKCVbw685ZEJQO-13" value="house&#xa;done" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="3080" y="200" width="70" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="mGZSXEqKCVbw685ZEJQO-14" value="&lt;div&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;b&gt;・知らない人から、ダイレクトに仕事の依頼が来ること&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#019E95;strokeWidth=3;arcSize=16;align=left;verticalAlign=top;fontColor=#019E95;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="mGZSXEqKCVbw685ZEJQO-14" value="&lt;div&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;b&gt;・知らない人から、ダイレクトに仕事の依頼が来ること&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#019E95;strokeWidth=3;arcSize=16;align=left;verticalAlign=top;fontColor=#019E95;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="2680" y="359.88" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="mGZSXEqKCVbw685ZEJQO-15" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;b&gt;・知らない人から称号がつけられること&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#019E95;strokeWidth=3;arcSize=16;align=left;verticalAlign=top;fontColor=#019E95;" vertex="1" parent="1">
+        <mxCell id="mGZSXEqKCVbw685ZEJQO-15" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;b&gt;・知らない人から称号がつけられること&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#019E95;strokeWidth=3;arcSize=16;align=left;verticalAlign=top;fontColor=#019E95;" parent="1" vertex="1">
           <mxGeometry x="3000" y="281" width="150" height="70.5" as="geometry" />
         </mxCell>
-        <mxCell id="mGZSXEqKCVbw685ZEJQO-16" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b&gt;・自分が保有するブログ、Qiita、twitter以外で、名前が出ること(Google検索)&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-wrap: nowrap; background-color: initial;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bdiv%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bbackground-color%3A%20initial%3B%20font-size%3A%20x-small%3B%26quot%3B%26gt%3B%26lt%3Bb%26gt%3B%E3%83%BB%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E4%BA%BA%E3%81%8B%E3%82%89%E3%80%81%E4%BA%BA%E7%94%9F%E3%81%AE%E4%B8%AD%E3%81%A7%20%E3%80%8C%E3%81%93%E3%81%AE%E3%83%AD%E3%82%B4%2C%E5%90%8D%E7%A7%B0%E8%A6%8B%E3%81%9F%E3%81%93%E3%81%A8%E3%81%82%E3%82%8B%E3%80%8D%20%E3%81%8C5%E5%9B%9E%E4%BB%A5%E4%B8%8A%E7%99%BA%E7%94%9F%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BstrokeColor%3D%23019E95%3BstrokeWidth%3D3%3BarcSize%3D16%3Balign%3Dleft%3BverticalAlign%3Dtop%3BfontColor%3D%23019E95%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22960%22%20y%3D%22320.5%22%20width%3D%22150%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#019E95;strokeWidth=3;arcSize=16;align=left;verticalAlign=top;fontColor=#019E95;" vertex="1" parent="1">
+        <mxCell id="mGZSXEqKCVbw685ZEJQO-16" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b&gt;・自分が保有するブログ、Qiita、twitter以外で、名前が出ること(Google検索)&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-wrap: nowrap; background-color: initial;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bdiv%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bbackground-color%3A%20initial%3B%20font-size%3A%20x-small%3B%26quot%3B%26gt%3B%26lt%3Bb%26gt%3B%E3%83%BB%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E4%BA%BA%E3%81%8B%E3%82%89%E3%80%81%E4%BA%BA%E7%94%9F%E3%81%AE%E4%B8%AD%E3%81%A7%20%E3%80%8C%E3%81%93%E3%81%AE%E3%83%AD%E3%82%B4%2C%E5%90%8D%E7%A7%B0%E8%A6%8B%E3%81%9F%E3%81%93%E3%81%A8%E3%81%82%E3%82%8B%E3%80%8D%20%E3%81%8C5%E5%9B%9E%E4%BB%A5%E4%B8%8A%E7%99%BA%E7%94%9F%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BstrokeColor%3D%23019E95%3BstrokeWidth%3D3%3BarcSize%3D16%3Balign%3Dleft%3BverticalAlign%3Dtop%3BfontColor%3D%23019E95%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22960%22%20y%3D%22320.5%22%20width%3D%22150%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#019E95;strokeWidth=3;arcSize=16;align=left;verticalAlign=top;fontColor=#019E95;" parent="1" vertex="1">
           <mxGeometry x="2200" y="281" width="150" height="70.5" as="geometry" />
         </mxCell>
-        <mxCell id="RQwSc7FN99vJ_YUPr9Yb-1" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: x-small;&quot;&gt;&lt;b&gt;・トレンドランキング1位に乗ること&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#019E95;strokeWidth=3;arcSize=16;align=left;verticalAlign=top;fontColor=#019E95;" vertex="1" parent="1">
+        <mxCell id="RQwSc7FN99vJ_YUPr9Yb-1" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: x-small;&quot;&gt;&lt;b&gt;・トレンドランキング1位に乗ること&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#019E95;strokeWidth=3;arcSize=16;align=left;verticalAlign=top;fontColor=#019E95;" parent="1" vertex="1">
           <mxGeometry x="2120" y="360" width="150" height="70.5" as="geometry" />
         </mxCell>
-        <mxCell id="RQwSc7FN99vJ_YUPr9Yb-2" value="心理学&#xa;100記事&#xa;越え" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="RQwSc7FN99vJ_YUPr9Yb-2" value="心理学&#xa;100記事&#xa;越え" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2440" y="202.5" width="70.11" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RQwSc7FN99vJ_YUPr9Yb-3" value="心理学&#xa;構造化" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1800.2199999999998" y="760" width="70.11" height="70" as="geometry" />
+        <mxCell id="RQwSc7FN99vJ_YUPr9Yb-3" value="心理学&#xa;構造化" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="1799.8899999999999" y="360.25" width="70.11" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
