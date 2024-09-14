@@ -1179,6 +1179,9 @@
         <mxCell id="mGZSXEqKCVbw685ZEJQO-11" value="結婚❤️" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1720" y="359.5" width="70" height="390.5" as="geometry" />
         </mxCell>
+        <mxCell id="mGZSXEqKCVbw685ZEJQO-12" value="サブ&#xa;やりきり" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1880.0000000000002" y="520" width="70" height="71" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
