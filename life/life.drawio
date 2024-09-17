@@ -1369,6 +1369,9 @@
         <mxCell id="sKX6FVot-ZFYLyNv00zt-1" value="Lambda&#xa;Layer" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="2E8TxIrh7w6irm9oRbnd-1">
           <mxGeometry x="118.78" y="280" width="70" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="PjKW8tstZQFgLuMrgzGP-0" value="psy&#xa;&#xa;vorcal&#xa;構造化" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="2E8TxIrh7w6irm9oRbnd-1">
+          <mxGeometry x="360" y="120" width="70.11" height="308.75" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
