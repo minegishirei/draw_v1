@@ -1375,6 +1375,12 @@
         <mxCell id="PjKW8tstZQFgLuMrgzGP-0" value="psy&#xa;&#xa;ペアプロ&#xa;チェック&#xa;リスト" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="2E8TxIrh7w6irm9oRbnd-1" vertex="1">
           <mxGeometry x="360" y="120" width="70.11" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="mRCHdq2m2z7LaXQJxIrd-0" value="ペアプロ..." style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="2E8TxIrh7w6irm9oRbnd-1">
+          <mxGeometry x="280" y="120" width="68.78" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mRCHdq2m2z7LaXQJxIrd-1" value="やばさに&#xa;気づく" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="2E8TxIrh7w6irm9oRbnd-1">
+          <mxGeometry x="280" y="200" width="70.11" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
