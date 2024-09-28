@@ -1360,7 +1360,7 @@
             <mxPoint x="600" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X1-N1SwA1jTxm_LEXyVZ-11" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;今週の振り返り&lt;/h1&gt;&lt;div&gt;先週相談した成果が出ている。&lt;/div&gt;&lt;div&gt;仕事が中心になってしまっている状態は続いているが、あと7日弱の辛抱。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;その後、ペアプログラミングを実施したことで異変に気づく。&lt;/div&gt;&lt;div&gt;レビューの際に、一つの箇所を重点的に治すのではなく、直す作業のネストが大量発生するのだ。&lt;/div&gt;&lt;div&gt;これは意図的に行なっているわけではなく、おそらく自分で抑えられない「障害」である可能性が高い。特徴から考えて「多動症」の可能性がある（ただし軽度）。&lt;/div&gt;&lt;div&gt;また、特定の内容に強い執着を持つことから、自閉症の可能性もある。&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="X1-N1SwA1jTxm_LEXyVZ-1">
+        <mxCell id="X1-N1SwA1jTxm_LEXyVZ-11" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;今週の振り返り&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;可能な限りリードする&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="X1-N1SwA1jTxm_LEXyVZ-1">
           <mxGeometry x="610" y="40" width="190" height="560" as="geometry" />
         </mxCell>
         <mxCell id="X1-N1SwA1jTxm_LEXyVZ-12" value="ブログ&#xa;再編&#xa;キャリア編" style="rounded=1;fillColor=#333333;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="X1-N1SwA1jTxm_LEXyVZ-1">
