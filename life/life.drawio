@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.15" pages="11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16" pages="12">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="weapon">
     <mxGraphModel dx="1005" dy="8842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1321,6 +1321,71 @@
         </mxCell>
         <mxCell id="qYLo5grGR6wN-6Eo-R1W-0" value="20いいね" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
           <mxGeometry x="2440" y="40" width="70.11" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="202400923" id="M2MoZjXidY1_MEClBsmu">
+    <mxGraphModel dx="1194" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="X1-N1SwA1jTxm_LEXyVZ-0" />
+        <mxCell id="X1-N1SwA1jTxm_LEXyVZ-1" parent="X1-N1SwA1jTxm_LEXyVZ-0" />
+        <mxCell id="X1-N1SwA1jTxm_LEXyVZ-2" value="火" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="X1-N1SwA1jTxm_LEXyVZ-1">
+          <mxGeometry x="99" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X1-N1SwA1jTxm_LEXyVZ-3" value="水" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="X1-N1SwA1jTxm_LEXyVZ-1">
+          <mxGeometry x="179" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X1-N1SwA1jTxm_LEXyVZ-4" value="木" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="X1-N1SwA1jTxm_LEXyVZ-1">
+          <mxGeometry x="259" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X1-N1SwA1jTxm_LEXyVZ-5" value="金" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="X1-N1SwA1jTxm_LEXyVZ-1">
+          <mxGeometry x="339" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X1-N1SwA1jTxm_LEXyVZ-6" value="土" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="X1-N1SwA1jTxm_LEXyVZ-1">
+          <mxGeometry x="419" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X1-N1SwA1jTxm_LEXyVZ-7" value="日" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="X1-N1SwA1jTxm_LEXyVZ-1">
+          <mxGeometry x="499" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X1-N1SwA1jTxm_LEXyVZ-8" value="月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="X1-N1SwA1jTxm_LEXyVZ-1">
+          <mxGeometry x="19" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X1-N1SwA1jTxm_LEXyVZ-9" value="&lt;h1&gt;テーマ：本業/副業を凌ぐ&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="X1-N1SwA1jTxm_LEXyVZ-1">
+          <mxGeometry x="40" y="40" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X1-N1SwA1jTxm_LEXyVZ-10" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" edge="1" parent="X1-N1SwA1jTxm_LEXyVZ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="41" y="110" as="sourcePoint" />
+            <mxPoint x="600" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X1-N1SwA1jTxm_LEXyVZ-11" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;今週の振り返り&lt;/h1&gt;&lt;div&gt;先週相談した成果が出ている。&lt;/div&gt;&lt;div&gt;仕事が中心になってしまっている状態は続いているが、あと7日弱の辛抱。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;その後、ペアプログラミングを実施したことで異変に気づく。&lt;/div&gt;&lt;div&gt;レビューの際に、一つの箇所を重点的に治すのではなく、直す作業のネストが大量発生するのだ。&lt;/div&gt;&lt;div&gt;これは意図的に行なっているわけではなく、おそらく自分で抑えられない「障害」である可能性が高い。特徴から考えて「多動症」の可能性がある（ただし軽度）。&lt;/div&gt;&lt;div&gt;また、特定の内容に強い執着を持つことから、自閉症の可能性もある。&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="X1-N1SwA1jTxm_LEXyVZ-1">
+          <mxGeometry x="610" y="40" width="190" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="X1-N1SwA1jTxm_LEXyVZ-12" value="ブログ&#xa;再編&#xa;キャリア編" style="rounded=1;fillColor=#333333;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="X1-N1SwA1jTxm_LEXyVZ-1">
+          <mxGeometry x="40" y="120" width="71.22" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="X1-N1SwA1jTxm_LEXyVZ-13" value="React&#xa;MUI&#xa;infinity&#xa;select box" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="X1-N1SwA1jTxm_LEXyVZ-1">
+          <mxGeometry x="120" y="120" width="68.78" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="X1-N1SwA1jTxm_LEXyVZ-14" value="Lambda&#xa;Layer" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="X1-N1SwA1jTxm_LEXyVZ-1">
+          <mxGeometry x="118.78" y="280" width="70" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="X1-N1SwA1jTxm_LEXyVZ-15" value="psy&#xa;&#xa;ペアプロ&#xa;チェック&#xa;リスト" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="X1-N1SwA1jTxm_LEXyVZ-1">
+          <mxGeometry x="360" y="120" width="70.11" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="X1-N1SwA1jTxm_LEXyVZ-16" value="ペアプロ..." style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="X1-N1SwA1jTxm_LEXyVZ-1">
+          <mxGeometry x="280" y="120" width="68.78" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="X1-N1SwA1jTxm_LEXyVZ-17" value="やばさに&#xa;気づく" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="X1-N1SwA1jTxm_LEXyVZ-1">
+          <mxGeometry x="280" y="200" width="70.11" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="X1-N1SwA1jTxm_LEXyVZ-18" value="広告位置&#xa;再編" style="rounded=1;fillColor=#333333;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="X1-N1SwA1jTxm_LEXyVZ-1">
+          <mxGeometry x="360" y="280" width="71.22" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="X1-N1SwA1jTxm_LEXyVZ-19" value="CICD&#xa;実装" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="X1-N1SwA1jTxm_LEXyVZ-1">
+          <mxGeometry x="440" y="120" width="70" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
