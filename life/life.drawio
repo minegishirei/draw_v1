@@ -1331,6 +1331,15 @@
         <mxCell id="dnfDbst9dJ0V7t7Hc5sT-0" value="AWS&#xa;インフラ&#xa;エンジニア" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
           <mxGeometry x="2160" y="200" width="70" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="LqS4cRyXvMJnoMXKRQwF-0" value="AWS&#xa;Lambda&#xa;構築" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="2240" y="200" width="70" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="LqS4cRyXvMJnoMXKRQwF-1" value="AWS&#xa;インフラ&#xa;エンジニア" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="2240" y="361.25" width="70" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="LqS4cRyXvMJnoMXKRQwF-2" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="2200.2200000000003" y="40" width="20" height="21" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
