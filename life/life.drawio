@@ -1396,6 +1396,12 @@
         <mxCell id="lmivFtzMG6AOWzEuGU7y-14" value="Terraform&#xa;ECS" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="lmivFtzMG6AOWzEuGU7y-1">
           <mxGeometry x="360" y="280" width="70" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="OITXQl4imSPRl8za8Dxf-0" value="扶養&#xa;手続き" style="rounded=1;fillColor=#FF99CC;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="lmivFtzMG6AOWzEuGU7y-1">
+          <mxGeometry x="40.00000000000003" y="120" width="68.78" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OITXQl4imSPRl8za8Dxf-1" value="評価&#xa;面談&#xa;準備" style="rounded=1;fillColor=#FF99CC;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="lmivFtzMG6AOWzEuGU7y-1">
+          <mxGeometry x="40.00000000000003" y="200" width="68.78" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
