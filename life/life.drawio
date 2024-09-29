@@ -1041,9 +1041,6 @@
         <mxCell id="yDe6ybEjxr5FJJfAFzlR-1" value="2023" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" parent="1" vertex="1">
           <mxGeometry x="1360" y="120" width="331" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="yDe6ybEjxr5FJJfAFzlR-2" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;・マスコットキャラクター/アイコンの統一（DONE）&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="1360" y="200" width="320" height="130" as="geometry" />
-        </mxCell>
         <mxCell id="T9BdasmDbkO3-ggoIJNe-1" value="Container" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="840" y="409.5" width="70" height="69.5" as="geometry" />
         </mxCell>
@@ -1196,6 +1193,9 @@
         </mxCell>
         <mxCell id="WefqNecDkGqjaiCD7p3o-2" value="&lt;div&gt;&lt;font size=&quot;1&quot; color=&quot;#001933&quot;&gt;&lt;b&gt;・クラウドインフラを活用したプロジェクトに複数参加していること&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001933;strokeWidth=3;arcSize=16;align=left;verticalAlign=top;fontColor=#019E95;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1120" y="649.5" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WefqNecDkGqjaiCD7p3o-3" value="&lt;div&gt;&lt;font size=&quot;1&quot; color=&quot;#001933&quot;&gt;&lt;b&gt;・クラウドインフラを活用したプロジェクトに複数参加していること&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001933;strokeWidth=3;arcSize=16;align=left;verticalAlign=top;fontColor=#019E95;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="200" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
