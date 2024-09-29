@@ -1083,9 +1083,6 @@
         <mxCell id="T9BdasmDbkO3-ggoIJNe-14" value="心理学&#xa;ニーズ把握&#xa;コツを掴む" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1800.1100000000001" y="280.5" width="70.11" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="T9BdasmDbkO3-ggoIJNe-15" value="tech lead&#xa;開始" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1800.2200000000003" y="760.88" width="70" height="71" as="geometry" />
-        </mxCell>
         <mxCell id="mRm9UbhAR6zB6eR1Ylhn-1" value="tech lead&#xa;エンジニア&#xa;or&#xa;転職" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2360" y="201.5" width="70" height="71" as="geometry" />
         </mxCell>
@@ -1201,7 +1198,10 @@
           <mxGeometry x="1120" y="730" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UMHLfJdTsFjKFNEfT--p-2" value="&lt;div&gt;&lt;font size=&quot;1&quot; color=&quot;#001933&quot;&gt;&lt;b&gt;・インフラエンジニアとしてプロジェクトをリードすること&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001933;strokeWidth=3;arcSize=16;align=left;verticalAlign=top;fontColor=#019E95;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1799.89" y="1000" width="150" height="70" as="geometry" />
+          <mxGeometry x="1799.89" y="760" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UMHLfJdTsFjKFNEfT--p-3" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="1">
+          <mxGeometry x="1800.2200000000003" y="680.88" width="20" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
