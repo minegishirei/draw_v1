@@ -1372,9 +1372,6 @@
         <mxCell id="X1-N1SwA1jTxm_LEXyVZ-11" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;今週の振り返り&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;プロジェクトが変わり、一時的に別プロジェクトに配備されることになった。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;リーダー経験が少なかったが、ここでIaCについて可能な限りリードする経験を得た。&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="X1-N1SwA1jTxm_LEXyVZ-1" vertex="1">
           <mxGeometry x="610" y="40" width="190" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="X1-N1SwA1jTxm_LEXyVZ-13" value="React&#xa;MUI&#xa;infinity&#xa;select box" style="rounded=1;fillColor=#66B2FF;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="X1-N1SwA1jTxm_LEXyVZ-1" vertex="1">
-          <mxGeometry x="120" y="120" width="68.78" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="X1-N1SwA1jTxm_LEXyVZ-15" value="psy&#xa;&#xa;ペアプロ&#xa;チェック&#xa;リスト&#xa;導入" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="X1-N1SwA1jTxm_LEXyVZ-1" vertex="1">
           <mxGeometry x="360" y="120" width="70.11" height="150" as="geometry" />
         </mxCell>
