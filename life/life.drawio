@@ -1385,7 +1385,7 @@
           <mxGeometry x="360" y="120" width="70.11" height="150" as="geometry" />
         </mxCell>
         <mxCell id="X1-N1SwA1jTxm_LEXyVZ-19" value="Terraform&#xa;ECS" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="X1-N1SwA1jTxm_LEXyVZ-1" vertex="1">
-          <mxGeometry x="440" y="120" width="70" height="190" as="geometry" />
+          <mxGeometry x="440" y="120" width="70" height="150" as="geometry" />
         </mxCell>
         <mxCell id="z1an86QImZqfKZCMO0F6-0" value="Terraform&#xa;ECS" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="X1-N1SwA1jTxm_LEXyVZ-1">
           <mxGeometry x="360" y="280" width="70" height="190" as="geometry" />
