@@ -1165,7 +1165,7 @@
           <mxGeometry x="3080" y="200" width="70" height="71" as="geometry" />
         </mxCell>
         <mxCell id="mGZSXEqKCVbw685ZEJQO-14" value="&lt;div&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;b&gt;・知らない人から、ダイレクトに仕事の依頼が来ること&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#019E95;strokeWidth=3;arcSize=16;align=left;verticalAlign=top;fontColor=#019E95;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2680" y="281.5" width="150" height="70" as="geometry" />
+          <mxGeometry x="1799.89" y="840" width="70" height="149.12" as="geometry" />
         </mxCell>
         <mxCell id="mGZSXEqKCVbw685ZEJQO-15" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;b&gt;・知らない人から称号がつけられること&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#019E95;strokeWidth=3;arcSize=16;align=left;verticalAlign=top;fontColor=#019E95;" parent="1" vertex="1">
           <mxGeometry x="3000" y="281" width="150" height="70.5" as="geometry" />
@@ -1184,6 +1184,9 @@
         </mxCell>
         <mxCell id="h9akMYVzi1_cZ2wUGgQc-1" value="心理学版&#xa;qiita" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2040" y="440" width="70.11" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga7KwIpCKxokZtH1YT3h-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="1">
+          <mxGeometry x="1799.8900000000003" y="840" width="20" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
