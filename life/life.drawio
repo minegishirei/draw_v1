@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16" pages="13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17" pages="13">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="weapon">
     <mxGraphModel dx="1592" dy="9035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1207,7 +1207,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2024_08" id="uiUMKeZ0txUB_UNjZnf_">
-    <mxGraphModel dx="367" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="666" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-0" />
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-1" parent="Bh7SMV7lsvvrdX1vqtc6-0" />
@@ -1310,9 +1310,6 @@
         <mxCell id="Tj_Mva2wsrDLrG0ye8Vw-3" value="心理学&#xa;ニーズ把握&#xa;コツを掴む" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1960" y="39" width="70.11" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Tj_Mva2wsrDLrG0ye8Vw-4" value="tech lead&#xa;開始" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="2130.2200000000003" y="679" width="70" height="71" as="geometry" />
-        </mxCell>
         <mxCell id="Tj_Mva2wsrDLrG0ye8Vw-5" value="CTF&#xa;調査" style="rounded=1;fillColor=#001933;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2120" y="38.75" width="70" height="71.25" as="geometry" />
         </mxCell>
@@ -1340,19 +1337,19 @@
         <mxCell id="qYLo5grGR6wN-6Eo-R1W-0" value="20いいね" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2440" y="40" width="70.11" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dnfDbst9dJ0V7t7Hc5sT-0" value="AWS&#xa;インフラ&#xa;エンジニア" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+        <mxCell id="dnfDbst9dJ0V7t7Hc5sT-0" value="AWS&#xa;インフラ&#xa;エンジニア" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2160" y="200" width="70" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="LqS4cRyXvMJnoMXKRQwF-0" value="AWS&#xa;Lambda&#xa;構築" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+        <mxCell id="LqS4cRyXvMJnoMXKRQwF-0" value="AWS&#xa;Lambda&#xa;構築" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2240" y="200" width="70" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="LqS4cRyXvMJnoMXKRQwF-1" value="AWS&#xa;Terraform" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+        <mxCell id="LqS4cRyXvMJnoMXKRQwF-1" value="AWS&#xa;Terraform" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2240" y="361.25" width="70" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="LqS4cRyXvMJnoMXKRQwF-2" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+        <mxCell id="LqS4cRyXvMJnoMXKRQwF-2" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2200.2200000000003" y="40" width="20" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="T3Apw_rZpbNRxMg1HASl-0" value="インフラ&#xa;リード" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+        <mxCell id="T3Apw_rZpbNRxMg1HASl-0" value="インフラ&#xa;リード" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2240" y="520.75" width="70" height="149.25" as="geometry" />
         </mxCell>
       </root>
