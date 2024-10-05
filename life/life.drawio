@@ -1207,7 +1207,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2024_08" id="uiUMKeZ0txUB_UNjZnf_">
-    <mxGraphModel dx="666" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="578" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-0" />
         <mxCell id="Bh7SMV7lsvvrdX1vqtc6-1" parent="Bh7SMV7lsvvrdX1vqtc6-0" />
@@ -1351,6 +1351,9 @@
         </mxCell>
         <mxCell id="T3Apw_rZpbNRxMg1HASl-0" value="インフラ&#xa;リード" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="2240" y="520.75" width="70" height="149.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Lrsek462OuNxSteJvsFA-0" value="うまく&#xa;&#xa;行ったこと&#xa;の先に&#xa;&#xa;努力する&#xa;&#xa;↓&#xa;&#xa;心理学を&#xa;お金にする&#xa;試み" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="2360" y="199.5" width="70.11" height="270.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
