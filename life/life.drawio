@@ -1361,6 +1361,9 @@
         <mxCell id="pTZ9TxK2LWUjqBOIW4ni-1" value=" ECS構築" style="rounded=1;fillColor=#2E3E52;strokeColor=#232F3E;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
           <mxGeometry x="2320" y="360" width="70" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="FFFIWZV5-TQPaxZpsJze-0" value="アセンブリ" style="rounded=1;fillColor=#000000;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
+          <mxGeometry x="2400" y="480" width="70" height="69" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
