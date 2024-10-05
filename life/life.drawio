@@ -1296,7 +1296,7 @@
           <mxGeometry x="1999" y="359" width="70.11" height="151" as="geometry" />
         </mxCell>
         <mxCell id="cU9FyDea3dlW-1WQSGIN-0" value="夏休み" style="rounded=1;fillColor=#FF99CC;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
-          <mxGeometry x="2440" y="197.75" width="68.78" height="149" as="geometry" />
+          <mxGeometry x="2400" y="202.5" width="68.78" height="149" as="geometry" />
         </mxCell>
         <mxCell id="cU9FyDea3dlW-1WQSGIN-1" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;自分のやりたい方向性を、もう一度検討する。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;今の会社でやりたいことは「インフラエンジニア」「セキュリティレイヤー」だが、それができる見込みがない。&lt;br&gt;加えて、これ以上成長できる要素が見つからない。&lt;br&gt;・収入の面：上がった&lt;br&gt;・経験値の面：技術的にはプラス。経歴書も強い。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;僕が次の会社に求めることは&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;・テックリードとして、職責を広げれること&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;・給与の上昇&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;・セキュリティ/インフラに携われること&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="Bh7SMV7lsvvrdX1vqtc6-1" vertex="1">
           <mxGeometry x="1241" y="80" width="320" height="270" as="geometry" />
@@ -1353,7 +1353,7 @@
           <mxGeometry x="2240" y="520.75" width="70" height="149.25" as="geometry" />
         </mxCell>
         <mxCell id="Lrsek462OuNxSteJvsFA-0" value="うまく&#xa;いったこと&#xa;の先に&#xa;努力する&#xa;(NG:努力の&#xa;先に成功が&#xa;ある)&#xa;&#xa;↓&#xa;&#xa;心理学で&#xa;お金になった&#xa;経験を&#xa;作る" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Bh7SMV7lsvvrdX1vqtc6-1">
-          <mxGeometry x="2360" y="199.5" width="70.11" height="270.5" as="geometry" />
+          <mxGeometry x="2320" y="200" width="70.11" height="270.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
