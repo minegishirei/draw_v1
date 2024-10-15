@@ -1215,6 +1215,9 @@
         <mxCell id="DjE4wwqIRCXWsxiWhCZX-3" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006633;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked;" vertex="1" parent="1">
           <mxGeometry x="1799.8900000000003" y="760" width="20" height="21" as="geometry" />
         </mxCell>
+        <mxCell id="DjE4wwqIRCXWsxiWhCZX-4" value="エンジニア&#xa;心理学&#xa;方針決め" style="rounded=1;fillColor=#019E95;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="840" width="70.11" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
