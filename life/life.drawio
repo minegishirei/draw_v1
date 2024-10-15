@@ -1209,6 +1209,9 @@
         <mxCell id="DjE4wwqIRCXWsxiWhCZX-1" value="アセンブリ" style="rounded=1;fillColor=#001933;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1800" y="441" width="70" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="DjE4wwqIRCXWsxiWhCZX-2" value="バッファ&#xa;オーバー&#xa;フロー" style="rounded=1;fillColor=#001933;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1880.11" y="838.37" width="70" height="150.75" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
