@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17" pages="13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4" pages="13">
   <diagram id="oRNN-zSzG9cJebJDm6hJ" name="weapon">
-    <mxGraphModel dx="1592" dy="9035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="8788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -995,7 +995,7 @@
           <mxGeometry x="410" y="680" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ommuuW-ICes0LPsk2AIj-32" value="エンジニア心理学&#xa;ブランド&#xa;確立" style="rounded=1;fillColor=#333333;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="ommuuW-ICes0LPsk2AIj-2" vertex="1">
-          <mxGeometry x="230" y="49" width="144" height="70" as="geometry" />
+          <mxGeometry x="270" y="54" width="144" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ommuuW-ICes0LPsk2AIj-33" value="・知らない人から、人生の中で 「このロゴ,名称見たことある」 が5回以上発生すること&#xa;・知らない人から、ダイレクトに仕事の依頼が来ること&#xa;・知らない人の間で、それらの情報が一貫性を保つこと&#xa;・自分が保有するブログ、Qiita、twitter以外で、名前が出ること(Google検索)&#xa;・何らかの勝敗が分かれる競技、競争で一番になること&#xa;・知らない人から称号がつけられること&#xa;・社内を超える組織に貢献すること" style="text;whiteSpace=wrap;" parent="ommuuW-ICes0LPsk2AIj-2" vertex="1">
           <mxGeometry x="70" y="129" width="490" height="120" as="geometry" />
