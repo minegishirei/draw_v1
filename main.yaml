@@ -1,0 +1,389 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Parameters:
+  EnvironmentName:
+    Type: String
+  DpendStackNameNetwork:
+    Type: String
+  DpendStackNameCertification:
+    Type: String
+  DpendStackNameDatabase:
+    Type: String
+  DpendStackNameDeploy:
+    Type: String
+  CognitoUserPoolAdminArn:
+    Type: String
+  PrivateSubnetA:
+    Type: String
+  PrivateSubnetC:
+    Type: String
+  SecurityGroup:
+    Type: String
+
+Resources:
+  # AdminLambda 
+  ## IAM Role (lambda & api gateway)
+  AdminLambdaIAMRole: #TODO:IAMロールの厳格化
+    UpdateReplacePolicy: "Delete"
+    Type: "AWS::IAM::Role"
+    DeletionPolicy: "Delete"
+    Properties:
+      Path: "/service-role/"
+      ManagedPolicyArns:
+      - "arn:aws:iam::aws:policy/AWSLambda_FullAccess"
+      - "arn:aws:iam::aws:policy/CloudWatchFullAccess"
+      - "arn:aws:iam::aws:policy/service-role/AWSLambdaVPCAccessExecutionRole"
+      - "arn:aws:iam::aws:policy/SecretsManagerReadWrite"
+      - "arn:aws:iam::aws:policy/AmazonCognitoPowerUser"
+      MaxSessionDuration: 3600
+      RoleName: !Sub "${EnvironmentName}-admin-lambda-role"
+      AssumeRolePolicyDocument:
+        Version: "2012-10-17"
+        Statement:
+        - Action: "sts:AssumeRole"
+          Effect: "Allow"
+          Principal:
+            Service:
+            - "lambda.amazonaws.com"
+            - "apigateway.amazonaws.com"
+      Tags:
+      - Key: Name
+        Value: !Sub "${EnvironmentName}-AdminLambdaIAMRole"
+      - Key: sys
+        Value: !Sub "${EnvironmentName}"
+  ## AdminLambdaFunction
+  AdminLambdaFunction:
+    UpdateReplacePolicy: "Delete"
+    Type: "AWS::Lambda::Function"
+    DeletionPolicy: "Delete"
+    Properties:
+      MemorySize: 128
+      Description: ""
+      TracingConfig:
+        Mode: "PassThrough"
+      Timeout: 60
+      RuntimeManagementConfig:
+        UpdateRuntimeOn: "Auto"
+      Handler: "index.lambda_handler"
+      Code:
+        S3Bucket: !Sub "{{resolve:ssm:arn:aws:ssm:${AWS::Region}:${AWS::AccountId}:parameter/${DpendStackNameDeploy}-AdminLambdaS3Bucket}}"
+        S3Key: lambda.zip
+      Role: !GetAtt AdminLambdaIAMRole.Arn
+      FileSystemConfigs: []
+      FunctionName: !Sub "${EnvironmentName}-AdminLambda"
+      Runtime: "python3.12"
+      PackageType: "Zip"
+      LoggingConfig:
+        LogFormat: "Text"
+        LogGroup: !Ref AdminLambdaFunctionLogGroup
+      EphemeralStorage:
+        Size: 512
+      Architectures:
+      - "arm64"
+      Environment: 
+        Variables: 
+          EnvironmentName: !Sub "${EnvironmentName}"
+          DpendStackNameNetwork: !Sub "${DpendStackNameNetwork}"
+          DpendStackNameCertification: !Sub "${DpendStackNameCertification}"
+          DpendStackNameDatabase: !Sub "${DpendStackNameDatabase}"
+          cognito_client_id_shimane_police: "42ork0tmd06ftg4jgq2go3u1s0"
+          
+      Tags:
+      - Key: Name
+        Value: !Sub "${EnvironmentName}-AdminLambdaFunction"
+      - Key: sys
+        Value: !Sub "${EnvironmentName}"
+  AdminLambdaFunctionLogGroup:
+    Type: AWS::Logs::LogGroup
+    Properties:
+      LogGroupName: !Sub "/aws/lambda/${EnvironmentName}-admin-lambda"
+      RetentionInDays: 90
+
+  # API Gateway
+  AdminApiGatewayRestApi:
+    UpdateReplacePolicy: "Delete"
+    Type: "AWS::ApiGateway::RestApi"
+    DeletionPolicy: "Delete"
+    Properties:
+      ApiKeySourceType: "HEADER"
+      EndpointConfiguration:
+        Types:
+        - "REGIONAL"
+      DisableExecuteApiEndpoint: false
+      Name: !Sub "${EnvironmentName}-admin-apigateway"
+      Tags:
+      - Key: Name
+        Value: !Sub "${EnvironmentName}-AdminRestApi"
+      - Key: sys
+        Value: !Sub "${EnvironmentName}"
+
+  AdminCreateApiGatewayResource:
+    Type: "AWS::ApiGateway::Resource"
+    Properties:
+      RestApiId: !Ref AdminApiGatewayRestApi
+      ParentId: !GetAtt AdminApiGatewayRestApi.RootResourceId
+      PathPart: "users"
+    DependsOn:
+      - AdminApiGatewayRestApi
+      - AdminLambdaFunction
+  AdminCreateApiGatewayResourceMethod:
+    Type: AWS::ApiGateway::Method
+    Properties:
+      AuthorizationType: COGNITO_USER_POOLS
+      AuthorizerId: !Ref AdminApiGatewayAuthorizer
+      RestApiId: !Ref AdminApiGatewayRestApi
+      ResourceId: !Ref AdminCreateApiGatewayResource
+      ApiKeyRequired: false
+      HttpMethod: POST
+      MethodResponses:
+        - StatusCode: '200'
+          ResponseModels:
+            application/json: Empty
+      Integration:
+        Credentials: !GetAtt AdminLambdaIAMRole.Arn
+        IntegrationHttpMethod: "POST"
+        Type: "AWS_PROXY"
+        Uri: !Sub "arn:aws:apigateway:${AWS::Region}:lambda:path/2015-03-31/functions/arn:aws:lambda:${AWS::Region}:${AWS::AccountId}:function:${EnvironmentName}-AdminLambda:${!stageVariables.alias}/invocations"
+
+
+#  AdminUpdateApiGatewayResource:
+#    Type: "AWS::ApiGateway::Resource"
+#    Properties:
+#      RestApiId: !Ref AdminApiGatewayRestApi
+#      ParentId: !GetAtt AdminApiGatewayRestApi.RootResourceId
+#      PathPart: "update"
+#    DependsOn:
+#      - AdminApiGatewayRestApi
+#      - AdminLambdaFunction
+#  AdminUpdateApiGatewayResourceMethod:
+#    Type: AWS::ApiGateway::Method
+#    Properties:
+#      RestApiId: !Ref AdminApiGatewayRestApi
+#      ResourceId: !Ref AdminUpdateApiGatewayResource
+#      ApiKeyRequired: false
+#      AuthorizationType: COGNITO_USER_POOLS
+#      AuthorizerId: !Ref AdminApiGatewayAuthorizer
+#      HttpMethod: POST
+#      MethodResponses:
+#        - StatusCode: '200'
+#          ResponseModels:
+#            application/json: Empty
+#      Integration:
+#        Credentials: !GetAtt AdminLambdaIAMRole.Arn
+#        IntegrationHttpMethod: "POST"
+#        Type: "AWS_PROXY"
+#        Uri: !Sub "arn:aws:apigateway:${AWS::Region}:lambda:path/2015-03-31/functions/arn:aws:lambda:${AWS::Region}:${AWS::AccountId}:function:${EnvironmentName}-AdminLambda:${!stageVariables.alias}/invocations"
+
+
+#  AdminUpdatePasswordApiGatewayResource:
+#    Type: "AWS::ApiGateway::Resource"
+#    Properties:
+#      RestApiId: !Ref AdminApiGatewayRestApi
+#      ParentId: !GetAtt AdminApiGatewayRestApi.RootResourceId
+#      PathPart: "update_password"
+#    DependsOn:
+#      - AdminApiGatewayRestApi
+#      - AdminLambdaFunction
+#  AdminUpdatePasswordApiGatewayResourceMethod:
+#    Type: AWS::ApiGateway::Method
+#    Properties:
+#      RestApiId: !Ref AdminApiGatewayRestApi
+#      ResourceId: !Ref AdminUpdatePasswordApiGatewayResource
+#      ApiKeyRequired: false
+#      AuthorizationType: COGNITO_USER_POOLS
+#      AuthorizerId: !Ref AdminApiGatewayAuthorizer
+#      HttpMethod: POST
+#      MethodResponses:
+#        - StatusCode: '200'
+#          ResponseModels:
+#            application/json: Empty
+#      Integration:
+#        Credentials: !GetAtt AdminLambdaIAMRole.Arn
+#        IntegrationHttpMethod: "POST"
+#        Type: "AWS_PROXY"
+#        Uri: !Sub "arn:aws:apigateway:${AWS::Region}:lambda:path/2015-03-31/functions/arn:aws:lambda:${AWS::Region}:${AWS::AccountId}:function:${EnvironmentName}-AdminLambda:${!stageVariables.alias}/invocations"
+
+#  AdminUpdateAdminidApiGatewayResource:
+#    Type: "AWS::ApiGateway::Resource"
+#    Properties:
+#      RestApiId: !Ref AdminApiGatewayRestApi
+#      ParentId: !GetAtt AdminApiGatewayRestApi.RootResourceId
+#      PathPart: "update_adminid"
+#    DependsOn:
+#      - AdminApiGatewayRestApi
+#      - AdminLambdaFunction
+#  AdminUpdateAdminidApiGatewayResourceMethod:
+#    Type: AWS::ApiGateway::Method
+#    Properties:
+#      RestApiId: !Ref AdminApiGatewayRestApi
+#      ResourceId: !Ref AdminUpdateAdminidApiGatewayResource
+#      ApiKeyRequired: false
+#      AuthorizationType: COGNITO_USER_POOLS
+#      AuthorizerId: !Ref AdminApiGatewayAuthorizer
+#      HttpMethod: POST
+#      MethodResponses:
+#        - StatusCode: '200'
+#          ResponseModels:
+#            application/json: Empty
+#      Integration:
+#        Credentials: !GetAtt AdminLambdaIAMRole.Arn
+#        IntegrationHttpMethod: "POST"
+#        Type: "AWS_PROXY"
+#        Uri: !Sub "arn:aws:apigateway:${AWS::Region}:lambda:path/2015-03-31/functions/arn:aws:lambda:${AWS::Region}:${AWS::AccountId}:function:${EnvironmentName}-AdminLambda:${!stageVariables.alias}/invocations"
+
+
+  AdminLoginApiGatewayResource:
+    Type: "AWS::ApiGateway::Resource"
+    Properties:
+      RestApiId: !Ref AdminApiGatewayRestApi
+      ParentId: !Ref AdminCreateApiGatewayResource
+      PathPart: "login"
+    DependsOn:
+      - AdminApiGatewayRestApi
+      - AdminLambdaFunction
+  AdminLoginApiGatewayResourceMethod:
+    Type: AWS::ApiGateway::Method
+    Properties:
+      RestApiId: !Ref AdminApiGatewayRestApi
+      ResourceId: !Ref AdminLoginApiGatewayResource
+      ApiKeyRequired: false
+      AuthorizationType: NONE
+      HttpMethod: POST
+      MethodResponses:
+        - StatusCode: '200'
+          ResponseModels:
+            application/json: Empty
+      Integration:
+        Credentials: !GetAtt AdminLambdaIAMRole.Arn
+        IntegrationHttpMethod: "POST"
+        Type: "AWS_PROXY"
+        Uri: !Sub "arn:aws:apigateway:${AWS::Region}:lambda:path/2015-03-31/functions/arn:aws:lambda:${AWS::Region}:${AWS::AccountId}:function:${EnvironmentName}-AdminLambda:${!stageVariables.alias}/invocations"
+
+  AdminLogoutApiGatewayResource:
+    Type: "AWS::ApiGateway::Resource"
+    Properties:
+      RestApiId: !Ref AdminApiGatewayRestApi
+      ParentId: !Ref AdminCreateApiGatewayResource
+      PathPart: "logout"
+    DependsOn:
+      - AdminApiGatewayRestApi
+      - AdminLambdaFunction
+  AdminLogoutApiGatewayResourceMethod:
+    Type: AWS::ApiGateway::Method
+    Properties:
+      RestApiId: !Ref AdminApiGatewayRestApi
+      ResourceId: !Ref AdminLogoutApiGatewayResource
+      ApiKeyRequired: false
+      AuthorizationType: NONE
+      HttpMethod: POST
+      MethodResponses:
+        - StatusCode: '200'
+          ResponseModels:
+            application/json: Empty
+      Integration:
+        Credentials: !GetAtt AdminLambdaIAMRole.Arn
+        IntegrationHttpMethod: "POST"
+        Type: "AWS_PROXY"
+        Uri: !Sub "arn:aws:apigateway:${AWS::Region}:lambda:path/2015-03-31/functions/arn:aws:lambda:${AWS::Region}:${AWS::AccountId}:function:${EnvironmentName}-AdminLambda:${!stageVariables.alias}/invocations"
+
+  AdminApiGatewayDeployment:
+    Type: "AWS::ApiGateway::Deployment"
+    #DependsOn:
+    #  - AdminCreateApiGatewayResourceMethod
+    #  - AdminUpdateApiGatewayResourceMethod
+    #  - AdminUpdatePasswordApiGatewayResourceMethod
+    #  - AdminLoginApiGatewayResourceMethod
+    #  - AdminUpdateAdminidApiGatewayResourceMethod
+    UpdateReplacePolicy: "Delete"
+    DeletionPolicy: "Delete"
+    Properties:
+      RestApiId: !Ref AdminApiGatewayRestApi
+  
+  AdminApiGatewayAuthorizer: 
+    Type: AWS::ApiGateway::Authorizer
+    Properties: 
+      ProviderARNs: 
+        - !Ref CognitoUserPoolAdminArn
+      AuthorizerResultTtlInSeconds: "300"
+      Type: "COGNITO_USER_POOLS"
+      IdentitySource: "method.request.header.Authorization"
+      Name: "AdminAuthorization"
+      RestApiId: 
+        Ref: "AdminApiGatewayRestApi"
+
+  AdminShimanePoliceApiGatewayStage:
+    UpdateReplacePolicy: "Delete"
+    Type: "AWS::ApiGateway::Stage"
+    DeletionPolicy: "Delete"
+    Properties:
+      RestApiId: !Ref AdminApiGatewayRestApi
+      DeploymentId: !GetAtt AdminApiGatewayDeployment.DeploymentId
+      StageName: "shimane-police"
+      TracingEnabled: false
+      CacheClusterEnabled: false
+      Variables:
+        alias: "shimane-police"
+      AccessLogSetting:
+        DestinationArn: !GetAtt ShimanePoliceApiGatewayStageLogGroup.Arn
+        Format: '{"requestId":"$context.requestId","ip":"$context.identity.sourceIp","caller":"$context.identity.caller","user":"$context.identity.user","requestTime":"$context.requestTime","httpMethod":"$context.httpMethod","resourcePath":"$context.resourcePath","status":"$context.status","protocol":"$context.protocol","responseLength":"$context.responseLength"}'
+      MethodSettings:
+        - LoggingLevel: "INFO"
+          DataTraceEnabled: false
+          HttpMethod: "*"
+          ResourcePath: "/*"
+  ShimanePoliceApiGatewayStageLogGroup:
+    Type: AWS::Logs::LogGroup
+    Properties:
+      LogGroupName: "/aws/apigateway/admin/shimane-police"
+      RetentionInDays: 90
+  AdminShimanePoliceLambdaAlias:
+    Type: AWS::Lambda::Alias
+    Properties:
+      Name: "shimane-police"
+      FunctionName: !Ref AdminLambdaFunction
+      FunctionVersion: "$LATEST"
+      Description: "Alias for shimane-police"
+
+  #AdminOkayamaPoliceApiGatewayStage:
+  #  UpdateReplacePolicy: "Delete"
+  #  Type: "AWS::ApiGateway::Stage"
+  #  DeletionPolicy: "Delete"
+  #  Properties:
+  #    RestApiId: !Ref AdminApiGatewayRestApi
+  #    DeploymentId: !GetAtt AdminApiGatewayDeployment.DeploymentId
+  #    StageName: "okayama-police"
+  #    TracingEnabled: false
+  #    CacheClusterEnabled: false
+  #    Variables:
+  #      alias: "okayama-police"
+  #    AccessLogSetting:
+  #      DestinationArn: !GetAtt OkayamaPoliceApiGatewayStageLogGroup.Arn
+  #OkayamaPoliceApiGatewayStageLogGroup:
+  #  Type: AWS::Logs::LogGroup
+  #  Properties:
+  #    LogGroupName: "/aws/apigateway/admin/okayama-police"
+  #    RetentionInDays: 90
+  #AdminOkayamaPoliceLambdaAlias:
+  #  Type: AWS::Lambda::Alias
+  #  Properties:
+  #    Name: "okayama-police"
+  #    FunctionName: !Ref AdminLambdaFunction
+  #    FunctionVersion: "$LATEST"
+  #    Description: "Alias for okayama-police"
+
+
+
+
+  # S3 Bucket作成
+  AdminLambdaS3Bucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      AccessControl: Private
+      BucketName: !Sub "${EnvironmentName}-admin-lambda-src"
+  SSMParameterSecurityGroup: # 対象リソースの属性をSSMパラメータストアに設定
+    Type: AWS::SSM::Parameter
+    Properties:
+      Name: !Sub "${EnvironmentName}-AdminLambdaS3Bucket"
+      Type: String
+      Value: !Ref AdminLambdaS3Bucket
+
+
